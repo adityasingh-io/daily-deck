@@ -111,19 +111,24 @@ async function fetchRss(src) {
       kindHint: src.kindHint,
       attribution: src.attribution,
       fullInFeed: src.fullInFeed,
-      text: it.text.slice(0, src.fullInFeed ? 9000 : 1600),
+      text: it.text.slice(0, src.fullInFeed ? 24000 : 1600),
     }));
 }
 
 /* Naive readability: for teaser feeds, pull the article page and keep the
-   substantial <p> blocks. Good enough as LLM input; never shown raw. */
+   substantial <p> blocks. Good enough as LLM input; never shown raw.
+   Lessons from live testing: pages can contain several <article> tags (pick
+   the longest), and some bury body text outside <article> entirely (fall
+   back to whole-page <p> extraction). */
 export async function fetchArticleText(url) {
   const html = await get(url, "text");
-  const scope = html.match(/<article[\s\S]*?<\/article>/i)?.[0] ?? html;
-  const paras = [...scope.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)]
-    .map((m) => stripHtml(m[1]))
-    .filter((p) => p.length > 80);
-  return paras.join("\n\n").slice(0, 9000);
+  const extract = (s) =>
+    [...s.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)].map((m) => stripHtml(m[1])).filter((p) => p.length > 80);
+  const articles = [...html.matchAll(/<article[\s\S]*?<\/article>/gi)].map((m) => m[0]);
+  const scope = articles.sort((a, b) => b.length - a.length)[0];
+  let paras = scope ? extract(scope) : [];
+  if (paras.join(" ").length < 1500) paras = extract(html);
+  return paras.join("\n\n").slice(0, 24000);
 }
 
 async function fetchLobsters() {

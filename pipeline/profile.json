@@ -1,6 +1,6 @@
 {
   "model": "opus",
-  "batchSize": 14,
+  "minScore": 5,
   "reader": "A web developer who reads for depth, not churn. Core interests: psychology and human behavior (cognitive biases and decision-making, social behavior and status games, brain and consciousness, habits and identity); existential philosophy and Russian literature (Nietzsche, Dostoevsky, Kierkegaard, Camus, Tolstoy — the big questions, practical wisdom); engineering craft (patterns, performance, architecture wisdom for a working JS/TS dev); the AI industry's business moves and debates; world geopolitics and economics with substance.",
   "exclusions": [
     "framework/library release announcements and version-bump news",

@@ -1,10 +1,10 @@
 #!/usr/bin/env node
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { collectRaw, fetchWildcards, fetchArticleText } from "./sources.mjs";
-import { scoreItems, writeCards, hash } from "./ai.mjs";
+import { scoreItems, writeCards, writeLetter, hash } from "./ai.mjs";
 import { selectByQuota, interleave } from "./mixer.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -48,9 +48,33 @@ console.log(`Fetched ${raw.length} raw items + ${wildcards.length} wildcard card
 const fresh = raw.filter((it) => !seen[hash((it.link ?? it.title).toLowerCase())]);
 console.log(`${fresh.length} unseen items going to triage (model: ${profile.model})`);
 
-const scored = await scoreItems(fresh, profile);
+const scoredAll = await scoreItems(fresh, profile);
+const scored = scoredAll.filter((s) => s.score >= (profile.minScore ?? 5));
 const winners = selectByQuota(scored, profile.quotas);
-console.log(`${winners.length} winners selected for the writer pass`);
+console.log(`${winners.length} winners selected for the writer pass (${scoredAll.length - scored.length} below quality floor)`);
+
+// Cross-day memory: titles + recall questions from the last 7 shipped decks,
+// so the writer can weave today's pieces into what the reader already read.
+function recentContext() {
+  try {
+    const files = readdirSync(DECKS)
+      .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f) && f !== `${date}.json`)
+      .sort()
+      .slice(-7)
+      .reverse();
+    const out = [];
+    for (const f of files) {
+      const d = JSON.parse(readFileSync(join(DECKS, f), "utf8"));
+      for (const c of d.cards) {
+        if (c.kind === "letter") continue;
+        out.push(c.recall?.q ? `${c.title} — ${c.recall.q}` : c.title);
+      }
+    }
+    return out.slice(0, 40);
+  } catch {
+    return [];
+  }
+}
 
 // Teaser-feed winners get their article page fetched so the writer has the
 // real thing to compress, not a standfirst.
@@ -72,7 +96,7 @@ await enrich(winners);
 // A winner whose text stayed thin (bot-walled page, JS-only site, bare link
 // aggregator) would force the writer into an empty card — drop it and
 // backfill with the next-best scored item that has real text.
-const MIN_TEXT = 400;
+const MIN_TEXT = 1200;
 let usable = winners.filter((w) => w.text.length >= MIN_TEXT);
 const deficit = winners.length - usable.length;
 if (deficit > 0) {
@@ -87,8 +111,14 @@ if (deficit > 0) {
   usable = usable.concat(backfill);
 }
 
-const written = await writeCards(usable, profile);
+const written = await writeCards(usable, profile, recentContext());
 const cards = interleave(written, wildcards, profile.quotas);
+
+try {
+  cards.unshift(await writeLetter(cards, profile, date));
+} catch (e) {
+  console.error("editor's letter failed (deck ships without it):", e.message);
+}
 
 if (cards.length < 8) {
   console.error(`Only ${cards.length} cards assembled — refusing to ship a thin deck.`);

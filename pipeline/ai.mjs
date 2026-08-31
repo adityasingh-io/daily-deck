@@ -3,10 +3,11 @@ import { spawn } from "node:child_process";
 /* The AI layer runs on headless Claude Code (`claude -p`), so it bills to the
    user's Max subscription — no API key involved.
 
-   Two passes:
+   Three jobs:
    1. scoreItems  — cheap triage over everything (snippets only)
-   2. writeCards  — the product: full-text distillation of the winners,
-      written so the reader never NEEDS the source article. */
+   2. writeCards  — the product: blueprint-structured pieces that replace
+      their source articles entirely
+   3. writeLetter — the editor's letter that opens the deck */
 
 function runClaude(prompt, model) {
   return new Promise((resolve, reject) => {
@@ -33,10 +34,10 @@ function runClaude(prompt, model) {
   });
 }
 
-function extractJsonArray(text) {
-  const start = text.indexOf("[");
-  const end = text.lastIndexOf("]");
-  if (start === -1 || end === -1 || end < start) throw new Error("no JSON array in model output");
+function extractJson(text, open, close) {
+  const start = text.indexOf(open);
+  const end = text.lastIndexOf(close);
+  if (start === -1 || end === -1 || end < start) throw new Error("no JSON in model output");
   return JSON.parse(text.slice(start, end + 1));
 }
 
@@ -47,11 +48,11 @@ async function runBatches(items, batchSize, makePrompt, model, label) {
     const prompt = makePrompt(batch);
     let parsed;
     try {
-      parsed = extractJsonArray(await runClaude(prompt, model));
+      parsed = extractJson(await runClaude(prompt, model), "[", "]");
     } catch (e) {
       console.error(`${label} batch at ${off} failed (${e.message}); retrying once…`);
       try {
-        parsed = extractJsonArray(await runClaude(prompt + "\n\nREMINDER: output ONLY the JSON array.", model));
+        parsed = extractJson(await runClaude(prompt + "\n\nREMINDER: output ONLY the JSON array.", model), "[", "]");
       } catch {
         console.error(`${label} batch at ${off} failed twice, dropping ${batch.length} items`);
         continue;
@@ -74,7 +75,7 @@ THE READER: ${profile.reader}
 
 EXCLUDE ruthlessly (score 0): ${profile.exclusions.join("; ")}.
 
-Score each raw item 0-10 for how much THIS reader wants it today (10 = drop everything). Also assign:
+Score each raw item 0-10 for how much THIS reader wants it today (10 = drop everything). Be tough: a 7+ means it would earn a full written feature. Also assign:
 - "kind": "concept" | "news" | "craft" | "essay"
 - "topic": keep the item's topic unless it clearly belongs elsewhere (allowed: psych, books, philosophy, tech-craft, tech-ai, world, econ)
 
@@ -91,51 +92,118 @@ ${JSON.stringify(batch.map((it, i) => ({ i, topic: it.topic, kindHint: it.kindHi
 
 /* --------------------------- pass 2: the writer --------------------------- */
 
-export async function writeCards(items, profile) {
-  const makePrompt = (batch) => `You are the writer of "Daily Deck", a private one-reader knowledge feed. THIS IS THE ENTIRE PRODUCT: the reader does NOT open source articles. Your compression IS their reading. They should be able to spend an hour in this app and come away genuinely fed — informed, moved, entertained — without ever leaving.
+const BLUEPRINTS = `THE BLUEPRINTS — apply the one matching each item's "kind". Sections are a menu: include one ONLY if the material genuinely fills it; an empty-calorie section is worse than none. Length is earned by the material — a rich 2,000-word essay deserves a 600-900 word retelling; a thin study write-up deserves 250 honest words. Cut filler, never substance. The test for every piece: could the reader re-explain it to a friend tomorrow, with the examples?
+
+ESSAY — sections in order:
+1. Main prose (label null, style "prose"): COLD OPEN with a scene, moment, or concrete detail — never "X argues that Y". Then teach the WHOLE essay: every step of the argument in order, the mechanism, ALL the good examples with their specifics (actual words, names, numbers, scenes), where the author hesitates. Paragraphs of 2-4 sentences separated by blank lines.
+2. Steelman (label "Steelman", style "note"): the best counterargument, stated fairly, 2-3 sentences. Only if a real one exists.
+3. Key takeaways (label "Key takeaways", style "list"): 3-4 bullets you could quote tomorrow, each specific, none restating the title.
+4. Worth carrying (label "Worth carrying", style "pull"): ONE line — a sharpened takeaway or question. Never a summary.
+
+CONCEPT — sections in order:
+1. Main prose (style "prose"): cold open, then the idea named in one crisp line, then how it works — mechanism plus the best example with its specifics.
+2. The experiment (label "The experiment", style "note"): what the study actually did — who, how many, what was measured. Only when the source says.
+3. See it in your life (label "See it in your life", style "list"): 2-3 concrete places the reader will notice this today.
+4. The caveat (label "The caveat", style "note"): sample size, single-study, boundaries. MANDATORY for study-based pieces.
+5. Worth carrying (label "Worth carrying", style "pull"): one line.
+
+CRAFT — sections in order:
+1. Main prose (style "prose"): the problem — when you'd actually hit this — then the lesson with real specifics: the commands, the pattern, the numbers.
+2. Do this (label "Do this", style "list"): 2-4 actionable checklist items for the reader's own codebase.
+3. When not to (label "When not to", style "note"): the boundary, only if the source draws one.
+4. Worth carrying (label "Worth carrying", style "pull"): one line.
+
+NEWS — sections in order:
+1. Main prose (style "prose"): what happened, plainly, then why it matters — the mechanism behind the headline. Naturally short; no outrage framing.
+2. Watch next (label "Watch next", style "note"): what would confirm or flip the story.`;
+
+export async function writeCards(items, profile, recentContext = []) {
+  const contextBlock = recentContext.length
+    ? `\nRECENTLY SERVED PIECES (across the batch, draw AT MOST ONE cross-reference per piece and only when genuinely illuminating — a forced connection is noise):\n${recentContext.slice(0, 40).map((t) => `- ${t}`).join("\n")}\n`
+    : "";
+
+  const makePrompt = (batch) => `You are the writer of "Daily Deck", a private one-reader knowledge feed. THIS IS THE ENTIRE PRODUCT: the reader does NOT open source articles. Your rewrite IS their reading — a long essay becomes a piece they can finish in a few minutes WITHOUT losing what made it worth reading. They read many pieces a day and want to come away having genuinely LEARNED things.
 
 THE READER: ${profile.reader}
 
 TONE: ${profile.tone}
+${contextBlock}
+${BLUEPRINTS}
 
-For each item, using ONLY its provided text, write:
-- "title": the hook, max 60 chars. Curiosity that the piece pays off — never clickbait it can't cash.
-- "body": the cover paragraph, 2-3 sentences. The single most interesting claim, stated plainly. This is what they see on the card before deciding to read.
-- "full": the piece itself — 150-350 words, 3-6 short paragraphs separated by blank lines. This must REPLACE the source article for this reader:
-  · Deliver the actual substance: the argument, the mechanism, the best concrete examples, the specific numbers and names. After reading it, they KNOW the thing.
-  · Keep what makes it delicious — the counterintuitive turn, the vivid detail, the one line worth repeating at dinner.
-  · Cut everything an editor would: throat-clearing, credentials, "in this article", recaps.
-  · End with a line that lands — a sharpened takeaway or a question worth carrying into the day. Never a summary sentence.
-  · Short paragraphs. Verbs over adjectives. Write like a brilliant friend retelling the best thing they read this week — not like a summary.
+ALSO produce for each item:
+- "title": the hook, max 60 chars, curiosity the piece pays off — never clickbait it can't cash.
+- "body": the card cover, 2-3 sentences — the single most interesting claim, stated plainly.
+- "predict": for essay/concept pieces where a natural guess exists: one short "guess before reading" question. Otherwise null.
+- "evidence": for study-based pieces ONLY, and ONLY from facts stated in the text: a short marker like "single study · n=94 · self-report". If the source doesn't state method details, null. NEVER estimate.
+- "recall": {"q": "...", "a": "..."} — one flashcard capturing the piece's core (stored for future spaced review).
 
 HARD RULES:
-1. Nothing that is not in the provided text. If the text is too thin for an honest "full", write the best 100 words it supports — never pad, never invent.
-2. Single psychology studies stay hedged ("one new study suggests…"), and sample caveats survive compression.
-3. Your own words throughout — quote at most one short striking phrase per piece, in quotation marks.
-4. No emoji, no headers, no bullet lists, no "Read more".
+1. Nothing that is not in the provided text. Never pad, never invent.
+2. Single studies stay hedged ("one new study suggests…"), and sample caveats survive compression.
+3. Your own words — at most two short quoted phrases per piece, in quotation marks.
+4. No emoji, no markdown headers inside prose. Vary your openings — if one piece opens on a scene, the next opens differently.
+5. End main prose ON substance; the "Worth carrying" line is the true closer.
 
-Output ONLY a JSON array: [{"i": <index>, "title": "...", "body": "...", "full": "..."}] — every input index exactly once.
+Output ONLY a JSON array, one object per item:
+[{"i": <index>, "title": "...", "body": "...", "predict": "..."|null, "evidence": "..."|null, "sections": [{"label": null|"...", "style": "prose"|"note"|"list"|"pull", "text": "..."} | {"label": "...", "style": "list", "items": ["..."]}], "recall": {"q": "...", "a": "..."}}]
 
 ITEMS:
-${JSON.stringify(batch.map((it, i) => ({ i, topic: it.topic, kind: it.kind, source: it.attribution, title: it.title, text: it.text })), null, 1)}`;
+${JSON.stringify(batch.map((it, i) => ({ i, kind: it.kind, topic: it.topic, source: it.attribution, title: it.title, text: it.text })), null, 1)}`;
 
-  const results = await runBatches(items, 5, makePrompt, profile.model, "write");
+  const results = await runBatches(items, 2, makePrompt, profile.model, "write");
   return results
-    .filter(({ r }) => r.title && r.full)
-    .map(({ raw, r }) => ({
-      id: `${raw.source}-${hash(raw.link ?? raw.title)}`,
-      source: raw.source,
-      topic: raw.topic,
-      kind: raw.kind,
-      title: String(r.title).slice(0, 90),
-      body: String(r.body ?? "").slice(0, 600),
-      full: String(r.full).slice(0, 3000),
-      imageUrl: raw.image,
-      deepLink: raw.link,
-      attribution: raw.attribution,
-      publishedAt: raw.published,
-      score: raw.score,
-    }));
+    .map(({ raw, r }) => {
+      const sections = Array.isArray(r.sections)
+        ? r.sections.filter(
+            (s) => s && ["prose", "note", "list", "pull"].includes(s.style) && (typeof s.text === "string" || Array.isArray(s.items))
+          )
+        : [];
+      if (!r.title || !sections.some((s) => s.style === "prose")) return null;
+      return {
+        id: `${raw.source}-${hash(raw.link ?? raw.title)}`,
+        source: raw.source,
+        topic: raw.topic,
+        kind: raw.kind,
+        title: String(r.title).slice(0, 90),
+        body: String(r.body ?? "").slice(0, 600),
+        predict: r.predict ? String(r.predict).slice(0, 200) : undefined,
+        evidence: r.evidence ? String(r.evidence).slice(0, 120) : undefined,
+        sections,
+        recall: r.recall?.q && r.recall?.a ? { q: String(r.recall.q).slice(0, 300), a: String(r.recall.a).slice(0, 500) } : undefined,
+        imageUrl: raw.image,
+        deepLink: raw.link,
+        attribution: raw.attribution,
+        publishedAt: raw.published,
+        score: raw.score,
+      };
+    })
+    .filter(Boolean);
+}
+
+/* ------------------------ pass 3: editor's letter ------------------------ */
+
+export async function writeLetter(cards, profile, dateIso) {
+  const prompt = `You are the editor of "Daily Deck", a private one-reader knowledge feed. Today is ${dateIso}. Below are today's pieces. Write the editor's letter that opens the deck: 2-4 sentences — the thread connecting today's edition (if one honestly exists), and the one piece not to miss and why. Warm, specific, zero hype, no "welcome to". Address the reader as "you".
+
+Also give it a short title (max 35 chars), like a dateline — e.g. "Sunday's deck" or a phrase naming today's thread.
+
+Output ONLY: {"title": "...", "text": "..."}
+
+TODAY'S PIECES:
+${JSON.stringify(cards.map((c) => ({ topic: c.topic, title: c.title, cover: c.body?.slice(0, 160) })), null, 1)}`;
+
+  const r = extractJson(await runClaude(prompt, profile.model), "{", "}");
+  if (!r.title || !r.text) throw new Error("letter malformed");
+  return {
+    id: `letter-${dateIso}`,
+    source: "editor",
+    topic: "wildcard",
+    kind: "letter",
+    title: String(r.title).slice(0, 60),
+    body: String(r.text).slice(0, 700),
+    deepLink: "",
+    attribution: "Your editor",
+  };
 }
 
 export function hash(s) {
