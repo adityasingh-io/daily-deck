@@ -122,14 +122,21 @@ h2 {
 
 .body-text {
   font-size: 18px;
-  line-height: 1.6;
+  line-height: 1.65;
+  font-weight: 500; /* serif at 400 reads thin on dark OLED; 500 is the sweet spot */
   color: var(--ink);
   max-width: 60ch;
 }
 
-/* Letter card: the editor opens the deck */
+/* Letter card: the editor opens the deck — set for maximum legibility */
 .kind-letter .card-body { justify-content: center; flex: 1; }
-.kind-letter .body-text { font-style: italic; font-size: 19px; }
+.kind-letter .body-text {
+  font-style: normal;
+  font-size: 20px;
+  line-height: 1.75;
+  font-weight: 500;
+  color: var(--ink);
+}
 
 /* Review cards: "do you remember" openers */
 .review-card .review-body { justify-content: center; flex: 1; gap: 18px; }
