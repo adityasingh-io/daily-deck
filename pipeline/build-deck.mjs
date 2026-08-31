@@ -106,7 +106,7 @@ function recentOpenings() {
 }
 
 const reader = await readerState();
-const scoredAll = await scoreItems([...fresh, ...wcAsRaw], profile, reader.signalsText);
+const scoredAll = await scoreItems([...fresh, ...wcAsRaw], profile, reader.signalsText, recentContext());
 const minScore = profile.minScore ?? 5;
 const scored = scoredAll.filter((s) => !s._card && s.score >= minScore);
 const wildcards = scoredAll

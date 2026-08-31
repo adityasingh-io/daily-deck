@@ -68,29 +68,56 @@ async function runBatches(items, batchSize, makePrompt, model, label) {
 
 /* ---------------------------- pass 1: triage ---------------------------- */
 
-export async function scoreItems(rawItems, profile, signalsText = "") {
-  const makePrompt = (batch) => `You are the triage editor of "Daily Deck", a private one-reader knowledge feed.
+export async function scoreItems(rawItems, profile, signalsText = "", recentTitles = []) {
+  const recentBlock = recentTitles.length
+    ? `\nRECENTLY SERVED (last week's pieces) — an item that substantially re-covers one of these scores at most 3; the reader already got it:\n${recentTitles.slice(0, 40).map((t) => `- ${t}`).join("\n")}\n`
+    : "";
+
+  const makePrompt = (batch) => `You are the triage editor of "Daily Deck", a private one-reader knowledge feed. You decide what earns this reader's finite daily attention.
 
 THE READER: ${profile.reader}
-${signalsText}
-
+${signalsText}${recentBlock}
 EXCLUDE ruthlessly (score 0): ${profile.exclusions.join("; ")}.
 
-Score each raw item 0-10 for how much THIS reader wants it today (10 = drop everything). Be tough: a 7+ means it would earn a full written feature. Also assign:
+THE SCALE — calibrate to it exactly:
+- 0-2: excluded genres, filler, churn, or substantially covered last week
+- 3-4: fine but forgettable; the reader loses nothing by missing it
+- 5-6: solid — teaches something real, worth a slot on an average day
+- 7-8: would earn a full written feature; the reader would save it
+- 9-10: drop everything; the best thing they'd read this week
+In a typical batch of 20, expect a few 7+, several 5-6, and MANY below 5. If most of your scores are high, you are not filtering.
+
+WEIGH: does it teach something (a mechanism, a distinction, a finding — not just an occurrence)? Is it novel to THIS reader given their history above? Will it still matter in a month (essays/concepts) or is it genuinely fresh (news — check the age field; stale "breaking" news scores low)? Judge the substance the snippet IMPLIES, not the snippet's polish — great essays can open slowly, churn often opens punchy.
+
+IN-BATCH DUPLICATES: if two items in this batch cover the same story or idea, give a real score only to the better one; the other scores at most 3.
+
+Also assign:
 - "kind": "concept" | "news" | "craft" | "essay"
 - "topic": keep the item's topic unless it clearly belongs elsewhere (allowed: psych, books, philosophy, tech-craft, tech-ai, world, econ)
+- "why": your reason, max 10 words
 
 Items whose topic is "wildcard" are serendipity candidates (a striking image, an astonishing fact, a beautiful artwork): score them for genuine delight and wonder rather than topical fit — but pop-culture trivia, celebrity/album/sports pages, and anniversary filler score 2 or less. Keep their topic "wildcard" and their kind as given.
 
-Output ONLY a JSON array: [{"i": <index>, "score": <0-10>, "kind": "...", "topic": "..."}] — every input index exactly once.
+Output ONLY a JSON array: [{"i": <index>, "score": <0-10>, "kind": "...", "topic": "...", "why": "..."}] — every input index exactly once.
 
 RAW ITEMS:
-${JSON.stringify(batch.map((it, i) => ({ i, topic: it.topic, kindHint: it.kindHint, source: it.attribution, title: it.title, snippet: it.text.slice(0, 700) })), null, 1)}`;
+${JSON.stringify(batch.map((it, i) => ({ i, topic: it.topic, kindHint: it.kindHint, source: it.attribution, age: age(it.published), title: it.title, snippet: it.text.slice(0, 700) })), null, 1)}`;
 
   const results = await runBatches(rawItems, 20, makePrompt, profile.model, "score");
+  for (const { raw, r } of results) {
+    if (r.why) console.log(`  [${r.score}] ${String(raw.title).slice(0, 60)} — ${r.why}`);
+  }
   return results
     .filter(({ r }) => Number(r.score) > 0)
     .map(({ raw, r }) => ({ ...raw, score: Number(r.score), kind: r.kind ?? raw.kindHint, topic: r.topic ?? raw.topic }));
+}
+
+function age(published) {
+  if (!published) return "unknown";
+  const h = (Date.now() - new Date(published).getTime()) / 3600_000;
+  if (!Number.isFinite(h) || h < 0) return "unknown";
+  if (h < 24) return `${Math.round(h)}h ago`;
+  return `${Math.round(h / 24)}d ago`;
 }
 
 /* --------------------------- pass 2: the writer --------------------------- */
