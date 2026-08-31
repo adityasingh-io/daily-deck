@@ -43,6 +43,8 @@ export interface Card {
   evidence?: string;
   /** Hidden flashcard, collected for the future spaced-review loop. */
   recall?: { q: string; a: string };
+  /** Set by the client: an unread piece carried over from yesterday's deck. */
+  carryover?: boolean;
   imageUrl?: string;
   deepLink: string;
   listenLink?: string;

@@ -86,6 +86,21 @@ export function setProgress(date: string, index: number) {
   write(PROGRESS_KEY, all);
 }
 
+/* ---------------------------- read tracking ---------------------------- */
+
+const READ_KEY = "dd.readIds.v1";
+
+export function markRead(id: string) {
+  const ids = read<string[]>(READ_KEY, []);
+  if (ids.includes(id)) return;
+  ids.push(id);
+  write(READ_KEY, ids.slice(-1500));
+}
+
+export function getReadIds(): Set<string> {
+  return new Set(read<string[]>(READ_KEY, []));
+}
+
 /* ------------------------------- notes ------------------------------- */
 
 const NOTES_KEY = "dd.notes.v1";

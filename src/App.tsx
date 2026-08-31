@@ -12,6 +12,7 @@ import {
   getNote,
   setNote,
   getAllNotes,
+  markRead,
   type ReviewItem,
 } from "./store";
 import { TOPIC_LABEL } from "./labels";
@@ -25,7 +26,8 @@ function entryCard(e: Entry): Card {
 
 function chipLabel(card: Card) {
   if (card.kind === "letter") return "Today's edition";
-  return TOPIC_LABEL[card.topic] ?? card.topic;
+  const label = TOPIC_LABEL[card.topic] ?? card.topic;
+  return card.carryover ? `Catch up · ${label}` : label;
 }
 
 function hasReadView(card: Card) {
@@ -410,6 +412,7 @@ export default function App() {
     const onScroll = () => {
       const i = Math.round(el.scrollTop / el.clientHeight);
       setProgress(deck.date, i);
+      if (entries[i]) markRead(entryCard(entries[i]).id);
     };
     el.addEventListener("scroll", onScroll, { passive: true });
     return () => el.removeEventListener("scroll", onScroll);
@@ -441,8 +444,9 @@ export default function App() {
 
   const goTo = (i: number | null) => {
     setReadingIndex(i);
-    if (i !== null && feedRef.current) {
-      feedRef.current.scrollTo({ top: i * feedRef.current.clientHeight });
+    if (i !== null) {
+      markRead(entryCard(entries[i]).id);
+      feedRef.current?.scrollTo({ top: i * feedRef.current.clientHeight });
     }
   };
 

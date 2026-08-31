@@ -1,5 +1,6 @@
 import type { Deck } from "./types";
 import { buildEvergreenDeck } from "./evergreen";
+import { getReadIds } from "./store";
 
 function isoDaysAgo(n: number): string {
   const d = new Date();
@@ -20,11 +21,27 @@ async function tryDeck(date: string): Promise<Deck | null> {
   }
 }
 
-/** Today's deck, else yesterday's, else a client-built evergreen fallback. */
+/** Yesterday's written pieces the reader never reached — appended as
+    "Catch up" cards so nothing Opus wrote goes unread over a busy day. */
+async function carryover(todayDeck: Deck): Promise<void> {
+  const yesterday = await tryDeck(isoDaysAgo(1));
+  if (!yesterday) return;
+  const readIds = getReadIds();
+  const todayIds = new Set(todayDeck.cards.map((c) => c.id));
+  const missed = yesterday.cards.filter(
+    (c) => c.kind !== "letter" && c.sections?.length && !readIds.has(c.id) && !todayIds.has(c.id)
+  );
+  todayDeck.cards.push(...missed.slice(0, 5).map((c) => ({ ...c, carryover: true })));
+}
+
+/** Today's deck (+ catch-up), else yesterday's, else an evergreen fallback. */
 export async function loadDeck(): Promise<Deck> {
-  for (const n of [0, 1]) {
-    const deck = await tryDeck(isoDaysAgo(n));
-    if (deck) return deck;
+  const today = await tryDeck(isoDaysAgo(0));
+  if (today) {
+    await carryover(today).catch(() => {});
+    return today;
   }
+  const yesterday = await tryDeck(isoDaysAgo(1));
+  if (yesterday) return yesterday;
   return buildEvergreenDeck();
 }
