@@ -3,3 +3,4 @@ dist/
 logs/
 .DS_Store
 *.local
+tsconfig.tsbuildinfo
