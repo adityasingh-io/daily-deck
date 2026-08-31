@@ -68,10 +68,11 @@ async function runBatches(items, batchSize, makePrompt, model, label) {
 
 /* ---------------------------- pass 1: triage ---------------------------- */
 
-export async function scoreItems(rawItems, profile) {
+export async function scoreItems(rawItems, profile, signalsText = "") {
   const makePrompt = (batch) => `You are the triage editor of "Daily Deck", a private one-reader knowledge feed.
 
 THE READER: ${profile.reader}
+${signalsText}
 
 EXCLUDE ruthlessly (score 0): ${profile.exclusions.join("; ")}.
 

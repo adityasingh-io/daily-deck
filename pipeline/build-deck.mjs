@@ -53,7 +53,24 @@ const wcAsRaw = wildcardCands
   .filter((c) => !seen[hash((c.deepLink ?? c.title).toLowerCase())])
   .map((c) => ({ title: c.title, text: c.body ?? "", topic: "wildcard", kindHint: c.kind, attribution: c.attribution, link: c.deepLink, _card: c }));
 
-const scoredAll = await scoreItems([...fresh, ...wcAsRaw], profile);
+// Learning loop: the reader's synced save behavior nudges triage scoring.
+async function readerSignals() {
+  try {
+    const env = JSON.parse(readFileSync(join(ROOT, "pipeline", ".env.json"), "utf8"));
+    const res = await fetch(env.url, { headers: { Authorization: `Bearer ${env.token}` } });
+    if (!res.ok) return "";
+    const state = await res.json();
+    const entries = Object.entries(state.signals ?? {}).sort((a, b) => b[1] - a[1]);
+    if (!entries.length) return "";
+    const line = entries.map(([t, n]) => `${t}: ${n}`).join(", ");
+    console.log(`reader signals: ${line}`);
+    return `\nOBSERVED BEHAVIOR (what this reader actually saves, by topic): ${line}. Lean toward what they demonstrably keep — a heavily-saved topic deserves +1-2 on borderline items; a never-saved topic gets no benefit of the doubt.\n`;
+  } catch {
+    return "";
+  }
+}
+
+const scoredAll = await scoreItems([...fresh, ...wcAsRaw], profile, await readerSignals());
 const minScore = profile.minScore ?? 5;
 const scored = scoredAll.filter((s) => !s._card && s.score >= minScore);
 const wildcards = scoredAll

@@ -25,9 +25,17 @@ function read<T>(key: string, fallback: T): T {
   }
 }
 
+let changeListener: (() => void) | null = null;
+
+/** Called after any meaningful write — sync uses this to schedule a push. */
+export function onStoreChange(f: () => void) {
+  changeListener = f;
+}
+
 function write(key: string, value: unknown) {
   try {
     localStorage.setItem(key, JSON.stringify(value));
+    if (key !== PROGRESS_KEY) changeListener?.();
   } catch {
     /* storage full or private mode — feed still works */
   }

@@ -1,0 +1,7 @@
+name = "daily-deck-sync"
+main = "worker.js"
+compatibility_date = "2026-08-01"
+
+[[kv_namespaces]]
+binding = "SYNC"
+id = "a24290feb28b415aaa96e4e039eac3aa"

@@ -13,10 +13,12 @@ import {
   setNote,
   getAllNotes,
   markRead,
+  onStoreChange,
   type ReviewItem,
 } from "./store";
 import { TOPIC_LABEL } from "./labels";
 import { shareCard } from "./share";
+import { syncNow, queueSync, getSyncToken, setSyncToken, lastSyncedAt } from "./sync";
 
 type Entry = { type: "card"; card: Card } | { type: "review"; item: ReviewItem };
 
@@ -215,6 +217,33 @@ function NoteBox({ card }: { card: Card }) {
   );
 }
 
+function SyncControl() {
+  const [, force] = useState(0);
+  const token = getSyncToken();
+  const last = lastSyncedAt();
+
+  const enable = async () => {
+    const code = window.prompt("Enter your sync code (same code on every device):");
+    if (!code?.trim()) return;
+    setSyncToken(code);
+    const ok = await syncNow();
+    if (!ok) window.alert("Sync failed — check the code and your connection.");
+    force((n) => n + 1);
+  };
+
+  if (!token)
+    return (
+      <button className="btn ghost" onClick={enable}>
+        Enable sync
+      </button>
+    );
+  return (
+    <button className="btn ghost" onClick={() => syncNow().then(() => force((n) => n + 1))} title={last ?? ""}>
+      {last ? "Synced ✓" : "Sync now"}
+    </button>
+  );
+}
+
 function LibraryView({ onClose, onOpen }: { onClose: () => void; onOpen: (c: Card) => void }) {
   const [q, setQ] = useState("");
   const saves = getSaves();
@@ -230,7 +259,10 @@ function LibraryView({ onClose, onOpen }: { onClose: () => void; onOpen: (c: Car
         <button className="btn ghost" onClick={onClose}>
           ← Deck
         </button>
-        <span className="lib-count">Library · {saves.length}</span>
+        <div className="actions">
+          <span className="lib-count">Library · {saves.length}</span>
+          <SyncControl />
+        </div>
       </div>
       <div className="lib-scroll">
         <input
@@ -380,12 +412,20 @@ export default function App() {
   const feedRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    loadDeck()
-      .then((d) => {
-        setReviews(getDueReviews(5));
-        setDeck(d);
-      })
-      .catch(() => setError(true));
+    onStoreChange(queueSync);
+    const deckReady = loadDeck();
+    // Pull remote state first so merged saves/reviews inform today's session,
+    // but never hold the deck hostage to a slow network.
+    Promise.race([syncNow(), new Promise((r) => setTimeout(r, 4000))])
+      .catch(() => false)
+      .then(() =>
+        deckReady
+          .then((d) => {
+            setReviews(getDueReviews(5));
+            setDeck(d);
+          })
+          .catch(() => setError(true))
+      );
   }, []);
 
   // Reviews slot in right after the editor's letter, before the new pieces.
