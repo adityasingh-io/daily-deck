@@ -15,7 +15,7 @@ async function get(url, type = "json") {
   }
 }
 
-const xml = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@_" });
+const xml = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@_", processEntities: false });
 
 export function stripHtml(s) {
   return String(s ?? "")

@@ -1,18 +1,31 @@
-import { execFile } from "node:child_process";
-import { promisify } from "node:util";
-
-const run = promisify(execFile);
+import { spawn } from "node:child_process";
 
 /* The AI layer runs on headless Claude Code (`claude -p`), so it bills to the
    user's Max subscription — no API key involved. */
 
-async function runClaude(prompt, model) {
-  const { stdout } = await run("claude", ["-p", "--model", model], {
-    maxBuffer: 32 * 1024 * 1024,
-    timeout: 15 * 60 * 1000,
-    input: prompt,
+function runClaude(prompt, model) {
+  return new Promise((resolve, reject) => {
+    const child = spawn("claude", ["-p", "--model", model], { stdio: ["pipe", "pipe", "pipe"] });
+    let out = "";
+    let err = "";
+    const timer = setTimeout(() => {
+      child.kill("SIGKILL");
+      reject(new Error("claude timed out after 15 min"));
+    }, 15 * 60 * 1000);
+    child.stdout.on("data", (d) => (out += d));
+    child.stderr.on("data", (d) => (err += d));
+    child.on("error", (e) => {
+      clearTimeout(timer);
+      reject(e);
+    });
+    child.on("close", (code) => {
+      clearTimeout(timer);
+      if (code === 0) resolve(out);
+      else reject(new Error(`claude exited ${code}: ${err.slice(0, 300)}`));
+    });
+    child.stdin.write(prompt);
+    child.stdin.end();
   });
-  return stdout;
 }
 
 function extractJsonArray(text) {
