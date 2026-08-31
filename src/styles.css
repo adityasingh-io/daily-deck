@@ -223,10 +223,12 @@ h2 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: calc(10px + env(safe-area-inset-top)) 16px 10px;
+  padding: calc(10px + env(safe-area-inset-top)) 12px 10px;
   border-bottom: 1px solid var(--line);
   flex-shrink: 0;
 }
+.reader-bar .btn { padding: 8px 13px; font-size: 13px; }
+.reader-bar .actions { gap: 7px; }
 .reader-scroll {
   overflow-y: auto;
   padding: 26px 24px calc(48px + env(safe-area-inset-bottom));

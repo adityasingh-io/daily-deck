@@ -5,6 +5,29 @@ import { TOPIC_LABEL, TOPIC_TINT } from "./labels";
    sheet (download fallback). Pure canvas — no dependencies. Cross-origin
    images that refuse CORS simply fall back to a text-only share card. */
 
+export function cardLink(card: Card): string {
+  return `${location.origin}${import.meta.env.BASE_URL}#/c/${card.deckDate ?? "any"}/${encodeURIComponent(card.id)}`;
+}
+
+/** Share a link that opens this exact card on the site. */
+export async function shareLink(card: Card): Promise<void> {
+  const url = cardLink(card);
+  if (navigator.share) {
+    try {
+      await navigator.share({ title: card.title, text: card.body, url });
+      return;
+    } catch {
+      return; /* user cancelled */
+    }
+  }
+  try {
+    await navigator.clipboard.writeText(url);
+    window.alert("Link copied to clipboard.");
+  } catch {
+    window.prompt("Copy this link:", url);
+  }
+}
+
 const W = 1080;
 const H = 1350;
 

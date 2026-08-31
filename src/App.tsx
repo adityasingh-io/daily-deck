@@ -17,7 +17,8 @@ import {
   type ReviewItem,
 } from "./store";
 import { TOPIC_LABEL } from "./labels";
-import { shareCard } from "./share";
+import { shareCard, shareLink } from "./share";
+import { isoDaysAgo } from "./deck";
 import { syncNow, queueSync, getSyncToken, setSyncToken, lastSyncedAt } from "./sync";
 
 type Entry = { type: "card"; card: Card } | { type: "review"; item: ReviewItem };
@@ -346,8 +347,11 @@ function Reader({
           ← Back
         </button>
         <div className="actions">
-          <button className="btn ghost" onClick={() => shareCard(card).catch(() => {})}>
+          <button className="btn ghost" onClick={() => shareLink(card)}>
             Share
+          </button>
+          <button className="btn ghost" onClick={() => shareCard(card).catch(() => {})}>
+            Image
           </button>
           <SaveButton card={card} />
         </div>
@@ -433,6 +437,33 @@ export default function App() {
           })
           .catch(() => setError(true))
       );
+  }, []);
+
+  // Shared-card links (#/c/<date>/<id>): resolve against deck files —
+  // the date hint first, then a two-week scan — and open the reader.
+  useEffect(() => {
+    const m = location.hash.match(/^#\/c\/([^/]+)\/(.+)$/);
+    if (!m) return;
+    const id = decodeURIComponent(m[2]);
+    (async () => {
+      const dates = /^\d{4}-\d{2}-\d{2}$/.test(m[1]) ? [m[1]] : [];
+      for (let n = 0; n < 14; n++) dates.push(isoDaysAgo(n));
+      for (const d of [...new Set(dates)]) {
+        try {
+          const res = await fetch(`${import.meta.env.BASE_URL}decks/${d}.json`);
+          if (!res.ok) continue;
+          const shared = (await res.json()) as Deck;
+          const card = shared.cards.find((c) => c.id === id);
+          if (card) {
+            card.deckDate = d;
+            setLibCard(card);
+            return;
+          }
+        } catch {
+          /* keep scanning */
+        }
+      }
+    })();
   }, []);
 
   // Reviews slot in right after the editor's letter, before the new pieces.

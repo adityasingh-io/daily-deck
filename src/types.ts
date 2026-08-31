@@ -45,6 +45,8 @@ export interface Card {
   recall?: { q: string; a: string };
   /** Set by the client: an unread piece carried over from yesterday's deck. */
   carryover?: boolean;
+  /** Set by the client: the deck file this card came from (for share links). */
+  deckDate?: string;
   imageUrl?: string;
   deepLink: string;
   listenLink?: string;

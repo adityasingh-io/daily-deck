@@ -2,7 +2,7 @@ import type { Deck } from "./types";
 import { buildEvergreenDeck } from "./evergreen";
 import { getReadIds } from "./store";
 
-function isoDaysAgo(n: number): string {
+export function isoDaysAgo(n: number): string {
   const d = new Date();
   d.setDate(d.getDate() - n);
   const m = String(d.getMonth() + 1).padStart(2, "0");
@@ -31,13 +31,14 @@ async function carryover(todayDeck: Deck): Promise<void> {
   const missed = yesterday.cards.filter(
     (c) => c.kind !== "letter" && c.sections?.length && !readIds.has(c.id) && !todayIds.has(c.id)
   );
-  todayDeck.cards.push(...missed.slice(0, 5).map((c) => ({ ...c, carryover: true })));
+  todayDeck.cards.push(...missed.slice(0, 5).map((c) => ({ ...c, carryover: true, deckDate: yesterday.date })));
 }
 
 /** Today's deck (+ catch-up), else yesterday's, else an evergreen fallback. */
 export async function loadDeck(): Promise<Deck> {
   const today = await tryDeck(isoDaysAgo(0));
   if (today) {
+    for (const c of today.cards) c.deckDate = today.date;
     await carryover(today).catch(() => {});
     return today;
   }
