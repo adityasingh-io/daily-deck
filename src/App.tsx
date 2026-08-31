@@ -1,7 +1,16 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import type { Card, Deck, Section } from "./types";
 import { loadDeck } from "./deck";
-import { getSaves, isSaved, toggleSave, setProgress, getProgress } from "./store";
+import {
+  getSaves,
+  isSaved,
+  toggleSave,
+  setProgress,
+  getProgress,
+  getDueReviews,
+  answerReview,
+  type ReviewItem,
+} from "./store";
 
 const TOPIC_LABEL: Record<string, string> = {
   psych: "Psychology",
@@ -13,6 +22,12 @@ const TOPIC_LABEL: Record<string, string> = {
   econ: "Economics",
   wildcard: "Wildcard",
 };
+
+type Entry = { type: "card"; card: Card } | { type: "review"; item: ReviewItem };
+
+function entryCard(e: Entry): Card {
+  return e.type === "card" ? e.card : e.item.card;
+}
 
 function chipLabel(card: Card) {
   if (card.kind === "letter") return "Today's edition";
@@ -90,6 +105,64 @@ function CardView({
             </div>
           )}
         </div>
+      </div>
+    </article>
+  );
+}
+
+function ReviewCardView({
+  item,
+  index,
+  total,
+  onRead,
+}: {
+  item: ReviewItem;
+  index: number;
+  total: number;
+  onRead: (i: number) => void;
+}) {
+  const [revealed, setRevealed] = useState(false);
+  const [feedback, setFeedback] = useState<string | null>(null);
+  const recall = item.card.recall!;
+
+  return (
+    <article className="card review-card">
+      <div className="card-body review-body">
+        <div className="card-meta">
+          <span className="chip chip-review">Do you remember</span>
+          <span className="counter">
+            {index + 1} / {total}
+          </span>
+        </div>
+        <p className="review-q">{recall.q}</p>
+        {!revealed && (
+          <button className="btn primary" onClick={() => setRevealed(true)}>
+            Reveal
+          </button>
+        )}
+        {revealed && (
+          <>
+            <p className="review-a">{recall.a}</p>
+            {feedback ? (
+              <p className="review-feedback">{feedback}</p>
+            ) : (
+              <div className="actions">
+                <button className="btn ghost" onClick={() => setFeedback(answerReview(item.card.id, false))}>
+                  Forgot
+                </button>
+                <button className="btn primary" onClick={() => setFeedback(answerReview(item.card.id, true))}>
+                  Got it
+                </button>
+              </div>
+            )}
+            {hasReadView(item.card) && (
+              <button className="btn ghost reread" onClick={() => onRead(index)}>
+                Read the piece again →
+              </button>
+            )}
+          </>
+        )}
+        <span className="attribution">{item.card.title} · {item.card.attribution}</span>
       </div>
     </article>
   );
@@ -211,7 +284,7 @@ function Reader({
   );
 }
 
-function EndCard({ deck }: { deck: Deck }) {
+function EndCard({ deck, total }: { deck: Deck; total: number }) {
   const saves = getSaves().length;
   return (
     <article className="card end-card">
@@ -221,7 +294,7 @@ function EndCard({ deck }: { deck: Deck }) {
         </div>
         <h2>That's all for today.</h2>
         <p className="body-text">
-          {deck.cards.length} cards · {saves} saved all-time.
+          {total} cards · {saves} saved all-time.
           {deck.evergreen ? " (Evergreen deck — the pipeline hasn't run today.)" : ""}
         </p>
         <p className="end-note">Come back tomorrow. Go do something with what stuck.</p>
@@ -232,13 +305,30 @@ function EndCard({ deck }: { deck: Deck }) {
 
 export default function App() {
   const [deck, setDeck] = useState<Deck | null>(null);
+  const [reviews, setReviews] = useState<ReviewItem[]>([]);
   const [error, setError] = useState(false);
   const [readingIndex, setReadingIndex] = useState<number | null>(null);
   const feedRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    loadDeck().then(setDeck).catch(() => setError(true));
+    loadDeck()
+      .then((d) => {
+        setReviews(getDueReviews(5));
+        setDeck(d);
+      })
+      .catch(() => setError(true));
   }, []);
+
+  // Reviews slot in right after the editor's letter, before the new pieces.
+  const entries: Entry[] = useMemo(() => {
+    if (!deck) return [];
+    const reviewEntries: Entry[] = reviews.map((item) => ({ type: "review", item }));
+    const cards: Entry[] = deck.cards.map((card) => ({ type: "card", card }));
+    if (deck.cards[0]?.kind === "letter") {
+      return [cards[0], ...reviewEntries, ...cards.slice(1)];
+    }
+    return [...reviewEntries, ...cards];
+  }, [deck, reviews]);
 
   // Restore scroll position: reopen where you left off, every session.
   useEffect(() => {
@@ -247,7 +337,7 @@ export default function App() {
     const saved = getProgress(deck.date);
     if (saved > 0) {
       requestAnimationFrame(() => {
-        el.scrollTop = Math.min(saved, deck.cards.length) * el.clientHeight;
+        el.scrollTop = Math.min(saved, entries.length) * el.clientHeight;
       });
     }
     const onScroll = () => {
@@ -256,7 +346,7 @@ export default function App() {
     };
     el.addEventListener("scroll", onScroll, { passive: true });
     return () => el.removeEventListener("scroll", onScroll);
-  }, [deck]);
+  }, [deck, entries.length]);
 
   if (error)
     return (
@@ -276,8 +366,8 @@ export default function App() {
     );
 
   const nextReadable = (from: number): number | null => {
-    for (let i = from + 1; i < deck.cards.length; i++) {
-      if (hasReadView(deck.cards[i])) return i;
+    for (let i = from + 1; i < entries.length; i++) {
+      if (hasReadView(entryCard(entries[i]))) return i;
     }
     return null;
   };
@@ -289,21 +379,25 @@ export default function App() {
     }
   };
 
-  const reading = readingIndex !== null ? deck.cards[readingIndex] : null;
+  const reading = readingIndex !== null ? entryCard(entries[readingIndex]) : null;
   const nextIdx = readingIndex !== null ? nextReadable(readingIndex) : null;
 
   return (
     <>
       <div className="feed" ref={feedRef}>
-        {deck.cards.map((c, i) => (
-          <CardView key={c.id} card={c} index={i} total={deck.cards.length} onRead={goTo} />
-        ))}
-        <EndCard deck={deck} />
+        {entries.map((e, i) =>
+          e.type === "review" ? (
+            <ReviewCardView key={`rv-${e.item.card.id}`} item={e.item} index={i} total={entries.length} onRead={goTo} />
+          ) : (
+            <CardView key={e.card.id} card={e.card} index={i} total={entries.length} onRead={goTo} />
+          )
+        )}
+        <EndCard deck={deck} total={entries.length} />
       </div>
       {reading && (
         <Reader
           card={reading}
-          nextCard={nextIdx !== null ? deck.cards[nextIdx] : null}
+          nextCard={nextIdx !== null ? entryCard(entries[nextIdx]) : null}
           onClose={() => setReadingIndex(null)}
           onNext={() => goTo(nextIdx)}
         />

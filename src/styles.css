@@ -115,6 +115,33 @@ h2 {
 .kind-letter .card-body { justify-content: center; flex: 1; }
 .kind-letter .body-text { font-style: italic; font-size: 19px; }
 
+/* Review cards: "do you remember" openers */
+.review-card .review-body { justify-content: center; flex: 1; gap: 18px; }
+.chip-review {
+  color: var(--save);
+  background: rgba(232, 194, 104, 0.1);
+  border-color: rgba(232, 194, 104, 0.4);
+}
+.review-q {
+  font-size: clamp(21px, 5.4vw, 26px);
+  font-style: italic;
+  line-height: 1.5;
+}
+.review-a {
+  font-size: 17.5px;
+  line-height: 1.65;
+  color: var(--ink);
+  border-left: 3px solid var(--save);
+  padding-left: 14px;
+}
+.review-feedback {
+  font-family: "Bricolage Grotesque", system-ui, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--save);
+}
+.reread { align-self: flex-start; }
+
 /* Test yourself: retrieval right after reading */
 .recall { border-color: rgba(232, 194, 104, 0.4); }
 .recall .sec-label { color: var(--save); }
