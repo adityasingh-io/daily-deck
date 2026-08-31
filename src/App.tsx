@@ -14,8 +14,26 @@ const TOPIC_LABEL: Record<string, string> = {
   wildcard: "Wildcard",
 };
 
-function CardView({ card, index, total }: { card: Card; index: number; total: number }) {
+function SaveButton({ card }: { card: Card }) {
   const [saved, setSaved] = useState(() => isSaved(card.id));
+  return (
+    <button className={`btn ${saved ? "saved" : "ghost"}`} onClick={() => setSaved(toggleSave(card))} aria-pressed={saved}>
+      {saved ? "Saved ✓" : "Save"}
+    </button>
+  );
+}
+
+function CardView({
+  card,
+  index,
+  total,
+  onRead,
+}: {
+  card: Card;
+  index: number;
+  total: number;
+  onRead: (c: Card) => void;
+}) {
   const isPassage = card.kind === "passage";
   const hasImage = Boolean(card.imageUrl);
 
@@ -39,25 +57,52 @@ function CardView({ card, index, total }: { card: Card; index: number; total: nu
         <div className="card-foot">
           <span className="attribution">{card.attribution}</span>
           <div className="actions">
-            {card.listenLink && (
-              <a className="btn ghost" href={card.listenLink} target="_blank" rel="noreferrer">
-                Listen
+            <SaveButton card={card} />
+            {card.full ? (
+              <button className="btn primary" onClick={() => onRead(card)}>
+                Read →
+              </button>
+            ) : (
+              <a className="btn primary" href={card.deepLink} target="_blank" rel="noreferrer">
+                Go deeper →
               </a>
             )}
-            <button
-              className={`btn ${saved ? "saved" : "ghost"}`}
-              onClick={() => setSaved(toggleSave(card))}
-              aria-pressed={saved}
-            >
-              {saved ? "Saved ✓" : "Save"}
-            </button>
-            <a className="btn primary" href={card.deepLink} target="_blank" rel="noreferrer">
-              Go deeper →
-            </a>
           </div>
         </div>
       </div>
     </article>
+  );
+}
+
+function Reader({ card, onClose }: { card: Card; onClose: () => void }) {
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => e.key === "Escape" && onClose();
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [onClose]);
+
+  return (
+    <div className="reader" role="dialog" aria-modal="true" aria-label={card.title}>
+      <div className="reader-bar">
+        <button className="btn ghost" onClick={onClose} aria-label="Close reader">
+          ← Deck
+        </button>
+        <SaveButton card={card} />
+      </div>
+      <div className="reader-scroll">
+        <span className={`chip topic-${card.topic}`}>{TOPIC_LABEL[card.topic] ?? card.topic}</span>
+        <h1>{card.title}</h1>
+        {(card.full ?? card.body).split(/\n\n+/).map((p, i) => (
+          <p key={i}>{p}</p>
+        ))}
+        <div className="reader-foot">
+          <span className="attribution">{card.attribution}</span>
+          <a href={card.deepLink} target="_blank" rel="noreferrer">
+            Original source →
+          </a>
+        </div>
+      </div>
+    </div>
   );
 }
 
@@ -83,6 +128,7 @@ function EndCard({ deck }: { deck: Deck }) {
 export default function App() {
   const [deck, setDeck] = useState<Deck | null>(null);
   const [error, setError] = useState(false);
+  const [reading, setReading] = useState<Card | null>(null);
   const feedRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -118,11 +164,14 @@ export default function App() {
     );
 
   return (
-    <div className="feed" ref={feedRef}>
-      {deck.cards.map((c, i) => (
-        <CardView key={c.id} card={c} index={i} total={deck.cards.length} />
-      ))}
-      <EndCard deck={deck} />
-    </div>
+    <>
+      <div className="feed" ref={feedRef}>
+        {deck.cards.map((c, i) => (
+          <CardView key={c.id} card={c} index={i} total={deck.cards.length} onRead={setReading} />
+        ))}
+        <EndCard deck={deck} />
+      </div>
+      {reading && <Reader card={reading} onClose={() => setReading(null)} />}
+    </>
   );
 }

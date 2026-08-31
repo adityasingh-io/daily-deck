@@ -25,6 +25,8 @@ export interface Card {
   kind: Kind;
   title: string;
   body: string;
+  /** The in-app read: an AI distillation that replaces the source article. */
+  full?: string;
   imageUrl?: string;
   deepLink: string;
   listenLink?: string;

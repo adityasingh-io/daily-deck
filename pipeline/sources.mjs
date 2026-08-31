@@ -79,22 +79,24 @@ function normalizeFeedItems(parsed) {
 
 /* ------------------------- source roster ------------------------- */
 
+/* fullInFeed: the feed carries the complete article, so the writer pass gets
+   it for free. Teaser feeds get their article page fetched (winners only). */
 const RSS_SOURCES = [
-  { id: "psypost",       url: "https://www.psypost.org/feed",                    topic: "psych",      kindHint: "concept", take: 5, attribution: "PsyPost" },
-  { id: "psyche",        url: "https://psyche.co/feed.rss",                      topic: "psych",      kindHint: "essay",   take: 4, attribution: "Psyche (Aeon)" },
-  { id: "exp-history",   url: "https://www.experimental-history.com/feed",       topic: "psych",      kindHint: "essay",   take: 2, attribution: "Experimental History" },
-  { id: "phil-break",    url: "https://philosophybreak.com/rss.xml",             topic: "philosophy", kindHint: "concept", take: 4, attribution: "Philosophy Break" },
-  { id: "marginalian",   url: "https://www.themarginalian.org/feed/",            topic: "books",      kindHint: "essay",   take: 3, attribution: "The Marginalian" },
-  { id: "aeon",          url: "https://aeon.co/feed.rss",                        topic: "philosophy", kindHint: "essay",   take: 3, attribution: "Aeon" },
-  { id: "semafor",       url: "https://www.semafor.com/rss.xml",                 topic: "world",      kindHint: "news",    take: 6, attribution: "Semafor" },
-  { id: "wotr",          url: "https://warontherocks.com/feed/",                 topic: "world",      kindHint: "essay",   take: 3, attribution: "War on the Rocks" },
-  { id: "bbc-world",     url: "https://feeds.bbci.co.uk/news/world/rss.xml",     topic: "world",      kindHint: "news",    take: 5, attribution: "BBC News" },
-  { id: "marginal-rev",  url: "https://marginalrevolution.com/feed",             topic: "econ",       kindHint: "concept", take: 4, attribution: "Marginal Revolution" },
-  { id: "import-ai",     url: "https://importai.substack.com/feed",              topic: "tech-ai",    kindHint: "essay",   take: 2, attribution: "Import AI" },
-  { id: "one-useful",    url: "https://www.oneusefulthing.org/feed",             topic: "tech-ai",    kindHint: "essay",   take: 2, attribution: "One Useful Thing" },
-  { id: "jvns",          url: "https://jvns.ca/atom.xml",                        topic: "tech-craft", kindHint: "craft",   take: 2, attribution: "Julia Evans" },
-  { id: "fowler",        url: "https://martinfowler.com/feed.atom",              topic: "tech-craft", kindHint: "craft",   take: 2, attribution: "martinfowler.com" },
-  { id: "jim-nielsen",   url: "https://blog.jim-nielsen.com/feed.xml",           topic: "tech-craft", kindHint: "craft",   take: 2, attribution: "Jim Nielsen" },
+  { id: "psypost",       url: "https://www.psypost.org/feed",                    topic: "psych",      kindHint: "concept", take: 5, fullInFeed: true,  attribution: "PsyPost" },
+  { id: "psyche",        url: "https://psyche.co/feed.rss",                      topic: "psych",      kindHint: "essay",   take: 4, fullInFeed: false, attribution: "Psyche (Aeon)" },
+  { id: "exp-history",   url: "https://www.experimental-history.com/feed",       topic: "psych",      kindHint: "essay",   take: 2, fullInFeed: true,  attribution: "Experimental History" },
+  { id: "phil-break",    url: "https://philosophybreak.com/rss.xml",             topic: "philosophy", kindHint: "concept", take: 4, fullInFeed: false, attribution: "Philosophy Break" },
+  { id: "marginalian",   url: "https://www.themarginalian.org/feed/",            topic: "books",      kindHint: "essay",   take: 3, fullInFeed: true,  attribution: "The Marginalian" },
+  { id: "aeon",          url: "https://aeon.co/feed.rss",                        topic: "philosophy", kindHint: "essay",   take: 3, fullInFeed: false, attribution: "Aeon" },
+  { id: "semafor",       url: "https://www.semafor.com/rss.xml",                 topic: "world",      kindHint: "news",    take: 6, fullInFeed: true,  attribution: "Semafor" },
+  { id: "wotr",          url: "https://warontherocks.com/feed/",                 topic: "world",      kindHint: "essay",   take: 3, fullInFeed: false, attribution: "War on the Rocks" },
+  { id: "bbc-world",     url: "https://feeds.bbci.co.uk/news/world/rss.xml",     topic: "world",      kindHint: "news",    take: 5, fullInFeed: false, attribution: "BBC News" },
+  { id: "marginal-rev",  url: "https://marginalrevolution.com/feed",             topic: "econ",       kindHint: "concept", take: 4, fullInFeed: true,  attribution: "Marginal Revolution" },
+  { id: "import-ai",     url: "https://importai.substack.com/feed",              topic: "tech-ai",    kindHint: "essay",   take: 2, fullInFeed: true,  attribution: "Import AI" },
+  { id: "one-useful",    url: "https://www.oneusefulthing.org/feed",             topic: "tech-ai",    kindHint: "essay",   take: 2, fullInFeed: true,  attribution: "One Useful Thing" },
+  { id: "jvns",          url: "https://jvns.ca/atom.xml",                        topic: "tech-craft", kindHint: "craft",   take: 2, fullInFeed: true,  attribution: "Julia Evans" },
+  { id: "fowler",        url: "https://martinfowler.com/feed.atom",              topic: "tech-craft", kindHint: "craft",   take: 2, fullInFeed: true,  attribution: "martinfowler.com" },
+  { id: "jim-nielsen",   url: "https://blog.jim-nielsen.com/feed.xml",           topic: "tech-craft", kindHint: "craft",   take: 2, fullInFeed: true,  attribution: "Jim Nielsen" },
 ];
 
 async function fetchRss(src) {
@@ -102,7 +104,26 @@ async function fetchRss(src) {
   return normalizeFeedItems(xml.parse(raw))
     .filter((it) => it.title && it.link)
     .slice(0, src.take)
-    .map((it) => ({ ...it, source: src.id, topic: src.topic, kindHint: src.kindHint, attribution: src.attribution, text: it.text.slice(0, 1400) }));
+    .map((it) => ({
+      ...it,
+      source: src.id,
+      topic: src.topic,
+      kindHint: src.kindHint,
+      attribution: src.attribution,
+      fullInFeed: src.fullInFeed,
+      text: it.text.slice(0, src.fullInFeed ? 9000 : 1600),
+    }));
+}
+
+/* Naive readability: for teaser feeds, pull the article page and keep the
+   substantial <p> blocks. Good enough as LLM input; never shown raw. */
+export async function fetchArticleText(url) {
+  const html = await get(url, "text");
+  const scope = html.match(/<article[\s\S]*?<\/article>/i)?.[0] ?? html;
+  const paras = [...scope.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)]
+    .map((m) => stripHtml(m[1]))
+    .filter((p) => p.length > 80);
+  return paras.join("\n\n").slice(0, 9000);
 }
 
 async function fetchLobsters() {
