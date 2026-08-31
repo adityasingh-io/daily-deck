@@ -434,6 +434,7 @@ h2 {
   color: var(--accent);
   text-decoration: none;
 }
+.foot-links { display: flex; gap: 16px; flex-wrap: wrap; }
 
 /* End + splash */
 .end-card .end-body { justify-content: center; flex: 1; align-items: center; text-align: center; gap: 18px; }

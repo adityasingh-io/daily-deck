@@ -1,0 +1,339 @@
+{
+ "bookId": "notes-underground",
+ "title": "Notes from the Underground",
+ "author": "Fyodor Dostoyevsky",
+ "nextIndex": 1,
+ "lastDate": "2026-08-31",
+ "installments": [
+  {
+   "id": "book-notes-underground-1",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 1 · The man who won't see a doctor",
+   "body": "A retired clerk in a rented corner of Petersburg opens a notebook to explain, at length and against your interest, why he refuses to treat his own liver. Today is the machinery of that refusal: spite with no target, consciousness as a disease, and the mouse who would rather nurse an insult for forty years than act on it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "He introduces himself in four flat sentences — sick, spiteful, unattractive, a probably diseased liver — and then gives you the first tell: he won't consult a doctor. Not from poverty, not from distrust of medicine. \"I refuse to consult a doctor from spite.\" Spite against whom? He knows perfectly well nobody is punished by his untreated liver except himself, and he says so, and he still won't go. \"My liver is bad, well—let it get worse!\" That is the whole machine in miniature: an act whose only cost falls on the actor, performed to prove the actor is the one performing it.\n\nHe is forty, retired on six thousand roubles from a distant relation, formerly a collegiate assessor who ground his teeth at petitioners and carried on an eighteen-month feud with an officer over the clanking of a sword. Then he takes it all back. \"I was lying when I said just now that I was a spiteful official. I was lying from spite.\" The real sting was never the cruelty; it was knowing, mid-cruelty, that he was only \"scaring sparrows at random\" — that a doll, or \"a cup of tea with sugar in it,\" would have appeased him. He could not become spiteful. He could not become anything: \"neither a rascal nor an honest man, neither a hero nor an insect.\"\n\nWatch what he does with a bad joke about bribes: he flags it as showing off, then refuses to strike it, \"on purpose.\" Every gesture arrives pre-audited. He will not let you catch him at anything he hasn't already caught himself at, which is also the reason he can never stop.\n\nChapter II names the disease: \"to be too conscious is an illness—a real thorough-going illness.\" Not a metaphor, he insists. The mechanism will be familiar to anyone who has watched themselves do a bad thing in real time. At the very moments he was most alive to \"the sublime and beautiful,\" he did his ugliest things — and awareness didn't stop him, it fed him. He'd come home on some disgusting Petersburg night, gnaw at himself over what could never be undone, and feel the bitterness curdle into \"a shameful accursed sweetness, and at last—into positive real enjoyment.\" The pleasure comes from the completeness of the knowledge: you've reached the last barrier, there's no escape, you could never become a different man — and if you could, \"perhaps in reality there was nothing for you to change into.\"\n\nChapter III sorts humanity into two. The \"direct\" man of action charges his object \"like an infuriated bull with its horns down\"; hit a wall, and he sincerely stops, finds it \"tranquillising, morally soothing, final.\" The narrator envies him till he is green in the face and concedes he is stupid — \"but perhaps the normal man should be stupid, how do you know?\" The other type came \"not out of the lap of nature but out of a retort,\" and standing beside the first he thinks of himself as a mouse — \"and the worst of it is, he himself, his very own self, looks on himself as a mouse; no one asks him to do so.\"\n\nThe mouse's revenge is the set piece. Insulted — and it \"almost always does feel insulted\" — it cannot act, because acute consciousness dissolves the justice of the act into doubts until they thicken into \"a sort of fatal brew, a stinking mess.\" So it creeps back into its hole, and what happens in the hole is the passage below. Whatever revenge it manages comes \"piecemeal, in trivial ways, from behind the stove, incognito,\" costing it a hundred times what it costs the man who \"will not even scratch himself.\"\n\nThen the wall itself: twice two makes four, the laws of nature, \"you are descended from a monkey.\" Everyone else finds this settling. He refuses to be consoled by a fact merely because it is true — he can't break the wall, \"but I am not going to be reconciled to it simply because it is a stone wall and I have not the strength.\"\n\nChapter IV closes with toothache. By the second or third day the moans are no longer pain but performance — malignant, aimed at a household that no longer believes him and knows he could moan \"more simply, without trills and flourishes.\" He knows it too. That is precisely the pleasure: being seen through, and adding one more flourish anyway."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "There in its nasty, stinking, underground home our insulted, crushed and ridiculed mouse promptly becomes absorbed in cold, malignant and, above all, everlasting spite. For forty years together it will remember its injury down to the smallest, most ignominious details, and every time will add, of itself, details still more ignominious, spitefully teasing and tormenting itself with its own imagination. It will itself be ashamed of its imaginings, but yet it will recall it all, it will go over and over every detail, it will invent unheard of things against itself, pretending that those things might happen, and will forgive nothing."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The worst pain isn't being blind to your own pattern — it's watching yourself run it in full light, and running it anyway."
+    }
+   ],
+   "recall": {
+    "q": "The narrator claims a real enjoyment in his own degradation. Where does he say that enjoyment actually comes from?",
+    "a": "From the too intense consciousness of the degradation itself — knowing you've reached the last barrier, that there's no escape, that you could never become a different man, and that even if you wished to change, \"perhaps in reality there was nothing for you to change into.\" Awareness doesn't relieve the shame; it's the ingredient that turns it sweet."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
+   "id": "book-notes-underground-2",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 2 · Man is not a piano-key",
+   "body": "Yesterday consciousness ate his revenge; today it eats his will, and then he goes hunting for the one human advantage no ledger can hold. The notebook turns outward here — from a sick man's confession to a frontal attack on the idea that an enlightened person will reliably choose what is good for them.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "He opens with a confession about confessions. As a boy he was too good at \"Forgive me, Papa, I won't do it again\" — and, as if by design, he staged those scenes when he wasn't to blame at all. The tears were real, the sick feeling in his heart was real, and a minute later he would realise \"wrathfully that it was all a lie, a revolting lie, an affected lie.\" Why bother? \"Because it was very dull to sit with one's hands folded, and so one began cutting capers.\" He invented adventures, \"made up a life, so as at least to live in some way\": took offence on purpose at nothing until he was really offended; twice worked himself into being in love, jealous and beside himself, \"and it was all from ennui.\"\n\nThen the mechanism. Inertia is \"the direct, legitimate fruit of consciousness.\" Men of action move because they are limited — they mistake a secondary cause for a primary one, their minds go quiet, and a quiet mind is the whole trick of acting. His won't go quiet: every primary cause \"at once draws after itself another still more primary, and so on to infinity.\" Yesterday's revenge problem gets its answer here. The direct man revenges himself because he sees justice in it; justice is his foundation. Our man sees none, so revenge would be pure spite — and spite could still serve as a foundation, \"precisely because it is not a cause.\" But under the laws of consciousness even anger undergoes \"chemical disintegration\": the object flies off into air, the wrong becomes a phantom, nobody is to blame, and nothing is left but to beat the wall. Blind feeling fails too — \"the day after tomorrow, at the latest, you will begin despising yourself.\" Result: a soap-bubble and inertia.\n\nChapter VI is the joke he tells on himself: if only he had been idle out of plain laziness. Then he would be something. \"Sluggard\" is a calling, a vocation, a career — like the gentleman who prided himself all his life on being a connoisseur of Lafitte and died with a triumphant conscience. He sketches the life he missed: a glutton with sympathies for everything \"sublime and beautiful,\" toasting anything at all, exuding \"tears like a wet sponge,\" a round belly and a ruby nose, so that people would say, \"Here is an asset! Here is something real and solid!\"\n\nThen the notebook turns outward and the book changes gear. Someone has proclaimed that man does harm only because he mistakes his own interests, and that enlightenment will make him good. \"Oh, the babe! Oh, the pure, innocent child!\" The register of human advantages — prosperity, wealth, freedom, peace — is taken from statistics and politico-economical formulas, and always omits one item, because that item fits no classification. Exhibit A: the friend who explains beautifully how reason requires him to act, then within a quarter of an hour does the exact opposite, provoked by nothing outside himself.\n\nHe turns the same knife on progress. Civilisation softens us, says the theory; look around — \"blood is being spilt in streams, and in the merriest way, as though it were champagne.\" Civilisation's one real gain is \"the greater capacity for variety of sensations,\" which is why the most civilised gentlemen make the subtlest slaughterers. And the promised future — every human action tabulated \"like tables of logarithms up to 108,000,\" every question answered before it is asked, the \"Palace of Crystal\" standing — would be frightfully dull. Boredom, he notes, is exactly what sets one sticking gold pins into people.\n\nSo he names the missing advantage: \"one's own free unfettered choice, one's own caprice, however wild it may be.\" Not rational choice — independent choice, \"whatever that independence may cost.\" When the objector says science has already dissolved the will, he answers that reason satisfies barely a twentieth of a man, that will is \"a manifestation of the whole life,\" that what we do is \"life and not simply extracting square roots.\" Shower a man with every blessing until he has nothing left to do but eat cakes, and he will risk the cakes on some fatal absurdity — to prove he is not a piano-key."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "Shower upon him every earthly blessing, drown him in a sea of happiness, so that nothing but bubbles of bliss can be seen on the surface; give him economic prosperity, such that he should have nothing else to do but sleep, eat cakes and busy himself with the continuation of his species, and even then out of sheer ingratitude, sheer spite, man would play you some nasty trick. He would even risk his cakes and would deliberately desire the most fatal rubbish, the most uneconomical absurdity, simply to introduce into all this positive good sense his fatal fantastic element."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Any system that has priced your interests perfectly has left out the one thing you would blow it all up to keep: the right to choose badly."
+    }
+   ],
+   "recall": {
+    "q": "What is the \"most advantageous advantage\" the statisticians always leave off their register — and why can it never simply be added to the list?",
+    "a": "Independent choice: one's own free, unfettered caprice, wanted for its own sake rather than for what it gets you. It can't be added to any list because it is exercised precisely by going against what the list says is good for you — man will desire \"the most uneconomical absurdity,\" even destruction and chaos, to prove he is a man and not a piano-key. Cataloguing it destroys it."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
+   "id": "book-notes-underground-3",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 3 · Twice two makes five",
+   "body": "The case against the Palace of Crystal reaches its peak today — and then the arguer takes the whole thing back. What survives the retraction is the thing this book has been circling all along: a memory, and the wet snow.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Free will trained to coincide with arithmetic is not free will. Twice two makes four whether you consent or not — so what, he asks, is left to want?\n\nThen he backs off: he is joking, his jokes aren't brilliant, he is \"jesting against the grain.\" The retreat is tactical. From it he flips the burden of proof — you want to reform man's will by science, but how do you know his inclinations need reforming, or that it would benefit him? \"It may be the law of logic, but not the law of humanity.\"\n\nThen he grants their premise so completely it breaks in his hands. Man is a creative animal, an engineer, made \"incessantly and eternally to make new roads, wherever they may lead.\" So why does he love destruction and chaos too? Because \"he is instinctively afraid of attaining his object and completing the edifice he is constructing.\" He loves the building from a distance, wants to build it rather than live in it, and leaves it when finished to les animaux domestiques — the ants, the sheep, whose ant-heap endures forever. Man is a chess player who loves the game, not the end of it.\n\nThat is the day's real thesis, and it isn't a joke: perhaps the only goal is the process of attaining, \"in life itself, and not in the thing to be attained.\" Anything attained hardens into a formula, \"and such positiveness is not life, gentlemen, but is the beginning of death.\" So man crosses oceans hunting mathematical certainty and dreads finding it, because \"when he has found it there will be nothing for him to look for.\" Workmen at least finish, get paid, go to the tavern, get taken to the police-station — occupation for a week. \"But where can man go?\"\n\nPatience gone, the argument turns to abuse: twice two makes four is \"a pert coxcomb who stands with arms akimbo barring your path and spitting.\" And he offers his counter-currency, twice two makes five.\n\nThen the turn that undoes his own opening. Perhaps man loves suffering as much as well-being — don't consult history, \"only ask yourself, if you are a man and have lived at all.\" He takes neither side: he holds no brief for suffering or well-being, only \"for my caprice, and for its being guaranteed to me when necessary.\" Suffering is unthinkable in the crystal palace because suffering means doubt. And then, quietly: \"suffering is the sole origin of consciousness.\" The disease he began by cursing is the one thing he would never trade.\n\nChapter X names what he is actually refusing. He'd crawl into a hen-house to stay dry but won't call it a palace out of gratitude. The palace's crime is that it can never be destroyed and you cannot put your tongue out at it, even on the sly — and he insists it isn't that he enjoys the gesture. What he resents is that nobody has built the thing he wouldn't want to mock. \"Destroy my desires, eradicate my ideals, show me something better, and I will follow you.\" Until then, not one brick.\n\nThen he detonates the structure himself. \"Hurrah for underground!\" — and instantly, \"even now I am lying!\" It isn't underground he wants but \"something different, quite different, for which I am thirsting, but which I cannot find.\" He believes not one word he has written; he is \"lying like a cobbler.\" He then writes out his readers' contempt for him — you have no respect for your own suffering, you hide your last word from fear — and admits he invented that too, after forty years listening through a crack under the floor.\n\nWhat survives, once the argument is confessed as bluff, is memory. He wants to test whether a man can be open even with himself. Heine says true autobiography is impossible and Rousseau lied from vanity; he agrees, and starts anyway. One memory haunts him \"like an annoying tune that one cannot get rid of.\" Snow is falling, yellow and dingy.\n\nPart II. He is twenty-four, in the office, unable to hold anyone's gaze. The mechanism is exact: out of \"unbounded vanity\" and an impossible standard he looks at himself with loathing — hating his face, willing to look base if only he could look intelligent — and then reads that loathing on every face around him."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "Every man has reminiscences which he would not tell to everyone, but only to his friends. He has other matters in his mind which he would not reveal even to his friends, but only to himself, and that in secret. But there are other things which a man is afraid to tell even to himself, and every decent man has a number of such things stored away in his mind. The more decent he is, the greater the number of such things in his mind."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "He loves the process of attaining, but does not quite like to have attained."
+    }
+   ],
+   "recall": {
+    "q": "Why does he think man loves destruction and chaos as much as he loves building?",
+    "a": "Because man is afraid of finishing. He loves the edifice from a distance and doesn't want to live in it — the goal is \"the incessant process of attaining,\" life itself, since anything attained hardens into a formula as positive as twice two, and \"such positiveness is not life... but is the beginning of death.\""
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
+   "id": "book-notes-underground-4",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 4 · Revenge by not stepping aside",
+   "body": "He is twenty-four, alone, reading to keep himself quiet — until a six-foot officer moves him out of the way without bothering to look at him. What follows is two years of preparation for the smallest revenge in literature, and the discovery of what the dream of being a hero is actually for.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "First a detour into national character. Russian \"romantics,\" he says, never openly abuse the work they despise and almost never go mad — \"it is only the thin, fair people who go out of their minds in Russia.\" They rise in rank instead. Their gift is many-sidedness: they can be \"arrant thieves and knaves\" and still \"tearfully cherish their first ideal,\" remaining \"extraordinarily honest at heart\" without ceasing for a moment to be rogues. He is describing himself, and he knows it. The ideal stays pristine precisely because it is never spent on anything.\n\nThen the confession proper. Alone at home, reading to \"stifle all that was continually seething within me\" — and when reading bores him, plunging \"into dark, underground, loathsome vice of the pettiest kind,\" furtively, at night, shame never once leaving him. Watch the honesty reflex fire: he insists he isn't telling us this to justify himself, then corrects it on the spot. \"But, no! I am lying. I did want to justify myself.\"\n\nThe tavern gives us the diagnosis in one image. Through a lit window he sees men brawling with billiard cues and one of them thrown out — and he envies him. Envies him enough to walk in hoping to be thrown out too. Nothing happens. \"It seemed that I was not even equal to being thrown out of the window.\"\n\nThen the insult that will organise years of his life. He is blocking the way; an officer takes him by the shoulders, moves him to another spot, and passes \"as though he had not noticed me.\" The wound is not the handling. It is the not-noticing: \"I could have forgiven blows, but I could not forgive his having moved me without noticing me.\" He wanted \"a more decent, a more literary\" quarrel. And he insists he retreated not from cowardice but from \"unbounded vanity\" — he had the physical courage, not the moral courage to be laughed at by every marker and pimply clerk in the room while protesting in literary language, since one cannot say point d'honneur aloud without sounding absurd.\n\nNow watch what resentment builds when it has nowhere to go. He follows the man to learn his surname. He pays a porter ten kopecks for his address and floor. He writes a satirical novel unmasking the officer's villainy and submits it; it isn't printed. He composes a duel challenge so charming that a man with \"the least understanding of the sublime and the beautiful\" would have flung himself on his neck in friendship — and thanks God to this day he never sent it. Two years have passed. The insult is fresher than ever.\n\nThe Nevsky is where it resolves. He goes there on holidays to be humiliated, wriggling \"like an eel,\" giving way to generals and ladies, feeling himself \"a mere fly\" — but a fly \"more intelligent, more highly developed, more refined in feeling than any of them, of course.\" He goes especially to watch the officer, who yields to rank and walks straight over men like him. Hence the plan: don't step aside. Once.\n\nNote the preparation against the size of the act. Black gloves, not lemon (\"too gaudy\"); a decent hat; the vulgar raccoon collar sold to fund cheap German beaver; salary advanced; money borrowed in agony from his superior Anton Antonitch. Then failure after failure — his body steps aside before his will can catch it, and once he falls at the officer's feet and is calmly stepped over. At last, eyes shut, he does it, and passes \"on a perfectly equal footing.\" Home, triumphant, singing Italian arias. Then the trapdoor: \"I will not describe to you what happened to me three days later; if you have read my first chapter you can guess for yourself.\"\n\nChapter II turns the machinery inward. After each spell of dissipation comes sickness and remorse, and remorse is escaped by fleeing into \"the sublime and the beautiful\" — three-month dreaming binges where he emerges \"almost riding a white horse and crowned with laurel,\" forgiving everyone. The dreams don't cure the vice. They flavour it: arriving \"with remorse and with tears,\" they lend the filth \"a certain piquancy\" and \"completely answered the purpose of an appetising sauce.\" Even his love for mankind is safest unapplied — there was so much of it in the dream \"that one did not feel afterwards even the impulse to apply it in reality.\" Which is why the craving to embrace all humanity has to be timed around office hours. Anton Antonitch's at-home day is Tuesday."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "Anything but the foremost place I could not conceive for myself, and for that very reason I quite contentedly occupied the lowest in reality. Either to be a hero or to grovel in the mud—there was nothing between. That was my ruin, for when I was in the mud I comforted myself with the thought that at other times I was a hero, and the hero was a cloak for the mud: for an ordinary man it was shameful to defile himself, but a hero was too lofty to be utterly defiled, and so he might defile himself."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The insult that lodges deepest isn't being struck — it's being moved aside by someone who never saw you."
+    }
+   ],
+   "recall": {
+    "q": "What did the officer actually do to him, and why did it wound more than a blow would have?",
+    "a": "He took him by the shoulders and moved him out of the way without a word, \"as though he had not noticed me.\" Blows he could have forgiven; being handled like furniture denied him even the dignity of being an enemy. Answering it took two years, a bought beaver collar, and one deliberate shoulder-collision on the Nevsky."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
+   "id": "book-notes-underground-5",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 5 · He invites himself to the dinner",
+   "body": "Part I's theory — that a man will act against his own interest just to prove he is a man and not a piano key — stops being theory tonight. He talks his way into a farewell dinner for a schoolfellow he loathes, thrown by men who barely acknowledge him, with money he does not have.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Before the dinner, the other pole of his life: Anton Antonitch's, fourth storey, “four low-pitched rooms, one smaller than the other,” where grey-headed gentlemen talk excise duty, promotions, and “the best means of pleasing” His Excellency. He sits among them “like a fool” for four hours at a stretch, perspiring, “overcome by a sort of paralysis” — and then the tell: “but this was pleasant and good for me.” The stupefaction is medicine. “On returning home I deferred for a time my desire to embrace all mankind.” The dreaming has to be bled off, and boredom is the lancet.\n\nThursday that door is closed, so he climbs to Simonov's — the schoolfellow he suspects “had an aversion for me.” He goes up knowing the man dislikes him and that the visit is a mistake, and the thought works as fuel rather than brake: “such reflections impelled me, as though purposely, to put myself into a false position.”\n\nInside, the whole apparatus of his humiliation is already assembled. Two more old schoolfellows barely register him — he is “something on the level of a common fly” — and they are pricing a farewell dinner for Zverkov. He hated Zverkov in the lower forms “just because he was a pretty and playful boy”; he hates the handsome stupid face “for which I would, however, have gladly exchanged my intelligent one.” When Zverkov once bragged of his droit de seigneur over the girls on his estate, our man attacked him — “not from compassion for the girls and their fathers, but simply because they were applauding such an insect.” He won the point and lost the room: “the laugh was on his side.”\n\nSo of course he invites himself. “If you count me it will not be twenty-one, but twenty-eight roubles” — with the fantasy running underneath that “to invite myself so suddenly and unexpectedly would be positively graceful,” that they “would all be conquered at once.” What arrives instead is Simonov's flat “Do you want to join, too?” and the real injury of the scene: “He knew me through and through. It infuriated me that he knew me so thoroughly.” Being disliked he can work with. Being accurately read, he cannot.\n\nThen the arithmetic. Nine roubles, seven of them owed to his servant Apollon, and fifteen owed to Simonov for ages. He can see the whole shape of the evening in advance, and the seeing is the engine, not the brake.\n\nThat night school comes back: a “forlorn, silent boy” shipped off by relations whose reproaches had already crushed him, sealed into “timid, wounded and disproportionate pride,” clawing to the top of the class purely to stop the jeering. And the one friend he ever had — “a simple and devoted soul” — whom he frightened “with my passionate affection,” reduced to hysterics, then dropped: “when he devoted himself to me entirely I began to hate him immediately.” Affection that only wants surrender has nowhere to stand once it wins.\n\nMorning, and any trivial event convinces him “some radical change in my life” is at hand. He polishes his boots twice with brushes stolen from the passage, hiding it from Apollon. He finds a yellow stain on the knee of his trousers and calculates that it “would deprive me of nine-tenths of my personal dignity” — knows the thought is contemptible, thinks it anyway. Of everything he dreads at that table, the worst is not cruelty but “how paltry, unliterary, commonplace it would all be.” He dreams of crushing Zverkov and then toasting everlasting friendship with him. And beneath the dream, the line that empties it: “I did not care a straw really for the result, even if I did achieve it.”\n\nHis last half-rouble goes on a high-class sledge. At the Hôtel de Paris no table is laid — the dinner was ordered for six, not five, and nobody thought to write. Thirty-five minutes in front of the waiters, French shrieks and laughter reaching him from a room he is not in. When they finally walk in he is “overjoyed to see them, as though they were my deliverers,” resentment forgotten. Zverkov takes his hand with “circumspect courtesy like that of a General, as though in giving me his hand he were warding off something.” An insult he could repay. What flattens him is the other possibility — that Zverkov means nothing by it and simply is above him. “The very supposition made me gasp.”"
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "“What possessed me, what possessed me to force myself upon them?” I wondered, grinding my teeth as I strode along the street, “for a scoundrel, a pig like that Zverkov! Of course I had better not go; of course, I must just snap my fingers at them. I am not bound in any way. I’ll send Simonov a note by tomorrow’s post....”\n\nBut what made me furious was that I knew for certain that I should go, that I should make a point of going; and the more tactless, the more unseemly my going would be, the more certainly I would go."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "He knows exactly how the evening will end. That knowledge is not a brake — it's the accelerator."
+    }
+   ],
+   "recall": {
+    "q": "He works out in advance exactly how the Zverkov dinner will humiliate him — the contempt, the money he doesn't have, the pettiness of the whole thing. What effect does that clear foresight have on his decision?",
+    "a": "It guarantees he goes. \"The more tactless, the more unseemly my going would be, the more certainly I would go\" — staying away would mean he had \"funked the real thing,\" so the sharper the foreseen humiliation, the stronger the compulsion. He even admits he doesn't really want the triumph he's fantasising about: \"I did not care a straw really for the result.\""
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
+   "id": "book-notes-underground-6",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 6 · Three hours, table to stove",
+   "body": "The farewell dinner he forced his way into becomes three hours of self-administered humiliation, and he stays for every second of it. Today is Dostoevsky's cruelest comedy: a man who wants revenge, applause, and forgiveness from the same people in the same breath.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Zverkov opens by lisping and drawling — a mannerism new since school — and offers an absolution nobody asked for: \"You fight shy of us. You shouldn't. We are not such terrible people as you think.\" Then the hour comes out. Simonov forgot to tell him the dinner had moved, admits it \"with no sign of regret,\" and walks off to order the hors d'œuvres. \"So you've been here a whole hour? Oh, poor fellow!\" Ferfitchkin yaps along. Watch what our man does with the one grievance that is genuinely not his fault: he presses it loudly, and so hands them the exact spot to press back.\n\nThen the cross-examination. Which office, what berth, what made you leave the last one — he mimics Zverkov's drawl back at him and wins a guffaw, the only blood he draws all night. And then: \"I mean, your sa-a-lary?\" He knows the question is an assault; he says so — \"Why are you cross-examining me?\" — and then this: \"However, I told him at once what my salary was. I turned horribly red.\" The defiance and the obedience run on a single track. Zverkov, majestically: \"It is not very handsome.\"\n\nHe breaks out that he dines here at his own expense, Ferfitchkin turns \"red as a lobster,\" and the table closes ranks: \"You invited yourself to join us, so don't disturb the general harmony.\" Then the honest interior scream — these are not the people for me, the brutes imagine they are doing me an honour, damn my trousers, Zverkov saw the yellow stain on the knee the moment he came in — resolving grandly to take his hat and go without a word, with contempt. And then four words that are the whole book: \"Of course I remained.\"\n\nThe wine does the rest. He wants to insult them so brilliantly that they'll say \"He's clever, though he is absurd\" — approval smuggled inside the revenge. What he produces is a jab about Prince Kolya failing to show up, then a toast in numbered points: he hates \"phrases, phrasemongers and men in corsets,\" he hates ribald talkers, he loves \"justice, truth and honesty\" — spoken \"almost mechanically\" while he is \"beginning to shiver with horror\" at himself — closing with \"Seduce the Circassian girls.\" Zverkov stands, bows, goes pale. The duel challenge to Ferfitchkin leaves everyone, Ferfitchkin included, \"prostrate with laughter.\"\n\nNow the bottle. \"Now is the time to throw a bottle at their heads,\" he thinks, picks it up — and fills his own glass. What follows he authors himself, second by second: three hours, eight o'clock to eleven, pacing from the table to the stove, thumping his heels on purpose, soaked with sweat three times over, spending one affected contemptuous laugh at Shakespeare to buy two minutes of being silently watched. His stated principle: \"I walk up and down to please myself and no one can prevent me.\"\n\nAt eleven the whole architecture collapses and he asks outright: \"Zverkov, I beg your pardon... I have insulted you all!\" He wanted reconciliation more than revenge, and always did. Zverkov's answer is the night's cruelest line precisely because it isn't angry: \"Understand, sir, that you never, under any circumstances, could possibly insult me.\" You cannot duel a man who denies you the standing to offend him. They leave for Olympia; he begs Simonov for six roubles — \"if you knew why I am asking!\" — and has them flung at him: \"Take it, if you have no sense of shame!\"\n\nIn the sledge, in the wet warm snow, the plan inflates: a slap, an ear pulled round the room, teeth in Zverkov's hand at the posting station, prison, Siberia, and fifteen years later a return in rags to forgive him with a pistol. He is nearly weeping — and knows, while weeping, that all of it is lifted from Pushkin's Silvio and Lermontov's Masquerade. Shame stops the horse; he stands in the street. Then: \"It is ordained! It is fate! Drive on!\" — and he punches the driver in the neck. \"So this is it, this is it at last—contact with real life.\""
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "At times, with an intense, acute pang I was stabbed to the heart by the thought that ten years, twenty years, forty years would pass, and that even in forty years I would remember with loathing and humiliation those filthiest, most ludicrous, and most awful moments of my life. No one could have gone out of his way to degrade himself more shamelessly, and I fully realised it, fully, and yet I went on pacing up and down from the table to the stove. “Oh, if you only knew what thoughts and feelings I am capable of, how cultured I am!” I thought at moments, mentally addressing the sofa on which my enemies were sitting."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Of course I remained — the humiliation you refuse to walk out of is the one you have chosen."
+    }
+   ],
+   "recall": {
+    "q": "At eleven o'clock, after the insulting toast and the laughed-off duel challenge, what does he finally ask Zverkov for — and what makes the reply so annihilating?",
+    "a": "He apologizes and asks for friendship: \"I ask for your friendship, Zverkov; I insulted you, but...\" Zverkov refuses him even the dignity of having offended: \"Understand, sir, that you never, under any circumstances, could possibly insult me.\" It denies him the standing that would make a duel — or any revenge at all — possible."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
+   "id": "book-notes-underground-7",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 7 · The kindness that is really power",
+   "body": "He forces his way to the brothel to slap Zverkov and finds the room empty — and finds Liza instead. Tonight he discovers he can move another person, and that discovery turns out to be the most dangerous thing that has happened to him yet.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The dark shop, one candle, the familiar drawing-room — and no one in it. They had separated. The slap he borrowed six roubles and paced three hours to deliver arrives at an empty room, and what he feels is relief wearing triumph's clothes: “I felt as though I had been saved from death,” while still insisting, twice, “I should certainly, certainly have given it!” The deed is always safest in the conditional.\n\nThen Liza — pale, grave, “wondering” eyes, and the tell: “I should have hated her if she had been smiling.” Gravity is what he can work with. Something “loathsome” stirs in him; he catches his face in the glass, “pale, angry, abject,” and is glad of it, glad he will seem repulsive to her.\n\nCut to two o'clock. A clock wheezes behind a screen like something being strangled, the candle end gutters, and the whole day comes back “as though it had been in ambush to pounce upon me again.” Then two open eyes, “coldly detached, sullen,” scrutinising him. The two hours of silence he had found gratifying turn in an instant into the thing he can finally name: vice “revolting as a spider,” which begins with what love ends with. He speaks only to stop the staring.\n\nThe interrogation is flat and cruel: name, Riga, tradespeople, a fortnight, twenty. “Why did you leave them?” “Oh, for no reason.” He translates it himself — “That answer meant ‘Let me alone; I feel sick, sad’” — and keeps going anyway. Then the coffin carried up from a Haymarket cellar, the waterlogged graves at Volkovo, “I've seen it myself ... many times.” Parenthesis: he has never been to Volkovo. “A great deal of this was my invention.”\n\nShe won't flinch — “Oh, well, then I shall die” — and her refusal to be moved is exactly what escalates him. He switches to arithmetic: a year, a lower house, seven years to a basement. Then to freedom: he can defile himself and walk out, “but you are a slave from the start.”\n\nThen she says “Yes!” — sharp, immediate — and he is thrilled, but not for her: “So she, too, was capable of certain thoughts?” … “it's easy to turn a young soul like that!” And then the sentence that convicts the entire scene: “It was the exercise of my power that attracted me most.” Everything tender that follows runs on top of that.\n\nAnd it is tender. The stern father kissing his daughter's feet, standing five hours at a party to watch her dance; quarrels that end happily; love as “a holy mystery” hidden from all other eyes; the baby biting the breast and looking sideways as if to say “Look, I am biting!” He gives us both readings in one breath — “It's by pictures, pictures like that one must get at you” and “I did speak with real feeling” — because, as he admits, “cunning so easily goes hand-in-hand with feeling.” Then vanity flares: what if she laughs?\n\nShe doesn't laugh. Something soft and shamefaced enters her voice, then hides itself: “you ... speak somehow like a book.” It lands as an insult. Older, he knows what he missed — irony as “the last refuge of modest and chaste-souled people when the privacy of their soul is coarsely and intrusively invaded” — and that her timidity in approaching the sarcasm was the proof. “But I did not guess, and an evil feeling took possession of me. ‘Wait a bit!’”\n\nChapter VII is the retaliation, and it is expert: you will be scorned, kicked out, abused as though you had beggared her; at twenty-two you will look thirty-five. It ends on the woman turned out on New Year's Day, drunk at nine in the morning, bleeding, beating a salt fish on the stone steps while cabmen taunt her — who was once, perhaps, “fresh as a cherub.” Every word of it is true. None of it is kindness."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "A grim idea came into my brain and passed all over my body, as a horrible sensation, such as one feels when one goes into a damp and mouldy cellar. There was something unnatural in those two eyes, beginning to look at me only now. I recalled, too, that during those two hours I had not said a single word to this creature, and had, in fact, considered it utterly superfluous; in fact, the silence had for some reason gratified me. Now I suddenly realised vividly the hideous idea—revolting as a spider—of vice, which, without love, grossly and shamelessly begins with that in which true love finds its consummation."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "When your kindness needs to be received a certain way, it was never kindness — it was leverage."
+    }
+   ],
+   "recall": {
+    "q": "Liza says he “speak[s] somehow like a book.” Why does that remark turn him cruel?",
+    "a": "He hears it as mockery of his performance, and his vanity is wounded. Only later does he understand that irony was her defence — “the last refuge of modest and chaste-souled people when the privacy of their soul is coarsely and intrusively invaded” — and that her timidity in bringing herself to say it proved she had been moved. At the time he doesn't guess: “an evil feeling took possession of me. ‘Wait a bit!’” — and he escalates into the pitiless prophecy of Chapter VII."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
+   "id": "book-notes-underground-8",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 8 · Two letters, one loathsome truth",
+   "body": "He has just talked a twenty-year-old into sobbing, and the sound of it terrifies him. Today: the letter she keeps as her only treasure, the letter he writes to save his own name, and the one image from that night he will never stop seeing.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The lump in his own throat is the giveaway — he has moved himself. Then he stops, bends over, listens with a beating heart, and hears what he has done. \"It was the exercise of my skill that carried me away; yet it was not merely sport....\" Both halves are true, and the second half is what panics him. He knew he was speaking \"stiffly, artificially, even bookishly,\" and he had calculated that the bookishness would help. It did. Liza is face-down, biting the pillow, biting her hand till it bleeds, holding her breath so no living soul will hear.\n\nHis response is not comfort. It is a cold shiver and fumbling in the dark for his clothes. He wants out. The candle he finds is the worst thing that could happen to him: light. She sits up \"with a contorted face, with a half insane smile.\" He takes her hands and begins, \"Liza, my dear, I was wrong ... forgive me\" — and she grips his fingers so hard that he feels he is saying the wrong thing and stops. What he says instead is the sentence that will cost him everything: \"This is my address, Liza, come to me.\"\n\nThen she does something he is not prepared for. At the door she stops him, runs off, and returns with a face he has not seen before — \"imploring, soft, and at the same time trustful, caressing, timid,\" the look \"with which children look at people they are very fond of.\" She hands him a paper without explanation, as though he, \"a sort of higher being,\" must understand. It is a love letter from a medical student who danced with her at a party, who knew her as a child in Riga, and who knows nothing about where she lives now. She is not proving she is loved. She is proving she is addressable — that a respectful sentence can still be written to her.\n\nHe says nothing, presses her hand, and walks home through the melting snow \"exhausted, shattered, in bewilderment. But behind the bewilderment the truth was already gleaming. The loathsome truth.\"\n\nChapter VIII is what a man does to avoid a truth that is gleaming. He wakes disgusted — not with himself for last night's cruelty, but with his \"sentimentality,\" his \"attack of womanish hysteria, pah!\" The real business is reputation. He borrows fifteen roubles from Anton Antonitch and, signing the IOU with a swaggering air, invents a rake friend, \"a regular Lovelace.\" He returns Simonov's six with a letter whose tone he still admires decades later — candid, tactful, faintly careless — blaming a glass of wine he never drank. \"There is actually an aristocratic playfulness about it!\" He notes that he lied shamelessly. He notes that he isn't ashamed. He moves on.\n\nSet the two letters side by side. Hers exists to raise her in someone's eyes and is destined \"to lie in her box and lead to nothing.\" His exists to raise him in Zverkov's eyes, and it works perfectly. He gets exactly what he wanted. That is the loathsome part.\n\nBecause something will not die. On the twilight walk down Myeshtchansky and Sadovy and through the Yusupov Garden — streets he loves for \"that cheap bustle, that bare prose\" — the crowd irritates him, something rises \"painfully, and refusing to be appeased,\" and he comes home \"just as though some crime were lying on my conscience.\" He can dismiss the entire night except one detail. Not guilt in the abstract. An image: the match, the pale distorted face, the smile. And here the man of forty breaks through the evening of the man of twenty-four to tell you he is still looking at it.\n\nThe rest is the machinery grinding. He defends himself (\"Her crying was a good thing, it will have a good effect\"). He admires his own power — \"how few words ... had sufficed to turn a whole human life at once according to my will. That's virginity, to be sure! Freshness of soil!\" He rages that he would have struck her had she been near. Then, after three quiet days, he dreams himself her saviour, educating her until she falls at his feet: \"you are my creation ... you are my noble wife\" — until even he finds it vulgar and puts out his tongue at himself.\n\nAnd then Apollon: the servant with a mouth \"compressed into the shape of the letter V,\" a pedant carrying \"a vanity only befitting Alexander of Macedon,\" who reads psalms aloud \"as though over the dead.\" The same duel at domestic scale. Our man withholds seven roubles purely to establish that \"I am master, and it is for me to decide\" — and loses in four days to a man who does nothing but stare at him and sigh."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "One moment out of all that had happened last night stood vividly before my imagination; the moment when I struck a match and saw her pale, distorted face, with its look of torture. And what a pitiful, what an unnatural, what a distorted smile she had at that moment! But I did not know then, that fifteen years later I should still in my imagination see Liza, always with the pitiful, distorted, inappropriate smile which was on her face at that minute."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "He escaped every consequence but one — the face he had made, lit for a second by a match, and never put down since."
+    }
+   ],
+   "recall": {
+    "q": "The morning after Liza, what does he decide is \"the chief business\" — and what does he pointedly forget?",
+    "a": "Saving his reputation with Zverkov and Simonov. He borrows fifteen roubles from Anton Antonitch (bragging about a night at the Hôtel de Paris with a rake friend), returns Simonov's six, and writes a self-admiring letter blaming a glass of wine he never drank. He was so taken up with it that he \"actually forgot all about Liza\" — until evening, when she came back to him only as the match-lit face with the distorted smile."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
+   "id": "book-notes-underground-9",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 9 · Liza arrives; he makes her pay",
+   "body": "Liza walks in at the exact moment he would most want hidden: mid-shriek at his servant, in a torn dressing-gown, ordering the police be fetched against himself. What follows is the book's cruellest and most honest scene — he finally tells her the truth about why he 'saved' her, and then punishes her for having heard it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "He orders his servant to fetch a policeman — against himself. Apollon, threading a needle, doesn't raise his head: “Whoever heard of a man sending for the police against himself?” The wage war is over. It is also the whole book in one exchange: a man shrieking at someone who cannot be reached, offering to have himself arrested because it is the only move left. Then the passage door opens softly, a figure stops and stares at them in perplexity, and he nearly swoons with shame and stands with his head against the wall. The clock strikes seven.\n\nNote what he is wearing — the ragged wadded dressing-gown, “exactly as I had imagined the scene not long before in a fit of depression.” He has been shuddering for three days at the thought of her coming, and it lands anyway. “I am poor but honourable,” he blurts. Then he bolts and hands Apollon the whole seven roubles for tea and rusks — the money he had sworn would only follow a bowed head, given away in ten seconds because he needs a prop. Apollon accepts with ceremony: deliberately got up, deliberately moved back his chair, deliberately took off his spectacles, deliberately counted the money.\n\n“I will kill him!” — then real sobbing. And here the sentence no summary survives: the attack was genuine, and he was also “putting it on, to save appearances.” He asks for water while knowing he could get on perfectly well without water. Performance and feeling are not rivals in him; they run on the same wire, with consciousness narrating both.\n\nBecause she is there, the spite goes to her. He refuses to speak first so the silence will be hers to break; she breaks it badly — “I want to... get away ... from there altogether” — and her tactless straightforwardness makes his heart ache with pity, which “something hideous at once stifled.” She stands to go. That flicker of wounded dignity detonates him.\n\nThe tirade is the truest thing he has ever said and the cruellest possible use of truth. He was laughing at her then; he is laughing now. He'd been insulted at dinner, gone hunting an officer, failed to find him — “I had been humiliated, so I wanted to humiliate; I had been treated like a rag, so I wanted to show my power.” He wanted her tears the way you want a drink. He gave the address in folly and hated her the whole way home for the lies he had told. And under all of it, the shame actually driving the scene is not what he did to her — it is that she has seen the dressing-gown: “I am as vain as though I had been skinned and the very air blowing on me hurt.”\n\nThen the thing he cannot read, because he has only ever imagined life from books. Liza hears the confession and understands “what a woman understands first of all, if she feels genuine love” — that he is unhappy. She rushes at him and holds him, and he sobs the one unguarded sentence in the book: “They won't let me ... I can't be good!”\n\nBut hysterics end. He has to lift his face from the pillow, and he is ashamed to, because the parts have swapped: she is the heroine now, he the crushed creature she was four days ago. “My God! surely I was not envious of her then.” Precisely because he cannot bear to be looked at, another feeling flames up — “a feeling of mastery and possession.” He grips her hands, hating her and drawn to her at once, each feeling intensifying the other. What follows is, by his own account, “almost like an act of vengeance.”\n\nAfterwards he paces and peeps through the crack in the screen at her crying on the floor, irritated that she stays. He wants his underground back; real life “oppressed me with its novelty so much that I could hardly breathe.” He taps the screen to remind her to go, then forces her hand open, pushes in a five-rouble note, and bolts to the far corner so he won't have to watch — a cruelty he insists came “not from the heart, but from my evil brain,” out of books, and which he cannot sustain sixty seconds. He calls down the stairs, not boldly. The outer door slams. Back inside, the crumpled blue note is lying on the table. He dresses at random and runs out into perpendicular snow, two hundred paces to the cross-roads, and stops short."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "Because I only like playing with words, only dreaming, but, do you know, what I really want is that you should all go to hell. That is what I want. I want peace; yes, I’d sell the whole world for a farthing, straight off, so long as I was left in peace. Is the world to go to pot, or am I to go without my tea? I say that the world may go to pot for me so long as I always get my tea."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Humiliation never stays where it lands — it goes looking for someone smaller to hand it to."
+    }
+   ],
+   "recall": {
+    "q": "Liza absorbs the entire tirade — the confession that he only ever came to her to humiliate someone. What does she understand from it, and how does he answer that understanding?",
+    "a": "She understands “what a woman understands first of all, if she feels genuine love” — that he is himself unhappy — and she throws her arms round him, drawing out his one unguarded cry, “They won't let me ... I can't be good!” But once the hysterics pass he is ashamed that the parts have reversed, so “a feeling of mastery and possession” flames up and he takes her as “almost like an act of vengeance.” Then, from spite and “from my evil brain,” he presses five roubles into her hand as she leaves; s"
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
+   "id": "book-notes-underground-10",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 10 · Cheap happiness or exalted suffering",
+   "body": "He stopped at the cross-roads and never went further; Liza walks out of the book and out of his life. Today he builds a theory to justify letting her go, admits he stayed pleased with it, and then turns on us.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "He never catches her. He stands in the snow with the impulse still burning — \"to fall down before her, to sob with remorse, to kiss her feet, to entreat her forgiveness\" — and swears he will never recall that minute with indifference. Then, in the same breath, the mind gets to work: \"But—what for?\" Would he not begin to hate her tomorrow precisely because he kissed her feet today? Had he not recognised that very day, \"for the hundredth time,\" what he was worth? The self-knowledge that ought to produce humility instead supplies an alibi. He is too honest about himself to be good, and he uses the honesty as the reason not to try.\n\nThen comes the worse thing, and the better-made one. At home he stifles \"the living pang of my heart with fantastic dreams,\" and the dream he builds is a theory of her benefit. Better she keep the insult forever. \"Resentment—why, it is purification; it is a most stinging and painful consciousness!\" Tomorrow he would have \"defiled her soul and have exhausted her heart\"; this way the wound stays alive in her and elevates her — \"by hatred ... h'm! ... perhaps, too, by forgiveness....\" Note the h'm. Even mid-construction he can hear the machinery. And note what the theory does: it takes his own Part I doctrine — that consciousness and suffering outrank contentment — and applies it to a woman whose life he has just made worse, at no cost whatsoever to himself. The most flattering ideas are the ones that convert your cruelty into somebody else's education.\n\nHe half-catches it. \"Will all that make things easier for her though? ...\" he asks, and does not answer. He escalates instead into the grander question, the one he would rather be holding: \"which is better—cheap happiness or exalted sufferings? Well, which is better?\" A genuine question, deployed as a hiding place.\n\nThen the flattest sentences in the book. He suffered that evening as never before — and yet, \"could there have been the faintest doubt when I ran out from my lodging that I should turn back half-way?\" None. The running was theatre and he knew it while running. \"I never met Liza again and I have heard nothing of her.\" And the confession he cannot dress up: he \"remained for a long time afterwards pleased with the phrase about the benefit from resentment and hatred in spite of the fact that I almost fell ill from misery.\" He kept the sentence. He lost the person.\n\nThen he tries to stop writing and cannot stop talking. The notes have been \"hardly literature so much as a corrective punishment.\" A novel needs a hero; he has assembled an anti-hero on purpose, and the impression is unpleasant because it is ours — \"we are all divorced from life, we are all cripples, every one of us, more or less.\" We treat real life as effort, \"almost as hard work,\" and are \"privately agreed that it is better in books.\" Untie our hands, widen our sphere, relax the control, and \"we should be begging to be under control again at once.\" It is the crystal-palace argument again, turned from the utopians onto the reader.\n\nHe hears the objection coming — speak for yourself — and answers with the line the whole book was built to deliver: he has \"carried to an extreme what you have not dared to carry halfway,\" while you have \"taken your cowardice for good sense.\" So perhaps there is more life in him than in you. Boast, indictment, and, uncomfortably, argument.\n\nThe last vision is of a generation \"stillborn,\" begotten not by living fathers and developing a taste for it: \"Soon we shall contrive to be born somehow from an idea.\" Then he quits — \"I don't want to write more from 'Underground'\" — and an editor's bracket closes over him: the paradoxalist did not stop, but we may stop here. Even his silence isn't his own."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "As for what concerns me in particular I have only in my life carried to an extreme what you have not dared to carry halfway, and what's more, you have taken your cowardice for good sense, and have found comfort in deceiving yourselves. So that perhaps, after all, there is more life in me than in you. Look into it more carefully! Why, we don't even know what living means now, what it is, and what it is called? Leave us alone without books and we shall be lost and in confusion at once."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "When a beautiful idea explains why your cruelty was good for someone else, notice who is being spared by it."
+    }
+   ],
+   "recall": {
+    "q": "Standing in the snow, what argument does he use to justify not going after Liza — and what does he admit about that argument afterwards?",
+    "a": "That resentment is purification: the insult will live in her and elevate her, whereas by tomorrow he would only have defiled her soul and exhausted her heart. He admits he stayed pleased with the phrase for years even though he almost fell ill from misery — and that he never doubted, even while running, that he would turn back half-way. He never saw or heard of Liza again."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  }
+ ]
+}

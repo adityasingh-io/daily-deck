@@ -9,7 +9,7 @@ import { spawn } from "node:child_process";
       their source articles entirely
    3. writeLetter — the editor's letter that opens the deck */
 
-function runClaude(prompt, model) {
+export function runClaude(prompt, model) {
   return new Promise((resolve, reject) => {
     const child = spawn("claude", ["-p", "--model", model], { stdio: ["pipe", "pipe", "pipe"] });
     let out = "";
@@ -34,7 +34,7 @@ function runClaude(prompt, model) {
   });
 }
 
-function extractJson(text, open, close) {
+export function extractJson(text, open, close) {
   const start = text.indexOf(open);
   const end = text.lastIndexOf(close);
   if (start === -1 || end === -1 || end < start) throw new Error("no JSON in model output");

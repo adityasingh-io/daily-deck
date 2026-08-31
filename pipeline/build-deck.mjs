@@ -147,8 +147,30 @@ if (deficit > 0) {
   usable = usable.concat(backfill);
 }
 
+// Book engine: serve today's installment from the current series, if any.
+let installment = null;
+const seriesPath = join(STATE, "book-series.json");
+if (existsSync(seriesPath)) {
+  const series = JSON.parse(readFileSync(seriesPath, "utf8"));
+  if (series.lastDate === date && series.nextIndex > 0) {
+    installment = series.installments[series.nextIndex - 1]; // same-day rebuild: same day
+  } else if (series.nextIndex < series.installments.length) {
+    installment = series.installments[series.nextIndex];
+    series.nextIndex++;
+    series.lastDate = date;
+    writeFileSync(seriesPath, JSON.stringify(series, null, 1));
+  } else {
+    console.log("book engine: series finished — run `node pipeline/book-planner.mjs` for the next book");
+  }
+  if (installment) console.log(`book engine: ${installment.title}`);
+}
+
+const quotas = { ...profile.quotas };
+if (installment) quotas.books = Math.max(0, (quotas.books ?? 0) - 1);
+
 const written = await writeCards(usable, profile, recentContext());
-const cards = interleave(written, wildcards, profile.quotas);
+if (installment) written.unshift({ ...installment, score: 11 });
+const cards = interleave(written, wildcards, quotas);
 
 try {
   cards.unshift(await writeLetter(cards, profile, date));

@@ -57,6 +57,39 @@
    "publishedAt": "Wed, 19 Aug 2026 10:00:00 GMT"
   },
   {
+   "id": "book-notes-underground-1",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 1 · The man who won't see a doctor",
+   "body": "A retired clerk in a rented corner of Petersburg opens a notebook to explain, at length and against your interest, why he refuses to treat his own liver. Today is the machinery of that refusal: spite with no target, consciousness as a disease, and the mouse who would rather nurse an insult for forty years than act on it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "He introduces himself in four flat sentences — sick, spiteful, unattractive, a probably diseased liver — and then gives you the first tell: he won't consult a doctor. Not from poverty, not from distrust of medicine. \"I refuse to consult a doctor from spite.\" Spite against whom? He knows perfectly well nobody is punished by his untreated liver except himself, and he says so, and he still won't go. \"My liver is bad, well—let it get worse!\" That is the whole machine in miniature: an act whose only cost falls on the actor, performed to prove the actor is the one performing it.\n\nHe is forty, retired on six thousand roubles from a distant relation, formerly a collegiate assessor who ground his teeth at petitioners and carried on an eighteen-month feud with an officer over the clanking of a sword. Then he takes it all back. \"I was lying when I said just now that I was a spiteful official. I was lying from spite.\" The real sting was never the cruelty; it was knowing, mid-cruelty, that he was only \"scaring sparrows at random\" — that a doll, or \"a cup of tea with sugar in it,\" would have appeased him. He could not become spiteful. He could not become anything: \"neither a rascal nor an honest man, neither a hero nor an insect.\"\n\nWatch what he does with a bad joke about bribes: he flags it as showing off, then refuses to strike it, \"on purpose.\" Every gesture arrives pre-audited. He will not let you catch him at anything he hasn't already caught himself at, which is also the reason he can never stop.\n\nChapter II names the disease: \"to be too conscious is an illness—a real thorough-going illness.\" Not a metaphor, he insists. The mechanism will be familiar to anyone who has watched themselves do a bad thing in real time. At the very moments he was most alive to \"the sublime and beautiful,\" he did his ugliest things — and awareness didn't stop him, it fed him. He'd come home on some disgusting Petersburg night, gnaw at himself over what could never be undone, and feel the bitterness curdle into \"a shameful accursed sweetness, and at last—into positive real enjoyment.\" The pleasure comes from the completeness of the knowledge: you've reached the last barrier, there's no escape, you could never become a different man — and if you could, \"perhaps in reality there was nothing for you to change into.\"\n\nChapter III sorts humanity into two. The \"direct\" man of action charges his object \"like an infuriated bull with its horns down\"; hit a wall, and he sincerely stops, finds it \"tranquillising, morally soothing, final.\" The narrator envies him till he is green in the face and concedes he is stupid — \"but perhaps the normal man should be stupid, how do you know?\" The other type came \"not out of the lap of nature but out of a retort,\" and standing beside the first he thinks of himself as a mouse — \"and the worst of it is, he himself, his very own self, looks on himself as a mouse; no one asks him to do so.\"\n\nThe mouse's revenge is the set piece. Insulted — and it \"almost always does feel insulted\" — it cannot act, because acute consciousness dissolves the justice of the act into doubts until they thicken into \"a sort of fatal brew, a stinking mess.\" So it creeps back into its hole, and what happens in the hole is the passage below. Whatever revenge it manages comes \"piecemeal, in trivial ways, from behind the stove, incognito,\" costing it a hundred times what it costs the man who \"will not even scratch himself.\"\n\nThen the wall itself: twice two makes four, the laws of nature, \"you are descended from a monkey.\" Everyone else finds this settling. He refuses to be consoled by a fact merely because it is true — he can't break the wall, \"but I am not going to be reconciled to it simply because it is a stone wall and I have not the strength.\"\n\nChapter IV closes with toothache. By the second or third day the moans are no longer pain but performance — malignant, aimed at a household that no longer believes him and knows he could moan \"more simply, without trills and flourishes.\" He knows it too. That is precisely the pleasure: being seen through, and adding one more flourish anyway."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "There in its nasty, stinking, underground home our insulted, crushed and ridiculed mouse promptly becomes absorbed in cold, malignant and, above all, everlasting spite. For forty years together it will remember its injury down to the smallest, most ignominious details, and every time will add, of itself, details still more ignominious, spitefully teasing and tormenting itself with its own imagination. It will itself be ashamed of its imaginings, but yet it will recall it all, it will go over and over every detail, it will invent unheard of things against itself, pretending that those things might happen, and will forgive nothing."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The worst pain isn't being blind to your own pattern — it's watching yourself run it in full light, and running it anyway."
+    }
+   ],
+   "recall": {
+    "q": "The narrator claims a real enjoyment in his own degradation. Where does he say that enjoyment actually comes from?",
+    "a": "From the too intense consciousness of the degradation itself — knowing you've reached the last barrier, that there's no escape, that you could never become a different man, and that even if you wished to change, \"perhaps in reality there was nothing for you to change into.\" Awareness doesn't relieve the shame; it's the ingredient that turns it sweet."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
    "id": "exp-history-g6rkmd",
    "source": "exp-history",
    "topic": "books",

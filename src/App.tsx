@@ -363,11 +363,18 @@ function Reader({
         <NoteBox key={`note-${card.id}`} card={card} />
         <div className="reader-foot">
           <span className="attribution">{card.attribution}</span>
-          {card.deepLink && (
-            <a href={card.deepLink} target="_blank" rel="noreferrer">
-              Original source →
-            </a>
-          )}
+          <span className="foot-links">
+            {card.listenLink && (
+              <a href={card.listenLink} target="_blank" rel="noreferrer">
+                Listen (audiobook) →
+              </a>
+            )}
+            {card.deepLink && (
+              <a href={card.deepLink} target="_blank" rel="noreferrer">
+                {card.kind === "deepdive" ? "Full book →" : "Original source →"}
+              </a>
+            )}
+          </span>
         </div>
         {nextCard ? (
           <button className="next-btn" onClick={onNext}>

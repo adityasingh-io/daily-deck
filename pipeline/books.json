@@ -1,0 +1,20 @@
+{
+  "queue": [
+    {
+      "id": "notes-underground",
+      "gutenbergId": 600,
+      "title": "Notes from the Underground",
+      "author": "Fyodor Dostoyevsky",
+      "translator": "Constance Garnett",
+      "installments": 10
+    },
+    {
+      "id": "beyond-good-evil",
+      "gutenbergId": 4363,
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "translator": "Helen Zimmern",
+      "installments": 12
+    }
+  ]
+}
