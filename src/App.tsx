@@ -9,19 +9,13 @@ import {
   getProgress,
   getDueReviews,
   answerReview,
+  getNote,
+  setNote,
+  getAllNotes,
   type ReviewItem,
 } from "./store";
-
-const TOPIC_LABEL: Record<string, string> = {
-  psych: "Psychology",
-  books: "Books & Ideas",
-  philosophy: "Philosophy",
-  "tech-craft": "Craft",
-  "tech-ai": "AI Industry",
-  world: "World",
-  econ: "Economics",
-  wildcard: "Wildcard",
-};
+import { TOPIC_LABEL } from "./labels";
+import { shareCard } from "./share";
 
 type Entry = { type: "card"; card: Card } | { type: "review"; item: ReviewItem };
 
@@ -69,7 +63,7 @@ function CardView({
   const readable = hasReadView(card);
 
   return (
-    <article className={`card kind-${card.kind}${hasImage ? " has-image" : ""}`}>
+    <article className={`card kind-${card.kind} topic-${card.topic}${hasImage ? " has-image" : ""}`}>
       {hasImage && (
         <div className="card-media">
           <img src={card.imageUrl} alt="" loading={index < 2 ? "eager" : "lazy"} />
@@ -201,6 +195,71 @@ function SectionView({ section }: { section: Section }) {
   return <div className="pull">{section.text}</div>;
 }
 
+function NoteBox({ card }: { card: Card }) {
+  const [text, setText] = useState(() => getNote(card.id));
+  return (
+    <div className="box notebox">
+      <span className="sec-label">My note</span>
+      <textarea
+        value={text}
+        rows={3}
+        placeholder="What did this make you think?"
+        onChange={(e) => {
+          setText(e.target.value);
+          setNote(card.id, e.target.value);
+        }}
+      />
+    </div>
+  );
+}
+
+function LibraryView({ onClose, onOpen }: { onClose: () => void; onOpen: (c: Card) => void }) {
+  const [q, setQ] = useState("");
+  const saves = getSaves();
+  const notes = getAllNotes();
+  const needle = q.trim().toLowerCase();
+  const filtered = needle
+    ? saves.filter((c) => `${c.title} ${c.body} ${notes[c.id] ?? ""}`.toLowerCase().includes(needle))
+    : saves;
+
+  return (
+    <div className="library" role="dialog" aria-modal="true" aria-label="Library">
+      <div className="reader-bar">
+        <button className="btn ghost" onClick={onClose}>
+          ← Deck
+        </button>
+        <span className="lib-count">Library · {saves.length}</span>
+      </div>
+      <div className="lib-scroll">
+        <input
+          className="lib-search"
+          type="search"
+          placeholder="Search saves and notes…"
+          value={q}
+          onChange={(e) => setQ(e.target.value)}
+        />
+        {filtered.length === 0 && (
+          <p className="lib-empty">
+            {saves.length === 0 ? "Nothing saved yet — tap Save on any card worth keeping." : "No matches."}
+          </p>
+        )}
+        {filtered.map((c) => (
+          <button key={c.id} className={`lib-row topic-${c.topic}`} onClick={() => onOpen(c)}>
+            {c.imageUrl && <img src={c.imageUrl} alt="" loading="lazy" />}
+            <span className="lib-row-main">
+              <span className="lib-row-title">{c.title}</span>
+              <span className="lib-row-meta">
+                <span className="lib-chip">{TOPIC_LABEL[c.topic] ?? c.topic}</span>
+                {notes[c.id] ? ` ✎ ${notes[c.id].slice(0, 60)}` : ""}
+              </span>
+            </span>
+          </button>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 function RecallBox({ card }: { card: Card }) {
   const [open, setOpen] = useState(false);
   if (!card.recall) return null;
@@ -247,12 +306,17 @@ function Reader({
     : [{ style: "prose", text: card.full ?? card.body }];
 
   return (
-    <div className="reader" role="dialog" aria-modal="true" aria-label={card.title}>
+    <div className={`reader topic-${card.topic}`} role="dialog" aria-modal="true" aria-label={card.title}>
       <div className="reader-bar">
         <button className="btn ghost" onClick={onClose} aria-label="Close reader">
-          ← Deck
+          ← Back
         </button>
-        <SaveButton card={card} />
+        <div className="actions">
+          <button className="btn ghost" onClick={() => shareCard(card).catch(() => {})}>
+            Share
+          </button>
+          <SaveButton card={card} />
+        </div>
       </div>
       <div className="reader-scroll" ref={scrollRef}>
         <span className="chip">{chipLabel(card)}</span>
@@ -262,6 +326,7 @@ function Reader({
           <SectionView key={i} section={s} />
         ))}
         <RecallBox key={card.id} card={card} />
+        <NoteBox key={`note-${card.id}`} card={card} />
         <div className="reader-foot">
           <span className="attribution">{card.attribution}</span>
           {card.deepLink && (
@@ -308,6 +373,8 @@ export default function App() {
   const [reviews, setReviews] = useState<ReviewItem[]>([]);
   const [error, setError] = useState(false);
   const [readingIndex, setReadingIndex] = useState<number | null>(null);
+  const [libraryOpen, setLibraryOpen] = useState(false);
+  const [libCard, setLibCard] = useState<Card | null>(null);
   const feedRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -379,8 +446,8 @@ export default function App() {
     }
   };
 
-  const reading = readingIndex !== null ? entryCard(entries[readingIndex]) : null;
-  const nextIdx = readingIndex !== null ? nextReadable(readingIndex) : null;
+  const reading = libCard ?? (readingIndex !== null ? entryCard(entries[readingIndex]) : null);
+  const nextIdx = libCard === null && readingIndex !== null ? nextReadable(readingIndex) : null;
 
   return (
     <>
@@ -394,11 +461,17 @@ export default function App() {
         )}
         <EndCard deck={deck} total={entries.length} />
       </div>
+      <button className="lib-btn" onClick={() => setLibraryOpen(true)}>
+        Library
+      </button>
+      {libraryOpen && (
+        <LibraryView onClose={() => setLibraryOpen(false)} onOpen={(c) => setLibCard(c)} />
+      )}
       {reading && (
         <Reader
           card={reading}
           nextCard={nextIdx !== null ? entryCard(entries[nextIdx]) : null}
-          onClose={() => setReadingIndex(null)}
+          onClose={() => (libCard ? setLibCard(null) : setReadingIndex(null))}
           onNext={() => goTo(nextIdx)}
         />
       )}

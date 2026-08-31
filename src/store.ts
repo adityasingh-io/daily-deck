@@ -86,6 +86,25 @@ export function setProgress(date: string, index: number) {
   write(PROGRESS_KEY, all);
 }
 
+/* ------------------------------- notes ------------------------------- */
+
+const NOTES_KEY = "dd.notes.v1";
+
+export function getNote(id: string): string {
+  return read<Record<string, string>>(NOTES_KEY, {})[id] ?? "";
+}
+
+export function getAllNotes(): Record<string, string> {
+  return read<Record<string, string>>(NOTES_KEY, {});
+}
+
+export function setNote(id: string, text: string) {
+  const all = read<Record<string, string>>(NOTES_KEY, {});
+  if (text.trim()) all[id] = text;
+  else delete all[id];
+  write(NOTES_KEY, all);
+}
+
 /* ---------------------------- review loop ---------------------------- */
 
 /** Every saved card with a recall Q&A enters the queue, due tomorrow. */

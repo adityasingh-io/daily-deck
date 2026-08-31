@@ -3,7 +3,7 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from 
 import { execFileSync } from "node:child_process";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
-import { collectRaw, fetchWildcards, fetchArticleText } from "./sources.mjs";
+import { collectRaw, fetchWildcards, fetchArticleMeta } from "./sources.mjs";
 import { scoreItems, writeCards, writeLetter, hash } from "./ai.mjs";
 import { selectByQuota, interleave } from "./mixer.mjs";
 
@@ -93,10 +93,13 @@ function recentContext() {
 // real thing to compress, not a standfirst.
 async function enrich(items) {
   for (const w of items) {
-    if (!w.fullInFeed && w.link) {
+    // Teaser feeds need the article page for text; anything without cover art
+    // gets the page fetched for its og:image too — visual cards matter.
+    if (w.link && (!w.fullInFeed || !w.image)) {
       try {
-        const full = await fetchArticleText(w.link);
-        if (full.length > w.text.length) w.text = full;
+        const meta = await fetchArticleMeta(w.link);
+        if (meta.text.length > w.text.length && !w.fullInFeed) w.text = meta.text;
+        if (!w.image && meta.image) w.image = meta.image;
       } catch (e) {
         console.error(`article fetch failed for ${w.link}: ${e.message}`);
       }

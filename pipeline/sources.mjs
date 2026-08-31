@@ -120,7 +120,7 @@ async function fetchRss(src) {
    Lessons from live testing: pages can contain several <article> tags (pick
    the longest), and some bury body text outside <article> entirely (fall
    back to whole-page <p> extraction). */
-export async function fetchArticleText(url) {
+export async function fetchArticleMeta(url) {
   const html = await get(url, "text");
   const extract = (s) =>
     [...s.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)].map((m) => stripHtml(m[1])).filter((p) => p.length > 80);
@@ -128,7 +128,13 @@ export async function fetchArticleText(url) {
   const scope = articles.sort((a, b) => b.length - a.length)[0];
   let paras = scope ? extract(scope) : [];
   if (paras.join(" ").length < 1500) paras = extract(html);
-  return paras.join("\n\n").slice(0, 24000);
+
+  // Cover art: og:image / twitter:image, either attribute order
+  const image =
+    html.match(/<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*content=["']([^"']+)["']/i)?.[1] ??
+    html.match(/<meta[^>]+content=["']([^"']+)["'][^>]*(?:property|name)=["'](?:og:image|twitter:image)["']/i)?.[1];
+
+  return { text: paras.join("\n\n").slice(0, 24000), image: image?.startsWith("http") ? image : undefined };
 }
 
 async function fetchLobsters() {
