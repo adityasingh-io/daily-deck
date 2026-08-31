@@ -160,7 +160,11 @@ async function fetchHn() {
   }));
 }
 
-/* Preformatted wildcards: already card-shaped, skip the AI entirely. */
+/* Wildcard CANDIDATES: already card-shaped, but they do NOT get a free pass —
+   build-deck scores them through the same triage as everything else and only
+   the best few earn slots. (Lesson: Wikipedia's featured article is whatever
+   Wikipedia chose that day — unranked, that put a Mariah Carey album in the
+   deck.) */
 async function fetchWildcards(dateIso) {
   const [y, m, d] = dateIso.split("-");
   const cards = [];
@@ -175,10 +179,17 @@ async function fetchWildcards(dateIso) {
         attribution: "Wikipedia · CC BY-SA 4.0",
       });
     }
-    const otd = (data.onthisday ?? []).find((e) => e.pages?.[0]?.thumbnail);
-    if (otd) {
+    for (const a of (data.mostread?.articles ?? []).filter((x) => x.extract && x.thumbnail).slice(0, 4)) {
       cards.push({
-        id: `otd-${dateIso}`, source: "wikipedia-onthisday", topic: "wildcard", kind: "fact",
+        id: `mr-${a.pageid}`, source: "wikipedia-mostread", topic: "wildcard", kind: "fact",
+        title: a.titles?.normalized ?? a.title, body: a.extract,
+        imageUrl: a.thumbnail.source, deepLink: a.content_urls?.desktop?.page,
+        attribution: "Wikipedia · CC BY-SA 4.0",
+      });
+    }
+    for (const [idx, otd] of (data.onthisday ?? []).filter((e) => e.pages?.[0]?.thumbnail).slice(0, 4).entries()) {
+      cards.push({
+        id: `otd-${dateIso}-${idx}`, source: "wikipedia-onthisday", topic: "wildcard", kind: "fact",
         title: `${otd.year} — on this day`, body: otd.text,
         imageUrl: otd.pages[0].thumbnail.source, deepLink: otd.pages[0].content_urls?.desktop?.page,
         attribution: "Wikipedia · CC BY-SA 4.0",
@@ -208,8 +219,7 @@ async function fetchWildcards(dateIso) {
     const fields = "id,title,image_id,artist_display,date_display,short_description,is_public_domain";
     const art = await get(`https://api.artic.edu/api/v1/artworks?page=${page}&limit=8&fields=${fields}`);
     const iiif = art.config?.iiif_url ?? "https://www.artic.edu/iiif/2";
-    const pick = (art.data ?? []).find((x) => x.image_id && x.is_public_domain);
-    if (pick) {
+    for (const pick of (art.data ?? []).filter((x) => x.image_id && x.is_public_domain).slice(0, 2)) {
       cards.push({
         id: `aic-${pick.id}`, source: "artic", topic: "wildcard", kind: "art",
         title: pick.title,

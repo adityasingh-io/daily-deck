@@ -42,16 +42,29 @@ for (const [k, v] of Object.entries(seen)) if (v < cutoff) delete seen[k];
 
 console.log(`Building deck for ${date}…`);
 
-const [raw, wildcards] = await Promise.all([collectRaw(), fetchWildcards(date)]);
-console.log(`Fetched ${raw.length} raw items + ${wildcards.length} wildcard cards`);
+const [raw, wildcardCands] = await Promise.all([collectRaw(), fetchWildcards(date)]);
+console.log(`Fetched ${raw.length} raw items + ${wildcardCands.length} wildcard candidates`);
 
 const fresh = raw.filter((it) => !seen[hash((it.link ?? it.title).toLowerCase())]);
 console.log(`${fresh.length} unseen items going to triage (model: ${profile.model})`);
 
-const scoredAll = await scoreItems(fresh, profile);
-const scored = scoredAll.filter((s) => s.score >= (profile.minScore ?? 5));
+// Wildcards ride through the SAME triage as everything else — no free passes.
+const wcAsRaw = wildcardCands
+  .filter((c) => !seen[hash((c.deepLink ?? c.title).toLowerCase())])
+  .map((c) => ({ title: c.title, text: c.body ?? "", topic: "wildcard", kindHint: c.kind, attribution: c.attribution, link: c.deepLink, _card: c }));
+
+const scoredAll = await scoreItems([...fresh, ...wcAsRaw], profile);
+const minScore = profile.minScore ?? 5;
+const scored = scoredAll.filter((s) => !s._card && s.score >= minScore);
+const wildcards = scoredAll
+  .filter((s) => s._card && s.score >= minScore)
+  .sort((a, b) => b.score - a.score)
+  .slice(0, profile.quotas.wildcard ?? 4)
+  .map((s) => s._card);
+console.log(`wildcards: ${wildcards.length}/${wcAsRaw.length} candidates survived triage`);
+
 const winners = selectByQuota(scored, profile.quotas);
-console.log(`${winners.length} winners selected for the writer pass (${scoredAll.length - scored.length} below quality floor)`);
+console.log(`${winners.length} winners selected for the writer pass (${scoredAll.filter((s) => !s._card).length - scored.length} below quality floor)`);
 
 // Cross-day memory: titles + recall questions from the last 7 shipped decks,
 // so the writer can weave today's pieces into what the reader already read.

@@ -187,17 +187,6 @@
    "publishedAt": "Mon, 31 Aug 2026 10:00:00 GMT"
   },
   {
-   "id": "tfa-2026-08-31",
-   "source": "wikipedia-featured",
-   "topic": "wildcard",
-   "kind": "fact",
-   "title": "Music Box (album)",
-   "body": "Music Box is the third studio album by American singer-songwriter Mariah Carey. It was released on August 31, 1993, by Columbia Records. In an attempt to appeal to a wider audience, Carey sought a radio-friendly approach for Music Box.",
-   "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/75/Music_Box_Mariah_Carey.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "deepLink": "https://en.wikipedia.org/wiki/Music_Box_(album)",
-   "attribution": "Wikipedia · CC BY-SA 4.0"
-  },
-  {
    "id": "psypost-dk5pue",
    "source": "psypost",
    "topic": "psych",

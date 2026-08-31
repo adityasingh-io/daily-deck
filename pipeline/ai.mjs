@@ -79,6 +79,8 @@ Score each raw item 0-10 for how much THIS reader wants it today (10 = drop ever
 - "kind": "concept" | "news" | "craft" | "essay"
 - "topic": keep the item's topic unless it clearly belongs elsewhere (allowed: psych, books, philosophy, tech-craft, tech-ai, world, econ)
 
+Items whose topic is "wildcard" are serendipity candidates (a striking image, an astonishing fact, a beautiful artwork): score them for genuine delight and wonder rather than topical fit — but pop-culture trivia, celebrity/album/sports pages, and anniversary filler score 2 or less. Keep their topic "wildcard" and their kind as given.
+
 Output ONLY a JSON array: [{"i": <index>, "score": <0-10>, "kind": "...", "topic": "..."}] — every input index exactly once.
 
 RAW ITEMS:
