@@ -87,9 +87,11 @@ export function getProgress(date: string): number {
   return read<Record<string, number>>(PROGRESS_KEY, {})[date] ?? 0;
 }
 
+/** Stores the LAST position, not the furthest — reopen where you closed. */
 export function setProgress(date: string, index: number) {
+  if (!Number.isFinite(index) || index < 0) return;
   const all = read<Record<string, number>>(PROGRESS_KEY, {});
-  if ((all[date] ?? 0) >= index) return;
+  if (all[date] === index) return;
   all[date] = index;
   write(PROGRESS_KEY, all);
 }

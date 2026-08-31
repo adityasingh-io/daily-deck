@@ -34,7 +34,7 @@ body {
 .card {
   height: 100dvh;
   scroll-snap-align: start;
-  scroll-snap-stop: always;
+  /* no scroll-snap-stop: a hard fling may skip past cards — that's fast scroll */
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -109,7 +109,48 @@ body {
   font-size: 12px;
   color: var(--muted);
   font-variant-numeric: tabular-nums;
+  background: none;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  padding: 4px 10px;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
 }
+.counter:active { border-color: var(--line); }
+
+/* Jump sheet */
+.jump-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--line);
+  padding: 13px 6px;
+  color: var(--ink);
+  cursor: pointer;
+}
+.jump-row.current { background: var(--surface); border-radius: 8px; }
+.jump-num {
+  font-family: "Bricolage Grotesque", system-ui, sans-serif;
+  font-size: 12px;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  min-width: 22px;
+}
+.jump-title {
+  font-family: "Bricolage Grotesque", system-ui, sans-serif;
+  font-size: 14.5px;
+  font-weight: 600;
+  flex: 1;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.jump-row .lib-chip { font-size: 11px; flex-shrink: 0; }
 
 h2 {
   font-family: "Bricolage Grotesque", system-ui, sans-serif;
@@ -255,6 +296,7 @@ h2 {
 .reader-scroll p {
   font-size: 1.157em; /* 18.5px at base scale; tracks the Aa toggle */
   line-height: 1.7;
+  font-weight: 500;
   margin-bottom: 1.1em;
   max-width: 62ch;
   text-wrap: pretty;

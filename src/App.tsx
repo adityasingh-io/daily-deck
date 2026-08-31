@@ -58,11 +58,13 @@ function CardView({
   index,
   total,
   onRead,
+  onJump,
 }: {
   card: Card;
   index: number;
   total: number;
   onRead: (i: number) => void;
+  onJump: () => void;
 }) {
   const hasImage = Boolean(card.imageUrl);
   const readable = hasReadView(card);
@@ -78,9 +80,9 @@ function CardView({
       <div className="card-body">
         <div className="card-meta">
           <span className="chip">{chipLabel(card)}</span>
-          <span className="counter">
+          <button className="counter" onClick={onJump} aria-label="Jump to card">
             {index + 1} / {total}
-          </span>
+          </button>
         </div>
         <h2>{card.title}</h2>
         <p className="body-text">{card.body}</p>
@@ -114,11 +116,13 @@ function ReviewCardView({
   index,
   total,
   onRead,
+  onJump,
 }: {
   item: ReviewItem;
   index: number;
   total: number;
   onRead: (i: number) => void;
+  onJump: () => void;
 }) {
   const [revealed, setRevealed] = useState(false);
   const [feedback, setFeedback] = useState<string | null>(null);
@@ -129,9 +133,9 @@ function ReviewCardView({
       <div className="card-body review-body">
         <div className="card-meta">
           <span className="chip chip-review">Do you remember</span>
-          <span className="counter">
+          <button className="counter" onClick={onJump} aria-label="Jump to card">
             {index + 1} / {total}
-          </span>
+          </button>
         </div>
         <p className="review-q">{recall.q}</p>
         {!revealed && (
@@ -214,6 +218,48 @@ function NoteBox({ card }: { card: Card }) {
           setNote(card.id, e.target.value);
         }}
       />
+    </div>
+  );
+}
+
+function JumpSheet({
+  entries,
+  current,
+  onJump,
+  onClose,
+}: {
+  entries: Entry[];
+  current: number;
+  onJump: (i: number) => void;
+  onClose: () => void;
+}) {
+  return (
+    <div className="library jump" role="dialog" aria-modal="true" aria-label="Jump to card">
+      <div className="reader-bar">
+        <button className="btn ghost" onClick={onClose}>
+          ← Close
+        </button>
+        <span className="lib-count">Today's {entries.length} cards</span>
+      </div>
+      <div className="lib-scroll">
+        {entries.map((e, i) => {
+          const card = entryCard(e);
+          return (
+            <button
+              key={i}
+              className={`jump-row topic-${card.topic}${i === current ? " current" : ""}`}
+              onClick={() => {
+                onJump(i);
+                onClose();
+              }}
+            >
+              <span className="jump-num">{i + 1}</span>
+              <span className="jump-title">{e.type === "review" ? `Review: ${card.title}` : card.title}</span>
+              <span className="lib-chip">{e.type === "review" ? "Recall" : chipLabel(card)}</span>
+            </button>
+          );
+        })}
+      </div>
     </div>
   );
 }
@@ -454,6 +500,7 @@ export default function App() {
   const [error, setError] = useState(false);
   const [readingIndex, setReadingIndex] = useState<number | null>(null);
   const [libraryOpen, setLibraryOpen] = useState(false);
+  const [jumpOpen, setJumpOpen] = useState(false);
   const [libCard, setLibCard] = useState<Card | null>(null);
   const feedRef = useRef<HTMLDivElement>(null);
 
@@ -523,7 +570,9 @@ export default function App() {
       });
     }
     const onScroll = () => {
+      if (!el.clientHeight) return;
       const i = Math.round(el.scrollTop / el.clientHeight);
+      if (!Number.isFinite(i)) return;
       setProgress(deck.date, i);
       if (entries[i]) markRead(entryCard(entries[i]).id);
     };
@@ -571,9 +620,23 @@ export default function App() {
       <div className="feed" ref={feedRef}>
         {entries.map((e, i) =>
           e.type === "review" ? (
-            <ReviewCardView key={`rv-${e.item.card.id}`} item={e.item} index={i} total={entries.length} onRead={goTo} />
+            <ReviewCardView
+              key={`rv-${e.item.card.id}`}
+              item={e.item}
+              index={i}
+              total={entries.length}
+              onRead={goTo}
+              onJump={() => setJumpOpen(true)}
+            />
           ) : (
-            <CardView key={e.card.id} card={e.card} index={i} total={entries.length} onRead={goTo} />
+            <CardView
+              key={e.card.id}
+              card={e.card}
+              index={i}
+              total={entries.length}
+              onRead={goTo}
+              onJump={() => setJumpOpen(true)}
+            />
           )
         )}
         <EndCard deck={deck} total={entries.length} />
@@ -581,6 +644,16 @@ export default function App() {
       <button className="lib-btn" onClick={() => setLibraryOpen(true)}>
         Library
       </button>
+      {jumpOpen && (
+        <JumpSheet
+          entries={entries}
+          current={deck ? getProgress(deck.date) : 0}
+          onJump={(i) => {
+            feedRef.current?.scrollTo({ top: i * feedRef.current.clientHeight });
+          }}
+          onClose={() => setJumpOpen(false)}
+        />
+      )}
       {libraryOpen && (
         <LibraryView onClose={() => setLibraryOpen(false)} onOpen={(c) => setLibCard(c)} />
       )}
