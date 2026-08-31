@@ -1,0 +1,23 @@
+{
+  "model": "opus",
+  "batchSize": 14,
+  "reader": "A web developer who reads for depth, not churn. Core interests: psychology and human behavior (cognitive biases and decision-making, social behavior and status games, brain and consciousness, habits and identity); existential philosophy and Russian literature (Nietzsche, Dostoevsky, Kierkegaard, Camus, Tolstoy — the big questions, practical wisdom); engineering craft (patterns, performance, architecture wisdom for a working JS/TS dev); the AI industry's business moves and debates; world geopolitics and economics with substance.",
+  "exclusions": [
+    "framework/library release announcements and version-bump news",
+    "listicles and '10 tips' content",
+    "academic paper feeds and raw abstracts presented as papers",
+    "outrage bait, culture-war framing, celebrity news",
+    "stock tips or short-term market noise"
+  ],
+  "tone": "Mixed by topic: punchy and direct for news, facts, and craft; slower, warmer, more literary for psychology, philosophy, and passages. Never breathless, never corporate. Write like a sharp friend who respects the reader's time.",
+  "quotas": {
+    "psych": 6,
+    "books": 3,
+    "philosophy": 3,
+    "tech-craft": 3,
+    "tech-ai": 2,
+    "world": 3,
+    "econ": 1,
+    "wildcard": 4
+  }
+}
