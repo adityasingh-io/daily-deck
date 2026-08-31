@@ -133,11 +133,10 @@ ${contextBlock}
 ${BLUEPRINTS}
 
 ALSO produce for each item:
-- "title": the hook, max 60 chars, curiosity the piece pays off — never clickbait it can't cash.
+- "title": max 60 chars. THE TITLE MUST BE UNDERSTOOD AT A GLANCE — a reader who sees only the title knows what the piece is about. State the actual subject or claim plainly; wit is welcome ONLY when the meaning survives without reading the piece. Never cryptic fragments, never riddles, never metaphors that only make sense afterward. Test: would a stranger correctly guess the piece's subject from the title alone?
 - "body": the card cover, 2-3 sentences — the single most interesting claim, stated plainly.
-- "predict": for essay/concept pieces where a natural guess exists: one short "guess before reading" question. Otherwise null.
 - "evidence": for study-based pieces ONLY, and ONLY from facts stated in the text: a short marker like "single study · n=94 · self-report". If the source doesn't state method details, null. NEVER estimate.
-- "recall": {"q": "...", "a": "..."} — one flashcard capturing the piece's core (stored for future spaced review).
+- "recall": {"q": "...", "a": "..."} — shown at the END of the piece as a "test yourself" moment, and stored for future spaced review. The question must test the piece's CENTRAL insight (not a trivia detail), be answerable by anyone who just read attentively, and be worth answering — the kind of question that makes the idea stick. The answer is 1-3 sentences, complete enough to re-teach the point.
 
 HARD RULES:
 1. Nothing that is not in the provided text. Never pad, never invent.
@@ -147,7 +146,7 @@ HARD RULES:
 5. End main prose ON substance; the "Worth carrying" line is the true closer.
 
 Output ONLY a JSON array, one object per item:
-[{"i": <index>, "title": "...", "body": "...", "predict": "..."|null, "evidence": "..."|null, "sections": [{"label": null|"...", "style": "prose"|"note"|"list"|"pull", "text": "..."} | {"label": "...", "style": "list", "items": ["..."]}], "recall": {"q": "...", "a": "..."}}]
+[{"i": <index>, "title": "...", "body": "...", "evidence": "..."|null, "sections": [{"label": null|"...", "style": "prose"|"note"|"list"|"pull", "text": "..."} | {"label": "...", "style": "list", "items": ["..."]}], "recall": {"q": "...", "a": "..."}}]
 
 ITEMS:
 ${JSON.stringify(batch.map((it, i) => ({ i, kind: it.kind, topic: it.topic, source: it.attribution, title: it.title, text: it.text })), null, 1)}`;
@@ -168,7 +167,6 @@ ${JSON.stringify(batch.map((it, i) => ({ i, kind: it.kind, topic: it.topic, sour
         kind: raw.kind,
         title: String(r.title).slice(0, 90),
         body: String(r.body ?? "").slice(0, 600),
-        predict: r.predict ? String(r.predict).slice(0, 200) : undefined,
         evidence: r.evidence ? String(r.evidence).slice(0, 120) : undefined,
         sections,
         recall: r.recall?.q && r.recall?.a ? { q: String(r.recall.q).slice(0, 300), a: String(r.recall.a).slice(0, 500) } : undefined,

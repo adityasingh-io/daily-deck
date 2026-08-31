@@ -70,7 +70,6 @@ function CardView({
         </div>
         <h2>{card.title}</h2>
         <p className="body-text">{card.body}</p>
-        {card.predict && <div className="predict">{card.predict}</div>}
         <div className="card-foot">
           <span className="attribution">
             {readable ? `${readMinutes(card)} min read · ` : ""}
@@ -129,6 +128,24 @@ function SectionView({ section }: { section: Section }) {
   return <div className="pull">{section.text}</div>;
 }
 
+function RecallBox({ card }: { card: Card }) {
+  const [open, setOpen] = useState(false);
+  if (!card.recall) return null;
+  return (
+    <div className="box recall">
+      <span className="sec-label">Test yourself</span>
+      <p className="recall-q">{card.recall.q}</p>
+      {open ? (
+        <p className="recall-a">{card.recall.a}</p>
+      ) : (
+        <button className="btn ghost" onClick={() => setOpen(true)}>
+          Reveal answer
+        </button>
+      )}
+    </div>
+  );
+}
+
 function Reader({
   card,
   nextCard,
@@ -171,6 +188,7 @@ function Reader({
         {sections.map((s, i) => (
           <SectionView key={i} section={s} />
         ))}
+        <RecallBox key={card.id} card={card} />
         <div className="reader-foot">
           <span className="attribution">{card.attribution}</span>
           {card.deepLink && (

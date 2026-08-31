@@ -115,16 +115,11 @@ h2 {
 .kind-letter .card-body { justify-content: center; flex: 1; }
 .kind-letter .body-text { font-style: italic; font-size: 19px; }
 
-/* Predict: guess before reading */
-.predict {
-  border-left: 3px solid var(--save);
-  padding: 8px 12px;
-  font-style: italic;
-  color: var(--save);
-  font-size: 15.5px;
-  background: rgba(232, 194, 104, 0.06);
-  border-radius: 0 8px 8px 0;
-}
+/* Test yourself: retrieval right after reading */
+.recall { border-color: rgba(232, 194, 104, 0.4); }
+.recall .sec-label { color: var(--save); }
+.recall-q { font-size: 17px; font-style: italic; margin-bottom: 12px; line-height: 1.55; }
+.recall-a { font-size: 16.5px; color: var(--muted); margin: 0; line-height: 1.6; border-top: 1px solid var(--line); padding-top: 12px; }
 
 .card-foot {
   display: flex;
