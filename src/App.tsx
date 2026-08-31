@@ -313,6 +313,8 @@ function RecallBox({ card }: { card: Card }) {
   );
 }
 
+const FONT_SCALES = [1, 1.12, 1.24, 0.9];
+
 function Reader({
   card,
   nextCard,
@@ -325,6 +327,17 @@ function Reader({
   onNext: () => void;
 }) {
   const scrollRef = useRef<HTMLDivElement>(null);
+  const touchStart = useRef<{ y: number; atTop: boolean } | null>(null);
+  const [fontIdx, setFontIdx] = useState(() => {
+    const n = Number(localStorage.getItem("dd.fontScale") ?? "0");
+    return Number.isInteger(n) && n >= 0 && n < FONT_SCALES.length ? n : 0;
+  });
+
+  const cycleFont = () => {
+    const next = (fontIdx + 1) % FONT_SCALES.length;
+    setFontIdx(next);
+    localStorage.setItem("dd.fontScale", String(next));
+  };
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => e.key === "Escape" && onClose();
@@ -336,17 +349,39 @@ function Reader({
     scrollRef.current?.scrollTo({ top: 0 });
   }, [card.id]);
 
+  // Pull down from the top of a piece to close — the native sheet gesture.
+  const onTouchStart = (e: React.TouchEvent) => {
+    touchStart.current = { y: e.touches[0].clientY, atTop: (scrollRef.current?.scrollTop ?? 1) <= 0 };
+  };
+  const onTouchMove = (e: React.TouchEvent) => {
+    const s = touchStart.current;
+    if (s?.atTop && e.touches[0].clientY - s.y > 95) {
+      touchStart.current = null;
+      onClose();
+    }
+  };
+
   const sections: Section[] = card.sections?.length
     ? card.sections
     : [{ style: "prose", text: card.full ?? card.body }];
 
   return (
-    <div className={`reader topic-${card.topic}`} role="dialog" aria-modal="true" aria-label={card.title}>
+    <div
+      className={`reader topic-${card.topic}`}
+      role="dialog"
+      aria-modal="true"
+      aria-label={card.title}
+      onTouchStart={onTouchStart}
+      onTouchMove={onTouchMove}
+    >
       <div className="reader-bar">
         <button className="btn ghost" onClick={onClose} aria-label="Close reader">
-          ← Back
+          ←
         </button>
         <div className="actions">
+          <button className="btn ghost" onClick={cycleFont} aria-label="Text size">
+            Aa
+          </button>
           <button className="btn ghost" onClick={() => shareLink(card)}>
             Share
           </button>
@@ -356,7 +391,7 @@ function Reader({
           <SaveButton card={card} />
         </div>
       </div>
-      <div className="reader-scroll" ref={scrollRef}>
+      <div className="reader-scroll" ref={scrollRef} style={{ fontSize: `${FONT_SCALES[fontIdx]}em` }}>
         <span className="chip">{chipLabel(card)}</span>
         <h1>{card.title}</h1>
         {card.evidence && <div className="evidence">{card.evidence}</div>}

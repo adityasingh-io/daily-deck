@@ -4,7 +4,7 @@ import { execFileSync } from "node:child_process";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { collectRaw, fetchWildcards, fetchArticleMeta } from "./sources.mjs";
-import { scoreItems, writeCards, writeLetter, hash } from "./ai.mjs";
+import { scoreItems, writeCards, editCards, writeLetter, hash } from "./ai.mjs";
 import { selectByQuota, interleave } from "./mixer.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -53,27 +53,60 @@ const wcAsRaw = wildcardCands
   .filter((c) => !seen[hash((c.deepLink ?? c.title).toLowerCase())])
   .map((c) => ({ title: c.title, text: c.body ?? "", topic: "wildcard", kindHint: c.kind, attribution: c.attribution, link: c.deepLink, _card: c }));
 
-// Learning loop: the reader's synced save behavior nudges triage scoring.
-async function readerSignals() {
+// Learning loop: the reader's synced save behavior feeds triage scoring
+// (topic counts + save titles) and the writer's quality bar (saved openings).
+async function readerState() {
+  const out = { signalsText: "", exemplars: [] };
   try {
     const env = JSON.parse(readFileSync(join(ROOT, "pipeline", ".env.json"), "utf8"));
     const res = await fetch(env.url, { headers: { Authorization: `Bearer ${env.token}` } });
-    if (!res.ok) return "";
+    if (!res.ok) return out;
     const state = await res.json();
     const entries = Object.entries(state.signals ?? {}).sort((a, b) => b[1] - a[1]);
-    if (!entries.length) return "";
-    const line = entries.map(([t, n]) => `${t}: ${n}`).join(", ");
     const titles = (state.savedTitles ?? []).slice(0, 20);
-    console.log(`reader signals: ${line} (+${titles.length} recent save titles)`);
-    return `\nOBSERVED BEHAVIOR — what this reader actually saves.
+    if (entries.length) {
+      const line = entries.map(([t, n]) => `${t}: ${n}`).join(", ");
+      console.log(`reader signals: ${line} (+${titles.length} recent save titles)`);
+      out.signalsText = `\nOBSERVED BEHAVIOR — what this reader actually saves.
 By topic: ${line}.${titles.length ? `\nTheir 20 most recent saves (newest first):\n${titles.map((t) => `- ${t}`).join("\n")}` : ""}
 Read the titles for the reader's taste WITHIN topics (e.g. saving Russian-literature pieces is not an appetite for publishing news). Give +1-2 on borderline items that match demonstrated taste; a never-saved vein gets no benefit of the doubt.\n`;
+    }
+    // First sentences of recently saved pieces = the style bar for the writer.
+    out.exemplars = (state.saves ?? [])
+      .slice(0, 5)
+      .map((c) => c.sections?.find((s) => s.style === "prose")?.text?.split(/(?<=[.!?])\s/)[0])
+      .filter((s) => s && s.length > 30)
+      .slice(0, 3);
   } catch {
-    return "";
+    /* offline or not yet synced — pipeline works without it */
+  }
+  return out;
+}
+
+// Anti-formula: openings from the last 3 editions, so the writer can't settle
+// into a house tic.
+function recentOpenings() {
+  try {
+    const files = readdirSync(DECKS)
+      .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f) && f !== `${date}.json`)
+      .sort()
+      .slice(-3);
+    const openings = [];
+    for (const f of files) {
+      const d = JSON.parse(readFileSync(join(DECKS, f), "utf8"));
+      for (const c of d.cards) {
+        const first = c.sections?.find((s) => s.style === "prose")?.text?.split(/(?<=[.!?])\s/)[0];
+        if (first && first.length > 30) openings.push(first.slice(0, 140));
+      }
+    }
+    return openings.slice(-10);
+  } catch {
+    return [];
   }
 }
 
-const scoredAll = await scoreItems([...fresh, ...wcAsRaw], profile, await readerSignals());
+const reader = await readerState();
+const scoredAll = await scoreItems([...fresh, ...wcAsRaw], profile, reader.signalsText);
 const minScore = profile.minScore ?? 5;
 const scored = scoredAll.filter((s) => !s._card && s.score >= minScore);
 const wildcards = scoredAll
@@ -168,7 +201,11 @@ if (existsSync(seriesPath)) {
 const quotas = { ...profile.quotas };
 if (installment) quotas.books = Math.max(0, (quotas.books ?? 0) - 1);
 
-const written = await writeCards(usable, profile, recentContext());
+const drafted = await writeCards(usable, profile, recentContext(), {
+  avoidOpenings: recentOpenings(),
+  exemplars: reader.exemplars,
+});
+const written = await editCards(drafted, profile);
 if (installment) written.unshift({ ...installment, score: 11 });
 const cards = interleave(written, wildcards, quotas);
 

@@ -120,9 +120,17 @@ NEWS — sections in order:
 1. Main prose (style "prose"): what happened, plainly, then why it matters — the mechanism behind the headline. Naturally short; no outrage framing.
 2. Watch next (label "Watch next", style "note"): what would confirm or flip the story.`;
 
-export async function writeCards(items, profile, recentContext = []) {
+export async function writeCards(items, profile, recentContext = [], opts = {}) {
   const contextBlock = recentContext.length
     ? `\nRECENTLY SERVED PIECES (across the batch, draw AT MOST ONE cross-reference per piece and only when genuinely illuminating — a forced connection is noise):\n${recentContext.slice(0, 40).map((t) => `- ${t}`).join("\n")}\n`
+    : "";
+
+  const antiFormula = opts.avoidOpenings?.length
+    ? `\nRECENT OPENING MOVES from earlier editions — do NOT echo these shapes or rhythms; find a genuinely different way in:\n${opts.avoidOpenings.slice(0, 10).map((s) => `- "${s}"`).join("\n")}\n`
+    : "";
+
+  const goldStandard = opts.exemplars?.length
+    ? `\nTHE BAR — openings of pieces this reader chose to SAVE. Match the quality that earned a save (do not imitate their subjects or copy their moves):\n${opts.exemplars.map((e) => `- "${e}"`).join("\n")}\n`
     : "";
 
   const makePrompt = (batch) => `You are the writer of "Daily Deck", a private one-reader knowledge feed. THIS IS THE ENTIRE PRODUCT: the reader does NOT open source articles. Your rewrite IS their reading — a long essay becomes a piece they can finish in a few minutes WITHOUT losing what made it worth reading. They read many pieces a day and want to come away having genuinely LEARNED things.
@@ -130,7 +138,7 @@ export async function writeCards(items, profile, recentContext = []) {
 THE READER: ${profile.reader}
 
 TONE: ${profile.tone}
-${contextBlock}
+${contextBlock}${antiFormula}${goldStandard}
 ${BLUEPRINTS}
 
 ALSO produce for each item:
@@ -152,7 +160,7 @@ Output ONLY a JSON array, one object per item:
 ITEMS:
 ${JSON.stringify(batch.map((it, i) => ({ i, kind: it.kind, topic: it.topic, source: it.attribution, title: it.title, text: it.text })), null, 1)}`;
 
-  const results = await runBatches(items, 2, makePrompt, profile.model, "write");
+  const results = await runBatches(items, 1, makePrompt, profile.model, "write");
   return results
     .map(({ raw, r }) => {
       const sections = Array.isArray(r.sections)
@@ -181,7 +189,54 @@ ${JSON.stringify(batch.map((it, i) => ({ i, kind: it.kind, topic: it.topic, sour
     .filter(Boolean);
 }
 
-/* ------------------------ pass 3: editor's letter ------------------------ */
+/* ------------------------ pass 3: the editor ------------------------ */
+
+/** Every drafted piece gets one ruthless edit round — draft → critique →
+    revise is the single biggest quality lever in AI writing. */
+export async function editCards(cards, profile) {
+  const makePrompt = (batch) => {
+    const c = batch[0];
+    return `You are the line editor of "Daily Deck", a private one-reader knowledge feed. Below is a drafted piece. Make it genuinely excellent for this reader — most drafts are good; yours ship great.
+
+THE READER: ${profile.reader}
+
+Edit ruthlessly, then output the REVISED piece:
+- Kill throat-clearing, hedged mush, and any sentence that repeats another (especially body-vs-prose and takeaways-vs-title redundancy).
+- The opening must earn attention in its first line; if it doesn't, rewrite it.
+- Takeaways must each say something the title doesn't; cut any that don't.
+- Sharpen the "Worth carrying" line until it actually lands.
+- Verify the recall question tests the piece's CORE and is answerable from the piece; fix if not.
+- Keep ALL factual specifics (names, numbers, examples) — cut connective tissue, never substance. Prefer cutting over padding.
+- NEVER introduce a fact, quote, or claim not already in the draft.
+- If the draft is already excellent, change little — do not churn for the sake of it.
+
+Output ONLY a JSON array with one object: [{"i": 0, "title": "...", "body": "...", "sections": [...same shapes...], "recall": {"q": "...", "a": "..."}}]
+
+DRAFT:
+${JSON.stringify({ kind: c.kind, topic: c.topic, title: c.title, body: c.body, sections: c.sections, recall: c.recall }, null, 1)}`;
+  };
+
+  const results = await runBatches(cards, 1, makePrompt, profile.model, "edit");
+  const edited = new Map();
+  for (const { raw, r } of results) {
+    const sections = Array.isArray(r.sections)
+      ? r.sections.filter(
+          (s) => s && ["prose", "note", "list", "pull"].includes(s.style) && (typeof s.text === "string" || Array.isArray(s.items))
+        )
+      : [];
+    if (!r.title || !sections.some((s) => s.style === "prose")) continue; // keep original on malformed edit
+    edited.set(raw.id, {
+      ...raw,
+      title: String(r.title).slice(0, 90),
+      body: String(r.body ?? raw.body).slice(0, 600),
+      sections,
+      recall: r.recall?.q && r.recall?.a ? { q: String(r.recall.q).slice(0, 300), a: String(r.recall.a).slice(0, 500) } : raw.recall,
+    });
+  }
+  return cards.map((c) => edited.get(c.id) ?? c);
+}
+
+/* ------------------------ pass 4: editor's letter ------------------------ */
 
 export async function writeLetter(cards, profile, dateIso) {
   const prompt = `You are the editor of "Daily Deck", a private one-reader knowledge feed. Today is ${dateIso}. Below are today's pieces. Write the editor's letter that opens the deck: 2-4 sentences — the thread connecting today's edition (if one honestly exists), and the one piece not to miss and why. Warm, specific, zero hype, no "welcome to". Address the reader as "you".
