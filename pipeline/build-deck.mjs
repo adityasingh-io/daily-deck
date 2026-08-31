@@ -63,8 +63,11 @@ async function readerSignals() {
     const entries = Object.entries(state.signals ?? {}).sort((a, b) => b[1] - a[1]);
     if (!entries.length) return "";
     const line = entries.map(([t, n]) => `${t}: ${n}`).join(", ");
-    console.log(`reader signals: ${line}`);
-    return `\nOBSERVED BEHAVIOR (what this reader actually saves, by topic): ${line}. Lean toward what they demonstrably keep — a heavily-saved topic deserves +1-2 on borderline items; a never-saved topic gets no benefit of the doubt.\n`;
+    const titles = (state.savedTitles ?? []).slice(0, 20);
+    console.log(`reader signals: ${line} (+${titles.length} recent save titles)`);
+    return `\nOBSERVED BEHAVIOR — what this reader actually saves.
+By topic: ${line}.${titles.length ? `\nTheir 20 most recent saves (newest first):\n${titles.map((t) => `- ${t}`).join("\n")}` : ""}
+Read the titles for the reader's taste WITHIN topics (e.g. saving Russian-literature pieces is not an appetite for publishing news). Give +1-2 on borderline items that match demonstrated taste; a never-saved vein gets no benefit of the doubt.\n`;
   } catch {
     return "";
   }

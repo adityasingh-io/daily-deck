@@ -7,8 +7,14 @@ DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 LOGS="$DIR/logs"
 mkdir -p "$LOGS"
 
-# claude CLI lives in ~/.local/bin; launchd jobs get a minimal PATH
+# launchd jobs get a minimal PATH: add claude (~/.local/bin) and node.
+# node may live under nvm/volta/homebrew — probe the usual homes, newest nvm first.
 export PATH="$HOME/.local/bin:/usr/local/bin:/opt/homebrew/bin:$PATH"
+if ! command -v node >/dev/null 2>&1; then
+  for d in $(ls -d "$HOME/.nvm/versions/node/"*/bin 2>/dev/null | sort -rV) "$HOME/.volta/bin"; do
+    if [ -x "$d/node" ]; then export PATH="$d:$PATH"; break; fi
+  done
+fi
 
 cd "$DIR"
 git pull --rebase --quiet 2>/dev/null || true

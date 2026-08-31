@@ -25,6 +25,9 @@ interface SyncState {
   retired: string[];
   readIds: string[];
   signals: Record<string, number>;
+  /** Recent save titles — lets the triage model infer sub-topic taste
+      (saving Dostoevsky pieces ≠ "more books in general"). */
+  savedTitles: string[];
 }
 
 function get<T>(key: string, fallback: T): T {
@@ -69,6 +72,7 @@ function collect(): SyncState {
     retired: get(KEYS.retired, []),
     readIds: get(KEYS.readIds, []),
     signals,
+    savedTitles: saves.slice(0, 20).map((c) => `[${c.topic}] ${c.title}`),
   };
 }
 
