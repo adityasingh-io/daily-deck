@@ -20,3 +20,10 @@ cd "$DIR"
 git pull --rebase --quiet 2>/dev/null || true
 
 node pipeline/build-deck.mjs --push >> "$LOGS/nightly-$(date +%Y-%m-%d).log" 2>&1
+
+# Book engine autopilot: when the current series has served its last
+# installment, plan the next queued book tonight so tomorrow gets Day 1.
+if node -e "const s=require('$DIR/pipeline/state/book-series.json'); process.exit(s.nextIndex >= s.installments.length ? 0 : 1)" 2>/dev/null; then
+  node pipeline/book-planner.mjs >> "$LOGS/planner-$(date +%Y-%m-%d).log" 2>&1 || true
+  cd "$DIR" && git add pipeline/state && git commit -q -m "book engine: next series planned" 2>/dev/null && git push -q 2>/dev/null || true
+fi

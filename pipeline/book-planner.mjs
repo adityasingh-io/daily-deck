@@ -23,13 +23,29 @@ const profile = JSON.parse(readFileSync(join(ROOT, "pipeline", "profile.json"), 
 const booksConfig = JSON.parse(readFileSync(join(ROOT, "pipeline", "books.json"), "utf8"));
 
 const argId = process.argv[2];
-const done = existsSync(SERIES_PATH) ? JSON.parse(readFileSync(SERIES_PATH, "utf8")) : null;
+const DONE_PATH = join(STATE, "books-done.json");
+const current = existsSync(SERIES_PATH) ? JSON.parse(readFileSync(SERIES_PATH, "utf8")) : null;
+const doneList = existsSync(DONE_PATH) ? JSON.parse(readFileSync(DONE_PATH, "utf8")) : [];
+
+// Don't clobber a series that's still being served (explicit book id overrides).
+if (current && current.nextIndex < current.installments.length && !argId) {
+  console.log(`Series "${current.title}" still in progress (${current.nextIndex}/${current.installments.length}) — nothing to plan.`);
+  process.exit(0);
+}
+
+// A finished series goes on the done list so the queue advances, never loops.
+if (current && current.nextIndex >= current.installments.length && !doneList.includes(current.bookId)) {
+  doneList.push(current.bookId);
+  mkdirSync(STATE, { recursive: true });
+  writeFileSync(DONE_PATH, JSON.stringify(doneList));
+}
+
 const book = argId
   ? booksConfig.queue.find((b) => b.id === argId)
-  : booksConfig.queue.find((b) => b.id !== done?.bookId) ?? booksConfig.queue[0];
+  : booksConfig.queue.find((b) => !doneList.includes(b.id) && b.id !== current?.bookId);
 if (!book) {
-  console.error("No book found. Check pipeline/books.json");
-  process.exit(1);
+  console.log("Book queue exhausted — add the next book to pipeline/books.json.");
+  process.exit(0);
 }
 
 console.log(`Planning "${book.title}" (${book.author}, ${book.translator} tr.) — ${book.installments} installments`);
@@ -49,18 +65,18 @@ console.log(`Text: ${totalWords.toLocaleString()} words`);
 const paras = text.split(/\r?\n\r?\n+/).filter((p) => p.trim());
 const perChunk = totalWords / book.installments;
 const chunks = [];
-let current = [];
+let buf = [];
 let count = 0;
 for (const p of paras) {
-  current.push(p.replace(/\r?\n/g, " ").trim());
+  buf.push(p.replace(/\r?\n/g, " ").trim());
   count += p.split(/\s+/).length;
   if (count >= perChunk && chunks.length < book.installments - 1) {
-    chunks.push(current.join("\n\n"));
-    current = [];
+    chunks.push(buf.join("\n\n"));
+    buf = [];
     count = 0;
   }
 }
-if (current.length) chunks.push(current.join("\n\n"));
+if (buf.length) chunks.push(buf.join("\n\n"));
 console.log(`Chunked into ${chunks.length} installments (~${Math.round(perChunk)} words each)`);
 
 // ---- LibriVox listen link ----
