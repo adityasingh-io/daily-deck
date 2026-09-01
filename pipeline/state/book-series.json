@@ -2,8 +2,8 @@
  "bookId": "notes-underground",
  "title": "Notes from the Underground",
  "author": "Fyodor Dostoyevsky",
- "nextIndex": 2,
- "lastDate": "2026-09-01",
+ "nextIndex": 3,
+ "lastDate": "2026-09-02",
  "installments": [
   {
    "id": "book-notes-underground-1",
