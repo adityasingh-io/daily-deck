@@ -82,21 +82,29 @@ function normalizeFeedItems(parsed) {
 /* fullInFeed: the feed carries the complete article, so the writer pass gets
    it for free. Teaser feeds get their article page fetched (winners only). */
 const RSS_SOURCES = [
-  { id: "psypost",       url: "https://www.psypost.org/feed",                    topic: "psych",      kindHint: "concept", take: 5, fullInFeed: true,  attribution: "PsyPost" },
-  { id: "psyche",        url: "https://psyche.co/feed.rss",                      topic: "psych",      kindHint: "essay",   take: 4, fullInFeed: false, attribution: "Psyche (Aeon)" },
-  { id: "exp-history",   url: "https://www.experimental-history.com/feed",       topic: "psych",      kindHint: "essay",   take: 2, fullInFeed: true,  attribution: "Experimental History" },
-  { id: "phil-break",    url: "https://philosophybreak.com/rss.xml",             topic: "philosophy", kindHint: "concept", take: 4, fullInFeed: false, attribution: "Philosophy Break" },
-  { id: "marginalian",   url: "https://www.themarginalian.org/feed/",            topic: "books",      kindHint: "essay",   take: 3, fullInFeed: true,  attribution: "The Marginalian" },
-  { id: "aeon",          url: "https://aeon.co/feed.rss",                        topic: "philosophy", kindHint: "essay",   take: 3, fullInFeed: false, attribution: "Aeon" },
-  { id: "semafor",       url: "https://www.semafor.com/rss.xml",                 topic: "world",      kindHint: "news",    take: 6, fullInFeed: true,  attribution: "Semafor" },
-  { id: "wotr",          url: "https://warontherocks.com/feed/",                 topic: "world",      kindHint: "essay",   take: 3, fullInFeed: false, attribution: "War on the Rocks" },
-  { id: "bbc-world",     url: "https://feeds.bbci.co.uk/news/world/rss.xml",     topic: "world",      kindHint: "news",    take: 5, fullInFeed: false, attribution: "BBC News" },
-  { id: "marginal-rev",  url: "https://marginalrevolution.com/feed",             topic: "econ",       kindHint: "concept", take: 4, fullInFeed: true,  attribution: "Marginal Revolution" },
-  { id: "import-ai",     url: "https://importai.substack.com/feed",              topic: "tech-ai",    kindHint: "essay",   take: 2, fullInFeed: true,  attribution: "Import AI" },
-  { id: "one-useful",    url: "https://www.oneusefulthing.org/feed",             topic: "tech-ai",    kindHint: "essay",   take: 2, fullInFeed: true,  attribution: "One Useful Thing" },
-  { id: "jvns",          url: "https://jvns.ca/atom.xml",                        topic: "tech-craft", kindHint: "craft",   take: 2, fullInFeed: true,  attribution: "Julia Evans" },
-  { id: "fowler",        url: "https://martinfowler.com/feed.atom",              topic: "tech-craft", kindHint: "craft",   take: 2, fullInFeed: true,  attribution: "martinfowler.com" },
-  { id: "jim-nielsen",   url: "https://blog.jim-nielsen.com/feed.xml",           topic: "tech-craft", kindHint: "craft",   take: 2, fullInFeed: true,  attribution: "Jim Nielsen" },
+  // psychology — the spine, supplied accordingly
+  { id: "psypost",       url: "https://www.psypost.org/feed",                     topic: "psych",      take: 8, fullInFeed: true,  attribution: "PsyPost" },
+  { id: "psyche",        url: "https://psyche.co/feed.rss",                       topic: "psych",      take: 4, fullInFeed: false, attribution: "Psyche (Aeon)" },
+  { id: "exp-history",   url: "https://www.experimental-history.com/feed",        topic: "psych",      take: 2, fullInFeed: true,  attribution: "Experimental History" },
+  { id: "nautilus",      url: "https://nautil.us/feed",                           topic: "psych",      take: 4, fullInFeed: false, attribution: "Nautilus" },
+  { id: "intrinsic",     url: "https://www.theintrinsicperspective.com/feed",     topic: "psych",      take: 2, fullInFeed: true,  attribution: "The Intrinsic Perspective" },
+  { id: "ness-labs",     url: "https://nesslabs.com/feed",                        topic: "psych",      take: 2, fullInFeed: true,  attribution: "Ness Labs" },
+  { id: "acx",           url: "https://www.astralcodexten.com/feed",              topic: "psych",      take: 3, fullInFeed: true,  attribution: "Astral Codex Ten" },
+  { id: "sd-mind",       url: "https://www.sciencedaily.com/rss/mind_brain.xml",  topic: "psych",      take: 5, fullInFeed: false, attribution: "ScienceDaily" },
+  // philosophy & books
+  { id: "phil-break",    url: "https://philosophybreak.com/rss.xml",              topic: "philosophy", take: 4, fullInFeed: false, attribution: "Philosophy Break" },
+  { id: "aeon",          url: "https://aeon.co/feed.rss",                         topic: "philosophy", take: 3, fullInFeed: false, attribution: "Aeon" },
+  { id: "daily-phil",    url: "https://daily-philosophy.com/index.xml",           topic: "philosophy", take: 3, fullInFeed: true,  attribution: "Daily Philosophy" },
+  { id: "marginalian",   url: "https://www.themarginalian.org/feed/",             topic: "books",      take: 3, fullInFeed: true,  attribution: "The Marginalian" },
+  // the citizen's briefing (info register)
+  { id: "semafor",       url: "https://www.semafor.com/rss.xml",                  topic: "world",      take: 6, fullInFeed: true,  attribution: "Semafor" },
+  { id: "wotr",          url: "https://warontherocks.com/feed/",                  topic: "world",      take: 2, fullInFeed: false, attribution: "War on the Rocks" },
+  { id: "bbc-world",     url: "https://feeds.bbci.co.uk/news/world/rss.xml",      topic: "world",      take: 5, fullInFeed: false, attribution: "BBC News" },
+  { id: "marginal-rev",  url: "https://marginalrevolution.com/feed",              topic: "econ",       take: 4, fullInFeed: true,  attribution: "Marginal Revolution" },
+  { id: "et-economy",    url: "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms", topic: "econ", take: 5, fullInFeed: false, attribution: "The Economic Times" },
+  { id: "mint-economy",  url: "https://www.livemint.com/rss/economy",             topic: "econ",       take: 4, fullInFeed: false, attribution: "Mint" },
+  { id: "import-ai",     url: "https://importai.substack.com/feed",               topic: "tech-ai",    take: 2, fullInFeed: true,  attribution: "Import AI" },
+  { id: "one-useful",    url: "https://www.oneusefulthing.org/feed",              topic: "tech-ai",    take: 2, fullInFeed: true,  attribution: "One Useful Thing" },
 ];
 
 async function fetchRss(src) {
@@ -108,11 +116,78 @@ async function fetchRss(src) {
       ...it,
       source: src.id,
       topic: src.topic,
-      kindHint: src.kindHint,
       attribution: src.attribution,
       fullInFeed: src.fullInFeed,
       text: it.text.slice(0, src.fullInFeed ? 24000 : 1600),
     }));
+}
+
+/* Tech-fact suppliers: link aggregators kept for genuinely fascinating
+   technical FACTS (info register), not tutorials or release news —
+   triage + charter handle that filtering. */
+async function fetchLobstersHn() {
+  const out = [];
+  try {
+    const items = await get("https://lobste.rs/hottest.json");
+    out.push(
+      ...items.slice(0, 5).map((s) => ({
+        source: "lobsters",
+        topic: "tech-ai",
+        attribution: "via Lobsters",
+        title: s.title,
+        link: s.url || s.comments_url,
+        text: stripHtml(s.description_plain ?? s.description ?? "").slice(0, 800) || `${s.score} points on Lobsters, tags: ${(s.tags ?? []).join(", ")}`,
+        published: s.created_at,
+      }))
+    );
+  } catch (e) {
+    console.error("lobsters failed:", e.message);
+  }
+  try {
+    const cutoff = Math.floor(Date.now() / 1000) - 48 * 3600;
+    const data = await get(`https://hn.algolia.com/api/v1/search_by_date?tags=story&numericFilters=points%3E150,created_at_i%3E${cutoff}&hitsPerPage=12`);
+    out.push(
+      ...(data.hits ?? []).slice(0, 8).map((h) => ({
+        source: "hackernews",
+        topic: "tech-ai",
+        attribution: "via Hacker News",
+        title: h.title,
+        link: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
+        text: `${h.points} points, ${h.num_comments} comments on Hacker News. ${stripHtml(h.story_text ?? "").slice(0, 400)}`,
+        published: h.created_at,
+      }))
+    );
+  } catch (e) {
+    console.error("hn failed:", e.message);
+  }
+  return out;
+}
+
+/* Daily India data card: a rotating FRED series with its real chart image.
+   fredgraph.csv/png are public endpoints — no API key needed. */
+const FRED_INDIA = [
+  { id: "INDCPIALLMINMEI", name: "India consumer price index (inflation)" },
+  { id: "DEXINUS", name: "Indian rupees per US dollar (exchange rate)" },
+  { id: "INDPROINDMISMEI", name: "India industrial production" },
+];
+
+async function fetchFredIndia() {
+  const pick = FRED_INDIA[new Date().getDate() % FRED_INDIA.length];
+  const csv = await get(`https://fred.stlouisfed.org/graph/fredgraph.csv?id=${pick.id}`, "text");
+  const rows = csv.trim().split("\n").slice(1).filter((r) => !r.includes("."));
+  const recent = csv.trim().split("\n").slice(-26).join("\n");
+  if (!rows && !recent) throw new Error("empty series");
+  return {
+    source: "fred-india",
+    topic: "econ",
+    attribution: "FRED · St. Louis Fed",
+    title: `Data: ${pick.name}`,
+    link: `https://fred.stlouisfed.org/series/${pick.id}`,
+    image: `https://fred.stlouisfed.org/graph/fredgraph.png?id=${pick.id}`,
+    fullInFeed: true,
+    text: `Economic data series: ${pick.name} (FRED series ${pick.id}). The most recent observations, as CSV (date,value):\n${recent}\n\nWrite this as a short info card: what the number is, where it stands now, how it has moved recently, and what that means for an Indian reader. The card's image is the actual chart.`,
+    published: new Date().toISOString(),
+  };
 }
 
 /* Naive readability: for teaser feeds, pull the article page and keep the
@@ -137,119 +212,15 @@ export async function fetchArticleMeta(url) {
   return { text: paras.join("\n\n").slice(0, 24000), image: image?.startsWith("http") ? image : undefined };
 }
 
-async function fetchLobsters() {
-  const items = await get("https://lobste.rs/t/practices,programming.json").catch(() => get("https://lobste.rs/hottest.json"));
-  return items.slice(0, 6).map((s) => ({
-    source: "lobsters",
-    topic: "tech-craft",
-    kindHint: "craft",
-    attribution: "via Lobsters",
-    title: s.title,
-    link: s.url || s.comments_url,
-    text: stripHtml(s.description_plain ?? s.description ?? "").slice(0, 800) || `${s.score} points on Lobsters, tags: ${(s.tags ?? []).join(", ")}`,
-    published: s.created_at,
-  }));
-}
-
-async function fetchHn() {
-  const cutoff = Math.floor(Date.now() / 1000) - 48 * 3600;
-  const data = await get(`https://hn.algolia.com/api/v1/search_by_date?tags=story&numericFilters=points%3E150,created_at_i%3E${cutoff}&hitsPerPage=12`);
-  return (data.hits ?? []).slice(0, 8).map((h) => ({
-    source: "hackernews",
-    topic: "tech-craft",
-    kindHint: "craft",
-    attribution: "via Hacker News",
-    title: h.title,
-    link: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
-    text: `${h.points} points, ${h.num_comments} comments on Hacker News. ${stripHtml(h.story_text ?? "").slice(0, 400)}`,
-    published: h.created_at,
-  }));
-}
-
-/* Wildcard CANDIDATES: already card-shaped, but they do NOT get a free pass —
-   build-deck scores them through the same triage as everything else and only
-   the best few earn slots. (Lesson: Wikipedia's featured article is whatever
-   Wikipedia chose that day — unranked, that put a Mariah Carey album in the
-   deck.) */
-async function fetchWildcards(dateIso) {
-  const [y, m, d] = dateIso.split("-");
-  const cards = [];
-
-  try {
-    const data = await get(`https://api.wikimedia.org/feed/v1/wikipedia/en/featured/${y}/${m}/${d}`);
-    if (data.tfa?.extract) {
-      cards.push({
-        id: `tfa-${dateIso}`, source: "wikipedia-featured", topic: "wildcard", kind: "fact",
-        title: data.tfa.titles?.normalized ?? data.tfa.title, body: data.tfa.extract,
-        imageUrl: data.tfa.thumbnail?.source, deepLink: data.tfa.content_urls?.desktop?.page,
-        attribution: "Wikipedia · CC BY-SA 4.0",
-      });
-    }
-    for (const a of (data.mostread?.articles ?? []).filter((x) => x.extract && x.thumbnail).slice(0, 4)) {
-      cards.push({
-        id: `mr-${a.pageid}`, source: "wikipedia-mostread", topic: "wildcard", kind: "fact",
-        title: a.titles?.normalized ?? a.title, body: a.extract,
-        imageUrl: a.thumbnail.source, deepLink: a.content_urls?.desktop?.page,
-        attribution: "Wikipedia · CC BY-SA 4.0",
-      });
-    }
-    for (const [idx, otd] of (data.onthisday ?? []).filter((e) => e.pages?.[0]?.thumbnail).slice(0, 4).entries()) {
-      cards.push({
-        id: `otd-${dateIso}-${idx}`, source: "wikipedia-onthisday", topic: "wildcard", kind: "fact",
-        title: `${otd.year} — on this day`, body: otd.text,
-        imageUrl: otd.pages[0].thumbnail.source, deepLink: otd.pages[0].content_urls?.desktop?.page,
-        attribution: "Wikipedia · CC BY-SA 4.0",
-      });
-    }
-  } catch (e) {
-    console.error("wikimedia wildcard failed:", e.message);
-  }
-
-  try {
-    const apodKey = process.env.NASA_API_KEY ?? "DEMO_KEY";
-    const a = await get(`https://api.nasa.gov/planetary/apod?api_key=${apodKey}&thumbs=true`);
-    if (a.title) {
-      cards.push({
-        id: `apod-${a.date}`, source: "nasa-apod", topic: "wildcard", kind: "fact",
-        title: a.title, body: a.explanation?.split(". ").slice(0, 3).join(". ") + ".",
-        imageUrl: a.media_type === "image" ? a.url : a.thumbnail_url, deepLink: "https://apod.nasa.gov/apod/",
-        attribution: a.copyright ? `NASA APOD · © ${String(a.copyright).trim()}` : "NASA APOD · public domain",
-      });
-    }
-  } catch (e) {
-    console.error("apod failed:", e.message);
-  }
-
-  try {
-    const page = 1 + Math.floor(Math.random() * 200);
-    const fields = "id,title,image_id,artist_display,date_display,short_description,is_public_domain";
-    const art = await get(`https://api.artic.edu/api/v1/artworks?page=${page}&limit=8&fields=${fields}`);
-    const iiif = art.config?.iiif_url ?? "https://www.artic.edu/iiif/2";
-    for (const pick of (art.data ?? []).filter((x) => x.image_id && x.is_public_domain).slice(0, 2)) {
-      cards.push({
-        id: `aic-${pick.id}`, source: "artic", topic: "wildcard", kind: "art",
-        title: pick.title,
-        body: stripHtml(pick.short_description ?? "") || `${pick.artist_display ?? ""} · ${pick.date_display ?? ""}`,
-        imageUrl: `${iiif}/${pick.image_id}/full/843,/0/default.jpg`,
-        deepLink: `https://www.artic.edu/artworks/${pick.id}`,
-        attribution: "Art Institute of Chicago · CC0",
-      });
-    }
-  } catch (e) {
-    console.error("aic failed:", e.message);
-  }
-
-  return cards;
-}
 
 export async function collectRaw() {
   const jobs = [
     ...RSS_SOURCES.map((s) => fetchRss(s).catch((e) => (console.error(`${s.id} failed:`, e.message), []))),
-    fetchLobsters().catch((e) => (console.error("lobsters failed:", e.message), [])),
-    fetchHn().catch((e) => (console.error("hn failed:", e.message), [])),
+    fetchLobstersHn(),
+    fetchFredIndia()
+      .then((item) => [item])
+      .catch((e) => (console.error("fred-india failed:", e.message), [])),
   ];
   const results = await Promise.all(jobs);
   return results.flat();
 }
-
-export { fetchWildcards };

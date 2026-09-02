@@ -20,6 +20,7 @@ const SERIES_PATH = join(STATE, "book-series.json");
 const UA = { "User-Agent": "DailyDeck/0.1 (personal knowledge feed; +https://github.com/adityasingh-io/daily-deck)" };
 
 const profile = JSON.parse(readFileSync(join(ROOT, "pipeline", "profile.json"), "utf8"));
+const charter = readFileSync(join(ROOT, "pipeline", "charter.md"), "utf8");
 const booksConfig = JSON.parse(readFileSync(join(ROOT, "pipeline", "books.json"), "utf8"));
 
 const argId = process.argv[2];
@@ -98,7 +99,8 @@ let storySoFar = "";
 for (let n = 0; n < chunks.length; n++) {
   const prompt = `You are serializing "${book.title}" by ${book.author} (${book.translator} translation, public domain) for "Daily Deck", a private one-reader knowledge feed. One installment per day. Each installment is a 4-6 minute guided read that lets the reader genuinely EXPERIENCE this stretch of the book — its voice, its psychology, its best moments — not a summary about it.
 
-THE READER: ${profile.reader}
+THE CHARTER (its reader and easy-English mandate govern your writing):
+${charter}
 
 ${storySoFar ? `THE STORY SO FAR (they read this in earlier installments): ${storySoFar}` : "THIS IS DAY 1: open the series — drop the reader straight into the book's world and its narrator with zero throat-clearing about 'this classic novel'."}
 

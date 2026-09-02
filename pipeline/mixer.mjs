@@ -1,12 +1,11 @@
-/* Quota-aware selection (before the expensive writer pass) and
-   cluster interleaving (after it). */
+/* FALLBACK ONLY: when the chief editor's lineup is malformed, this quota
+   algorithm composes the deck so an edition always ships. */
 
 export function selectByQuota(scored, quotas) {
   const byTopic = new Map();
   for (const item of [...scored].sort((a, b) => b.score - a.score)) {
     const list = byTopic.get(item.topic) ?? [];
     if (list.length < (quotas[item.topic] ?? 0)) {
-      // max 2 per source per deck, so no feed gets monotone
       if (list.filter((c) => c.source === item.source).length < 2) {
         list.push(item);
         byTopic.set(item.topic, list);
@@ -16,28 +15,26 @@ export function selectByQuota(scored, quotas) {
   return [...byTopic.values()].flat();
 }
 
-export function interleave(cards, wildcards, quotas) {
-  const topic = (t) => cards.filter((c) => c.topic === t);
+export function interleave(items, quotas) {
+  const topic = (t) => items.filter((c) => c.topic === t);
   const clusters = [
     topic("psych"),
     [...topic("books"), ...topic("philosophy")],
-    [...topic("tech-craft"), ...topic("tech-ai")],
+    topic("tech-ai"),
     [...topic("world"), ...topic("econ")],
-    wildcards.slice(0, quotas.wildcard ?? 4),
   ];
 
-  const deck = [];
+  const ordered = [];
   let added = true;
   while (added) {
     added = false;
     for (const cluster of clusters) {
       const next = cluster.shift();
       if (next) {
-        const { score, fullInFeed, ...card } = next;
-        deck.push(card);
+        ordered.push(next);
         added = true;
       }
     }
   }
-  return deck;
+  return ordered;
 }
