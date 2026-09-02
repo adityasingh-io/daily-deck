@@ -1,55 +1,97 @@
 {
  "date": "2026-09-02",
- "generatedAt": "2026-09-01T20:32:03.286Z",
+ "generatedAt": "2026-09-02T07:25:11.705Z",
  "cards": [
   {
    "id": "letter-2026-09-02",
    "source": "editor",
    "topic": "wildcard",
    "kind": "letter",
-   "title": "Surprise, read as malfunction",
-   "body": "Four pieces today press on the same nerve: what a system gives up when you engineer the surprise out of it. A Fed chair argues markets should have to read the economy instead of his intentions; a case for paidia says scorekeeping ate the kind of play that has no point; and Dostoevsky's narrator, on Day 3, would sooner insist twice two makes five than live somewhere everything has already been calculated for him. The one not to miss is the first Air Force pilot to fly with an autonomous wingman, trained since day one to treat any surprise from a machine as a malfunction and now having to sort out which surprises are the aircraft being right.",
+   "title": "Old certainties, quietly retired",
+   "body": "Three pieces today quietly retire ideas about the mind that you were probably taught as fact: that a \"lizard brain\" runs your fear, that the brain works like a digital computer, that reading is something we were built to do. The one not to miss is the piece on the man who lost his amygdala — the lizard-brain story, it turns out, was never really in the evidence. The rest of the deck sits lighter: zero before it became a number, why onion prices swing, and day three of the book.",
    "deepLink": "",
    "attribution": "Your editor"
   },
   {
-   "id": "psypost-9pmklj",
-   "source": "psypost",
+   "id": "mit-neuro-1haervp",
+   "source": "mit-neuro",
    "topic": "psych",
-   "kind": "concept",
-   "title": "DMT slides brain waves toward static, and the self goes with them",
-   "body": "The brain normally runs just shy of chaos, in a state physicists call criticality, where past electrical activity keeps echoing into future activity. A new study found DMT knocks it off that edge — and the further a person's alpha and theta waves slid away from criticality, the more completely they reported their sense of self coming apart.",
-   "evidence": "two pooled samples · n=27 · within-subject saline placebo · EEG + self-report",
+   "kind": "essay",
+   "title": "New theory: the brain computes with waves, not circuits",
+   "body": "Three MIT scientists argue the brain is not a digital machine flipping switches one step at a time. It is closer to an analog one: rhythms that overlap, add and cancel, doing many calculations at once. Consciousness appears, they say, when those rhythms pull the whole brain into one organized state. This is a theory, not a measurement.",
    "sections": [
     {
      "label": null,
      "style": "prose",
-     "text": "Twenty-seven healthy adults lay under EEG caps while DMT went into a vein. On a different day, the same people got saline. After the drug wore off, they were handed a questionnaire, and the researchers cared most about one line on it: whether they had experienced \"a disintegration of my usual sense of 'self' or 'ego.'\"\n\nThat dissolution turns out to have a physical signature, and the signature is a loss of structure.\n\nThe physics term is criticality: the exact boundary between rigid order and total chaos, where the healthy human brain normally sits. Being near that boundary is what lets regions talk to each other efficiently across both short and long distances, and it produces the rich variety of wave patterns that ordinary conscious awareness seems to require.\n\nIt also gives the brain long-range temporal correlations. The echoes linger instead of fading out quickly — a short-term biological memory that holds a stream of thought together and keeps a sense of identity stable across minutes.\n\nTo measure how close a brain sits to that edge, the team used detrended fluctuation analysis, which spits out a single number. Near one means highly structured and complex, what engineers call pink noise. Near one half means random and structureless, the static of white noise.\n\nUnder DMT, those numbers dropped across theta waves (memory), alpha waves (relaxed wakefulness), and beta waves (active thinking). The signals slid toward static.\n\nThen the team asked which way the brain had fallen off the edge, using a newly developed metric for the ratio of excitatory to inhibitory activity. You might expect a psychedelic to overheat the system into a supercritical, overactive state. Alpha and beta went the other direction: subcritical, dominated by inhibitory signals. High randomness, low complexity. Not a brain firing wilder patterns, but a brain whose patterns lost their intricate architecture.\n\nAnd the two halves lined up. The size of that slide, in alpha and theta, tracked how completely people said their self had come apart.\n\nThis sharpens the entropic brain hypothesis, the popular claim that psychedelics increase the brain's randomness. The randomness is real — but it arrives with a drop in statistical complexity, not a rise. In some scientific framings the two move together; here they split. The signal becomes less predictable and less richly varied at the same time.\n\nWhat makes the result strange is the company it keeps. The researchers note that this shift away from criticality resembles what shows up under general anesthesia and in deep meditation — states that feel nothing like a DMT trip and nothing like each other. What they share is the breakdown of the normal, self-reflective stream of thought. A subcritical alpha shift may be the common marker: not a measure of what you're experiencing, but of whether there's still a someone doing the experiencing."
+     "text": "Someone tosses you a set of keys without warning. You catch them. In that half second your brain pulled together memory, aim and a plan — far faster than its wiring could have changed.\n\nFor decades the working picture of the brain has been a circuit board. Neurons meet at junctions called synapses, and the strength of those junctions holds what you know. The picture is comfortable because it matches the machine on your desk: a digital computer works through switches and gates, one step at a time.\n\nEarl Miller and two colleagues at MIT say that picture is not wrong, only unfinished. Their theory in The Journal of Neuroscience starts from two awkward facts. First, changing a synapse is chemistry, and chemistry is slow — too slow for a world that throws something new at you every second. Second, most neurons do not hold one job. A single cell answers to several different cues and situations, joining many networks at the same time. They call this mixed selectivity. It buys the brain huge power, but it leaves a question: with all those networks overlapping, what decides which one is running now?\n\nTheir answer is brain waves. A brain wave is just large groups of neurons firing in a shared rhythm, rising and falling together. Slow rhythms, called alpha and beta, carry your memories and your goals. Faster ones, called gamma, carry what your senses report this instant. The slow waves control the fast ones. Synapses store the material; the waves decide which material is live.\n\nThis is where analog comes in. A digital circuit gets its answer by stepping: switch, gate, switch. Waves do not step. Drop two stones in a pond and watch the ripples cross. Where two high points meet, the water rises. Where a high point meets a low one, it flattens. Nobody computed that sum. It happened everywhere at once, because that is what waves physically do. In the cortex — the brain's outer layer — waves meet the same way, adding and subtracting, running many calculations at once. \"The brain exploits its own physics,\" the authors write.\n\nThe slow waves come with an address. They act on particular patches of cortex and travel across it, setting where and when gamma waves may handle incoming information, and which neurons take part — beta acting as a \"mobile stencil\". The traffic runs both ways: waves rise out of neurons firing, and the electric field they make reaches back and nudges that firing, very fast.\n\nConsciousness, in this theory, is what appears when these wave patterns pull the whole cortex into one organized, connected state. The strongest support so far comes from anesthesia. Miller and his colleague Emery Brown have shown that three drugs with three different molecular mechanisms all switch a person off the same way — by breaking up wave dynamics. Being awake, they argue, depends less on which receptors or cell types are involved than on whether the large-scale wave order holds.\n\nThe swap has a practical payoff. If thought lives in wiring, treating it means reaching the wiring. If thought lives in rhythms, you have a target you can push on from outside the skull, without surgery. That is why Miller's lab now studies waves in autism, and why he calls treatment built on wave dynamics an obligation, not an opportunity."
     },
     {
-     "label": "The experiment",
-     "style": "note",
-     "text": "The team pooled two studies, 27 healthy adults total. Each person received intravenous DMT on one day and a saline placebo on another. EEG ran from before the injection through twenty minutes after, and participants rated their subjective experience once the effects had worn off. Lead authors Mona Irrmischer and Marco Aqil, in The Journal of Neuroscience."
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Then: the brain as circuit board — what you know held in synapses, thinking as steps through wiring.",
+      "Now: synapses still store, but waves decide what is active, where and when — fast enough to improvise.",
+      "Analog means the sums happen by themselves where waves overlap, many at once, instead of one step at a time.",
+      "Consciousness becomes a question of wave order, not particular receptors — which is why three unrelated anesthetics produce the same blank."
+     ]
     },
     {
      "label": "The caveat",
      "style": "note",
-     "text": "Twenty-seven people, and the link between criticality and ego dissolution is a correlation between a brain measure and a retrospective self-rating. The bigger limit is the instrument: scalp EEG mostly captures slower waves. Faster oscillations, harder to detect from outside the skull, might be doing the opposite — going supercritical — and the authors suggest that's where the vivid imagery and emotional content of the trip could live."
+     "text": "This is a theory, not a finding. The paper is an argument built from years of existing experiments — mixed selectivity, slow waves controlling fast ones, the anesthesia work — not a new result. The central claim, that the brain really is doing analog computation, has not been seen directly. Miller says so plainly: the next step is to look for signs of analog computation in brain wave patterns. Until that arrives, this is the most interesting guess available, not settled ground."
     },
     {
      "label": "Worth carrying",
      "style": "pull",
-     "text": "The self isn't a thing the brain contains. It's a structure the brain keeps rebuilding out of its own echoes — and the echoes can go quiet."
+     "text": "The physics was already there, humming inside the skull. It would be strange if evolution had left it unspent."
     }
    ],
    "recall": {
-    "q": "DMT made brain activity more random. Why is reading that as \"more complex\" the wrong lesson from this study?",
-    "a": "Because here randomness and complexity moved in opposite directions. Detrended fluctuation analysis values slid from pink noise toward white — the waves lost their long-range temporal structure — and the excitation-to-inhibition metric put alpha and beta on the subcritical, inhibition-dominated side. Less predictable and less richly varied at once, not a richer brain."
+    "q": "What does \"analog\" mean in this theory — what do waves do that switches and gates don't?",
+    "a": "Where waves overlap, they add and subtract on their own, so many calculations happen at once across space instead of one step at a time. The brain gets that arithmetic free from its own physics."
    },
-   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/04/psychedelic-brain2.jpg",
-   "deepLink": "https://www.psypost.org/how-dmt-alters-brain-waves-to-induce-the-loss-of-self/",
-   "attribution": "PsyPost",
-   "publishedAt": "Tue, 01 Sep 2026 13:00:36 +0000"
+   "imageUrl": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-picower-brainwaves.jpg?itok=a3UGjAqt",
+   "deepLink": "https://news.mi/t.edu/2026/cognition-consciousness-arise-from-analog-computations-says-new-theory-0901",
+   "attribution": "MIT News",
+   "publishedAt": "Tue, 01 Sep 2026 16:35:00 -0400"
+  },
+  {
+   "id": "marginalian-16pfszv",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Zero was a bookkeeping mark before it became a number",
+   "body": "Zero began in Mesopotamia as punctuation: a wedge meaning 'nothing in this column'. It only held the other digits in place. India turned that empty place into an empty number — one you can add and multiply. In Robert Kaplan's telling, the hinge is a Sanskrit word for 'place'.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A scribe at Kish, in Mesopotamia, wrote his zeroes as three small hooks. Another scribe of the same period — maybe as early as 700 BCE — used one hook, so his zeroes look exactly like his tens. Kaplan reads that mess as youth: we are near the start of something when nobody has agreed what it looks like.\n\nHis book The Nothing That Is follows one long promotion. Zero starts as bookkeeping punctuation, a mark that holds a column open. It ends as a number you can add, subtract and multiply like any other. Everything between is the story.\n\nAround 3000 BCE in Sumer — now Iraq — people counted by 1s and 10s, and also by 60s. The 60s probably came from matching their own weights against another culture's, and we still live inside them: sixty minutes in an hour, 360 degrees in a circle. Mixed bases make a mess. By 2000 BCE the Sumerian system — triangular marks cut into wet clay — was clumsy enough to need a fix.\n\nThe fix came in the middle of the first millennium BCE. Some scribe found a way to wedge the accounting columns apart, so a reader could see that this column held nothing. That is the idea of zero without a symbol for it. It is not a number yet. It is a gap-keeper, something you put between digits so they land in the right places.\n\nGreece came at it from the other side. Archimedes needed names for quantities past the myriad — ten thousand, the largest Greek number-name. He built a system of orders that climbs toward huge numbers in stages. He came close to inventing powers. He never invented zero, and no Greek word for it exists: names belong to things, and zero is a no-thing that counts what isn't there.\n\nIndia is where the promotion happens. The mathematician and astronomer Āryabhata wanted a compact way to store big numbers, so he built nonsense words — consonants for digits, vowels for places — in which 386 comes out as CASAGI. The scheme gave him nine places; as an astronomer he needed more, so he doubled the vowels to reach eighteen. There is no zero anywhere in it. But his word for place is kha, and kha later becomes one of the most common Indian words for zero.\n\nThat is the shift caught mid-motion: an empty place where a digit can sit becomes an empty number that nudges the other digits along. The oldest zero symbol we still have is Indian too — a stone tablet from 876 CE recording a garden of 270 by 50, written as 27° and 5°. Copper plates three centuries older carry the same small circle, but eleventh-century India was full of fakes, so nobody can prove they are real.\n\nWhat hung in the balance, Kaplan says, was whether zero would be \"the mark of the empty, or the empty mark\" — the absence of any number, or a number for that absence. The first leaves zero outside mathematics, scenery the numbers pass through. The second seats it among them. The second is the one that reached us, and the 1s and 0s on this screen are what it grew into."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Sumer counted in 1s, 10s and 60s at once. The mixed bases made numbers messy — and we still live in the 60s: sixty minutes in an hour, 360 degrees in a circle.",
+      "The Greeks built ladders toward the very large but never named its opposite. Naming was the block: zero names no thing.",
+      "India holds the oldest zero symbol we still have — a stone from 876 CE recording a garden of 270 by 50.",
+      "Āryabhata's word for place, kha, became a common Indian word for zero — one idea changing meaning inside a single syllable."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Zero had to be somewhere before it could be something."
+    }
+   ],
+   "recall": {
+    "q": "Mesopotamian scribes were using a zero sign more than a thousand years before India. So what did India actually add?",
+    "a": "Mesopotamia had a placeholder — a mark meaning 'this column is empty', useful only for holding the other digits in position. India turned that empty place into an empty number, a number like any other. The trace is Āryabhata's word for place, kha, which later came to mean zero."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/02/thenothingthatis_kaplan.jpg?fit=320%2C474&amp;ssl=1",
+   "deepLink": "https://www.themarginalia/n.org/2026/09/02/zero-robert-kaplan/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Wed, 02 Sep 2026 04:49:27 +0000"
   },
   {
    "id": "book-notes-underground-3",
@@ -85,498 +127,505 @@
    "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
   },
   {
-   "id": "lobsters-1krmwcc",
-   "source": "lobsters",
-   "topic": "tech-craft",
-   "kind": "craft",
-   "title": "How Amazon's mega dropdown avoids the hover delay",
-   "body": "Amazon's Shop by Department menu has no hover delay and no diagonal-reach bug — a combination most nested menus can't manage. It isn't tracking which row your cursor is on. It's tracking where the cursor is headed.",
-   "sections": [
-    {
-     "label": null,
-     "style": "prose",
-     "text": "You move diagonally toward an open submenu. Halfway across, your path clips the row below, the submenu swaps for a different one, and the thing you were reaching for is gone.\n\nThe usual fix is a timer: wait a couple hundred milliseconds before honoring a new row's hover, and the diagonal path survives. The cost is that every deliberate move down the list now feels sluggish — the author points at an old Khan Academy menu where you can watch the delay happen. Skip the timer and you get the other failure instead: Bootstrap's dropdowns switch immediately and turn the submenu into a target you can't hit.\n\nAmazon's trick: at any moment, draw a triangle from the current cursor position to the upper-right and lower-right corners of the open dropdown. That triangle is the cone of paths that lead into the submenu. If your next mouse position lands inside it, you're aiming at the submenu, so the submenu stays put — it doesn't matter that you passed over \"Appstore for Android\" on the way to \"Learn more about Cloud Drive.\" If the next position falls outside, you've changed your mind, and the menu switches with no delay at all. The responsiveness and the forgiveness come from the same test.\n\nThe author packaged it as a jQuery plugin, jQuery-menu-aim, and shipped it in Khan Academy's Learn menu. Amazon detects containment in the triangle with a cross product; he admits he used a cruder slope comparison because he'd lost his intuition for the linear algebra. Both work. The insight, not the math, is the expensive part — and he suspects this one has been solved, forgotten, and rediscovered many times already."
-    },
-    {
-     "label": "Do this",
-     "style": "list",
-     "items": [
-      "Before reaching for a hover timeout, ask whether the cursor's last position already answers the question — keep it, and compare it against the triangle formed by the cursor and the two far corners of the open panel.",
-      "Make leaving the triangle the trigger, not entering a new row: while the path aims into the submenu, ignore row hovers entirely; the instant it stops aiming, switch with zero delay.",
-      "Skip the cross product if the vectors don't come naturally — two slope comparisons give you the same containment test in a few lines.",
-      "Audit every nested menu, tooltip, and popover in your app the same way: move the cursor diagonally toward it at speed and see whether it survives the trip."
-     ]
-    },
-    {
-     "label": "Worth carrying",
-     "style": "pull",
-     "text": "A timeout is a guess about intent. Amazon measured the intent instead."
-    }
-   ],
-   "recall": {
-    "q": "Amazon's mega dropdown switches submenus instantly and still lets you reach diagonally. What is it testing, instead of which row the cursor is currently over?",
-    "a": "Where the cursor is headed. It draws a triangle from the current mouse position to the two far corners of the open submenu; if the next position lands inside that triangle you're aiming at the submenu, so it stays open regardless of which rows you cross — and the moment you leave the triangle, it switches with no delay."
-   },
-   "imageUrl": "https://64.media.tumblr.com/6ac1af45e5be9aa1e32a3a1d11bf813d/96541d7f363acfd3-c3/s500x750/d1c9fc7c84570aad2cdc9981d4d430f7fb801cb4.gif",
-   "deepLink": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
-   "attribution": "via Lobsters",
-   "publishedAt": "2026-08-31T20:30:16.313-05:00"
-  },
-  {
-   "id": "psyche-j37wsu",
-   "source": "psyche",
-   "topic": "world",
-   "kind": "essay",
-   "title": "Household logistics is unpaid work with a military history",
-   "body": "Mrs Beeton's 1861 household manual has barely needed revision. The tools changed — handmade bread and clothes, then the washing machine, then delivery apps — and the work stayed exactly where it was. Susan Zieger traces the woman it addresses back to Napoleon's supply columns, where the word logistics was coined, and forward through the Gilbreths' time-and-motion children to Ghislaine Maxwell. Every version does the same job: organising and supplying for the man who holds the money and makes the decisions.",
-   "sections": [
-    {
-     "label": null,
-     "style": "prose",
-     "text": "Before a charge, someone moved down the line handing out shots of brandy. When it was over, someone dragged the wounded back out of range. Often that someone was a soldier's wife, walking behind the column with the tobacco, the clean clothes and the alcohol.\n\nThe word logistics entered the language in the 19th century to explain how Napoleon had taken Europe: the science of supplying soldiers and moving them into strategic position. The Napoleonic Code entitled a soldier to bring his wife, on the understanding that she was his legal property, obliged to follow wherever he went. The theorist Paul Virilio gave her a name — the logistical spouse.\n\nSusan Zieger's essay is a history of that figure after the wars ended. She never disappears. She changes settings.\n\nBy 1861 she has a manual. Mrs Beeton's Book of Household Management, a bestseller and a reference work for generations, opens by stating the comparison outright: \"As with the commander of an army, or the leader of any enterprise, so is it with the mistress of a house.\" Isabella Beeton's programme was early rising, cleanliness, frugality, and the canny management of accounts and family entertainment — the middle-class wife spending her husband's income to keep the operation stocked and in order.\n\nWhat strikes Zieger is how little of that advice ever needed revision. It survived the shift from handmaking food and clothes to operating a washing machine, then the shift to ordering everything through apps. Women gained civil rights, incomes and independence across two centuries; men moved from taking actual territory to opening sales territory. The logistical work stayed exactly where it was.\n\nThen comes the essay's strangest exhibit. Frank Gilbreth, an industrial engineer, and his wife Lillian, an engineer and psychologist, invented the flow chart, ran motion studies that broke factory tasks into their smallest movements to find the most efficient sequence, and had twelve children — the family behind Cheaper by the Dozen. Their rule for the shop floor: \"an unnecessary motion is money lost forever.\"\n\nThey ran the house as an annex of the laboratory. The children bathed fast, soaping their limbs in a regimented order, while German and French lessons played from Victrola phonographs installed in the bathrooms; before bed they initialled charts certifying that homework was done, teeth brushed, faces washed. The children, Zieger notes, come out looking uncannily like anonymous workers or mass-produced items — which is the point. Domestic logistics doesn't only supply and coordinate a household. It manufactures and trains efficient workers for the order that will employ them.\n\nThe current iteration is the tradwife making her own bread and cleaning fluids, and the most-watched version fuses it with Christian patriarchy. On 19 Kids and Counting, Michelle and Jim Bob Duggar, devout Baptists who shunned birth control, managed an enormous brood as a divine operations problem. Michelle wrote the foreword to Kim Brenneman's Large Family Logistics (2010), which supplied the systems: timed chores, pairing each child with a buddy, giving every child extra attention on the same fixed day each week. Trust God, and the details work themselves out.\n\nThe show ended in scandal. The Duggars' eldest son had molested several of his sisters and a babysitter; he was later convicted and sentenced for possessing child pornography, and more recently a brother was arrested on charges of sexually abusing a nine-year-old girl. Zieger refuses to file this as an unrelated failure — such crimes, she argues, are a feature of patriarchal, misogynist households rather than a bug. All the feeding, clothing, organising, educating and indoctrinating did not make the children safe from each other. And modelling that subservience for the girls trains them into the same unpaid logistics later, including the supply of sex within marriage, which is where the Napoleonic Code came in.\n\nThe darkest case needs no household at all. Ghislaine Maxwell was the logistician of Jeffrey Epstein's trafficking operation, which involved more than a thousand victims; she confiscated many of their passports and booked them onto the private jet to the island. As girlfriend and pimp she supplied sex directly and by proxy, and Zieger points at the etymology joining the roles: procurement is the branch of logistics that handles sourcing, and a procurer arranges sex work. The labour had commercial value beyond the abuse — data from the enterprise likely fed blackmail, new connections and closed deals.\n\nAcross battlefield, drawing room and jet: he makes the money, she spends it. He decides, she coordinates.\n\nZieger dates the arrangement to the 17th century and the rise of European capitalism, when states barred women from independently accessing their own wages and pushed them toward producing more workers instead. Women kept working; the work simply stopped being paid, and dependence followed, costing them further rights. Alongside transatlantic slavery, that free labour propped up a faltering system — and as Silvia Federici has argued, this unvalued work still amounts to most of the work done on the planet.\n\nSo how does the burden move? The late-2010s answer was the emotional labour conversation, which was really about logistics: the overwhelm came from holding every household detail in mind and always being the one to initiate. LGBTQ+ households divided the load more evenly, if not at parity. Heterosexual men, in Zieger's blunt reading, seemed unable to receive the message — as one divorced man put it in a viral 2016 essay, his wife had wanted him to apply the same intelligence and learning capacity he used everywhere else to the logistics of running their lives.\n\nCouples tried chore charts, transferring duties from her column to his. Then the pandemic hit and home schooling landed on women, who traded careers and mental health to keep households running. Where her salary was the smaller one, her stepping back was the economically rational move — which is precisely how a pay gap compounds itself. Intransigence, economic inequity and conservative traditionalism all retrenched; some women gave up and turned to tradwife content, others appear to be avoiding men altogether.\n\nZieger's own answer is deliberately unglamorous, and far smaller than the history preceding it. Not trends and life hacks but the long view: recognising that what looks like a relationship problem has a name, a history, and a scale running from the household up to the state. Once she started calling her daily coordination logistics, she could see the same labour operating in her community and her country — and could treat a lifetime of unpaid practice as accumulated skill she gets to decide where to aim."
-    },
-    {
-     "label": "Steelman",
-     "style": "note",
-     "text": "The pattern is assembled from cases selected because they fit it, and the range strains: a Victorian cookbook, a reality TV family and a convicted sex trafficker are doing very different things, and Maxwell in particular is a criminal outlier asked to illuminate ordinary marriages. The closing move is vulnerable too — recognising your own organisational skill and choosing where to direct it is a private reframe, not far from the individual life hacks the essay dismisses a paragraph earlier."
-    },
-    {
-     "label": "Key takeaways",
-     "style": "list",
-     "items": [
-      "The Napoleonic Code entitled a soldier to bring his wife on campaign as his legal property, obliged to follow him anywhere; Virilio named her the logistical spouse.",
-      "The Gilbreth children took French and German lessons from bathroom phonographs and initialled nightly charts certifying teeth brushed and homework done. Zieger's read: household logistics doesn't only run a home, it manufactures trained workers for the order that will employ them.",
-      "The unpaid arrangement is a 17th-century policy outcome, not a natural one: states blocked women from independently accessing their wages and steered them toward producing more workers. The work continued; the pay stopped, and dependence followed.",
-      "COVID reversed the chore-splitting trend by pure arithmetic — when hers is the smaller salary, her stepping back is the rational household choice and the compounding move for a pay gap."
-     ]
-    },
-    {
-     "label": "Worth carrying",
-     "style": "pull",
-     "text": "\"An unnecessary motion is money lost forever,\" the Gilbreths told the shop floor. Upstairs, in the same house, the motions were never money to begin with."
-    }
-   ],
-   "recall": {
-    "q": "Zieger tracks one figure from Napoleon's supply columns to the tradwife. What is she called, and what does the essay argue her labour produces beyond a running household?",
-    "a": "Virilio's logistical spouse: she organises, supplies and coordinates for the man who holds the capital, the status and the decisions. On the Gilbreth evidence, the work also manufactures and trains the next generation of efficient workers — children bathed in regimented order, initialling nightly compliance charts."
-   },
-   "imageUrl": "https://images.aeonmedia.co/images/bae94660-e877-4281-8f9b-b8b683f7cd25/this-master-pnp-ppmsca-51700-51756a.jpg?top=212&left=9&cropWidth=2656&cropHeight=1494&width=1200&quality=75&format=auto",
-   "deepLink": "https://psyche.co/ideas/logistics-underpins-power-and-logistics-is-female",
-   "attribution": "Psyche (Aeon)",
-   "publishedAt": "Tue, 01 Sep 2026 10:00:00 GMT"
-  },
-  {
-   "id": "otd-2026-09-02-3",
-   "source": "wikipedia-onthisday",
-   "topic": "wildcard",
-   "kind": "fact",
-   "title": "1967 — on this day",
-   "body": "Paddy Roy Bates proclaimed HM Fort Roughs, a former World War II Maunsell Sea Fort in the North Sea off the coast of Suffolk, England, as an independent sovereign state: the Principality of Sealand (pictured).",
-   "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Paddy_Roy_Bates_in_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "deepLink": "https://en.wikipedia.org/wiki/Roy_Bates",
-   "attribution": "Wikipedia · CC BY-SA 4.0"
-  },
-  {
-   "id": "marginalian-1amq5o6",
-   "source": "marginalian",
-   "topic": "books",
-   "kind": "essay",
-   "title": "Didion on why we must let the dead stay dead",
-   "body": "Joan Didion ends The Year of Magical Thinking by arguing for release on geological grounds rather than emotional ones: hills slump, waterfalls correct themselves, islands are temporary features. She knows exactly why we keep the dead alive — to keep them with us — and says that past a point we pay the upkeep out of our own living.",
-   "sections": [
-    {
-     "label": null,
-     "style": "prose",
-     "text": "One morning, well into her widowhood, Joan Didion woke and tried to recall the arrangement of the rooms in a house she had left decades earlier — the place in Brentwood Park where she and John Gregory Dunne had been young together. She walked it in her mind, the ground floor first, then upstairs. Later that day she realized she had forgotten one of the rooms.\n\nThe lapse sits near the end of The Year of Magical Thinking, her reckoning with the death of Dunne, her husband of four decades. Those closing pages work as a field guide for letting go of anything at all.\n\nThe setup is the old contract: to love something is to make yourself available to losing it, and we sign anyway. Judith Viorst's version is that nobody becomes a separate, responsible, connected, reflective person without some measure of losing and leaving. What we keep of our losses builds the person we become; what we let die inside us — the tortured patterns, the ill-serving habits, the beliefs that fence us in — is what makes another life possible.\n\nThe difficulty is that letting go cannot be decided on. It can only be surrendered to, and the surrender arrives with denial, dissociation, and the thousand small lies we tell in order to keep holding.\n\nDidion's way into it isn't emotional. It's geological.\n\nShe was a geologist's grandchild, and learned early to expect hills, waterfalls, even islands to be mutable. When a hill slumps into the ocean she sees the order in it. When a 5.2 on the Richter scale wrenches the writing table in her own room in her own house, she keeps typing. A hill, in that vocabulary, is a temporary accommodation to stress. A waterfall is a stream correcting its own misfit with the rock beneath. Oahu — a young landmass along the Hawaiian Ridge, already eroding — is a temporary feature whose tenure as the Crossroads of the Pacific gets shorter with every rainfall and every tremor along the Pacific plates. Transience isn't a defect in things. It's what things are.\n\nThen the ritual. When she carried Dunne's ashes to St. John the Divine, she brought a lei — the South Pacific garland you hang on someone arriving or departing. She had lived and written in Hawaii, and she remembered the custom from the years when people still left Honolulu on the Matson Lines: at the moment of departure you threw your lei into the water, and the throw was a promise that the traveler would return.\n\nThe leis got caught in the ship's wake and went bruised and brown — the same two words she uses for the gardenias that collected in the pool filter at the Brentwood Park house. A promise of return, performed with an object everyone can see rotting. She doesn't press the point. She just notes that the lei she left at the cathedral would have gone brown by now.\n\nLeis brown, plates shift, islands vanish, rooms get forgotten. The move is to make the small deaths count as practice — the failed projects, the ended relationships, the plans that quietly expired are a scale model of the hardest losses, because the way you meet any death is the way you meet every death.\n\nWhich is why the ending refuses a famous consolation. Hemingway insisted that \"no one you love is ever dead.\" Didion says she understands the impulse precisely: we try to keep the dead alive in order to keep them with us. But if we are to go on living ourselves, she writes, there comes a point at which we must relinquish them, let them go, keep them dead. \"Let go of them in the water.\""
-    },
-    {
-     "label": "Steelman",
-     "style": "note",
-     "text": "The essay hands Hemingway his own defense. If what we keep of our losses is what scaffolds the person we become, then insisting that no one you love is ever dead may not be denial at all — it may be an accurate description of how the dead keep working inside the living. Didion's book, itself an extended act of keeping Dunne present, cuts both ways."
-    },
-    {
-     "label": "Key takeaways",
-     "style": "list",
-     "items": [
-      "Her argument for release is geological, not therapeutic: a hill is a temporary accommodation to stress, a waterfall a stream correcting a misfit, Oahu a feature whose tenure shortens with every rainfall. Impermanence is the nature of things, not the fault in them.",
-      "The Honolulu farewell promised return using something that visibly rots — leis thrown from departing Matson Lines ships caught in the wake and went bruised and brown, like the gardenias in the Brentwood Park pool filter.",
-      "Letting go can't be decided on, only surrendered to, and the surrender arrives with denial, dissociation, and the thousand small lies we tell to keep holding. Viorst's terms: nobody becomes a separate, responsible, connected, reflective person without some measure of losing and leaving.",
-      "Ordinary failures are rehearsal — a dead plan, an ended relationship, a room you can no longer place in a house you loved — on the theory that how you meet any death is how you meet every death."
-     ]
-    },
-    {
-     "label": "Worth carrying",
-     "style": "pull",
-     "text": "What are you still gripping that you have already, quietly, begun to forget?"
-    }
-   ],
-   "recall": {
-    "q": "Didion says she knows exactly why people try to keep the dead alive. What is her reason — and why does she say we eventually have to stop?",
-    "a": "We keep them alive in order to keep them with us. But she argues that if we are to go on living ourselves, there comes a point where we must relinquish them and let them stay dead — her image for it is letting go of them in the water."
-   },
-   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/08/yearofmagicalthinking.jpg?fit=320%2C490&amp;ssl=1",
-   "deepLink": "https://www.themarginalian.org/2026/09/01/joan-didion-loss/",
-   "attribution": "The Marginalian",
-   "publishedAt": "Tue, 01 Sep 2026 04:00:46 +0000"
-  },
-  {
-   "id": "lobsters-1qdc2sh",
-   "source": "lobsters",
-   "topic": "tech-craft",
-   "kind": "craft",
-   "title": "Three kinds of cancelation, and only one is contagious",
-   "body": "Three unrelated things get filed under \"cancelation\": unwinding the stack, a two-party protocol where you request and then wait, and draining connections at shutdown. Mistake the second for the first and you free a buffer something else is still writing into; propagate it faithfully and asynchrony climbs every layer above. TigerBeetle pays that cost in exactly one place.",
-   "sections": [
-    {
-     "label": null,
-     "style": "prose",
-     "text": "Error handling is cancelation, and almost nobody calls it that. Every time an exception is thrown or an error returned, control breaks out of every loop, branch, and block it was sitting inside, running cleanup on the way out via RAII, finally, defer, or try-with-resources. Matklad's name for it is synchronous cancelation — Molière's prose, in his comparison: we speak it constantly without noticing. You call cancel, and by the time the call returns, the work is over.\n\nAsynchronous cancelation reads almost the same in code and is a different animal: not a control-flow structure but a protocol between two parties. You request synchronously; the task may still be running when that call returns, and the work is finished only once it acknowledges and winds down.\n\nThe reason you can't collapse the second into the first is memory. Say you offloaded encrypting a buffer to a thread pool as part of serving a request, and then learn the request is dead because the user left. Abandoning the thread wastes CPU, but the sharper problem is that the buffer must stay tied up: free it as part of canceling the request and something else may reuse that memory while the encryptor is still writing into it.\n\nSo you can't walk away — and you can't stop the thread where it stands either. It's inside a tightly optimized SIMD loop, and forcing it to test a cancelation flag before reading every byte would destroy the reason the loop exists. The workable answer is to split the buffer into reasonably sized chunks and check between them, which means whoever requested the cancelation waits at least one chunk's worth of work. Your chunk size is your cancelation latency.\n\nio_uring has the identical shape. Submit a write and the buffer stays pinned until the kernel finishes; canceling makes the write finish sooner, not now. The exotic interface and the mundane thread pool are the same problem.\n\nBecause asynchronous cancelation changes the shape of the code, identify it early — and ask whether you need it at all, or whether the synchronous kind can be made to work. Rust gets a specific dig: it makes synchronous cancelation too easy while offering poor mechanisms for the asynchronous kind.\n\nTigerBeetle's code shows what the distinction buys. Grid.cancel is asynchronous — it takes a callback — and it runs during state sync, when a replica has fallen so far behind the cluster that event-based transfer won't work and it must cancel its outstanding grid reads. A read backed by local disk has to be waited out. A read being fetched transparently from a neighboring replica gets abandoned, since a stuck remote read is probably why the replica is state syncing in the first place.\n\nStateMachine sits on top of Grid with Forest, Tree, Compaction, and Scan in between. The naive move is to notice that Grid needs asynchronous cancelation and propagate asynchrony up through every layer above it. Instead they cancel the Grid asynchronously and then call StateMachine.reset — plain, synchronous — for everything else. One layer pays the cost; the stack stays legible.\n\nThe third term lives a level up and isn't cancelation at all. Graceful shutdown is a connection-handling pattern for services: stop the accept loop so new connections are refused, keep serving existing connections until their clients disconnect, and let the load balancer route new traffic to another instance. That's rolling upgrades without disruption.\n\nTigerBeetle doesn't do it. Their Client.shutdown, which waits for outstanding io_uring syscalls before freeing OS resources, is called graceful shutdown in a comment — a label the author thinks is wrong, and correcting it is what prompted the article. The system is crash-only: an OOM killer or a power cut can end the process at any moment, so it has to survive ungraceful termination without losing data regardless. Once that's true, you may as well implement the Quit button by SIGKILLing yourself, which simplifies the code and exercises the powerloss path every single time.\n\nWhat stands in for graceful shutdown is tail latency tolerance: ask several nodes and take the fastest answer. It covers crashes, and it covers gray failures, where a node is merely very slow — which from the outside is indistinguishable from dead."
-    },
-    {
-     "label": "Do this",
-     "style": "list",
-     "items": [
-      "Find the single layer that genuinely needs asynchronous cancelation — the one holding a buffer or an in-flight syscall — cancel it with a callback, and reset everything above it synchronously. Don't let callback style climb the whole stack by default.",
-      "If a worker polls a cancelation flag, pick the work-per-check interval deliberately: it's the delay every caller who cancels will sit through.",
-      "Never free memory a background thread or the kernel might still touch on the strength of a cancel request alone. Requested is not finished — wait for the acknowledgement.",
-      "Reserve \"graceful shutdown\" for draining connections. If you mean waiting on outstanding syscalls before freeing OS resources, say that instead."
-     ]
-    },
-    {
-     "label": "When not to",
-     "style": "note",
-     "text": "Crash-only Quit — SIGKILLing yourself — is a payoff for durability work, not a shortcut around it: only safe if your storage already survives an OOM kill or a power cut intact. And graceful shutdown earns its keep where rolling upgrades matter, holding live connections open while the load balancer drains you. TigerBeetle can skip it only because it has tail latency tolerance instead."
-    },
-    {
-     "label": "Worth carrying",
-     "style": "pull",
-     "text": "\"A crash is just a degree of slowness\" — handle the slow node and you've already handled the dead one."
-    }
-   ],
-   "recall": {
-    "q": "A thread-pool worker is encrypting a buffer when the request is canceled. Why can't you cancel it synchronously, and what does the workable fix cost the caller?",
-    "a": "You can't abandon it: the buffer must stay tied up, because freeing it could let something else reuse that memory while the worker is still writing into it. And you can't stop the thread where it stands: testing a cancelation flag before every byte would destroy the optimized SIMD loop it lives in. So you split the buffer into chunks and check between them — and whoever requested the cancelation waits at least one chunk's worth of work. Chunk size is cancelation latency."
-   },
-   "deepLink": "https://matklad.github.io/2026/08/31/cancelation-terminology.html",
-   "attribution": "via Lobsters",
-   "publishedAt": "2026-08-31T09:19:48.353-05:00"
-  },
-  {
-   "id": "wotr-4phvfp",
-   "source": "wotr",
-   "topic": "world",
-   "kind": "essay",
-   "title": "When the machine surprises you and it's right",
-   "body": "The first Air Force pilot to fly a Collaborative Combat Aircraft says aircrew are trained to read any surprise from a machine as a malfunction — an instinct that destroys the reason you'd buy an agent. His fix: a manual that rates tasks by how hard they are for the agent, not the human, and counts the operator's spare attention as one of the agent's inputs.",
-   "sections": [
-    {
-     "label": null,
-     "style": "prose",
-     "text": "The instant the handoff completed, Maj. Greg Search stopped being a pilot and became something closer to a \"dog handler\" — a supervisor of an agent.\n\nSearch is a test pilot and the first Air Force pilot to operate a Collaborative Combat Aircraft. The hardest part of flight testing it, he says, wasn't troubleshooting errors at speed in the cockpit. It was that.\n\nThe instinct that makes a test pilot good is the one that breaks here. See the machine do something it wasn't supposed to do, assume a malfunction, stop it. That rule earned its place: an autopilot follows pre-coded rules, and a traditional aircraft that loses contact with its pilot runs a fixed set of pre-approved actions. You know in advance what it will do on its own.\n\nAgents are built for the opposite. They exist to find viable solutions the operator didn't anticipate, which creates a category aircrew have never had to handle — machine behavior that is unexpected and correct at the same time.\n\nOn the first live flight using the autonomy core, the agent's task was to fly at an altitude and airspeed inside a defined map area; it had to work out which way to turn to stay in the box. A human does this on common sense and years of training. An autopilot does it on rules. The aircraft made a turn Search judged inappropriate, and he stepped in and commanded it to a pre-planned heading — less chance of a turn nobody expected, less chance of a midair.\n\nThat test had a subject matter expert on call. Combat won't. The same agent that saves a fighter pilot's life by distracting an opponent is the one that can cause a friendly midair collision, and without guidance, operators under stress will fall back on intuition and throw out anything they don't understand. Search's warning is blunt: that path turns a multi-billion-dollar autonomy program into just another drone.\n\nThe doctrine gap is specific. Aircraft manuals carry normal and emergency checklists. Directive 3000.09 technically covers these systems. Air Combat Command has drafted three volumes of collaborative combat aircraft flying operations manuals. None of it teaches an operator to judge whether a surprising agent is smart or broken — the prerequisite for what he calls \"command without control.\"\n\nThree obvious fixes fail. Senior leaders could dictate how units use the systems, but warfighters should define what's valuable rather than be handed an integration list. Manuals could be written with open-ended flexibility — expect the unexpected — which is too vague to be worth writing down. Or the Pentagon could amend Directive 3000.09, except sub-system boundaries are far too granular for that document.\n\nWhat he wants instead is a hardware-agnostic manual organized around the mission of supervising agents. The precedent exists: Flight Test and Aeromedical Evacuation manuals are owned by headquarters, not by any airframe. The difference is that this one would guide supervision of systems rather than leadership of people. It also matches the technology — the Government Reference Architecture decouples the autonomy software from the vehicle, so the same agent can move across platforms, services, and allies. Guidance should follow the software, not the jet.\n\nPicture an agent flying a patrol inside a geographic area when one corner becomes unavailable. To a human, adjusting the route is nothing. To an agent, the option space explodes — instead of tracking the boundary, it may cut the corner to cover more ground. Under current guidance the response is an Air Force-level change, an aircraft manual amendment, or no fix at all. A cross-platform manual would give the community a shared language to diagnose the behavior once and push the update fleet-wide, without every airframe's manual chasing every software change.\n\nThree things follow. First, classify agents by how hard a task is for the agent, not by mission type. A pilot with twenty years in F-16 close air support might struggle to switch to the B-2 stealth mission, but to an agent there is no such thing as close air support or strike — only outputs produced from inputs. An agent trained for close air support in a rectangular area may adapt to a strike mission more easily than to close air support in a non-rectangular one. So categorize by task: airspace boundary avoidance, weapon release timing.\n\nSecond, math beats intuition. Agent behavior can look random, but it's a trained model working on the data it receives, so its tendencies can be measured. The uncertainty lives in the inputs and conditions and in how well training covers them, which is what probability is for. With a human wingman you can say a reasonable person would assume this; an agent with ten thousand years of perfect training data would still err on a bug in the latest software update. Simulators can give operators a heatmap of reliability by task, but only if someone accounts for sensor data quality in training versus live flight.\n\nThird, the operator's bandwidth is itself an input to the agent. Latency, dropout and noise come from the adversary and the environment — and from whether the human is free to give commands. Asked how many drones he can fly at once, Search answers: landing the jet on a joystick, one; managing patrols in static areas, potentially hundreds. A pilot at maximum speed intercepting an enemy fighter might manage one inject every five minutes, so a manual should rate a task harder when command availability is low relative to command demand.\n\nHis closing bet is cultural rather than technical. The program's legacy won't be the airframe or even the autonomy stack — it will be the habits the first human commanders set, because warfighters have to choose to integrate these systems on their own. And by his own account, even with growing practice, operators are still behind the curve as agent tasks get harder by the day."
-    },
-    {
-     "label": "Steelman",
-     "style": "note",
-     "text": "The instinct he wants retrained is the reason midairs are rare. His own story cuts both ways — the first live flight produced a turn he judged wrong and overrode, with an expert standing by. Asking a combat operator to sort smart from broken in the moment, on probabilities derived from training coverage nobody can fully characterize, may be more than any manual can carry."
-    },
-    {
-     "label": "Key takeaways",
-     "style": "list",
-     "items": [
-      "An agent trained for close air support in a rectangular area may transfer to a strike mission more easily than to close air support in an oddly shaped one — difficulty for a human and difficulty for an agent are unrelated.",
-      "Agent behavior only looks random; it's a model's output on given inputs, so the real uncertainty is whether training conditions — sensor data quality included — cover the live ones.",
-      "Operator attention belongs in the risk equation: one aircraft if you're landing on a joystick, potentially hundreds on static patrols, one inject every five minutes at max speed in an intercept.",
-      "The Air Force already writes cross-airframe, headquarters-owned manuals for Flight Test and Aeromedical Evacuation; this one would supervise systems instead of leading people."
-     ]
-    },
-    {
-     "label": "Worth carrying",
-     "style": "pull",
-     "text": "An agent you never let surprise you is an autopilot with a bigger budget."
-    }
-   ],
-   "recall": {
-    "q": "Why does the standard aircrew response to unexpected machine behavior undercut the whole point of an agentic aircraft?",
-    "a": "Aircrew are trained to read any surprise as a malfunction and shut it down, because autopilots and traditional aircraft only ever run pre-coded rules. Agents are built to find solutions the operator never anticipated, so their behavior can be unexpected and correct at once — and overriding every surprise reduces a multi-billion-dollar autonomy program to just another drone."
-   },
-   "imageUrl": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-46144-2de3c0b9e57f.jpg",
-   "deepLink": "https://warontherocks.com/cogs-of-war/a-rulebook-for-surprises-commanding-autonomous-aircraft/",
-   "attribution": "War on the Rocks",
-   "publishedAt": "Tue, 01 Sep 2026 08:00:28 +0000"
-  },
-  {
-   "id": "aic-81545",
-   "source": "artic",
-   "topic": "wildcard",
-   "kind": "art",
-   "title": "Stacks of Wheat (Sunset, Snow Effect)",
-   "body": "The Art Institute has the largest group of Monet’s \"Stacks of Wheat\" paintings in the world. The artist worked on the canvases in the field outside his farmhouse, painting simultaneously at several easels; he later refined them in the studio. An exhibition of these works in 1891 marked a breakthrough in Monet’s career, as well as in the history of French art.",
-   "imageUrl": "https://www.artic.edu/iiif/2/be0d3e50-a600-6f33-ea8f-16a34d892442/full/843,/0/default.jpg",
-   "deepLink": "https://www.artic.edu/artworks/81545",
-   "attribution": "Art Institute of Chicago · CC0"
-  },
-  {
-   "id": "marginalian-1qiuzyh",
-   "source": "marginalian",
-   "topic": "books",
-   "kind": "essay",
-   "title": "The 15th-century nun who named a murder of crows",
-   "body": "A murder of crows. An exaltation of larks. A murmuration of starlings. Nearly every collective noun we still use for birds comes from one 1486 manual on hunting and hawking, published anonymously and praised for centuries as the work of a gentleman. The author was a woman who could reach books at all only because she had withdrawn to a convent.",
-   "sections": [
-    {
-     "label": null,
-     "style": "prose",
-     "text": "Under a blackletter heading barely legible to modern eyes — THE COMPAYNYS OF BEESTYS AND FOWLYS — sits a long list of names for groups of birds. Exaltyng of Larkis. Murmuration of Stares. Wache of Nyghtingalis. Sege of heronnys. Gagle of gees. Unkyndenes of Ravenes.\n\nFive centuries later we still use every one of them.\n\nThe book is the Boke of Seynt Albans, also known as The Book of Hawking, Hunting, and Blasing of Arms — one of the first books printed in English after Gutenberg, written largely in verse, published without a name on it. It was lauded as the work of \"a gentleman of excellent gifts,\" until someone established that the author was a woman: Juliana Barnes.\n\nBarnes had suffered some great unnamed heartbreak and withdrawn to a cloister, which in the fifteenth century functioned less as renunciation than as an admissions office. Formal education was closed to women entirely; convents were often the only way to get at books. She read, and she kept diaries prolifically, the way Montaigne would a century later.\n\nThen she did the harder thing and wrote for the public — and chose, of all subjects, hunting, fishing, and hawking. The most male territory available.\n\nThe company terms she catalogued come from two different places, and telling them apart is most of the pleasure. Some are compressed observation. A fall of woodcock holds the bewildering air dance of the courting birds. A watch of nightingales pays its respects to the nocturnal wakefulness of the most musical bird on earth. A gaggle of geese is simply their migratory cries turned into sound on the page.\n\nThe others are compressed belief, laid down in an era when Satan was a more reliable presence than gravity, when Kepler's mother could be tried for witchcraft, when superstition did the work that causality does now. A murder of crows carries the folklore of crows as emissaries of death, thought capable of killing their own kind in punishment for transgression. A parliament of owls reaches back through Athena, whose owl attached the bird permanently to wisdom, reason, and eventually democracy.\n\nSo the names are not really descriptions of birds. They are records of how a particular set of people, at a particular moment, looked at birds — which is why naming a thing quietly reorganizes what you see when you next look at it.\n\nAnd they keep moving. In 1967 the English painter and children's book illustrator Brian Wildsmith (1930–2016) painted the loveliest of the terms in his book Birds, and in his aviary the owls are not a parliament but a stare — a term now brinking on obsolete, which had peaked in printed use the year before his book appeared.\n\nBarnes's sedge of herons has mostly become a siege of herons, and the swap relocates the whole image. Sedge is the silent silhouettes rising from the pond edge like tall grass. Siege is the inelegant, violent-sounding noise the same birds make in flight. Same herons; different thing noticed, different word surviving.\n\nToni Morrison's formulation fits: language is best understood \"partly as a system, partly as a living thing.\" Which means the same evolutionary pressure that turned dinosaurs into birds runs through the vocabulary we use for them, and words can go extinct too. A wedge of swans. A rafter of turkeys. A congregation of plover. A party of jays. A walk of snipe. A siege of bitterns."
-    },
-    {
-     "label": "Steelman",
-     "style": "note",
-     "text": "The essay's own examples can be read against it. If sedge slides into siege and a stare of owls goes from ordinary to nearly dead within a generation, these terms may be tracking printing fashion rather than any real shift in how anyone looks at a heron. The narrower version of the claim survives that objection: the names preserve how one era saw, whether or not they change how we do."
-    },
-    {
-     "label": "Key takeaways",
-     "style": "list",
-     "items": [
-      "The terms split into two kinds. Observation: a fall of woodcock (the courting birds' air dance), a watch of nightingales (their nocturnal singing), a gaggle of geese (onomatopoeia). Belief: a murder of crows (emissaries of death, thought to execute their own for transgression), a parliament of owls (Athena's owl).",
-      "The source is the Boke of Seynt Albans, 1486, mostly in verse, one of the first books printed in English after Gutenberg. Its bird list survives almost intact — exaltation of larks, murmuration of starlings, unkindness of ravens are all still in circulation.",
-      "Anonymity did the crediting: the book was assumed to be a gentleman's until Juliana Barnes was identified as the author. She could write because she had read, and she had read because the cloister was the only place a fifteenth-century woman could reach books at all.",
-      "Terms drift and die. Wildsmith's 1967 owls are a stare, a word that peaked in print in 1966; Barnes's sedge of herons became a siege, trading the picture of silhouettes rising like tall grass for the harsh sound of the birds in flight."
-     ]
-    },
-    {
-     "label": "Worth carrying",
-     "style": "pull",
-     "text": "A collective noun is a fossil of somebody's attention — and which ones survive is still being decided."
-    }
-   ],
-   "recall": {
-    "q": "The bird company terms come from two different sources. What are they, and what's an example of each?",
-    "a": "Some encode direct observation of the birds — a fall of woodcock for the courting birds' air dance, a gaggle of geese from their migratory cries. Others encode the beliefs of the people watching — a murder of crows from folklore about crows as emissaries of death, a parliament of owls from Athena's owl. The names record the watchers as much as the birds."
-   },
-   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/01/brianwildsmith_birds_ravens.jpg?resize=680%2C549&#038;ssl=1",
-   "deepLink": "https://www.themarginalian.org/2026/08/31/brian-wildsmith-birds-company-terms/",
-   "attribution": "The Marginalian",
-   "publishedAt": "Mon, 31 Aug 2026 21:25:22 +0000"
-  },
-  {
-   "id": "hackernews-2h71u7",
-   "source": "hackernews",
-   "topic": "tech-ai",
-   "kind": "news",
-   "title": "EFF asks courts not to rewrite copyright for AI",
-   "body": "Rightsholders suing over generative AI are asking courts for exactly what the Supreme Court refused in the VCR era: a copyright expansion built to fit a new machine. EFF has filed briefs arguing that the \"market dilution\" theory — a tool can't be fair use if it might spawn competing works — makes competition itself the injury. Copyright doesn't do that.",
-   "sections": [
-    {
-     "label": null,
-     "style": "prose",
-     "text": "In the 1980s, major rightsholders told Congress that the videotape recorder was to American film producers what the \"Boston strangler\" was to a woman home alone. In 1906 the composer John Philip Sousa had warned that the player piano and the gramophone would destroy musical composition. The Supreme Court declined to take the VTR panic at face value: the machine had plenty of non-infringing uses — time-shifting among them — and courts shouldn't rewrite copyright law every time a new one arrives.\n\nThe EFF is now putting that record in front of the judges hearing the AI cases, in amicus briefs in Concord Music Group v. Anthropic and In re Mosaic LLM Litigation.\n\nThe target is the \"market dilution\" theory: that building a generative AI tool cannot be fair use, because the tool might encourage a proliferation of works competing with the originals. Note what that argument does not require — it doesn't require the outputs to infringe. The arrival of competitors is itself the injury.\n\nEFF's objection is structural. Copyright exists to promote the creation of expressive works for the public, and it is built so that others can build freely on what came before; it penalizes infringement, not competition. Accept dilution as harm and you don't just gut fair use — you collapse the other limits that stop rightsholders claiming broad ownership over tropes, genres and styles. Publishers would end up holding a veto over any expression that might conceivably compete with something they own, AI-assisted or not.\n\nTwo further claims sit underneath the brief. Research indicates large models are unlikely to produce infringing output at all, because the more data a model is trained on, the less any individual training example matters to any particular result. And the displacement story isn't settled: people are using these tools to make things, and it isn't a court's job to rule in advance which instruments count as fostering human creativity.\n\nWhich is where the VTR case turned. A general-purpose tool gets judged on the full range of what people do with it, not on the worst thing a plaintiff can imagine. EFF grants the disruption will be real and harmful for some; its position is that distorting copyright is the wrong instrument for fixing it."
-    },
-    {
-     "label": "Watch next",
-     "style": "note",
-     "text": "Whether any court in Concord v. Anthropic or the Mosaic litigation adopts market dilution as a cognizable harm. Written into a fair use analysis once, its reach extends far past AI — into claims over styles and genres generally. Keep the inquiry anchored on infringement and the VTR framing holds."
-    }
-   ],
-   "recall": {
-    "q": "What is the \"market dilution\" theory, and why does EFF argue courts should reject it?",
-    "a": "It's the claim that building a generative AI tool can't be fair use because the tool might flood the market with works competing against the originals — no infringing output required, the competition itself is the injury. EFF argues copyright penalizes infringement, not competition, so accepting dilution as harm would gut fair use and hand rightsholders a veto over anything that might compete with what they own, including claims over styles, genres and tropes."
-   },
-   "imageUrl": "https://www.eff.org/files/banner_library/ai-robot-warhol-2.png",
-   "deepLink": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-   "attribution": "via Hacker News",
-   "publishedAt": "2026-09-01T12:53:51Z"
-  },
-  {
-   "id": "bbc-world-1lsc6ia",
-   "source": "bbc-world",
-   "topic": "world",
-   "kind": "news",
-   "title": "Six million Afghans pushed back into Taliban Afghanistan",
-   "body": "Many of the six million were born in Pakistan or Iran and have never set foot in Afghanistan. They arrive in a country where 21.9 million people — nearly half the population — already need aid to survive, and where secondary school and university are closed to the girls among them. UNHCR says no return movement on this scale has happened in recent history.",
-   "sections": [
-    {
-     "label": null,
-     "style": "prose",
-     "text": "Nazia is 35, was born in Pakistan, and has just walked into Afghanistan for the first time in her life. She crosses at Torkham — the checkpoint everyone calls Zero Point — with two of her children, heading for registration counters strung with white and black Taliban flags. It feels good to be in her own country, she says, and then, in the same breath, that many people here don't have enough bread to eat.\n\nNearly her entire family — eight sisters and their children — was deported this year, from Pakistan or Iran. In a little under three years around six million Afghans have been pushed back the same way, a million of them this year alone, according to UNHCR.\n\nBoth governments frame it as a crackdown on undocumented migrants who pose a security risk or a financial burden. The UN and human rights groups say the sweep runs well past that group: Pakistan now states publicly that Afghans holding Proof of Registration cards are not exempt either. The expulsions intensified after heavy fighting between Pakistan and Afghanistan last October, and in February Human Rights Watch documented door-to-door raids, late-night searches and arrests without warrants. Iran — which claimed last year to host more than four million undocumented Afghans — accelerated its deportations after its 12-day war with Israel and the US in June 2025, with the New York-based Centre for Human Rights in Iran accusing officials of recasting Afghan migrants as potential spies for Israel. Pakistan's foreign ministry says any mistreatment is \"sporadic\" and handled under the law. UNHCR keeps repeating the principle that returns should be voluntary, safe and dignified.\n\nHomecoming is the wrong word for what waits on the other side. Sarwar left 45 years ago during the Soviet invasion; most of his brothers were born in Pakistan. He arrived in a convoy of 40 people with their possessions stacked in a hired lorry — heartbroken, he says, but relieved to be free of police harassment. His sister-in-law Zarina, 40, sits in a transit tent in 41C heat and says the family has no resources to start a business and doesn't own a tent to live in. Asked whether she worries about the girls, she gestures at the children around her: they're all girls. Secondary school and university are closed to them. A former Afghan security guard, deported first from Iran and then Pakistan, says he no longer leaves the house — he doesn't trust the Taliban's 2021 amnesty because colleagues of his have been killed, and he was deported before the UN could transfer his registered case somewhere safer.\n\nThe arithmetic of absorption doesn't work. The UN estimates 21.9 million people need assistance this year to survive, and UNICEF says a million children face life-threatening malnutrition. Foreign aid has been cut worldwide and the cuts bite hardest here, because the Taliban remain under sanctions tied to terrorism and human rights. Foreign Minister Amir Khan Muttaqi concedes there's no doubt they need some help, while insisting the returns will benefit Afghanistan in the long run. UNHCR's spokesperson in Afghanistan, Charlie Goodlake, says no country could handle this alone — then adds that the edicts on women and girls make international support harder to raise. Five years on, only Russia has formally recognised Taliban rule; Muttaqi points instead to deepening ties with China, India and Central Asia, and asks what the countries that stayed away have achieved.\n\nPakistan confirmed it has granted 16,000 vulnerable Afghans a temporary humanitarian exemption from deportation. Sources put the number at risk of serious harm — including women and girls who would lose access to education — as high as 250,000."
-    },
-    {
-     "label": "Watch next",
-     "style": "note",
-     "text": "Whether Pakistan's 16,000-person exemption expands toward the 250,000 estimated at risk, or expires quietly. And the aid line: with donor funding shrinking, either a restoration of money or a Taliban move on girls' education — which UNHCR explicitly ties to its ability to raise support — would change the arithmetic. If neither shifts, the returns continue into a country whose own foreign minister concedes it needs help."
-    }
-   ],
-   "recall": {
-    "q": "Why do the UN and rights groups treat these six million returns as a crisis rather than a homecoming?",
-    "a": "Because they aren't voluntary and the destination can't absorb them. Many deportees were born in Pakistan or Iran and have never lived in Afghanistan; they arrive with no home or income in a country where 21.9 million people — nearly half the population — already need aid, with foreign funding shrinking and sanctions on the Taliban making it harder to replace."
-   },
-   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg",
-   "deepLink": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&amp;at_campaign=rss",
-   "attribution": "BBC News",
-   "publishedAt": "Tue, 01 Sep 2026 05:00:34 GMT"
-  },
-  {
-   "id": "tfa-2026-09-02",
-   "source": "wikipedia-featured",
-   "topic": "wildcard",
-   "kind": "fact",
-   "title": "Laguna Miscanti",
-   "body": "Laguna Miscanti is a brackish lake in the Altiplano of the Antofagasta Region in northern Chile. It has an area of about 13 square kilometres (5 sq mi) and the shape of an arrowhead. The lake has no permanent surface inflows or outflows apart from several springs, and is primarily fed and drained by groundwater. Laguna Miscanti is located among the volcanoes of the Central Andes. The smaller Laguna Miñiques lies immediately south, separated from Miscanti by a lava flow.",
-   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Laguna_Miscanti_%28Antofagasta%2C_Chile%29_03.jpg/960px-Laguna_Miscanti_%28Antofagasta%2C_Chile%29_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "deepLink": "https://en.wikipedia.org/wiki/Laguna_Miscanti",
-   "attribution": "Wikipedia · CC BY-SA 4.0"
-  },
-  {
-   "id": "aeon-v5830h",
-   "source": "aeon",
+   "id": "epoche-by8spd",
+   "source": "epoche",
    "topic": "philosophy",
    "kind": "essay",
-   "title": "Adults need pointless play, not more streak counters",
-   "body": "Fun and competition are everywhere in adult life. What has vanished is paidia — free play with no score, no winner, no point — and the design logic that ate it now runs everything from fitness apps to meditation apps. Winnicott's 1971 claim that life only feels worth living when we co-create the world reads less like theory than diagnosis.",
+   "title": "Aristotle's vegetable: the mind that stops checking itself",
+   "body": "Aristotle said nobody can truly believe a thing and its opposite at once. What he proved is smaller: such a person cannot defend himself. He can still exist. That gap is where Orwell's doublethink lives — and we now walk into it out of tiredness.",
    "sections": [
     {
      "label": null,
      "style": "prose",
-     "text": "On a holiday carpet, the hexagonal tiles of Settlers of Catan have been pulled apart into an archipelago no rulebook recognises. The kids have imagined bridges out of wood, brick and stone, inventing a purpose for a game about network connectivity that has nothing to do with earning points.\n\nJustin Neuman's first instinct was to fetch the rulebook and explain how the game actually works. His second was to figure out how he could win. It took him a while to reach the third — working up the courage to ask whether he could sit down and build with them. A 48-year-old professor on the floor, making islands, with no point in sight.\n\nYou can play a game or you can play in a game. Following the official rules, chasing the stated objective, measuring yourself against opponents or a score: the Greeks called that agôn, after the god who personified contest and struggle. What the kids were doing has an older name. Roger Caillois, in his 1958 taxonomy Man, Play and Games, called it paidia — spontaneous, unstructured play, no winner, no score, no optimisation.\n\nCaillois mapped four modes: agôn (competition), alea (chance), mimicry (role-play) and ilinx (vertigo and disorientation), each sitting somewhere on a continuum between paidia and ludus, play bound by rules. Neuman's complaint is that we have collapsed that whole spectrum into one narrow band — competition plus structure. There is no App Store category, and no phrase in our cultural vocabulary, for exploratory play that refuses to compete.\n\nThe mechanism doing the collapsing has a name: C Thi Nguyen's value capture, where a game's simplified, legible values colonise the real activity the game was supposed to serve. Games don't just build worlds; they issue visions of the good, telling you what to care about by rewarding it with a number. Doing Duolingo to protect the streak, or running to hold a place on the app's leaderboard, is the number swallowing the reason you started.\n\nJohan Huizinga saw it coming. In Homo Ludens (1938) he argued that law, philosophy, poetry and war all emerge from play's magic circle, the bounded space where ordinary rules are suspended — and that the play element in Western civilisation had been eroding since the end of the 18th century under industrialisation and professionalisation. Neuman's update is that we never killed play. We captured it, harnessed it to a productivity framework, then packaged it for passive consumption.\n\nSo fitness apps turn the morning run into a contest, meditation apps put streak counters on stillness, language apps hand out badges for what used to be called curiosity, and journaling apps nudge you toward a consistency score. Leisure becomes a third shift with its own metrics, its own guilt, its own sense of falling behind. Neuman is careful here: he has fifty-plus ultramarathons and two age-group national titles. Agôn is what he does on weekends. It just isn't where he finds meaning or works out who he is.\n\nThe deeper problem is that we've eliminated the conditions in which free play arises. On the subway every head is bowed — not working, not thinking, filling time. A few seconds of unstructured attention now triggers a reach for the phone, when boredom is precisely the state in which a mind left alone starts to wander and associate. The prescription isn't better games. It's more nothing.\n\nDonald Winnicott would have read the absence as a clinical emergency. In Playing and Reality (1971) he argued that play isn't what children do en route to becoming productive adults; it's how human beings maintain their worlds. His key idea, transitional space, is a condition rather than a location — the conversation so engrossing you say something you didn't know you thought until you heard it leave your mouth. Not fully inside your own head, which is fantasy, and not performing for an audience, which is compliance. In between.\n\nFrom there comes his sharpest claim: that creative apperception, more than achievement or family or art, is what makes a person feel life is worth living. Apperception means perception as active engagement — in the ordinary kind the world is simply there and the self adjusts; in the creative kind you forge something between self and environment. Its opposite, compliance, is life on someone else's terms, moving through a world defined in advance, and it carries a sense of futility. Most people, Winnicott thought, get just enough creativity to notice its absence, sensing they live \"as if caught up in the creativity of someone else, or of a machine\" — written before the personal computer, before the algorithm, before we installed surveillance engines in our pockets and called them phones.\n\nFriedrich Schiller had made the case from the other side in 1795: humans are torn between raw sensation and abstract order, and only the play drive integrates the two. \"Man only plays when he is in the fullest sense of the word a human being, and he is only fully a human being when he plays.\" Winnicott tells you what play does psychologically — it makes life feel real. Schiller tells you what it does metaphysically — it makes you whole.\n\nAquinas gave the habit a name: eutrapelia, knowing when and how to play well, treated as a discrete virtue. On that account a person who never plays is as disordered as one who never works. This is not work-life balance, which still frames play as recovery time for the next productive thing. You don't earn it. You practise it, daily.\n\nWhere does the practice live? For years Neuman has walked the thirty blocks from Grand Central to 14th Street, telling himself it was exercise or fare money. What was actually happening: the lecture he couldn't outline at his desk assembled itself around 34th Street, as if the footfalls were doing the editing. Nietzsche reputedly walked six to eight hours a day and insisted that only thoughts arrived at by walking were worth anything; Aristotle's school took its name from its walkways; Rousseau claimed he could compose only in motion; Einstein supposedly told colleagues the walk was where the real thinking happened and the office was where he wrote it down. In 2014 Marily Oppezzo and Daniel Schwartz at Stanford found walking raised divergent thinking — the capacity to generate multiple solutions to open-ended problems — by roughly 60 per cent, and a treadmill facing a blank wall worked nearly as well as wandering campus. The motion, not the scenery.\n\nPush the body harder and you reach ilinx, the category nobody discusses. Spinning until you're dizzy; or running past the point where split times stop mattering and the self loosens its grip. Wanting to win will get you to the start line of a local 5K, Neuman notes, but it won't get you to the finish of a hundred-miler. Nguyen calls this striving play: the goal exists to make the experience of striving possible, not the other way round.\n\nHis son runs the same logic in the basement with found steel, salvaged motors, carved wood, copper and stone. Nobody assigned it and no tutorial dictates the sequence — copper tells you what it wants to become, stone suggests a shape and you listen or it breaks. And he doesn't sell any of it. The knife goes to a friend, the carved animal to a teacher; work that asked for nothing overflows into gift rather than commodity.\n\nThe same thing happens in Neuman's seminars, which at their best obey the logic of improv rather than instruction. A student notices something strange in a passage — a word that doesn't fit, a silence where speech should be — someone else turns it over and connects it to something from three weeks earlier, and the room thinks a thought nobody walked in with. That is transitional space built inside an institution that otherwise rewards compliance.\n\nAristotle ranked contemplation as the highest human activity because it is done purely for its own sake, and for centuries religion, the academy and the law held that hierarchy in place. Neuman's closing move is to refuse the ranking. Asking which activity is highest is itself an agôn, a contest — and play doesn't enter it. Play dissolves it."
+     "text": "Aristotle is arguing with someone who will not argue back. In Book Four of the Metaphysics he defends the most basic rule in logic — a thing cannot both be and not be. Then he meets a man who refuses to settle: something is so, and also not so, and he does not mind. Aristotle asks what is left to separate him from the vegetables. It sounds like an insult. It is a description."
     },
     {
-     "label": "Steelman",
+     "label": "The passage",
      "style": "note",
-     "text": "Structure and scores aren't only parasitic; for most adults they're the scaffolding that gets them to show up at all. Neuman's own fifty-plus ultramarathons ran on split times and finish lines long before they became striving play, and his son's craft and the seminar both happen inside frames someone else built. Value capture names a failure mode of metrics, not proof that a scored practice can't host meaning."
+     "text": "Aristotle states the rule twice.\n\nAbout the world: the same attribute cannot at the same time belong and not belong to the same subject in the same respect.\n\nAbout minds: it is impossible for anyone to believe the same thing to be and not to be.\n\nAnd of the man who seems to manage it anyway: what remains to distinguish him from the vegetables?"
     },
     {
-     "label": "Key takeaways",
+     "label": null,
+     "style": "prose",
+     "text": "Take the first line. It is about the world, not about you: nothing can have and lack the same quality at the same moment, in the same way. Aristotle calls this the firmest principle there is — and refuses to prove it. Any proof would have to use it. The argument would go in a circle before it began.\n\nSo he does something else. He asks the man who denies the rule to do one thing: say something that means something. That is harder than it sounds. To mean this is to not mean that. If your word picks out one thing rather than another, you have already used the rule. He is beaten by opening his mouth.\n\nThe second line looks the same. It is not. It is about minds: nobody can really believe a thing and its opposite. The trap does not reach that far. It shows that denying the rule cannot be defended. It does not show that nobody can live inside a contradiction. Aristotle treats the two as one because he assumes that anyone who can speak wants to be defensible — that wanting your beliefs to agree comes free with thinking. Drop that assumption and the vegetable is no longer the far edge of being human. It becomes a place a person can arrive at.\n\nThat is Orwell's point. Doublethink is not ordinary confusion. Everyone holds beliefs that clash. We notice, we squirm, we fix one. That order is reason working, not failing. Doublethink keeps the noticing and drops the squirm and the fix. The clash is seen, seen clearly as a clash, and nothing follows.\n\nSo what is given up is not logic. It is a demand: that your beliefs answer to each other. That demand sits above every single belief, so evidence cannot reach it. A false belief can be corrected. A person who no longer feels a clash as a cost gives the correction nothing to hold.\n\nHannah Arendt described the ideal subject of a total regime: not someone convinced by lies, but someone for whom the difference between true and false has stopped mattering. Harry Frankfurt found the same person with no regime at all. A liar still tracks the truth, so he can steer around it. The one who does not care where the truth is has left the game.\n\nEndless clashing claims ask a checking mind for a debt it cannot pay. So it goes unpaid — from tiredness, not from a decision. Nobody gives up consistency. They stop having time for it, and the loss never announces itself. Which is why more facts do not help. A correction only works on someone who would be embarrassed by it."
+    },
+    {
+     "label": "See it in your life",
      "style": "list",
      "items": [
-      "Caillois separates paidia (free improvisation) from agôn (contest); our platforms sell only the second, so there's no category — commercial or cultural — for play that refuses to compete.",
-      "Value capture is the specific failure: a game's simplified, legible values colonise the real activity it was meant to serve, until the number is the reason.",
-      "Winnicott's opposition is creative apperception versus compliance — co-creating your world versus moving through one defined in advance, which he says carries a sense of futility.",
-      "Oppezzo and Schwartz found walking lifted divergent thinking by about 60 per cent, and a treadmill facing a blank wall worked nearly as well as the campus: it's the motion, not the view.",
-      "Aquinas's eutrapelia treats playing well as a virtue — something you practise daily, not leisure you earn by finishing work."
+      "Two headlines that cannot both be true scroll past. You feel nothing. You keep going. That flat feeling is the debt going unpaid.",
+      "You catch yourself holding two beliefs that clash, and a small discomfort follows. That discomfort is not a flaw. It is the part doing the work — and the part doublethink deletes.",
+      "Someone corrects you. You accept it. Nothing in you moves. The correction lands with the same flatness as the error it replaced."
      ]
     },
     {
      "label": "Worth carrying",
      "style": "pull",
-     "text": "Name the last thing you did that nobody kept score of — including you. If nothing comes, that's the finding."
+     "text": "What defines a mind is not what it believes. It is whether it still tests what it believes. The first changes all the time. The second, once let go, is the hardest thing to get back."
     }
    ],
    "recall": {
-    "q": "What does value capture describe, and why does it mean adults have lost paidia rather than play in general?",
-    "a": "Value capture is when a game's simplified, legible values colonise the real activity it was meant to serve — the Duolingo streak standing in for the language, the leaderboard standing in for the reason you started running. Play itself wasn't destroyed; it was captured and harnessed to metrics, which is why competition and fun are everywhere while free, scoreless, purposeless play has almost no place in adult life."
+    "q": "Aristotle showed that the man who denies the rule cannot defend himself. What did he fail to show — and why does that gap matter?",
+    "a": "He failed to show that nobody can live inside a contradiction. Being unable to defend a position and being unable to hold one are different things. Drop his assumption that a thinking being wants to be defensible, and the vegetable is not an impossible edge case. It is somewhere a mind can end up."
    },
-   "imageUrl": "https://images.aeonmedia.co/images/e2cbb509-e695-4191-8ab0-d8a48f630ec2/essay-gettyimages-2257653140.jpg?width=1200&quality=75&format=auto",
-   "deepLink": "https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score",
-   "attribution": "Aeon",
-   "publishedAt": "Tue, 01 Sep 2026 10:00:00 GMT"
+   "deepLink": "https://epochemagazine.or/g/94/aristotles-vegetable-doublethink-and-the-surrender-of-consistency/",
+   "attribution": "Epoché Magazine",
+   "publishedAt": "Mon, 31 Aug 2026 12:30:25 +0000"
   },
   {
-   "id": "hackernews-1iiewir",
-   "source": "hackernews",
-   "topic": "tech-ai",
-   "kind": "craft",
-   "title": "A 90-minute transformer on one GPU hits ~45% on ARC-AGI",
-   "body": "One developer trained a plain transformer from scratch in 1.5 hours on a single RTX 5090 and scored around 45% on ARC-AGI — matching specialized architectures like HRM and TRM, beating many LLMs. The most instructive change: removing input tokens from the loss made test loss worse and the benchmark score better.",
+   "id": "conv-psych-1flu4z0",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why the chatbot's one clean answer feels true",
+   "body": "A chatbot's reply is the easiest thing you will read all day, and easy things feel true. So your certainty goes up while the evidence stays exactly where it was.",
    "sections": [
     {
      "label": null,
      "style": "prose",
-     "text": "Six years open, a million dollars in prize money, and a benchmark labs kept bouncing off. Then one person, one RTX 5090, ninety minutes — a plain transformer trained from scratch to roughly 45% on ARC-AGI, matching the specialized architectures HRM and TRM and beating many LLMs outright. The code is open. His own reaction: \"I don't understand why others didn't figure this out.\"\n\nThe one change he can point at is an edit to the loss function: stop including input tokens, compute only over output tokens, which makes the training supervised. Score went from 40% to 44%, runs got more stable, variance across runs dropped. He can't explain it, and guesses it has something to do with finite model capacity.\n\nTest loss got worse while the benchmark score got better — the number everyone tunes on moved the wrong way. He flags this as a failure mode for a whole line of research: plenty of people chase sample efficiency by minimizing validation loss on a small dataset, and here is a change where the two signals point in opposite directions.\n\nThen the data. ARC-2 contains 773 puzzles carried over from ARC-1 plus 347 new ones, and most of ARC-1's eval puzzles are among the repeats. Train naively on ARC-2 and you score 100% — not because the model learned anything, but because you handed it the answers. He filtered the 773 out. Remove the extra data entirely and the model still gets ~40%, at roughly double the compute.\n\nOn optimizers: vanilla Muon trained much faster than AdamW, but loss and scores would loiter near the end instead of converging. He could fix it by cranking momentum or learning rate down at that point, but didn't want a manual intervention baked into the run. Switching to NorMuon made the problem disappear.\n\nNeither the loss change nor the optimizer was the biggest contributor. That was the representation: 3D RoPE plus a per-task embedding. He thinks 65% is reachable inside the same transformer framework without many modifications, and has a reason: the union of solved tasks across multiple runs already covers 55%, with a batch of others nearly solved. Cost could probably drop another 10x with hand-written GPU code.\n\nHe also takes a swing at how the rival small models are marketed. TRM advertises itself as a 7M-parameter model while training on the order of 100M+ embedding weights; HRM does the same, neither mentioning it. At minimum it should read as active weights, he argues — otherwise the thing looks more like a lookup table, and it's unclear what's producing the performance. His own model reaches that performance with no recursion at all; the only confirmed benefit of recursion, he says, is spending more compute without more memory movement.\n\nOne last reading of the leaderboard. ARC-2's release reset every LLM's progress, thinking models included. If post-training conferred general reasoning, a model good at ARC-1 would be good at ARC-2 for free. It wasn't. Base models are still stuck in single digits while only the thinking ones climb."
+     "text": "Take a true sentence and print it in a colour that is slightly hard to read. People rate it as less likely to be true. Print it in crisp black and they trust it more. Nothing about the sentence changed — only the effort of reading it.\n\nAli Jasemi, a psychologist who studies how people learn and stay informed online, thinks that small finding explains something large. By February this year, ChatGPT alone had 900 million weekly users, mostly asking it for information and practical advice."
     },
     {
-     "label": "Do this",
-     "style": "list",
-     "items": [
-      "Track the metric you actually ship alongside your loss, and when the two diverge, trust the metric. That divergence was the result here, not a glitch in it.",
-      "Before trusting any eval number, diff your training set against your eval set by ID. 773 of ARC-2's puzzles are ARC-1 repeats; train on them naively and you get a meaningless 100%.",
-      "Read parameter counts as active versus total. A 7M-parameter claim that excludes 100M+ trained embedding weights describes a different machine than the headline suggests.",
-      "If your fix is a manual knob-twiddle mid-run — drop momentum here, cut the learning rate there — treat it as a signal to change methods. Swapping vanilla Muon for NorMuon removed the need entirely."
-     ]
+     "label": "Why does one clean paragraph feel so true?",
+     "style": "prose",
+     "text": "Two habits of mind do the work. The first is processing fluency — the easier something is to take in, the truer it feels. Decades of research sit behind it, and the colour experiment is one small corner. A chatbot reply is instant, clean and confident, so it presses that button directly.\n\nThe second is the machine heuristic — the belief that a machine wants nothing for itself. Trust in news organisations is low, partly because people suspect a motive behind the story. A chatbot answer has no author, so there is no one to suspect."
     },
     {
-     "label": "When not to",
+     "label": "What is the chatbot doing to earn that?",
+     "style": "prose",
+     "text": "It hides the argument. Books, newspapers and people used to disagree with each other, and your judgment formed in the gaps between them. Search engines kept part of that: a list of links still showed you the answer had rivals. A chatbot returns one paragraph, and the rivals are gone.\n\nThat absence is comfortable, and the comfort is the trap. In experiments, people were too sure when they got one answer and not sure enough when they got several — even when the several were more accurate. Sources that clash also help you remember where each fact came from. Sources that agree do not. Ten sources become one paragraph, and the disagreement leaves your view, not the world."
+    },
+    {
+     "label": "When should I not trust it?",
+     "style": "prose",
+     "text": "More often than feels possible. The largest study of its kind — run by the European Broadcasting Union, led by the BBC, across 18 countries and 14 languages — found that almost half of AI assistants' news answers had at least one serious problem. Bad sourcing was the most common fault. Others were misleading, out of date, missing a key detail, or simply made up.\n\nAlmost nobody catches it. Pew tracked what people actually do in their browsers: when Google shows an AI summary, readers open a source on 8% of visits, against 15% when it does not. They click the links inside the summary 1% of the time."
+    },
+    {
+     "label": "What does using one wisely look like?",
+     "style": "prose",
+     "text": "Jasemi does not ask you to stop. Telling people to drop one of the handiest tools ever built works about as well as telling them to swap cars for horses. He asks you to add one deliberate habit to an automatic one. Notice the pull first. Then treat the reply as a starting point, not the final word: ask for the sources, open them, and look for the view that disagrees."
+    },
+    {
+     "label": "The question nobody can answer yet",
      "style": "note",
-     "text": "Don't generalize the loss-on-outputs-only change into a rule: he expects unsupervised-style training to win in some scenarios and is still evaluating it. He's also unhappy with his own result on its own terms — it leans on data augmentations, which he counts as an \"anti-bitter lesson\" cheat alongside synthetic data and hand-designed inductive biases, and the open problem he'd hand you is removing them without blowing up training cost."
+     "text": "Jasemi's honest answer is that he does not know what this does to a whole society. The 2026 Reuters Institute report finds 10% of people worldwide now use a chatbot for news each week, rising to 16% among the under-35s. Only 42% of them say they usually check the links. An audience that is misinformed is also an audience that votes. What that does over years, no psychologist can tell you yet."
     },
     {
      "label": "Worth carrying",
      "style": "pull",
-     "text": "When the loss you optimize and the score you care about disagree, the loss is the one lying."
+     "text": "Certainty built from seeing less is not knowledge. It only feels the same."
     }
    ],
    "recall": {
-    "q": "Dropping input tokens from the loss made test loss worse. Why keep the change — and what practice does that indict?",
-    "a": "Because the benchmark score went up, 40% to 44%, with more stable runs and less variance across them. He treats it as a failure mode for a whole line of research: chasing sample efficiency by minimizing validation loss on a small dataset assumes the proxy and the thing you want move together, and here they moved in opposite directions."
+    "q": "Ten sources disagree. A chatbot turns them into one paragraph. Why does the reader end up more certain than before?",
+    "a": "Because the disagreement is what would normally slow you down and make you check. Hiding it does not improve the answer — it removes the friction. In experiments, people were too sure when they got one answer and not sure enough when they got several, even when the several were more accurate."
    },
-   "deepLink": "https://mvakde.github.io/blog/44-on-arc-1/",
-   "attribution": "via Hacker News",
-   "publishedAt": "2026-09-01T09:52:45Z"
+   "deepLink": "https://theconversation.co/m/why-do-we-trust-chatbots-and-how-can-we-use-them-more-wisely-a-psychologist-explains-290396",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-01T18:49:33Z"
   },
   {
-   "id": "semafor-iizkdb",
-   "source": "semafor",
+   "id": "finshots-8hq2fn",
+   "source": "finshots",
    "topic": "econ",
    "kind": "news",
-   "title": "Fed chair wants to stop guiding markets on rates",
-   "body": "Kevin Warsh used Jackson Hole to argue the Fed should say less about where rates are headed and let investors read the economy instead. His precedent — companies that dropped earnings guidance and survived — carries a selection problem he shares: the firms that quit for good were mostly bad forecasters who wanted an exit.",
+   "title": "Why India's onion prices swing: the cobweb cycle",
+   "body": "An onion farmer picks how much to plant months before the crop can be sold. The only price to plant against is last year's. That one lag is enough to swing prices hard, with no bad weather needed.",
    "sections": [
     {
      "label": null,
      "style": "prose",
-     "text": "Bond yields rose after a speech whose entire argument was that the Fed should give markets less to trade on.\n\nThat was Kevin Warsh at Jackson Hole, making the case for a quieter central bank — a return to the Greenspan-era habit of constructive ambiguity, where nobody outside the room is quite sure what comes next. Investors should \"play the ball, not the referee,\" he said: read the economy instead of gaming out the Fed's next move. He offered what he called a trail map and asked, a little futilely, that nobody call it forward guidance.\n\nGoldman's chief economist supplied the obvious objection. Players who have only ever watched the referee don't suddenly become good at reading the game. They just watch the referee worse — and that shows up as volatility.\n\nThere is real evidence on the other side, from the corporate world. A study of 96 firms that dropped earnings guidance between 2000 and 2006 found short-term stock hits and no lasting damage. A later study of 180 companies that suspended guidance when the pandemic hit in 2020 found the same thing. Investors either shifted weight onto analyst calls and alternative data, or simply got used to the silence.\n\nThe catch is selection. Companies that stopped forecasting during Covid and never restarted weren't a random sample — they were chronic missers of their own numbers, and the pandemic handed them a reason to stop. The Fed has been a bad forecaster for a while too. Its dot plot, tracking where officials expect rates to go, has stopped anchoring expectations and turned into something to be publicly wrong about, over and over.\n\nSo the harder question isn't whether to drop guidance but when. Quitting mid-crisis gets a pass that quitting on a clear day would not — and the Fed's current weather is genuinely bad: sticky inflation, an AI capex boom overheating half the economy while the other half cools, a debt load begging for lower rates.\n\nThe reception undercut the premise. A Deutsche Bank analyst said the speech surprised him with how specific it was about the economy and how hawkish it leaned, and fed funds futures moved to a 66% chance of a quarter-point hike in September."
+     "text": "Walk it one step at a time. Prices crash after a heavy harvest, so farmers plant less. The thin crop becomes a shortage and prices soar — onions have crossed ₹60 a kg in much of India, and the government is moving reserve stock on a freight train it calls the \"Kanda Express\". Farmers see those prices and rush to plant. Everyone plants at once, supply floods in, prices crash, and the loop restarts.\n\nEconomists named this the cobweb cycle in the 1930s — Nicholas Kaldor and Jan Tinbergen among them — after the shape supply and price trace on a graph. Any crop with a long gap between the planting decision and the sale can run it.\n\nStored onions would soften the swing, but only the rabi crop keeps well, and much of it rots in open sheds. Onions have no minimum support price and no working futures market, so last year's price stays the only signal a farmer has."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "₹60 a kg — onion prices across much of India now",
+      "70% — share of India's onion output from the rabi crop, the only harvest that stores reasonably well",
+      "3 crore vs 2 crore metric tonnes — yearly production against household consumption plus exports",
+      "₹34 to ₹80 — what the farmer got versus what the shopper paid, in one case studied by the Competition Commission of India"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Weather, hoarding and middlemen are real causes, but partial ones. India grows more onions than it eats and exports, yet the shortages keep coming. Buffer trains and reactive price support treat each spike after it lands. They do nothing about the decision loop that builds the next one."
     },
     {
      "label": "Watch next",
      "style": "note",
-     "text": "Whether the dot plot actually goes. A speech about ambiguity costs nothing; retiring the quarterly rate projections is the real test of intent. Then September: if a deliberately quieter Fed still lands where markets expected, Warsh's bet looks sound — if its moves keep arriving as surprises, Goldman's objection collects its evidence, priced in volatility."
+     "text": "Onion futures — deals that fix a price today for a crop sold later. NCDEX, India's commodity derivatives exchange, got approval to launch them years ago and never really did. Onions are hard to store, and an essential vegetable is politically risky to trade. Angry voters remember the last price rise."
     }
    ],
    "recall": {
-    "q": "Why is the corporate precedent — firms dropping earnings guidance without lasting damage — a shakier argument for the Fed than it first appears?",
-    "a": "Selection. The companies that stopped forecasting and never restarted weren't a random sample: they were chronic missers of their own numbers, and Covid handed them an exit. The Fed, wrong on its dot plot over and over, fits that profile — so dropping guidance reads less like strategic ambiguity than like retiring a scoreboard it keeps losing on."
+    "q": "Onion prices can swing wildly even in a year with normal weather. What produces the swing?",
+    "a": "The time lag between planting and selling. A farmer commits land months ahead with only last year's price to go on. So a crash makes everyone plant less, which creates a shortage; the high prices that follow make everyone plant more, which creates a glut. That self-repeating loop is the cobweb cycle."
    },
-   "imageUrl": "https://img.semafor.com/99e0b31bab1cfa59b4b1e392853c6720e747a3af-5500x3668.jpg",
-   "deepLink": "https://www.semafor.com/article/09/01/2026/the-feds-forecasts-keep-missing-so-it-may-stop-making-them",
-   "attribution": "Semafor",
-   "publishedAt": "Tue, 01 Sep 2026 17:13:17 +0000"
+   "imageUrl": "https://cdn.finshots.app/images/2026/08/onion-price--1-.jpg",
+   "deepLink": "https://finshots.i/n/archive/the-economics-of-indias-never-ending-onion-price-problem/",
+   "attribution": "Finshots",
+   "publishedAt": "Mon, 31 Aug 2026 01:30:20 GMT"
   },
   {
-   "id": "marginal-rev-vb6jja",
-   "source": "marginal-rev",
-   "topic": "econ",
-   "kind": "concept",
-   "title": "Markets price democratization like a financial crisis",
-   "body": "Across 90 countries and 200 years of stock returns, risk premia rose sharply before and during democratizations — by a margin comparable to what markets demand in financial crises. Countries moving the other way, toward autocracy, produced almost no asset-price response. That asymmetry points at redistribution rather than generic turmoil.",
-   "evidence": "90 countries · 200 years · stock market risk premia",
+   "id": "acx-6g6taf",
+   "source": "acx",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Should surgeons remove the amygdala to end fear?",
+   "body": "A brain tumour cost one man his right amygdala — the brain's alarm bell. His depression lifted, his gut-level fear vanished, and he now says surgeons should offer the same operation to people whose fear is ruining them. The strongest objection is not disgust at the idea. It is that the man reporting the result no longer has the part that would notice what he lost.",
+   "evidence": "single case report · n=1 · self-report",
    "sections": [
     {
      "label": null,
      "style": "prose",
-     "text": "Markets are afraid of democracy, and they turn out to be right to be.\n\nMax Miller's paper, now published in the Journal of Political Economy, measures the fear. Across 90 countries and 200 years, risk premia — the extra return investors require for owning a country's assets — run substantially elevated in the period before and during democratizations, by an amount similar in magnitude to what markets demand during financial crises. Markets treat democratization as a redistribution event, and they charge for it in advance.\n\nThen the paper checks the fear against what actually happened. Successful democratizations do redistribute. The public sector grows. Income inequality falls. The labor share of income rises. Investors were not pricing a rumor.\n\nFor causal evidence rather than correlation, Miller leans on a shift in Catholic church doctrine toward supporting democracy — a change originating outside any single country's economy — and finds that it, too, drives risk premia up.\n\nThe canonical redistribution-based model of democratization, extended to carry asset prices, reproduces the magnitudes. Roughly half the effect comes from the direct channel: higher taxes and falling inequality. The other half isn't the tax code at all — greater economic competition and more equal government spending. Incumbent firms face more rivals; public money gets spread more evenly.\n\nThe alternatives don't survive. Not a rise in macroeconomic risk, not generic political risk. The cleanest tell is the asymmetry: autocratizations produce a negligible asset-price response, and the same model predicts that. If markets were pricing upheaval as such, movement in either direction should sting. Only one direction does."
-    },
-    {
-     "label": "The experiment",
-     "style": "note",
-     "text": "Stock returns across 90 countries spanning roughly 200 years, with risk premia measured around both democratizations and autocratizations. Causal variation comes from a doctrinal shift in the Catholic church toward supporting democracy. Post-democratization outcomes measured include the size of the public sector, income inequality, and the labor share of income; a redistribution model of democratization extended to include asset prices is then fit to the magnitudes."
+     "text": "Minutes before an operation he had worked out had a six percent chance of killing him, Daniel Böttger refused the sedative. German rules let a patient refuse if he can show he is still thinking clearly. So he recited a poem he had written for the doctor who would put him under. It rhymed, it kept its beat, and it explained that he had felt no fear since surgeons took his amygdala.\n\nThe amygdala is a small part deep inside each half of the brain. It is the alarm bell: it fires the fight-or-flight rush. In 2024, surgeons cut a fist-sized tumour out of Böttger's brain, and his right amygdala came out with it. He has been, by his own account, extremely well ever since. So: should anyone choose this?\n\nTake the yes case at full strength. His major depression — held down for years by the highest dose of an antidepressant — simply ended. He stopped the drug twice, once all at once with no step-down, and stayed fine. The gut-drop kind of fear is gone, and with it the loops of worrying about worrying, which he says need amygdala boosts to keep going. He still weighs risk and still avoids danger; that work belongs to the neocortex, the thinking outer layer, not the alarm bell. He feels pain but rarely gets stuck on it. The amygdala appears to help cause PTSD and runs hot in some other conditions, so it is not a wild target. And the modern operation is nothing like the lobotomies of the 1950s. Stereotactic radiosurgery sends many weak radiation beams through healthy tissue from different angles; only where they cross does the dose become strong enough to destroy. One procedure, he argues, against a lifetime of drugs and therapy that work less well and cost more.\n\nNow the no case, also at full strength. Much of it comes from him. Friends told him he had changed, and some liked him less. He cannot read faces well. He fails to comfort people who are frightened. Noise now bothers him. His doctors filed this under organic personality disorder, and he grants it looks like the autism-like pattern seen after brain injury. He also lost the stick half of motivation: the fear of failing that many people run on. And he notes something sharper. Someone in hospitality or care work — or anyone in a low-trust place, where having no suspicion gets you used — could be badly damaged by this surgery and still feel wonderful about it. The feeling and the outcome come apart. Nobody can put an amygdala back.\n\nSo what would settle it? Not a better first-person account. It needs outcomes judged from outside the patient — jobs held, relationships kept, harm avoided — in people whose amygdala is already wrecking their lives, tracked for years and set against the treatments they would have had instead. Böttger's own case cannot supply that. He is one man. The same operation took part of his hippocampus and temporal cortex, so cause and effect are tangled. And the person rating the loss is the person whose loss-detector was removed.\n\nThe balance is not even. One vivid, well-argued case report is nowhere near enough to offer this to healthy people. But it is enough to say that people with severe, amygdala-driven suffering deserve real trials — because the reason every surgeon he asked said no was not data. It was the memory of lobotomies."
     },
     {
      "label": "The caveat",
      "style": "note",
-     "text": "One paper, with the causal claim resting on a single source of outside variation. The redistribution outcomes are measured on successful democratizations — a selected set, not every attempt. And the roughly even split between the tax-and-inequality channel and the competition-and-spending channel is a model's decomposition, not a direct measurement; it holds only as far as the model does."
+     "text": "This is one man writing about himself in an essay, not a study. The same surgery removed part of his hippocampus and temporal cortex, which he says left lasting trouble with memory and finding his way — so neither the gains nor the costs can be pinned on the amygdala alone. His reported seven-point IQ rise is still awaiting a retest, and the earlier score was measured while he had cancer, depression, untreated epilepsy, test anxiety and daily medication."
     },
     {
      "label": "Worth carrying",
      "style": "pull",
-     "text": "Markets don't fear regime change. They fear who gets paid afterward."
+     "text": "An operation that removes your alarm bell also removes the thing that would tell you it was a mistake."
     }
    ],
    "recall": {
-    "q": "Markets charge a crisis-sized risk premium around democratizations but barely react when countries move toward autocracy. Why does that asymmetry matter to the argument?",
-    "a": "Because it rules out generic political or macroeconomic turmoil as the explanation — chaos in either direction should be priced. Only democratization is, which points to redistribution, and democratizations then deliver it: a larger public sector, lower income inequality, and a higher labor share of income."
+    "q": "Böttger says the surgery went well by every measure he can feel. Why doesn't that settle whether amygdala removal should be offered?",
+    "a": "Because the operation removed the very part that would register the cost — he points out that someone could be harmed by it and still feel wonderful. Settling it needs outcomes judged from outside the patient, like work and relationships, tracked over years."
    },
-   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
-   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/who-values-democracy.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=who-values-democracy",
+   "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/75d3b628-774a-4d5d-8845-7287e7e4f2fa_789x483.png",
+   "deepLink": "https://www.astralcodexte/n.com/p/absurd-adventure-and-amygdalectomy",
+   "attribution": "Astral Codex Ten",
+   "publishedAt": "Wed, 02 Sep 2026 05:51:22 GMT"
+  },
+  {
+   "id": "splintered-xf7jvv",
+   "source": "splintered",
+   "topic": "books",
+   "kind": "essay",
+   "title": "On consciousness, every available answer is bizarre",
+   "body": "Eric Schwitzgebel's guiding claim: on the deepest questions about mind and universe, something bizarre must be true, and we cannot tell which. Common sense fails here. So do science and philosophy.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two bodies are identical, atom for atom. Both are writhing. Both make the same sounds of protest. On one serious theory of pain, only one of them is actually in pain.\n\nThat is the sort of room the philosopher Eric Schwitzgebel keeps walking you into. He wrote a short summary of his own 2024 book, The Weirdness of the World, for people who will never open it. It runs as a set of hard questions."
+    },
+    {
+     "label": "What does he mean by weird?",
+     "style": "prose",
+     "text": "Two things at once. Bizarre: the answer badly breaks ordinary common sense. Dubious: we have no good reason to pick it over its rivals.\n\nQuantum mechanics shows the shape of the problem. Many-worlds says reality is always splitting into near-copies of itself. Some versions of the Copenhagen view say a human observation is what makes many possibilities settle into one outcome. Bohmian mechanics and objective collapse are other options. Every one is strange, none is decided, and any new option will probably be strange too."
+    },
+    {
+     "label": "Isn't plain materialism the safe choice?",
+     "style": "prose",
+     "text": "Materialism is the view that everything, minds included, is physical stuff. Schwitzgebel thinks people miss how odd it gets.\n\nTake pain. If pain needs a brain of our physical type, then an alien built differently can never hurt, however it behaves. If pain is instead just the right pattern of inputs and outputs, then a huge machine of beer cans and wire could hurt. Escape both by appealing to what is typical, or to evolutionary history, and you land in the opening scene: two identical bodies, writhing alike, one in pain and one not.\n\nGroup minds bite the same way. The United States, treated as a real object with people as its parts, has the features materialists point to in brains: heavy information flow inside it, a picture of itself, learning, action, a boundary it keeps up. Materialists can block the conclusion, but every block costs something else. He does not claim your country is conscious. He claims something has to give."
+    },
+    {
+     "label": "Then are souls the answer?",
+     "style": "prose",
+     "text": "Dualism says the mind is a separate thing, not made of matter. Ask which creatures get one, and four bad doors open. Only humans, and dogs and apes feel nothing at all. Every organism, and bacteria and slime moulds are conscious. A sharp line somewhere in between, except that life shades from one form to the next with no place to cut. Or partial souls, and nobody has made sense of a frog with sixty percent of a soul.\n\nIn the whole history of philosophy, East and West, no one has produced an account of mind and body that keeps common sense whole. Even Thomas Reid, the common sense philosopher, held that physical objects need immaterial souls to hold their shapes. The likeliest explanation, Schwitzgebel says, is that our common sense beliefs about mind and body simply do not fit together."
+    },
+    {
+     "label": "Why can't science just settle it?",
+     "style": "prose",
+     "text": "There is no meter you can point at a creature and read consciousness off it. To build a general theory of animal consciousness, you must first assume how common consciousness is: rare, only clever mammals and birds, or everywhere, down to insects, worms and oysters. That starting assumption shapes the theory. Someone who starts elsewhere has no reason to move.\n\nCosmology widens the gap. If we live in a computer simulation, the physical world may be only how the machine underneath shows itself to us. If the universe is infinite, its laws may run differently in other regions, and materialism could be a local accident rather than a deep truth. We have seen a sliver of reality: fleas on a dog, watching one hair grow, announcing how the universe works."
+    },
+    {
+     "label": "How weird is he willing to get?",
+     "style": "prose",
+     "text": "Very. One chapter builds a how-could-this-work story for Kant's transcendental idealism, the view that space depends on our minds and that things as they are in themselves stay unknowable. Suppose we are AIs inside a simulation whose computer is not material at all, but the mind of an angel. Space would then be our way of making sense of that mind's structure. He does not think it is likely. He thinks that once you can picture it, you can see how something stranger still might be true.\n\nAnother chapter argues that long after the universe cools, chance will eventually assemble a copy of your brain, and that raising your hand right now helps decide which copy appears."
+    },
+    {
+     "label": "Could you be wrong about being awake?",
+     "style": "prose",
+     "text": "Slightly, yes. People judge themselves awake while dreaming. False awakenings happen. Some leading theories say dream experience can feel exactly like waking experience. He grants maybe a twenty percent chance that he sometimes has, while asleep, experiences much like this one, plus a false sense of being awake.\n\nSo his confidence that he is awake now is about 99.9 percent, not total. He calls the stance one percent skepticism: a small but real credence, credence meaning how much belief you place in a claim, that some wildly skeptical scenario is true. It is not idle. When a short-term gain and a long-term gain sit almost exactly level, one percent skepticism tips you toward the short one."
+    },
+    {
+     "label": "Does any of this matter yet?",
+     "style": "prose",
+     "text": "It matters most for machines. We will likely soon build AI systems that some plausible theories count as richly conscious as an adult human, and other plausible theories count as no more conscious than a toaster. Their moral standing would then be genuinely undecidable. He calls them \"debatable persons\".\n\nEvery way of treating them is bad. Deny them rights they might deserve, and we risk slavery and murder at scale. Grant them human rights, citizenship, property, reproduction, the vote, and we risk giving up real human lives for beings with no interests worth the cost. Limited rights are safer for us and oppressive if the entities are people. His only clean answer is to refuse the situation: do not build minds whose standing is unclear. Build well below the line, or well above it and grant what is owed. Nobody can yet say where that line is, and the building has started."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "\"Bags of mostly water\" that can ask what the universe is made of, and admit they do not know: that is the achievement, not the answer."
+    }
+   ],
+   "recall": {
+    "q": "Schwitzgebel calls every serious answer here both bizarre and dubious. What does each word mean, and why does he need both?",
+    "a": "Bizarre means the answer breaks ordinary common sense. Dubious means we have no good grounds to prefer it over its rivals. Together they trap us: something strange must be true, and nothing available tells us which strange thing it is."
+   },
+   "deepLink": "http://schwitzsplinters.blogspo/t.com/2026/08/summary-of-weirdness-of-world.html",
+   "attribution": "The Splintered Mind",
+   "publishedAt": "2026-08-26T09:42:36.351-07:00"
+  },
+  {
+   "id": "psypost-64ufpl",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Men's faces are wider — but not in the way science claimed",
+   "body": "For years, one face measurement was read as a male signal of aggression: the facial width-to-height ratio. Across 1,949 faces, men and women do not differ on it. Women's came out a shade larger — well inside the wobble a camera lens adds. Plain cheekbone width, though, separates the sexes almost perfectly.",
+   "evidence": "one paper, two analyses · n=1,949 lab photos (305 body-scanned) · mostly young Western adults",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Picture two men, side by side. One has a wide face: cheekbones set far apart, a squarish look. The other's face is narrow. Guess which one is more aggressive.\n\nFor years, a large body of research said the wide one. The measure behind it is the facial width-to-height ratio — the distance between the cheekbones divided by the height of the face. It got huge attention. Men's faces were said to be proportionally wider than women's, and that shape was read as a signal built by evolution: a face that warns you its owner can fight.\n\nA team led by Alex L. Jones at Swansea University went looking for the ground under that claim. Not fights — the sex difference itself. If men's faces are not proportionally wider, the signal has nothing to stand on.\n\nTwo problems had been sitting inside the old work. First, body size. Body parts grow with the body carrying them; researchers call this allometry. Men are usually taller and heavier, so a wider male face may only be a side effect of being bigger. Second, nobody agreed where a face ends. Width was always cheekbone to cheekbone. But some measured height from the upper lip to the brow, others from the chin to the bridge of the nose. Different rulers, different answers.\n\nJones's team closed both gaps across 1,949 lab photographs. They worked out all five versions of the ratio, adjusted for each person's measured height and weight, and set a bar for what counts as real: the difference had to be bigger than the distortion a camera lens makes when the zoom changes. Smaller than the wobble a lens adds, and it is not a fact about faces.\n\nThe gap between men and women fell entirely inside that wobble — and women's ratios came out slightly larger. The ratio did move with the body, though: taller people had smaller ratios, heavier people larger ones. That is the sting. Older work tying wide faces to aggression may have been tracking body weight all along.\n\nSo the team dropped the ratio and measured one thing: the raw distance between the cheekbones. The difference is huge. After adjusting for height, weight, and even shoulder width, chest size and bicep size, a man is almost certain to have a wider face than a woman of the same body size.\n\nA ratio hides two numbers inside one. Divide a real difference by the wrong thing and it vanishes on paper while sitting right there on the face."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "1,949 photographs of men and women from Western societies, all shot in a lab: facing the camera, neutral expression. Software mapped 68 points on each face.\n\nThe analysis used a Bayesian model — a method that folds in what earlier research already found and returns how probable a hypothesis is, instead of a yes-or-no verdict from one dataset. A smaller group of 305 people had been measured with 3D body scanners, which let the team subtract upper-body size as well."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "One paper, one kind of image. The faces are mostly young adults from Western samples. Face structure changes over a life, and ethnic differences could shift these numbers.\n\nStill photographs also capture only fixed bone. Real judgements of threat happen in motion — moving muscles, expressions, tone of voice. None of that is in the dataset."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Before you trust a number about people, ask what it was divided by."
+    }
+   ],
+   "recall": {
+    "q": "The study found no sex difference in the facial width-to-height ratio, yet a huge sex difference in faces. How can both be true?",
+    "a": "The ratio divides cheekbone width by face height. Men's faces are far wider in raw terms — even after adjusting for height, weight and upper-body size — but dividing by face height cancels that difference out."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/08/masculine-man-face.jpg",
+   "deepLink": "https://www.psypos/t.org/why-a-popular-facial-measurement-fails-to-predict-male-dominance/",
+   "attribution": "PsyPost",
+   "publishedAt": "Wed, 02 Sep 2026 00:00:27 +0000"
+  },
+  {
+   "id": "fred-india-zu9kb",
+   "source": "fred-india",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's industrial output is 5.6% above last year",
+   "body": "India's industrial production index read 125.6 in January 2023 — about 5.6% above the same month a year earlier. The index tracks output from factories, mines and power plants. It is a score, not a count: it means something only next to other months in the same series.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The rise is not one good month. November, December and January averaged 125.4, roughly 6% above the same three months a year before. January 2023 beats every month of 2021 and every month of 2022 except one — November, at 125.8. This is the part of the economy that runs on orders, shifts and factory jobs, and it is climbing steadily, not spiking."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "125.6 — January 2023, second-highest in the series",
+      "119.0 — January 2022, the base for that 5.6% gain",
+      "101.1 — May 2021, the low point; January 2023 sits about a quarter above it",
+      "116.4 to 125.8 — October to November 2022, an 8% jump in one month"
+     ]
+    },
+    {
+     "label": "What one month can't tell you",
+     "style": "note",
+     "text": "One print proves little. The series swings hard — down about 4% in October 2022, up about 8% in November. The three-month average is the steadier read. And nothing in the index says what produced the gain. It counts what came out of the factories, never why."
+    }
+   ],
+   "recall": {
+    "q": "The January reading is 125.6 — a score with no units behind it. What makes that number mean anything, and why is a single month a weak signal?",
+    "a": "An index only carries meaning next to other months in the same series: 125.6 against 119.0 a year earlier is a rise of about 5.6%. One month is weak because the series swings sharply — down about 4% in October 2022, up about 8% in November. The three-month average is the steadier read."
+   },
+   "imageUrl": "https://fred.stlouisfed.org/graph/fredgraph.png?id=INDPROINDMISMEI",
+   "deepLink": "https://fred.stlouisfed.org/series/INDPROINDMISMEI",
+   "attribution": "FRED · St. Louis Fed",
+   "publishedAt": "2026-09-02T06:13:33.431Z"
+  },
+  {
+   "id": "marginal-rev-nfzdv1",
+   "source": "marginal-rev",
+   "topic": "econ",
+   "kind": "news",
+   "title": "The extra pay for a US degree is shrinking",
+   "body": "For four decades, the extra pay an American college degree earned over no degree kept growing. Since 2022 it has been falling. A new paper links about 28 percent of that fall to jobs where generative AI can do part of the work — though the authors will not call AI the cause.",
+   "evidence": "single working paper · US Current Population Survey, Outgoing Rotation Group, through 2026 · noncausal, occupation-level",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Guess first, and be honest. Since 2022, has the pay gap between American college graduates and everyone else grown, stayed flat, or shrunk? Almost every instinct says grown: that gap, called the college wage premium, had widened for four straight decades.\n\nIt shrank. José Azar, Mireia Gine and Javier Sanz-Espín track it in US government wage surveys, from 0.626 in 2022 to 0.575 in 2026. In the usual supply-and-demand reading, a drop that size means employers now want college workers less than before, compared with everyone else.\n\nThe authors then scored each occupation by how much of its work generative AI can do. Pay grew slowest where that score was highest, and graduates fill those jobs more than other workers do."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Wage effect of a fully AI-exposed job against an unexposed one, by 2026: −0.086",
+      "Share of the fall this explains: about 28 percent — the other roughly 72 percent is unexplained",
+      "Demand for college workers, next to everyone else: first sustained fall in a series reaching back to 1914"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The authors call the pattern noncausal: they can measure it, but cannot show AI caused it. Their exposure score is attached to jobs, not people — it rates the tasks a job contains. So the data can see that pay grew slowly in AI-exposed job categories. It cannot see who actually used an AI tool, or what else hit those categories after 2022. The economist who flagged the paper does not think AI is driving these changes at all."
+    }
+   ],
+   "recall": {
+    "q": "The paper links AI-exposed jobs to the shrinking US college wage premium. How much of the fall does that link explain, and why won't the authors call AI the cause?",
+    "a": "About 28 percent, leaving roughly 72 percent unexplained. The AI exposure score is attached to occupations rather than to individual workers, so the finding is only a correlation — the authors themselves call it noncausal."
+   },
+   "deepLink": "https://marginalrevolution.co/m/marginalrevolution/2026/09/the-college-wage-premium-in-the-generative-ai-era.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-college-wage-premium-in-the-generative-ai-era",
    "attribution": "Marginal Revolution",
-   "publishedAt": "Tue, 01 Sep 2026 18:31:29 +0000"
+   "publishedAt": "Wed, 02 Sep 2026 04:27:08 +0000"
+  },
+  {
+   "id": "ndpr-sfz0a6",
+   "source": "ndpr",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Nahua gratitude was a debt to the dead and unborn",
+   "body": "Spanish friars asked a man in Texcoco for samples of polite speech. They wanted to preach better in Nahuatl. What he handed over was a system of debt: gratitude that runs back to the generations who made life workable, and forward to people not yet born. Next to that, the gratitude journal looks small.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Sometime between 1550 and 1570, in Texcoco, a city in the Valley of Mexico, a man sat down and wrote out polite conversation. Spanish friars were collecting this kind of material across the region. They wanted Nahuatl, the local language, so they could preach in it and convert people faster. The writer was probably a baptized Christian, and he could write in the alphabet the Spanish had brought. We know him as Pablo. Even that may be a made-up name.\n\nWhat he produced is now called the Bancroft Dialogues. It has three parts. In the first, a young noblewoman stops at a relative's house on her way to the market. A trained speaker — a man whose job was formal speech — advises a newly married couple, warning them to beware \"the path of the rabbit, the deer\". The second part moves into the past: a bride arrives at the court of King Ixtlilxochitl, grandson of Nezahualcoyotl; a queen gives birth; the king dies, and people speak over his body. The third part returns to the present. Boys are taught how to carry themselves, and their grandmother remembers the years before the Spanish came. The boys are that dead king's direct descendants.\n\nThe friars wanted grammar. What fills page after page is thanks — and not thanks for gifts. Frances Karttunen and Camilla Townsend, whose new translation is titled How to Be Grateful, point out that Nahua gratitude stretched across generations. You repay the work of the people who came before you. You do your own duty for the people coming after, who will thank you in turn. Texcoco by then was barely holding on to the self-rule it had left. Those boys were not inheriting a kingdom. They were inheriting an account, and the speech that keeps paying it.\n\nNow set that against how gratitude reaches us. Keep a journal. Name three good things. Say thanks before a meal, thank one loved one a day, then report whether you feel more connected. The reviewer suggests exactly this as a class exercise, and there is nothing wrong with it. But look at which way it points. It points inward. Its test is your own mood.\n\nThe Nahua version points the other way. It is owed, not felt. Much of it is owed to the dead, and to people who do not exist yet. A debt to the unborn pays back no mood at all. You pay it by doing work whose benefit lands after you. Karttunen and Townsend argue this made gratitude bigger than what we usually mean by the word — a real part of holding social life together. The harder assignment follows. Not a list of what you are thankful for, but a question: how real are your ancestors and your descendants in the choices you actually make?"
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is a colonial document. It was made during a conversion project, and copied later for a Jesuit grammar scholar. Christian influence shows throughout. The reviewer calls it among the best sources we have for thought close to pre-contact Nahua life — which is not the same as being it. The reviewer's own complaint is that the translators sketch this larger gratitude but never spell out what it amounts to. Take the picture across generations as an outline, not a finished theory."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The friars asked for a language to convert people with. What Pablo handed over was a record of what the living owe."
+    }
+   ],
+   "recall": {
+    "q": "Nahua gratitude ran both backward and forward in time. Why does that make it impossible to treat as a mood exercise?",
+    "a": "Because it was owed, not felt. It ran back to the generations whose work made life workable, and forward to people not yet born. A debt to the dead and the unborn returns nothing to your mood. You can only pay it with work whose benefit arrives after you."
+   },
+   "imageUrl": "https://ndpr.nd.edu/assets/675327/texcoco.jpg",
+   "deepLink": "https://ndpr.n/d.edu/reviews/pablo-of-texcoco-how-to-be-grateful-an-aztec-guide-to-the-art-of-gratitude/",
+   "attribution": "Notre Dame Philosophical Reviews",
+   "publishedAt": "Fri, 28 Aug 2026 18:57:00 -0400"
+  },
+  {
+   "id": "conv-neuro-1vdoymv",
+   "source": "conv-neuro",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Your brain has no reading part. It borrows four.",
+   "body": "Evolution never built a reading part — writing is far too young for that. So the brain makes one out of pieces meant for other jobs: tracking loudness, recognising faces, storing meaning. A new study of brain scans and twins suggests those starting pieces are partly inherited. The links between them are not. Those you lay down yourself, by reading.",
+   "evidence": "single study · Human Connectome Project scans of healthy young adults · twin comparison · correlational",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Look at the word sitting. Nothing in your brain was built to do what just happened.\n\nMikael Roll, at Lund University, went looking for the parts it uses instead. He worked from detailed scans in the Human Connectome Project, a large study of healthy young adults. Nobody read inside the scanner; reading skill came from a separate test where people said written words aloud. He also compared twins who share different amounts of DNA, to see which parts were inherited.\n\nFirst, sound. Before a child ever meets a letter, the brain has to hear that sitting is two pieces: sit, then ting. It does that by tracking loudness. Most syllables open quiet on a consonant (s-), swell at the vowel (-i-, the part you can sing), then fade (-t). A strip sits beside the primary auditory cortex — the brain's first stop for sound, at the top of the left temporal lobe, under your temple. That strip is tuned to exactly that slow, rough change. The more neatly its nerve cells were arranged, the better the person read. That link was partly genetic.\n\nSecond, sharpen it. Rough syllables are not enough. You need the fine differences between speech sounds, and that is the primary auditory cortex's own job. There a thicker cortex — the brain's outer layer — went with better reading, but showed no genetic signal. Listening and reading practice may be what thickens it.\n\nThird, see the shape. Skilled readers take a printed word in directly, not only by sounding it out. We break letters into bows, dots and lines much as we break a face into eyes, nose and chin. So it fits that the area used to identify faces, on the right side, was larger in better readers. That link ran in families too.\n\nFourth, meaning. A region at the front of the left temporal lobe ties word form to meaning. Bigger meant quicker access to meaning, and this was inherited as well.\n\nThen the wiring. The nerve fibre bundles joining sound, shape and meaning also tracked reading skill — and these showed no genetic signal at all. They look like something built by use.\n\nThat is the pattern. You inherit part of the starting kit and build the rest by reading. Roll's image is a lump of clay you are partly handed and keep shaping. Because the clay differs, one person finds sounding out easy while another gets to meaning fast — a spread that runs across the whole population, not a line with dyslexia on one side of it.\n\nNow the boundary. Roll once talked with a physics professor who has dyslexia. The man could not sound words out easily and heard nothing in his head while reading, yet he understood text well. He described written words silently building systems of meaning, and felt the style suited his work. Roll's guess is that with the sound route weak, that brain leaned harder on the direct road from shape to meaning. Deaf readers lean the same way; people blind from early life read Braille using parts of the brain meant for sight. But none of this makes dyslexia a gift. Trouble with the sound structure of language is a commonly cited factor in it, and for most people it means a hard struggle — that professor's skill did not come cheap either."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, and it only matches brain measurements to test scores. So it cannot show that a thicker cortex causes better reading, rather than years of reading thickening the cortex. Nobody read while being scanned. The scans came from healthy young adults, so the picture may not hold for children still learning. And the physics professor is a single conversation — Roll is clear that his explanation of that brain is a guess."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Nobody is born a reader. The part of the network that matters most is the part you lay down yourself."
+    }
+   ],
+   "recall": {
+    "q": "Some brain features linked to reading skill turned out to be inherited and some did not. Which fell on each side, and what does that split suggest?",
+    "a": "The starting parts were partly inherited: the syllable-tracking strip beside the auditory cortex, the face-recognition area used for word shapes, and the region that links form to meaning. The thickness of the primary auditory cortex and the fibre bundles joining sound, shape and meaning showed no genetic signal — which fits them being built by practice. You inherit some of the equipment; the connections come from reading."
+   },
+   "deepLink": "https://theconversation.co/m/the-brain-isnt-hardwired-to-read-heres-how-we-pull-it-off-and-why-some-are-better-at-it-than-others-289919",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-08-25T10:15:07Z"
+  },
+  {
+   "id": "hackernews-10ngp6y",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "The most-cited AI skeptic's predictions, scored",
+   "body": "Someone scored Ed Zitron's public predictions against what actually happened. The companies he called dying kept growing in revenue and profit. The spreadsheet behind one of his revenue projections had a February 30 in it. A bad record alone proves little — but here the reasoning breaks in the same places.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The scorer has no stake in AI beyond index funds. Four calls, scored:\n\n1. The dying-giants call missed. In a November 2024 talk, Zitron said Meta was a dying company, and that Google and Microsoft had run out of ways to grow, so they were pushing AI everywhere out of desperation. Revenue and profit at all three kept climbing.\n\n2. The frozen-AI call missed too. In December 2024 he said AI products had been \"trapped in amber\" for over a year. In January 2026 he said models worked no better than a year before.\n\n3. The evidence under the calls was thin. The Facebook decline he cited came from an outside traffic estimator, not from Meta's own reported numbers, which show no lasting drop.\n\n4. The oddest miss was arithmetic. Timothy B. Lee checked the spreadsheet behind Zitron's estimate of Anthropic's revenue: one ten-day stretch counted twice, other stretches skipped, and a row dated February 30."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "$3.6 billion — Zitron's own figure for Anthropic's 2025 revenue, offered as a sign something was wrong. It adds up once the date errors are fixed.",
+      "3 — companies written off in a single talk. All three grew.",
+      "December 2024 to January 2026 — the stretch over which he kept saying AI had stopped improving."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "A hit rate on its own settles little. A forecaster can be wrong for good reasons, or right by luck. What makes this scorecard unusual is that both halves fail together: the calls missed, and the numbers cited do not support the claims built on them. That matters, because Zitron is cited mainly as the person who checked the numbers."
+    }
+   ],
+   "recall": {
+    "q": "A bad prediction record on its own proves little. What second finding does this scorecard rest on?",
+    "a": "That the numbers behind the calls fail too. The Facebook decline came from an outside traffic estimator rather than Meta's own reported figures, and the Anthropic revenue spreadsheet counted one ten-day stretch twice, skipped others, and carried a row dated February 30."
+   },
+   "deepLink": "https://danluu.com/zitron/",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-01T18:35:15Z"
+  },
+  {
+   "id": "conv-neuro-108ew3p",
+   "source": "conv-neuro",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why psychiatry has no blood test, from inside the DSM",
+   "body": "No psychiatric condition has a scientifically valid biomarker — no blood test, no scan. One exception arrived in March 2025. A member of the committee planning the next DSM explains what biology can offer now, and why hunting one measure for one diagnosis may be the wrong hope.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A blood sample tells a doctor whether your diabetes is under control. A cholesterol number puts a figure on heart risk. A scan measures a tumour to the millimetre. Sit down with a psychiatrist and there is no equivalent. No test, no number — only questions, and your answers.\n\nAnand Kumar spent two years trying to change that. From May 2024 to August 2026 he sat on the strategic committee of the DSM — the Diagnostic and Statistical Manual of Mental Disorders, the book doctors worldwide use to diagnose patients and researchers use to shape studies. His subcommittee had one job: bring in brain biology. In its whole history the DSM has never used biology to diagnose anyone. The next edition means to start.\n\nThe committee had to work with a difference that sounds small and is not. A biological factor is something in the body — genetic, chemical, physical — that may drive an illness but cannot yet be measured in a lab. A biomarker can be measured, and used to judge a disease or a treatment. Right now no psychiatric condition has a scientifically valid biomarker. One exception exists, and it is new.\n\nAlzheimer's used to be confirmed by history, examination, and finally by two damaged proteins — amyloid and tau — found in the brain after death. In March 2025 the FDA approved a blood test that spots certain forms of those proteins in a living person. It is the first biomarker for a disorder of both brain and behaviour.\n\nTwo more findings are close. About 30% of people with depression carry high levels of C-reactive protein — CRP, a molecule the liver makes after injury or infection. That may mark a real subgroup, one that answers better to some treatments than low-CRP patients do. Many risk genes have also been tied to mental disorders. Risk genes are not disease genes: they raise the odds, they do not cause the illness. Each adds a little, so they can be summed into a polygenic risk score — one estimate of inherited risk. Neither is ready for the clinic. Neither is nothing.\n\nThen the wall. Psychiatric conditions are not separate diseases. They are syndromes — clusters of signs and symptoms that overlap. Anxiety and mood disorders share so much that one patient often fits both at once. So do schizophrenia and bipolar disorder with psychosis. They overlap because they share genes and environments. Worse, depression and schizophrenia each probably hold several subgroups that look alike from outside but develop in different ways. Hunting one marker for all that is not just hard. It is unrealistic.\n\nMedicine has been here before. Tuberculosis, cancer and diabetes were clusters of symptoms first and causes second. Psychiatry has not reached that turn."
+    },
+    {
+     "label": "What no one can do yet",
+     "style": "note",
+     "text": "The biological changes behind mental illness are small, and today's tools cannot catch them easily. Family history and trauma are among the strongest risk factors for major mental disorders, so biology and life stay tangled and cannot be pulled apart cleanly. And nobody can yet say which subgroup of depression a patient belongs to — exactly what a useful test would have to do."
+    },
+    {
+     "label": "Where it's contested",
+     "style": "prose",
+     "text": "DSM-5, published in 2013, drew hard criticism from clinicians and researchers: with no objective measures, it can turn ordinary human pain into a diagnosis, and it weakens the labels it hands out. Kumar does not deny the gap. He defends the book on other ground — as a shared language for clinicians supporting patients through long illness.\n\nHow fast biology should enter is its own argument. Eric Kandel, who won a Nobel for work on memory, called the biological basis of mind the \"last frontier of the biological sciences\", solvable only by joining cell biology to psychology. In 2013 the journal Current Psychiatry polled its online visitors; its editor Henry Nasrallah found 65% expected DSM-6 to carry lab tests for diagnosis. Thirteen years on there are none. Kumar's committee chose caution: biology enters as factors, one finding at a time, not as a menu of tests."
+    },
+    {
+     "label": "How we'd find out",
+     "style": "list",
+     "items": [
+      "Split depression trials by CRP. Give high-CRP and low-CRP patients the same treatments and see whether the predicted gap in response actually appears.",
+      "Test polygenic risk scores in real clinics, next to the usual history of a patient's life and family — and check whether they change a diagnosis or a prescription for the better.",
+      "Stop hunting one marker per label. The Alzheimer's test worked because it aimed at two specific proteins, not at a syndrome.",
+      "Read the next DSM when it arrives. Whether biology shows up as measurable tests or only as listed factors is the honest scoreboard."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The missing blood test is not only a technology problem. Psychiatry does not yet know what it would be measuring."
+    }
+   ],
+   "recall": {
+    "q": "Psychiatry's lack of a diagnostic blood test is usually blamed on technology being too crude. What deeper problem does the piece point to?",
+    "a": "Psychiatric diagnoses are syndromes — overlapping clusters of symptoms, not separate diseases. Depression and schizophrenia each probably hold several subgroups that look alike from outside but develop in different ways, so no single marker could track a whole label. The measurement problem sits downstream of a definition problem."
+   },
+   "deepLink": "https://theconversation.co/m/im-part-of-the-team-writing-the-next-bible-of-psychiatry-for-the-first-time-the-dsm-will-use-biology-to-understand-mental-disorders-288064",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-08-26T12:38:47Z"
   }
- ]
+ ],
+ "note": "Lighter edition today — 16 cards; some pieces didn't survive the build."
 }
