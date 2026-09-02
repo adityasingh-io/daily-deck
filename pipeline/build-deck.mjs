@@ -182,7 +182,7 @@ try {
 }
 
 // Enrich: teaser feeds get their article page; anything imageless gets og:image.
-for (const w of lineup) {
+async function enrichItem(w) {
   if (w.link && (!w.fullInFeed || !w.image)) {
     try {
       const meta = await fetchArticleMeta(w.link);
@@ -193,10 +193,33 @@ for (const w of lineup) {
     }
   }
 }
+for (const w of lineup) await enrichItem(w);
 
 const MIN_TEXT = 1200;
-const usable = lineup.filter((w) => w.source === "fred-india" || w.text.length >= MIN_TEXT);
-if (usable.length < lineup.length) console.log(`${lineup.length - usable.length} thin/paywalled pieces dropped`);
+let usable = lineup.filter((w) => w.source === "fred-india" || w.text.length >= MIN_TEXT);
+
+// Bench backfill: a paywalled/bot-walled pick must not shrink the edition.
+// Replacements come from the editor's own scored pool — same floor, text
+// verified BEFORE they're committed — preferring the fallen pieces' topics.
+const deficit = lineup.length - usable.length;
+if (deficit > 0) {
+  console.log(`${deficit} thin/paywalled pieces dropped — backfilling from the bench`);
+  const inLineup = new Set(lineup.map((w) => w.link ?? w.title));
+  const fallenTopics = new Set(lineup.filter((w) => !usable.includes(w)).map((w) => w.topic));
+  const bench = pool
+    .filter((s) => s.score >= 4 && !inLineup.has(s.link ?? s.title))
+    .sort((a, b) => (fallenTopics.has(b.topic) ? 1 : 0) - (fallenTopics.has(a.topic) ? 1 : 0) || b.score - a.score);
+  let added = 0;
+  for (const b of bench) {
+    if (added >= deficit) break;
+    await enrichItem(b);
+    if (b.source !== "fred-india" && b.text.length < MIN_TEXT) continue;
+    const story = ["psych", "books", "philosophy"].includes(b.topic);
+    usable.push({ ...b, register: story ? "story" : "info", targetWords: story ? 450 : 140, brief: "", format: null });
+    added++;
+  }
+  console.log(`backfilled ${added}/${deficit} from the bench`);
+}
 
 const writeOpts = { avoidOpenings: recentOpenings(), exemplars: reader.exemplars, recentContext: recent };
 let drafted = await writeCards(usable, model, charter, writeOpts);
