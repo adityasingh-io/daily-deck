@@ -91,11 +91,17 @@ const RSS_SOURCES = [
   { id: "ness-labs",     url: "https://nesslabs.com/feed",                        topic: "psych",      take: 2, fullInFeed: true,  attribution: "Ness Labs" },
   { id: "acx",           url: "https://www.astralcodexten.com/feed",              topic: "psych",      take: 3, fullInFeed: true,  attribution: "Astral Codex Ten" },
   { id: "sd-mind",       url: "https://www.sciencedaily.com/rss/mind_brain.xml",  topic: "psych",      take: 5, fullInFeed: false, attribution: "ScienceDaily" },
+  { id: "knowable",      url: "https://knowablemagazine.org/rss",                 topic: "psych",      take: 3, fullInFeed: false, attribution: "Knowable Magazine" },
+  { id: "behavioral-sci",url: "https://behavioralscientist.org/feed/",            topic: "psych",      take: 2, fullInFeed: true,  attribution: "Behavioral Scientist" },
+  { id: "neuro-news",    url: "https://neurosciencenews.com/feed/",               topic: "psych",      take: 4, fullInFeed: false, attribution: "Neuroscience News" },
+  { id: "tinybuddha",    url: "https://tinybuddha.com/feed/",                     topic: "psych",      take: 2, fullInFeed: true,  attribution: "Tiny Buddha" },
   // philosophy & books
   { id: "phil-break",    url: "https://philosophybreak.com/rss.xml",              topic: "philosophy", take: 4, fullInFeed: false, attribution: "Philosophy Break" },
   { id: "aeon",          url: "https://aeon.co/feed.rss",                         topic: "philosophy", take: 3, fullInFeed: false, attribution: "Aeon" },
   { id: "daily-phil",    url: "https://daily-philosophy.com/index.xml",           topic: "philosophy", take: 3, fullInFeed: true,  attribution: "Daily Philosophy" },
   { id: "marginalian",   url: "https://www.themarginalian.org/feed/",             topic: "books",      take: 3, fullInFeed: true,  attribution: "The Marginalian" },
+  { id: "3quarks",       url: "https://3quarksdaily.com/feed",                    topic: "philosophy", take: 3, fullInFeed: true,  attribution: "3 Quarks Daily" },
+  { id: "pd-review",     url: "https://publicdomainreview.org/rss.xml",           topic: "books",      take: 2, fullInFeed: true,  attribution: "The Public Domain Review" },
   // the citizen's briefing (info register)
   { id: "semafor",       url: "https://www.semafor.com/rss.xml",                  topic: "world",      take: 6, fullInFeed: true,  attribution: "Semafor" },
   { id: "wotr",          url: "https://warontherocks.com/feed/",                  topic: "world",      take: 2, fullInFeed: false, attribution: "War on the Rocks" },
@@ -103,6 +109,8 @@ const RSS_SOURCES = [
   { id: "marginal-rev",  url: "https://marginalrevolution.com/feed",              topic: "econ",       take: 4, fullInFeed: true,  attribution: "Marginal Revolution" },
   { id: "et-economy",    url: "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms", topic: "econ", take: 5, fullInFeed: false, attribution: "The Economic Times" },
   { id: "mint-economy",  url: "https://www.livemint.com/rss/economy",             topic: "econ",       take: 4, fullInFeed: false, attribution: "Mint" },
+  { id: "finshots",      url: "https://finshots.in/rss/",                         topic: "econ",       take: 3, fullInFeed: true,  attribution: "Finshots" },
+  { id: "zconnect",      url: "https://zerodha.com/z-connect/feed",               topic: "econ",       take: 2, fullInFeed: true,  attribution: "Z-Connect (Zerodha)" },
   { id: "import-ai",     url: "https://importai.substack.com/feed",               topic: "tech-ai",    take: 2, fullInFeed: true,  attribution: "Import AI" },
   { id: "one-useful",    url: "https://www.oneusefulthing.org/feed",              topic: "tech-ai",    take: 2, fullInFeed: true,  attribution: "One Useful Thing" },
 ];
