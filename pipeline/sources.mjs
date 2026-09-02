@@ -1,13 +1,15 @@
 import { XMLParser } from "fast-xml-parser";
 
 const UA = "DailyDeck/0.1 (personal knowledge feed; +https://github.com/adityasingh-io/daily-deck)";
+/* Some publishers (RBI, Business Standard, BusinessLine) 403 non-browser UAs. */
+const BROWSER_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36";
 const TIMEOUT = 25000;
 
-async function get(url, type = "json") {
+async function get(url, type = "json", ua = UA) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), TIMEOUT);
   try {
-    const res = await fetch(url, { headers: { "User-Agent": UA }, signal: ctrl.signal, redirect: "follow" });
+    const res = await fetch(url, { headers: { "User-Agent": ua }, signal: ctrl.signal, redirect: "follow" });
     if (!res.ok) throw new Error(`${res.status} ${url}`);
     return type === "json" ? await res.json() : await res.text();
   } finally {
@@ -95,6 +97,14 @@ const RSS_SOURCES = [
   { id: "behavioral-sci",url: "https://behavioralscientist.org/feed/",            topic: "psych",      take: 2, fullInFeed: true,  attribution: "Behavioral Scientist" },
   { id: "neuro-news",    url: "https://neurosciencenews.com/feed/",               topic: "psych",      take: 4, fullInFeed: false, attribution: "Neuroscience News" },
   { id: "tinybuddha",    url: "https://tinybuddha.com/feed/",                     topic: "psych",      take: 2, fullInFeed: true,  attribution: "Tiny Buddha" },
+  { id: "transmitter",   url: "https://www.thetransmitter.org/feed/",             topic: "psych",      take: 3, fullInFeed: false, attribution: "The Transmitter" },
+  { id: "conv-psych",    url: "https://theconversation.com/topics/psychology-28/articles.atom", topic: "psych", take: 3, fullInFeed: true, attribution: "The Conversation" },
+  { id: "conv-neuro",    url: "https://theconversation.com/topics/neuroscience-427/articles.atom", topic: "psych", take: 2, fullInFeed: true, attribution: "The Conversation" },
+  { id: "small-potatoes",url: "https://smallpotatoes.paulbloom.net/feed",         topic: "psych",      take: 2, fullInFeed: true,  attribution: "Small Potatoes (Paul Bloom)" },
+  { id: "mit-neuro",     url: "https://news.mit.edu/rss/topic/neuroscience",      topic: "psych",      take: 2, fullInFeed: true,  attribution: "MIT News" },
+  { id: "splintered",    url: "https://schwitzsplinters.blogspot.com/feeds/posts/default?alt=rss", topic: "psych", take: 2, fullInFeed: true, attribution: "The Splintered Mind" },
+  { id: "mind-matter",   url: "https://mindandmatter.substack.com/feed",          topic: "psych",      take: 2, fullInFeed: true,  attribution: "Mind & Matter" },
+  { id: "rob-henderson", url: "https://www.robkhenderson.com/feed",               topic: "psych",      take: 2, fullInFeed: true,  attribution: "Rob Henderson" },
   // philosophy & books
   { id: "phil-break",    url: "https://philosophybreak.com/rss.xml",              topic: "philosophy", take: 4, fullInFeed: false, attribution: "Philosophy Break" },
   { id: "aeon",          url: "https://aeon.co/feed.rss",                         topic: "philosophy", take: 3, fullInFeed: false, attribution: "Aeon" },
@@ -102,6 +112,12 @@ const RSS_SOURCES = [
   { id: "marginalian",   url: "https://www.themarginalian.org/feed/",             topic: "books",      take: 3, fullInFeed: true,  attribution: "The Marginalian" },
   { id: "3quarks",       url: "https://3quarksdaily.com/feed",                    topic: "philosophy", take: 3, fullInFeed: true,  attribution: "3 Quarks Daily" },
   { id: "pd-review",     url: "https://publicdomainreview.org/rss.xml",           topic: "books",      take: 2, fullInFeed: true,  attribution: "The Public Domain Review" },
+  { id: "epoche",        url: "https://epochemagazine.org/feed/",                 topic: "philosophy", take: 3, fullInFeed: true,  attribution: "Epoché Magazine" },
+  { id: "ndpr",          url: "https://ndpr.nd.edu/reviews.rss",                  topic: "philosophy", take: 2, fullInFeed: true,  attribution: "Notre Dame Philosophical Reviews" },
+  { id: "the-point",     url: "https://thepointmag.com/feed/",                    topic: "philosophy", take: 2, fullInFeed: false, attribution: "The Point" },
+  { id: "iai",           url: "https://iai.tv/articles-proxy/rss",                topic: "philosophy", take: 3, fullInFeed: false, attribution: "IAI News" },
+  { id: "five-books",    url: "https://fivebooks.com/feed/",                      topic: "books",      take: 2, fullInFeed: false, attribution: "Five Books" },
+  { id: "paris-review",  url: "https://www.theparisreview.org/blog/feed/",        topic: "books",      take: 2, fullInFeed: true,  attribution: "The Paris Review" },
   // the citizen's briefing (info register)
   { id: "semafor",       url: "https://www.semafor.com/rss.xml",                  topic: "world",      take: 6, fullInFeed: true,  attribution: "Semafor" },
   { id: "wotr",          url: "https://warontherocks.com/feed/",                  topic: "world",      take: 2, fullInFeed: false, attribution: "War on the Rocks" },
@@ -111,12 +127,19 @@ const RSS_SOURCES = [
   { id: "mint-economy",  url: "https://www.livemint.com/rss/economy",             topic: "econ",       take: 4, fullInFeed: false, attribution: "Mint" },
   { id: "finshots",      url: "https://finshots.in/rss/",                         topic: "econ",       take: 3, fullInFeed: true,  attribution: "Finshots" },
   { id: "zconnect",      url: "https://zerodha.com/z-connect/feed",               topic: "econ",       take: 2, fullInFeed: true,  attribution: "Z-Connect (Zerodha)" },
+  { id: "rbi-press",     url: "https://www.rbi.org.in/pressreleases_rss.xml",     topic: "econ",       take: 3, fullInFeed: true,  browserUa: true, attribution: "Reserve Bank of India" },
+  { id: "rbi-speeches",  url: "https://www.rbi.org.in/speeches_rss.xml",          topic: "econ",       take: 1, fullInFeed: true,  browserUa: true, attribution: "RBI Speeches" },
+  { id: "leap-blog",     url: "https://blog.theleapjournal.org/feeds/posts/default", topic: "econ",    take: 2, fullInFeed: true,  attribution: "The Leap Blog" },
+  { id: "anticipating",  url: "https://publicpolicy.substack.com/feed",           topic: "econ",       take: 1, fullInFeed: true,  attribution: "Anticipating the Unintended" },
+  { id: "biz-standard",  url: "https://www.business-standard.com/rss/economy-102.rss", topic: "econ",  take: 4, fullInFeed: false, browserUa: true, attribution: "Business Standard" },
+  { id: "voxeu",         url: "https://cepr.org/rss/vox-content",                 topic: "econ",       take: 3, fullInFeed: false, attribution: "VoxEU (CEPR)" },
+  { id: "noahpinion",    url: "https://www.noahpinion.blog/feed",                 topic: "econ",       take: 2, fullInFeed: true,  attribution: "Noahpinion" },
   { id: "import-ai",     url: "https://importai.substack.com/feed",               topic: "tech-ai",    take: 2, fullInFeed: true,  attribution: "Import AI" },
   { id: "one-useful",    url: "https://www.oneusefulthing.org/feed",              topic: "tech-ai",    take: 2, fullInFeed: true,  attribution: "One Useful Thing" },
 ];
 
 async function fetchRss(src) {
-  const raw = await get(src.url, "text");
+  const raw = await get(src.url, "text", src.browserUa ? BROWSER_UA : UA);
   return normalizeFeedItems(xml.parse(raw))
     .filter((it) => it.title && it.link)
     .slice(0, src.take)
@@ -204,7 +227,7 @@ async function fetchFredIndia() {
    the longest), and some bury body text outside <article> entirely (fall
    back to whole-page <p> extraction). */
 export async function fetchArticleMeta(url) {
-  const html = await get(url, "text");
+  const html = await get(url, "text", BROWSER_UA);
   const extract = (s) =>
     [...s.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)].map((m) => stripHtml(m[1])).filter((p) => p.length > 80);
   const articles = [...html.matchAll(/<article[\s\S]*?<\/article>/gi)].map((m) => m[0]);
