@@ -145,8 +145,9 @@ async function fetchRss(src) {
     .slice(0, src.take)
     .map((it) => ({
       ...it,
-      // IAI's feed emits links missing the slash after the domain
-      link: String(it.link).replace(/^(https?:\/\/[^/\s]+?\.[a-z]+)(?=[^/.])/i, "$1/"),
+      // IAI's feed emits links missing the slash after the domain — fix ONLY
+      // that exact host (a generic regex here once mangled every source's URLs)
+      link: src.id === "iai" ? String(it.link).replace(/^https:\/\/iai\.tv(?=[^/])/, "https://iai.tv/") : it.link,
       source: src.id,
       topic: src.topic,
       attribution: src.attribution,
