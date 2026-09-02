@@ -111,6 +111,40 @@ export function getReadIds(): Set<string> {
   return new Set(read<string[]>(READ_KEY, []));
 }
 
+/* ------------------------------- loves ------------------------------- */
+/* One-tap taste signal: cheaper than a save, feeds ONLY the learning loop
+   (never the review queue). No streaks, no counts shown — just signal. */
+
+const LOVES_KEY = "dd.loves.v1";
+
+export interface Love {
+  id: string;
+  topic: string;
+  title: string;
+  at: string;
+}
+
+export function getLoves(): Love[] {
+  return read<Love[]>(LOVES_KEY, []);
+}
+
+export function isLoved(id: string): boolean {
+  return getLoves().some((l) => l.id === id);
+}
+
+export function toggleLove(card: Card): boolean {
+  const loves = getLoves();
+  const i = loves.findIndex((l) => l.id === card.id);
+  if (i >= 0) {
+    loves.splice(i, 1);
+    write(LOVES_KEY, loves);
+    return false;
+  }
+  loves.unshift({ id: card.id, topic: card.topic, title: card.title, at: new Date().toISOString() });
+  write(LOVES_KEY, loves.slice(0, 300));
+  return true;
+}
+
 /* ------------------------------- notes ------------------------------- */
 
 const NOTES_KEY = "dd.notes.v1";

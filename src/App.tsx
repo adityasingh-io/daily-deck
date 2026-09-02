@@ -14,6 +14,8 @@ import {
   getAllNotes,
   markRead,
   onStoreChange,
+  isLoved,
+  toggleLove,
   type ReviewItem,
 } from "./store";
 import { TOPIC_LABEL } from "./labels";
@@ -42,6 +44,20 @@ function readMinutes(card: Card) {
     .split(/\s+/)
     .filter(Boolean).length;
   return Math.max(1, Math.round(words / 220));
+}
+
+function LoveButton({ card }: { card: Card }) {
+  const [loved, setLoved] = useState(() => isLoved(card.id));
+  return (
+    <button
+      className={`btn ghost love${loved ? " loved" : ""}`}
+      onClick={() => setLoved(toggleLove(card))}
+      aria-pressed={loved}
+      aria-label={loved ? "Unlove" : "Love"}
+    >
+      {loved ? "♥" : "♡"}
+    </button>
+  );
 }
 
 function SaveButton({ card }: { card: Card }) {
@@ -93,6 +109,7 @@ function CardView({
           </span>
           {card.kind !== "letter" && (
             <div className="actions">
+              <LoveButton card={card} />
               <SaveButton card={card} />
               {readable ? (
                 <button className="btn primary" onClick={() => onRead(index)}>
@@ -425,6 +442,7 @@ function Reader({
           ←
         </button>
         <div className="actions">
+          <LoveButton card={card} />
           <button className="btn ghost" onClick={cycleFont} aria-label="Text size">
             Aa
           </button>
@@ -488,6 +506,7 @@ function EndCard({ deck, total }: { deck: Deck; total: number }) {
           {total} cards · {saves} saved all-time.
           {deck.evergreen ? " (Evergreen deck — the pipeline hasn't run today.)" : ""}
         </p>
+        {deck.note && <p className="end-note">{deck.note}</p>}
         <p className="end-note">Come back tomorrow. Go do something with what stuck.</p>
       </div>
     </article>

@@ -52,7 +52,10 @@ async function runBatches(items, batchSize, makePrompt, model, label) {
     try {
       parsed = extractJson(await runClaude(prompt, model), "[", "]");
     } catch (e) {
-      console.error(`${label} batch at ${off} failed (${e.message}); retrying once…`);
+      // Wait out a possible rate-limit window before retrying — an immediate
+      // retry against a throttled Max plan just fails twice.
+      console.error(`${label} batch at ${off} failed (${e.message}); waiting 5 min, then retrying once…`);
+      await new Promise((r) => setTimeout(r, 5 * 60 * 1000));
       try {
         parsed = extractJson(await runClaude(prompt + "\n\nREMINDER: output ONLY the JSON array.", model), "[", "]");
       } catch {
@@ -119,17 +122,19 @@ ${JSON.stringify(batch.map((it, i) => ({ i, topic: it.topic, source: it.attribut
 
 /* ------------------------- 2. the chief editor ------------------------- */
 
-export async function chiefEditor(pool, model, charter, { recentTitles = [], bookTitle = null } = {}) {
+export async function chiefEditor(pool, model, charter, { recentTitles = [], bookTitle = null, formats = "" } = {}) {
   const prompt = `You are the chief editor of "Daily Deck". Below is today's scored candidate pool. Compose today's edition: SELECT the pieces, ORDER them, and write an ASSIGNMENT BRIEF for each. The charter is your constitution — the mix numbers there are direction, not arithmetic; use judgment and explain it.
 
 ${charter}
 
+${formats ? `THE FORMAT LIBRARY (assign each piece the format that fits what the material IS; vary formats across the deck — never two adjacent pieces in the same format):\n${formats}` : ""}
 ${bookTitle ? `FIXED SLOT (placed by code near the top, not yours to select): today's book installment, "${bookTitle}". It counts toward the books lane.` : ""}
 ${recentTitles.length ? `RECENTLY SERVED (avoid topic-level repeats):\n${recentTitles.slice(0, 30).map((t) => `- ${t}`).join("\n")}` : ""}
 
 For each selected piece:
 - "i": the pool index (must exist in the pool)
 - "register": "story" or "info" (per the charter's registers)
+- "format": the format NAME from the library (e.g. "Refutation", "One Number", "Kabob")
 - "targetWords": your length call — a number (info: 80-180; story: 350-600, up to 800 only for the exceptional)
 - "brief": one line of assignment direction for the writer — the angle, what to lead with, what to pull out. E.g. "info, lead with the 45% number, the story is one GPU" or "concept piece — anchor on the mechanism, not the study drama".
 
@@ -139,7 +144,7 @@ Then:
 
 ORDER the lineup for pacing (charter: long reflective pieces separated by quick info ones). Select per the charter's mix direction — aim near 24 pieces (the fixed book slot and the letter are added by code). Never fewer than 17, never more than 26. Quality floor: nothing below score 4 unless you state why in its brief.
 
-Output ONLY: {"lineup": [{"i": ..., "register": "...", "targetWords": ..., "brief": "..."}], "letterNote": "...", "reasoning": "..."}
+Output ONLY: {"lineup": [{"i": ..., "register": "...", "format": "...", "targetWords": ..., "brief": "..."}], "letterNote": "...", "reasoning": "..."}
 
 THE POOL:
 ${JSON.stringify(pool.map((p, i) => ({ i, topic: p.topic, score: p.score, source: p.attribution, age: age(p.published), title: p.title, why: p.why })), null, 1)}`;
@@ -152,6 +157,7 @@ ${JSON.stringify(pool.map((p, i) => ({ i, topic: p.topic, score: p.score, source
     .map((l) => ({
       ...pool[l.i],
       register: l.register === "info" ? "info" : "story",
+      format: l.format ? String(l.format).slice(0, 60) : null,
       targetWords: Number(l.targetWords) || (l.register === "info" ? 140 : 450),
       brief: String(l.brief ?? "").slice(0, 300),
     }));
@@ -191,6 +197,7 @@ YOUR ASSIGNMENT from the chief editor:
 - register: ${it.register}
 - target length: ~${it.targetWords} words for the main prose (write the SHORTEST version that delivers everything; never pad toward the target)
 - brief: ${it.brief || "(none — use your judgment within the register)"}
+${it.formatEntry ? `- FORMAT — a basepoint, not a cage; blend, modify, and grow beyond it when the material demands:\n${it.formatEntry}` : ""}
 
 Write a JSON object:
 - "title": max 60 chars, understood at a glance — a reader who sees only the title knows what the piece is about. Never cryptic.

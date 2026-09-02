@@ -35,6 +35,14 @@ mkdirSync(STATE, { recursive: true });
 
 const profile = JSON.parse(readFileSync(join(ROOT, "pipeline", "profile.json"), "utf8"));
 const charter = readFileSync(join(ROOT, "pipeline", "charter.md"), "utf8");
+const formats = readFileSync(join(ROOT, "pipeline", "formats.md"), "utf8");
+
+// Format entries by name, so each writer call gets only its assigned format.
+const formatMap = new Map();
+for (const section of formats.split(/^## /m).slice(1)) {
+  const name = section.split("\n")[0].replace(/^\d+\.\s*/, "").replace(/\s*\[.*$/, "").trim();
+  if (name && !name.startsWith("Pairing")) formatMap.set(name.toLowerCase(), "## " + section.trim());
+}
 const model = profile.model;
 const seen = existsSync(SEEN_FILE) ? JSON.parse(readFileSync(SEEN_FILE, "utf8")) : {};
 
@@ -58,12 +66,13 @@ async function readerState() {
     const state = await res.json();
     const entries = Object.entries(state.signals ?? {}).sort((a, b) => b[1] - a[1]);
     const titles = (state.savedTitles ?? []).slice(0, 20);
+    const loved = (state.lovedTitles ?? []).slice(0, 20);
     if (entries.length) {
       const line = entries.map(([t, n]) => `${t}: ${n}`).join(", ");
-      console.log(`reader signals: ${line} (+${titles.length} recent save titles)`);
-      out.signalsText = `\nOBSERVED BEHAVIOR — what this reader actually saves.
-By topic: ${line}.${titles.length ? `\nTheir 20 most recent saves (newest first):\n${titles.map((t) => `- ${t}`).join("\n")}` : ""}
-Read the titles for taste WITHIN topics. Give +1-2 on borderline items matching demonstrated taste; a never-saved vein gets no benefit of the doubt.\n`;
+      console.log(`reader signals: ${line} (${titles.length} saves, ${loved.length} loves)`);
+      out.signalsText = `\nOBSERVED BEHAVIOR — live, decaying taste signals (these update; the charter's territories do not).
+By topic (saves + one-tap loves): ${line}.${titles.length ? `\nRecent saves (kept for re-reading):\n${titles.map((t) => `- ${t}`).join("\n")}` : ""}${loved.length ? `\nRecent loves (one-tap "this delighted me"):\n${loved.map((t) => `- ${t}`).join("\n")}` : ""}
+Read titles for taste WITHIN topics. A +1-2 nudge on borderline items matching demonstrated taste — but remember the charter: the goal is EXPANSION, so these signals season selection, they never narrow it.\n`;
     }
     out.exemplars = (state.saves ?? [])
       .slice(0, 5)
@@ -146,9 +155,21 @@ console.log(`${pool.length} items in the editor's pool (${scoredAll.length - poo
 let lineup;
 let letterNote = "";
 try {
-  const composed = await chiefEditor(pool, model, charter, { recentTitles: recent, bookTitle: installment?.title ?? null });
+  const composed = await chiefEditor(pool, model, charter, {
+    recentTitles: recent,
+    bookTitle: installment?.title ?? null,
+    formats,
+  });
   lineup = composed.lineup;
   letterNote = composed.letterNote;
+  for (const w of lineup) {
+    if (w.format) {
+      const key = [...formatMap.keys()].find((k) => k === w.format.toLowerCase() || w.format.toLowerCase().includes(k) || k.includes(w.format.toLowerCase()));
+      w.formatEntry = key ? formatMap.get(key) : null;
+    }
+  }
+  const assigned = lineup.filter((w) => w.formatEntry).length;
+  console.log(`formats assigned: ${assigned}/${lineup.length}`);
 } catch (e) {
   console.error(`chief editor failed (${e.message}) — falling back to quota algorithm`);
   const winners = selectByQuota(pool.filter((s) => s.score >= 5), profile.fallbackQuotas);
@@ -177,15 +198,22 @@ const MIN_TEXT = 1200;
 const usable = lineup.filter((w) => w.source === "fred-india" || w.text.length >= MIN_TEXT);
 if (usable.length < lineup.length) console.log(`${lineup.length - usable.length} thin/paywalled pieces dropped`);
 
-const drafted = await writeCards(usable, model, charter, {
-  avoidOpenings: recentOpenings(),
-  exemplars: reader.exemplars,
-  recentContext: recent,
-});
+const writeOpts = { avoidOpenings: recentOpenings(), exemplars: reader.exemplars, recentContext: recent };
+let drafted = await writeCards(usable, model, charter, writeOpts);
+
+// Failed-piece recovery: anything from the lineup that didn't survive the
+// writing pass gets one more attempt instead of silently vanishing.
+const draftedIds = new Set(drafted.map((d) => d.id));
+const missing = usable.filter((u) => !draftedIds.has(`${u.source}-${hash(u.link ?? u.title)}`));
+if (missing.length) {
+  console.log(`retrying ${missing.length} failed piece(s)…`);
+  drafted = drafted.concat(await writeCards(missing, model, charter, writeOpts));
+}
+
 const written = await editCards(drafted, model, charter);
 
 // Final cards in the editor's order, internal fields stripped.
-const cards = written.map(({ register, brief, score, fullInFeed, why, ...card }) => card);
+const cards = written.map(({ register, brief, score, fullInFeed, why, format, formatEntry, targetWords, ...card }) => card);
 
 if (installment) cards.splice(Math.min(2, cards.length), 0, { ...installment });
 
@@ -200,7 +228,12 @@ if (cards.length < 10) {
   process.exit(1);
 }
 
+// Honest health note when the build ran degraded — the app shows it.
 const deck = { date, generatedAt: new Date().toISOString(), cards };
+if (cards.length < 20) {
+  deck.note = `Lighter edition today — ${cards.length} cards; some pieces didn't survive the build.`;
+  console.log(`health note attached: ${deck.note}`);
+}
 writeFileSync(deckPath, JSON.stringify(deck, null, 1));
 
 for (const c of cards) seen[hash((c.deepLink ?? c.title).toLowerCase())] = Date.now();

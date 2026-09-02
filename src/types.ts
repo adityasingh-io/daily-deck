@@ -58,5 +58,7 @@ export interface Deck {
   date: string; // YYYY-MM-DD
   generatedAt?: string;
   evergreen?: boolean;
+  /** Honest health note when the build ran degraded (shown to the reader). */
+  note?: string;
   cards: Card[];
 }

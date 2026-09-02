@@ -15,6 +15,7 @@ const KEYS = {
   review: "dd.review.v1",
   retired: "dd.reviewRetired.v1",
   readIds: "dd.readIds.v1",
+  loves: "dd.loves.v1",
 } as const;
 
 interface SyncState {
@@ -28,6 +29,8 @@ interface SyncState {
   /** Recent save titles — lets the triage model infer sub-topic taste
       (saving Dostoevsky pieces ≠ "more books in general"). */
   savedTitles: string[];
+  loves: { id: string; topic: string; title: string; at: string }[];
+  lovedTitles: string[];
 }
 
 function get<T>(key: string, fallback: T): T {
@@ -61,9 +64,11 @@ export function lastSyncedAt(): string | null {
 
 function collect(): SyncState {
   const saves = get<Card[]>(KEYS.saves, []);
-  // Behavior signal for the pipeline: what topics actually get saved.
+  const loves = get<SyncState["loves"]>(KEYS.loves, []);
+  // Behavior signal for the pipeline: saves and one-tap loves, by topic.
   const signals: Record<string, number> = {};
   for (const c of saves) signals[c.topic] = (signals[c.topic] ?? 0) + 1;
+  for (const l of loves) signals[l.topic] = (signals[l.topic] ?? 0) + 1;
   return {
     updatedAt: new Date().toISOString(),
     saves,
@@ -73,6 +78,8 @@ function collect(): SyncState {
     readIds: get(KEYS.readIds, []),
     signals,
     savedTitles: saves.slice(0, 20).map((c) => `[${c.topic}] ${c.title}`),
+    loves,
+    lovedTitles: loves.slice(0, 20).map((l) => `[${l.topic}] ${l.title}`),
   };
 }
 
@@ -99,6 +106,12 @@ function merge(remote: Partial<SyncState>) {
   // retired + readIds: plain unions
   put(KEYS.retired, [...new Set([...get<string[]>(KEYS.retired, []), ...(remote.retired ?? [])])]);
   put(KEYS.readIds, [...new Set([...get<string[]>(KEYS.readIds, []), ...(remote.readIds ?? [])])].slice(-1500));
+
+  // loves: union by id
+  const loves = get<SyncState["loves"]>(KEYS.loves, []);
+  const haveLoves = new Set(loves.map((l) => l.id));
+  for (const l of remote.loves ?? []) if (!haveLoves.has(l.id)) loves.push(l);
+  put(KEYS.loves, loves.slice(0, 300));
 }
 
 let inFlight = false;
