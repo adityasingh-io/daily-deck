@@ -172,14 +172,14 @@ For each selected piece:
 - "targetWords": your length call — a number (info: 80-180; story: 350-600, up to 800 only for the exceptional)
 - "brief": one line of assignment direction for the writer — the angle, what to lead with, what to pull out. E.g. "info, lead with the 45% number, the story is one GPU" or "concept piece — anchor on the mechanism, not the study drama".
 
-FORMAT DIVERSITY — hard requirements, not suggestions:
-- At least 8 DISTINCT formats across the deck.
-- No format used more than 3 times.
-- Never the same format on two adjacent pieces.
+FORMAT ASSIGNMENT — the principle, not a quota:
+- Format follows material. Repetition born of FIT is fine; repetition born of REFLEX is not. If one format genuinely serves many of today's pieces, use it — and say why in your reasoning.
+- Avoid the same format on adjacent pieces when the material allows — pacing is a deck-level experience.
+- Variety should EMERGE from honest matching; never dress identical material in different costumes just to vary, and never default to the same easy form out of habit.
 
 Then:
 - "letterNote": one sentence for the letter writer — today's honest thread, if any, and the piece not to miss.
-- "reasoning": 2-3 sentences on how you shaped today's edition, ENDING with your format tally (e.g. "Formats: Kabob ×2, Refutation ×2, One Number ×3, …") — count your own assignments and fix any violation before you output.
+- "reasoning": 2-3 sentences on how you shaped today's edition, ENDING with your format tally (e.g. "Formats: Kabob ×2, Refutation ×2, One Number ×3, …"). If any format appears more than 3 times, add one sentence on why the material earned it.
 
 ORDER the lineup for pacing (charter: long reflective pieces separated by quick info ones). Select per the charter's mix direction — aim near 24 pieces (the fixed book slot and the letter are added by code). Never fewer than 17, never more than 26. Quality floor: nothing below score 4 unless you state why in its brief.
 
