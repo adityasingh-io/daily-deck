@@ -38,9 +38,43 @@ export function runClaude(prompt, model) {
 
 export function extractJson(text, open, close) {
   const start = text.indexOf(open);
+  if (start === -1) throw new Error("no JSON in model output");
+  // Fast path: first open to last close.
   const end = text.lastIndexOf(close);
-  if (start === -1 || end === -1 || end < start) throw new Error("no JSON in model output");
-  return JSON.parse(text.slice(start, end + 1));
+  if (end > start) {
+    try {
+      return JSON.parse(text.slice(start, end + 1));
+    } catch {
+      /* fall through to the balanced scan — trailing prose after the JSON
+         (or a stray brace in it) breaks the greedy slice */
+    }
+  }
+  // Robust path: balanced scan, string- and escape-aware.
+  let depth = 0;
+  let inStr = false;
+  let esc = false;
+  for (let i = start; i < text.length; i++) {
+    const ch = text[i];
+    if (esc) {
+      esc = false;
+      continue;
+    }
+    if (ch === "\\") {
+      if (inStr) esc = true;
+      continue;
+    }
+    if (ch === '"') {
+      inStr = !inStr;
+      continue;
+    }
+    if (inStr) continue;
+    if (ch === open) depth++;
+    else if (ch === close) {
+      depth--;
+      if (depth === 0) return JSON.parse(text.slice(start, i + 1));
+    }
+  }
+  throw new Error("unbalanced JSON in model output");
 }
 
 async function runBatches(items, batchSize, makePrompt, model, label) {
