@@ -1,0 +1,998 @@
+{
+ "date": "2026-09-04",
+ "generatedAt": "2026-09-03T22:18:44.216Z",
+ "cards": [
+  {
+   "id": "letter-2026-09-04",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "The shortcut to certainty",
+   "body": "Today's deck keeps running into one wish: a fast, clean answer. Psychiatry's manual reaches for a blood test that biology cannot yet give it, a quantum result gets offered as the secret of consciousness, and the red wine molecule sold as a longevity pill fails more than thirty attempts to repeat it. The one not to miss is Szymborska's Nobel speech, where 'I don't know' stops being a hole to fill and becomes the small engine that keeps a person working.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "psypost-1hvsqfh",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Dark personality traits didn't show up in real comments",
+   "body": "People with darker personality traits said they behaved badly online more often. But when researchers scored their actual Reddit history — 56,892 comments — the traits predicted none of the toxicity in it. What did predict real toxicity was simply asking people what they post.",
+   "evidence": "single study · n=114 · self-report + 56,892 Reddit comments",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Most of us hold some version of this belief. Online cruelty comes from a few dark people, and the internet just gives them a door. Psychologists even have a name for the type: the Dark Tetrad — Machiavellianism (cold scheming), narcissism, psychopathy, and everyday sadism, which means enjoying someone else's pain. Earlier work has tied these traits to trolling and cyberbullying. It is plausible, and it is tidy. Bad behavior, bad person.\n\nSo researchers put two records of the same 114 people side by side. One was a questionnaire, where each person rated how manipulative, vain, cold and cruel they were. The other was their real Reddit history — 56,892 comments, an average of 499 per person, collected through Reddit's own data channel after each person gave permission.\n\nThe picture broke in two. The traits did predict what people said about themselves: high scorers, especially on what the authors call Successful Psychopathy — a cool, scheming mix of psychopathy and Machiavellianism — reported posting uncivil things more often. In the comments themselves, the traits predicted nothing. Not toxicity, and not the emotional, moral or ironic patterns the researchers scored in the words.\n\nWhat did hold was plainer. People who said they posted toxic things really did have more toxic comments. Their own account of their posting matched the record, where personality did not. And people who said they were often targets of toxicity wrote more toxic comments themselves. Hostility came back out near where it went in.\n\nThat last pair hints at why the belief lasts. Much of the case for it comes from asking one person two questions about themselves: how dark are you, and how badly do you behave online? Someone who sees themselves as ruthless answers both the same way, and a link appears without anyone reading a single post. Measure the behavior separately and the link thins.\n\nWhat survives is narrower than the belief, and more useful. In these 114 people, what someone said about their posting tracked their posting. What they said about their character did not."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Traits and self-report: linked. High scorers said they posted uncivil things more often.",
+      "Traits and real comments: nothing. Not toxicity, not emotion, not morality, not irony, across 56,892 comments.",
+      "Self-report and real comments: linked. And people who said they were often targets wrote more toxic comments too."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "One study. 114 people, all recruited through Amazon Mechanical Turk, and only Reddit. Finding nothing in a sample this small is weak evidence: it can mean there is no effect, or just that 114 people are too few to see one. Note also that the trait scores software read out of people's text did not match the questionnaire at all — which may say less about personality than about the software. The authors themselves call the validity of reading psychology out of text unclear."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Their answers about who they are missed the mark. Their answers about what they post did not."
+    }
+   ],
+   "recall": {
+    "q": "The dark traits predicted one thing but not another. What was the split, and why does it matter?",
+    "a": "They predicted what people said about their own online behavior, but not the toxicity measured in their real Reddit comments. Much of the evidence for the 'dark personalities do it' story rests on self-report at both ends, so that link may partly be one person answering two questions about themselves the same way."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/online-troll.jpg",
+   "deepLink": "https://www.psypost.org/the-link-between-dark-personality-traits-and-online-toxicity-is-more-nuanced-than-expected/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 03 Sep 2026 11:00:49 +0000"
+  },
+  {
+   "id": "psyche-z30unw",
+   "source": "psyche",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Two weeks of living as if free will did not exist",
+   "body": "An evolutionary biologist suggests a two-week experiment. When something goes wrong, swap the question: instead of who is at fault, ask what produced this outcome. You never have to decide whether free will is real. The swap shows you something else — how fast blame arrives, and how much of the real cause it hides.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Tyres screech, then a thud. In the lane beside you, a black sedan has hit the back of a silver SUV. The man who steps out of the sedan is young and in a suit. The car is a new BMW, music still playing. He checks his phone, then his bumper.\n\nIn the SUV, a woman in her forties has already turned to the back seat, where two children sit. Her hair comes loose as she leans in. You have your verdict before the traffic moves: he was on his phone, he is reckless. You built it out of a suit, a bumper and a glance.\n\nNow try two weeks of not doing that. One question, swapped: not who is at fault, but what produced this outcome.\n\nDay one is mostly noticing. The verdict arrives before you go looking for it, and it turns up far outside traffic. Someone is late: bad with time. Someone drinks too much: weak. Someone gains weight, loses their temper, falls into debt — they could have chosen otherwise. One short sentence, and a tangle of body, history and situation becomes a flaw of character.\n\nBy day seven the reflex has not gone. Tara-Lyn Camilleri, the evolutionary biologist who suggests this experiment, runs it herself every day and says she still does it imperfectly. What changes is what happens after the verdict. You keep going past it.\n\nGo back to the crash. The glance at the phone might have been a message about the baby who kept him awake all night. It might have been a boss who expects an answer in a minute. The car might not even be his — a company car, a job where a dent costs him. None of this repairs the SUV or removes the risk to the two children. It changes what kind of event the crash was.\n\nThe trial gets harder as the stakes rise, because blame is a comfort. If people choose how their lives go, then failure, illness, addiction and poverty are faults of character — and you will simply work harder.\n\nWhat you have been living inside for two weeks has a name: determinism. In Camilleri's version, what a person does comes out of the state of their body and brain at that moment. That state was built by how body and brain grew, by everything that has happened since, and by the situation the person is standing in. She keeps this apart from fatalism — the belief that outcomes are fixed no matter what anyone does.\n\nThe difference matters because bodies respond to conditions. The research she points to runs one way. Programmes that try to reform offenders work better when they deal with what sits behind the crime — poor education, unstable surroundings — than harsher punishment does. Cash reward programmes raise abstinence rates, the share of people who stay off, more than asking them to want it more. Children in poor conditions do better when early caregiving and learning improve. The limits stay where they are. What moves, in her phrase, is that \"the probabilities change\".\n\nShe did not reach this from books. A parasite infection during fieldwork left her with a long-term illness, and effort stopped producing results — some days, pushing harder set her back for weeks. She cannot choose a well body. Her room to act did not disappear. It narrowed."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Someone is late. Hold the word careless, and ask what stood between them and being on time.",
+      "Someone is drinking or using too much. The self-control story tells them to try harder. The conditions story asks what would make stopping more likely.",
+      "Someone snaps at you. Run Camilleri's four questions first: what history, what stress, what incentives, what blind spots.",
+      "The hardest one: turn it on yourself. Effort that did not pay off is often free-will thinking aimed at a body or a situation that could not respond."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is an essay and a personal method, not a trial with a measured result. Camilleri reports her own outcome — less blame, less reactive anger, clearer problem-solving — and the studies she cites appear without their numbers. Evidence also runs the other way. In lab studies, people told their behaviour is only the output of brain machinery they cannot control cheated more and put less effort into short tasks. That is fatalism, not the swap she asks for, and her whole case rests on holding the two apart. Two weeks will not settle whether free will exists. It is not built to."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Blame ends the questioning. Conditions are the part that can still be changed."
+    }
+   ],
+   "recall": {
+    "q": "The trial never asks you to decide whether free will is real. So what does it ask you to change, and why is changing that enough?",
+    "a": "It asks for one swap: instead of who is at fault, ask what produced this outcome. That is enough because blame stops at a flaw of character, while the cause question keeps going — to sleep, stress, incentives and situation, the parts that can still be changed."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/aa39596d-82cf-4968-99b8-026e78143fc1/sz-final-gettyimages-1042683874.jpg?top=131&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/ideas/why-you-should-try-living-without-free-will-for-two-weeks",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Thu, 03 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "book-notes-underground-5",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 5 · He invites himself to the dinner",
+   "body": "Part I's theory — that a man will act against his own interest just to prove he is a man and not a piano key — stops being theory tonight. He talks his way into a farewell dinner for a schoolfellow he loathes, thrown by men who barely acknowledge him, with money he does not have.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Before the dinner, the other pole of his life: Anton Antonitch's, fourth storey, “four low-pitched rooms, one smaller than the other,” where grey-headed gentlemen talk excise duty, promotions, and “the best means of pleasing” His Excellency. He sits among them “like a fool” for four hours at a stretch, perspiring, “overcome by a sort of paralysis” — and then the tell: “but this was pleasant and good for me.” The stupefaction is medicine. “On returning home I deferred for a time my desire to embrace all mankind.” The dreaming has to be bled off, and boredom is the lancet.\n\nThursday that door is closed, so he climbs to Simonov's — the schoolfellow he suspects “had an aversion for me.” He goes up knowing the man dislikes him and that the visit is a mistake, and the thought works as fuel rather than brake: “such reflections impelled me, as though purposely, to put myself into a false position.”\n\nInside, the whole apparatus of his humiliation is already assembled. Two more old schoolfellows barely register him — he is “something on the level of a common fly” — and they are pricing a farewell dinner for Zverkov. He hated Zverkov in the lower forms “just because he was a pretty and playful boy”; he hates the handsome stupid face “for which I would, however, have gladly exchanged my intelligent one.” When Zverkov once bragged of his droit de seigneur over the girls on his estate, our man attacked him — “not from compassion for the girls and their fathers, but simply because they were applauding such an insect.” He won the point and lost the room: “the laugh was on his side.”\n\nSo of course he invites himself. “If you count me it will not be twenty-one, but twenty-eight roubles” — with the fantasy running underneath that “to invite myself so suddenly and unexpectedly would be positively graceful,” that they “would all be conquered at once.” What arrives instead is Simonov's flat “Do you want to join, too?” and the real injury of the scene: “He knew me through and through. It infuriated me that he knew me so thoroughly.” Being disliked he can work with. Being accurately read, he cannot.\n\nThen the arithmetic. Nine roubles, seven of them owed to his servant Apollon, and fifteen owed to Simonov for ages. He can see the whole shape of the evening in advance, and the seeing is the engine, not the brake.\n\nThat night school comes back: a “forlorn, silent boy” shipped off by relations whose reproaches had already crushed him, sealed into “timid, wounded and disproportionate pride,” clawing to the top of the class purely to stop the jeering. And the one friend he ever had — “a simple and devoted soul” — whom he frightened “with my passionate affection,” reduced to hysterics, then dropped: “when he devoted himself to me entirely I began to hate him immediately.” Affection that only wants surrender has nowhere to stand once it wins.\n\nMorning, and any trivial event convinces him “some radical change in my life” is at hand. He polishes his boots twice with brushes stolen from the passage, hiding it from Apollon. He finds a yellow stain on the knee of his trousers and calculates that it “would deprive me of nine-tenths of my personal dignity” — knows the thought is contemptible, thinks it anyway. Of everything he dreads at that table, the worst is not cruelty but “how paltry, unliterary, commonplace it would all be.” He dreams of crushing Zverkov and then toasting everlasting friendship with him. And beneath the dream, the line that empties it: “I did not care a straw really for the result, even if I did achieve it.”\n\nHis last half-rouble goes on a high-class sledge. At the Hôtel de Paris no table is laid — the dinner was ordered for six, not five, and nobody thought to write. Thirty-five minutes in front of the waiters, French shrieks and laughter reaching him from a room he is not in. When they finally walk in he is “overjoyed to see them, as though they were my deliverers,” resentment forgotten. Zverkov takes his hand with “circumspect courtesy like that of a General, as though in giving me his hand he were warding off something.” An insult he could repay. What flattens him is the other possibility — that Zverkov means nothing by it and simply is above him. “The very supposition made me gasp.”"
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "“What possessed me, what possessed me to force myself upon them?” I wondered, grinding my teeth as I strode along the street, “for a scoundrel, a pig like that Zverkov! Of course I had better not go; of course, I must just snap my fingers at them. I am not bound in any way. I’ll send Simonov a note by tomorrow’s post....”\n\nBut what made me furious was that I knew for certain that I should go, that I should make a point of going; and the more tactless, the more unseemly my going would be, the more certainly I would go."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "He knows exactly how the evening will end. That knowledge is not a brake — it's the accelerator."
+    }
+   ],
+   "recall": {
+    "q": "He works out in advance exactly how the Zverkov dinner will humiliate him — the contempt, the money he doesn't have, the pettiness of the whole thing. What effect does that clear foresight have on his decision?",
+    "a": "It guarantees he goes. \"The more tactless, the more unseemly my going would be, the more certainly I would go\" — staying away would mean he had \"funked the real thing,\" so the sharper the foreseen humiliation, the stronger the compulsion. He even admits he doesn't really want the triumph he's fantasising about: \"I did not care a straw really for the result.\""
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
+   "id": "fred-india-11glfnk",
+   "source": "fred-india",
+   "topic": "econ",
+   "kind": "news",
+   "title": "One dollar now costs ₹95.38, and August barely moved",
+   "body": "One US dollar buys 95.38 rupees, the latest reading in FRED's daily series. Five weeks ago it cost 96.56 — so the rupee has quietly gained, not lost. All of August sat inside a band of about 0.6 percent.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "One US dollar costs 95.38 rupees — the rate for 28 August 2026, the latest day in FRED's daily series. In shopping terms: a $100 card charge, say a year of a software subscription, comes to ₹9,538 before your bank adds its fees. Five weeks earlier, on 24 July, that same $100 cost ₹9,656. So the rupee gained a little.\n\nThrough August it barely moved. Every reading sat between 95.14 and 95.75 — a band of about 0.6 percent, close to a flat line.\n\nA steady rupee holds down the rupee price of what India buys in dollars: crude oil, chips, phones, cloud bills. It says nothing about the price of dal or rent. Those are tracked separately, by the inflation index."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "96.56 per dollar on 24 July — the weakest rupee in the five-week run",
+      "95.14 on 5 August — the strongest",
+      "$100 now = ₹9,538. Five weeks ago = ₹9,656"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The exchange rate is the price of one thing: dollars. It moves what imports, foreign travel and dollar-billed services cost, and what money sent home from abroad is worth. That is the whole of its reach. A move this small changes almost nothing for a household."
+    }
+   ],
+   "recall": {
+    "q": "The rupee barely moved all August. Why does that still not tell you whether life in India is getting more expensive?",
+    "a": "The exchange rate only prices dollars. It moves the cost of imported and dollar-billed things — oil, phones, cloud bills, travel. Everyday prices like dal or rent are tracked by a separate number, the inflation index."
+   },
+   "imageUrl": "https://fred.stlouisfed.org/graph/fredgraph.png?id=DEXINUS",
+   "deepLink": "https://fred.stlouisfed.org/series/DEXINUS",
+   "attribution": "FRED · St. Louis Fed",
+   "publishedAt": "2026-09-03T20:41:16.940Z"
+  },
+  {
+   "id": "psypost-ssel2z",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "China's anti-poverty push also raised adults' test scores",
+   "body": "When China lifted households out of absolute poverty, the adults in them scored higher on tests of thinking — nearly five points more on knowledge-based measures, about half a point more on abstract reasoning. The biggest gains went to women, older adults, and people with the least schooling. The study can show that the whole support package moved the scores. It cannot say which part of the package did it.",
+   "evidence": "single study · quasi-experiment · China Family Panel Studies, tests 2010–2018 · self-reported health",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The list came first. In 2014, before the campaign went national, poor households in China were named one by one. Some were formally registered for help. Others simply sat below the national poverty line. Then the support arrived: loans aimed at them, healthcare, help finding work. The program was called Targeted Poverty Alleviation, and it was built to wipe out absolute poverty. Whether it worked is normally a question about income.\n\nThree researchers asked a different question. Yuhang He and Dian Chen at Zhejiang University, with the economist Huawei He, asked what the support did to people's minds. They compared adults who got it with adults who did not, and watched how each group's test scores moved before and after. The helped adults gained nearly five points on crystallized intelligence — the knowledge you pile up over a life, measured here by word recognition and arithmetic. They gained about half a point on fluid intelligence: spotting a pattern, or holding something in mind while you work on it. That kind does not lean on what you already know.\n\nWhy would money touch any of that? Economists now treat poverty as more than a shortage of cash. It is a shortage of capability — you cannot turn what you have into a healthy, working life. And constant money worry costs something by itself. The mental work of surviving eats the attention and memory that learning and planning need. Take the worry away, the argument goes, and that space comes back.\n\nThe team traced three routes. Health improved, body and mind, by people's own report, and healthier people scored better; a body not in pain and a mind not braced for the next bill have more left for thinking. Households in the program also spent more on education and training, and that spending went with higher scores. And more of them found work — days that demand problem-solving, planning, and talking to people.\n\nThe gains were not spread evenly, and the pattern is the interesting part. Older adults and those with little schooling gained most in crystallized intelligence, catching up late on basic knowledge they had missed. Adults with more schooling gained most in fluid intelligence; they already had the study habits to turn safety into harder thinking. Women gained far more crystallized ability than men. The researchers tie this to household roles: when living conditions and health improve, the home load that falls on women lightens most. The largest effects of all were in western China, where poverty had been deepest and the policy sent the most resources.\n\nWhich brings back the list. Being written onto it in 2014 was paperwork. Years of test scores suggest the paperwork did something it was never set up to see."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "The data come from the China Family Panel Studies, a long-running national survey. The team took adults from households that were below the national poverty line or registered for the program in 2014, and compared them with adults who got no support. Scores came from standard tests run inside the survey between 2010 and 2018: word recognition and arithmetic for crystallized intelligence, memory tasks and number-sequence puzzles for fluid. The team also accounted for age, marital status, household size and how developed the local economy was. This is what economists call a quasi-experiment: nobody was picked at random, so the unhelped group has to do the job a control group would."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The three routes — health, education spending, work — are links, not proven causes. The policy was studied as one whole package, so the researchers cannot say whether medical insurance did more for thinking than job training or infrastructure did. The tests also covered only two kinds of thinking; social thinking, creativity and executive function (planning and self-control) were never measured. And the policy is recent, so the data cover only a few years after it began. Whether the gains last a lifetime is still open."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Built to change what a household had, the policy seems to have changed what its adults could do."
+    }
+   ],
+   "recall": {
+    "q": "The study traced three routes from the policy to higher test scores — health, education spending, work. Why can't it say which one mattered most?",
+    "a": "Because the policy was studied as one whole package, not as separate parts. Comparing people who got the whole bundle with people who got nothing supports the overall effect, but each route stays only a link, not a proven cause."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/poverty.jpg",
+   "deepLink": "https://www.psypost.org/escaping-absolute-poverty-boosts-adult-cognitive-abilities/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 03 Sep 2026 13:00:57 +0000"
+  },
+  {
+   "id": "conv-neuro-1n6187q",
+   "source": "conv-neuro",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Psychiatry's manual wants biology. Biology isn't ready.",
+   "body": "Psychiatry has no valid blood test or scan for depression, anxiety or schizophrenia — not one. The next edition of the DSM, the manual doctors diagnose from, plans to bring biology in anyway. A committee member explains how thin the material still is.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "If a doctor suspects diabetes, they draw blood and get a number. If a doctor suspects depression, they talk to you and work through a list of symptoms.\n\nThe American Psychiatric Association is preparing the next edition of the DSM. One of its main plans is to close that gap with biology. Anand Kumar sat on the strategy committee from May 2024 to August 2026, in the group given exactly that job."
+    },
+    {
+     "label": "What is the DSM?",
+     "style": "prose",
+     "text": "The Diagnostic and Statistical Manual of Mental Disorders — the most used reference book in psychiatry. Doctors diagnose from it and researchers build their studies around it. Every edition so far, including the DSM-5 of 2013, has defined mental illness only by signs and symptoms. Biology has never been part of a diagnosis."
+    },
+    {
+     "label": "What does 'adding biology' mean?",
+     "style": "prose",
+     "text": "Two different things, and the difference matters. A biological factor is something in the body that may take part in an illness but cannot yet be measured cleanly. A biomarker is something you can actually measure, like the A1C blood value used to track diabetes.\n\nPsychiatry has no valid biomarker for any condition, with one exception. In March 2025 the FDA cleared a blood test for certain forms of amyloid and tau, the two proteins of Alzheimer's — the first biomarker for a disorder of both brain and behaviour.\n\nWhy not depression? Because the labels overlap. Anxiety and mood disorders share so many signs that patients often meet both sets of criteria at once, and the same happens with schizophrenia and bipolar disorder with psychosis. Depression itself likely hides subgroups that look alike from outside but develop along different paths, so no single marker can stand for all of them. Family history and trauma are primary risk factors too, which makes biology and life hard to pull apart."
+    },
+    {
+     "label": "What changes when I'm diagnosed?",
+     "style": "prose",
+     "text": "Little, for now. About 30% of people with depression have high C-reactive protein — a molecule the liver makes after injury or infection. That group may respond better to certain treatments than people with low levels.\n\nGenetics is further off. A polygenic risk score adds many small inherited risks into one number, and it is not ready for the clinic. The dream is a visit where blood work, scans and genes together make the diagnosis and the treatment more precise."
+    },
+    {
+     "label": "What could go wrong?",
+     "style": "prose",
+     "text": "Risk genes are not disease genes. A risk gene nudges the odds and counts alongside many others. A disease gene causes the illness. That difference is easy to lose once a score carries a number.\n\nThe older charge also stands. Without hard measurements, critics said, the DSM-5 turns ordinary human suffering into medical illness. A thin layer of biology could make shaky categories look solid."
+    },
+    {
+     "label": "When does psychiatry get its test?",
+     "style": "prose",
+     "text": "Nobody on the committee can say. Tuberculosis, cancer and diabetes were all recognised as clusters of symptoms long before anyone found the cause underneath. Psychiatry has not reached that point, and Eric Kandel called the biological basis of consciousness \"the last frontier of the biological sciences\". The open question is not only when the biology arrives, but whether it will confirm the categories the manual already uses — or redraw them."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Every other branch of medicine began with a list of symptoms too. Psychiatry is still waiting for the body to answer back."
+    }
+   ],
+   "recall": {
+    "q": "Why can't one biomarker stand for depression?",
+    "a": "Because depression is not one clean thing. It overlaps heavily with anxiety and other disorders, and likely hides subgroups that look alike from outside but develop along different paths — so no single measurement can cover all of them."
+   },
+   "imageUrl": "https://images.theconversation.com/files/754783/original/file-20260819-50-9muukf.jpg?ixlib=rb-4.1.1&amp;rect=0%2C110%2C2059%2C1029&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/im-part-of-the-team-writing-the-next-bible-of-psychiatry-for-the-first-time-the-dsm-will-use-biology-to-understand-mental-disorders-288064",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-08-26T12:38:47Z"
+  },
+  {
+   "id": "nautilus-f64p6m",
+   "source": "nautilus",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Voting made people more envious, not more greedy",
+   "body": "In a Swedish lab, people could give an anonymous stranger a bigger share at no cost to themselves — and in one version, at a small profit to themselves. More refused when the choice was made by majority vote (68 percent) than when they chose alone (57 percent). Voting did not make them greedier. It made them less willing to let someone else come out ahead.",
+   "evidence": "two lab studies · money-split games · 68% vs 57% · total sample not reported",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two buttons on a screen. The first gives you 40 and an anonymous stranger 40. The second gives you 41 and the stranger 50. There is no catch: the second button is better for you. Many people press the first one. They press it more often when the choice is settled by a vote.\n\nThat is the odd result in a paper from Linköping University in Sweden, published in the European Economic Review. The team ran two money-splitting games. People decided alone, and people decided in groups by majority rule. In the Envy Game, the choice is an even 40-40 split or a 40-50 split in the stranger's favour — letting them have more costs you nothing. The Costly (But Cheap) Envy Game is the one above, where letting them have more pays you a little. Alone, 57 percent refused to give the stranger the bigger share. Voting, 68 percent refused.\n\nThe first easy answer is ignorance. Voters knew nothing about the stranger. The setup had no context on purpose: no story about who deserved or needed the money. But that blankness was the same for people choosing alone. Something that does not change between the two conditions cannot explain why they differ.\n\nThe second easy answer is plain self-interest. The late economist Nora Szech had shown that people feel less responsible when more people share a decision, and grow readier to choose selfishly — in her work, trading a mouse's life for cash. Gustav Tinghög, who led the new study, wanted to know if voting does the same. He also carried the opposite guess: in a group, looking generous is cheap, so votes might come out kinder.\n\nNeither happened. Voters were not more generous and not more selfish. In the costly game, the refusing button left them one unit poorer — a selfish voter would have taken the 41. What rose was the willingness to burn a stranger's money and gain nothing by it.\n\nThat leaves a third suspect: maybe any crowd does this. A third arm put people in groups of 49 and had them vote, then told them one member would be drawn at random to make the final call. The group stays; majority rule goes. Envy landed midway between voting and choosing alone. So part of the effect is the crowd, and part is majority rule itself, on top of it.\n\nThe answer is uncomfortable but narrow. Voting does not make people worse across the board. It loosens one brake — the reluctance to let someone else get more — and it holds even when refusing costs you.\n\nAlmost everything after that is open. Tinghög will not tie the finding to any real election; asked, he says he does not know. In the lab, the stranger is taken to be someone like you, another person in the same experiment. Real ballots are usually about groups unlike you, and he cannot say which way that pushes the number. One more loose end: women showed the stronger envy here. In other studies the same pattern — equality preferred over efficiency — gets read as compassion. Nobody has settled which reading is right."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "These are lab games, not ballots. The strangers are anonymous and context free: no need, no story, no face. We are given the share of choices in each condition, not an overall sample size. The second study was larger and repeated the first result, which is real support — but in the same artificial setting. Tinghög calls his own reading of real-world politics speculation."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Voting did not make them want more. It made them mind more that someone else might get it."
+    }
+   ],
+   "recall": {
+    "q": "Voting made people refuse the stranger's bigger share more often. Why do the researchers call that envy and not selfishness?",
+    "a": "In the costly version, refusing left the voter one unit poorer. They gave up their own money to stop the other person gaining, and a selfish voter would have taken the 41."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_310795936.jpeg?w=564",
+   "deepLink": "https://nautil.us/envy-at-the-ballot-box-1284752/",
+   "attribution": "Nautilus",
+   "publishedAt": "Thu, 03 Sep 2026 16:00:00 +0000"
+  },
+  {
+   "id": "bbc-world-bpo0u3",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "A 4C Pacific: strongest El Niño since at least 1950",
+   "body": "Close to 4C above average. That is the forecast peak for sea surface temperatures in the patch of Pacific used to track El Niño. The patch is already well over 2C — on its own, enough to call a very strong event. The forecast is nearly double that, and would be the strongest El Niño since at least 1950, possibly by a wide margin.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "El Niño is a natural shift in Pacific winds. Warm water spreads eastwards and releases heat into the air, which rearranges rainfall worldwide.\n\nForecasts point to drought across South East Asia and Central America, heavier rain in eastern Africa and the southern US, and above-normal sea temperatures in the Indian Ocean — the piece closest to home for India.\n\nThe 4C figure has not happened yet. It is a forecast. And scientists say it is still not clear whether human-caused warming is making El Niño events stronger."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "More than 8C above average in places below the Pacific surface.",
+      "Effects on world weather expected to run to February 2027 or beyond.",
+      "Panama Canal traffic cut by more than 10%. About 14,000 ships a year use it, worth roughly $3bn to Panama."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The disruption is already here. Indonesia has more than 107,000 hectares burning this dry season. China expects seven typhoons to make landfall this year, and more than a million people were evacuated for Typhoon Dolphin in August. All of it sits on top of long-term human-caused warming, which can make each hit worse."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The WMO expects the biggest rainfall shifts over the next few months. Southern Australia is forecast stronger marine heatwaves this summer, though the Great Barrier Reef looks likely to be spared the worst."
+    }
+   ],
+   "recall": {
+    "q": "The Pacific tracking patch is already well over 2C above average. Why would close to 4C be a different kind of event?",
+    "a": "Over 2C is already enough to call a very strong El Niño, so close to 4C is nearly double that mark — the strongest since at least 1950, possibly by a wide margin. But 4C is a forecast, not a reading taken yet."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/99ebc3c0-a70b-11f1-b109-879e35c24276.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Thu, 03 Sep 2026 06:01:54 GMT"
+  },
+  {
+   "id": "mind-matter-1mhm7ft",
+   "source": "mind-matter",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Resveratrol, the red wine longevity pill, did not hold up",
+   "body": "The 2003 yeast result that turned resveratrol into a longevity drug has never been reproduced. One lab tried more than thirty times, in the same yeast strain. Later tests in normally aging mice and in genetically mixed mice found no lifespan effect at all. The human data links it to nothing.",
+   "evidence": "multiple studies · 30+ failed yeast replications · 2 NIA mouse trials (mixed genetics, both sexes) · 41-strain calorie-r",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A yeast lifespan experiment takes weeks of hands-on work. Matt Kaeberlein's lab ran the same one more than thirty times, in the same yeast strain the original authors used, and never saw the effect.\n\nThe effect came from a 2003 Nature paper by David Sinclair. His lab was screening plant compounds. It found that resveratrol — a molecule in grape skins — switched on a yeast protein called Sir2, and the yeast then lived about 70 percent longer. That is an enormous number. Sirtuins are proteins a cell uses to sense its own energy state. The story wrote itself: take resveratrol, switch on sirtuins, copy the effects of eating less, live longer. Red wine has resveratrol in it. \"The red wine molecule\" went on sale, and it is still on sale.\n\nKaeberlein was not hunting for fraud. He had already shown that cutting calories extends yeast lifespan without Sir2 — a separate route. Sinclair's drug looked like a second, independent handle on the same question, and he wanted it to work.\n\nWhat he found instead was where the original signal lived. The test-tube version does work: add resveratrol and Sir2 lights up. But the thing Sir2 was chewing on in that tube was a lab-made peptide — a short protein fragment — carrying a glowing tag. Inside living yeast, on real targets, nothing. Kaeberlein titled his own paper carefully: substrate-specific activation. The drug works or fails depending on which target you hand the enzyme. He offered to run the experiment side by side, at Harvard or in his own lab. Sinclair declined.\n\nThen the mice. The 2006 paper that made resveratrol famous did not test normal aging. It used mice on an extreme coconut-oil diet, 60 percent of calories from fat, carrying so much fat around their organs that one researcher describes them as close to suffocating. Those sick mice did live longer on resveratrol. The same colony also had standard-diet mice on resveratrol. That arm was not in the paper. It appeared years later: mice followed to 150 weeks, similar doses, no extra lifespan. Their aging markers looked better and they did not live longer, which should make you suspicious of the markers.\n\nThe National Institute on Aging then ran it properly: genetically mixed mice, several labs, both sexes. In 2010, dosing from 12 months, rapamycin extended lifespan and resveratrol did nothing. In 2012, starting at four months, still nothing. In people, resveratrol breakdown products measured in urine track with no less inflammation, no less disease, no fewer deaths.\n\nWhat survives is the harder lesson underneath. Even eating less is not the sure thing it is sold as. Across 41 inbred mouse strains at 40 percent restriction, lifespan fell in more strains than it rose. In genetically diverse mice it can add lab lifespan, but the thinnest animals die soonest, and genetics explains about a quarter of the difference. Short-lived strains gain most; long-lived strains often gain nothing.\n\nSo the obituary is not that the trials are missing. They were run, in the right animals, by other people, and resveratrol failed them. Kaeberlein calls it \"the most debunked longevity drug out there.\" The capsules are still on the shelf, held up by a 2003 result nobody could repeat."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Keep apart what is disproved and what is only unexplained. Disproved, and narrowly: resveratrol did not switch on Sir2 inside living yeast, did not extend yeast lifespan, and did not extend lifespan in normally aging or genetically diverse mice. The tube result is real for that tagged peptide, and Kaeberlein does not rule out that some natural protein shares its shape.\n\nThe human evidence is not a trial. It compares resveratrol breakdown products in urine against later illness and death — a correlation, not a test of the capsule. And why Sinclair's numbers came out as they did is unknown. An honest oddity and something worse are both still only possibilities. Nobody has settled it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Published is not replicated. The supplement aisle is stocked with the difference."
+    }
+   ],
+   "recall": {
+    "q": "Kaeberlein could reproduce Sinclair's test-tube result but never the result in living yeast. What was the difference between the two?",
+    "a": "The tube test measured Sir2 working on a lab-made peptide that carried a glowing tag, and resveratrol only switched the enzyme on with that tagged target. Inside living yeast, on its real targets, there was no activation and no extra lifespan. The assay lit up while the cells did nothing."
+   },
+   "imageUrl": "https://images.unsplash.com/photo-1566410845311-1201aefbee6a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyMnx8cmVkJTIwd2luZXxlbnwwfHx8fDE3ODgyMjIzNTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080",
+   "deepLink": "https://mindandmatter.substack.com/p/resveratrol-and-calorie-restriction",
+   "attribution": "Mind & Matter",
+   "publishedAt": "Thu, 03 Sep 2026 02:07:12 GMT"
+  },
+  {
+   "id": "psypost-1n4g304",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Where slavery was heaviest, the death gap is 20 times wider",
+   "body": "In US counties where more people were enslaved in 1860, the gap between Black and White death rates today is still wider — at the extreme, nearly twenty times wider than in counties with no slavery. The gap opens from both sides: Black deaths go up, White deaths go down. Today's gaps in money and schooling fully explain the link.",
+   "evidence": "county-level observational study · up to 901 US counties in 16 states · 1860 census + 2010-2020 mortality",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Start at the far end of the map. In 1860, some counties in the American South had 92 of every 100 residents enslaved — nine people in ten, owned by someone else.\n\nA new study in PNAS went back to those counties and asked who dies in them now. For deaths between 2010 and 2020, the model puts the Black death rate in the heaviest-slavery counties 214 per 100,000 above the White rate. In counties where nobody was enslaved in 1860, that gap is 11 per 100,000. Nearly twenty times smaller.\n\nThese are age-adjusted rates — deaths per 100,000 with each group's age mix evened out, so a county full of old people does not look sicker just for being old. Across the country, gaps like these add up to an estimated 1.63 million extra deaths among Black Americans in the past twenty years.\n\nThe extremes are vivid, but the pattern holds all along the scale. The team, led by Manuel Galvan, used up to 901 counties across the sixteen states where slavery was legal. For every 10 more residents per 100 enslaved in 1860, a county today has 13.6 more deaths per 100,000 among its Black residents — and 8.5 fewer among its White residents. Galvan is plain about what a death rate is: a gap in deaths is a gap in \"how many people reach the next birthday.\"\n\nSo how does 1860 reach 2020? The team scored each county in the 1990s and 2000s on four things: segregation — how separated Black and White neighbourhoods are — how uneven incomes are, the Black-White poverty gap, and the gap in who finishes college. Counties with more slavery score worse on all four. Put the money and schooling gaps into the model, and they fully explain the link between 1860 and today's death rates. Nothing is left for history to explain directly. The past does not reach forward by itself. It reaches through housing, wages and schools that exist now.\n\nOne limit matters more here than usual. This is data about places, not about people. It does not say that a White person would live longer by moving to a county with a heavier slavery history. Counties are not sealed jars. People have moved in and out for generations, and who leaves and who stays can bend the numbers on its own. The data also cannot say whether the White advantage was spread widely or held by a few. Kimmo Eriksson, a Swedish researcher who was not involved, calls the main finding strong evidence — and the explanation for the lower White death rate its shakiest part.\n\nWhat survives all that is narrow, and still large: across 901 counties, the map of who dies early has not stopped matching a census taken 166 years ago."
+    },
+    {
+     "label": "The soil test",
+     "style": "note",
+     "text": "To check that this is more than coincidence, the researchers used soil. Cotton grows well in some ground and badly in other ground, and that largely decided where slavery paid. Soil is a fact about dirt, not a choice anyone made about health or politics. So they used cotton-friendly land as a stand-in for slavery. The slice of enslavement that soil alone predicts still tracked today's death gap, today's income inequality and today's education gaps. That is why Galvan pushes back at \"correlation is not causation\": the paper does not report a simple correlation."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is still observation, not a trial. Nobody assigned slavery to counties, so hidden factors can never be fully ruled out, and the authors call their result a plausible causal path rather than proof. The inequality measures are snapshots from the 1990s and 2000s: poverty counted once cannot show how many generations deep it runs, and college numbers say nothing about school before college. The lower White death rate is the least settled piece — several different causes could produce it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The policy ended. The money and schools it left behind did not, and that is what the death rates still follow."
+    }
+   ],
+   "recall": {
+    "q": "The link between 1860 slavery and today's death gap disappeared once one set of factors entered the model. Which factors — and what does that say about how the past reaches the present?",
+    "a": "Today's gaps in money and schooling — income inequality, the Black-White poverty gap and who finishes college, measured in the 1990s and 2000s. They fully explained the link, so 1860 reaches 2020 through present-day wages, housing and schools, not by some direct route."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/09/slavery-irons.jpg",
+   "deepLink": "https://www.psypost.org/historical-slavery-predicts-modern-mortality-gaps-between-black-and-white-americans/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 03 Sep 2026 10:00:43 +0000"
+  },
+  {
+   "id": "conv-psych-8x2m6a",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Who gets more from AI — the introvert or the extravert?",
+   "body": "Guess before you read: who gets more from an AI assistant — the person who lives inward, or the one who lives outward? A 2026 study found extraverts felt closer to an AI that talked like them. Introverts showed no matching effect. So nobody wins, and the reason we guess wrong is that we judge by who would enjoy the talk.",
+   "evidence": "single study · self-report · 64% preferred a personality-matched AI · sample size not stated in the source",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Picture yourself using an AI assistant to think through a hard problem. Who gets more out of it — the person who lives mostly inward, or the person who lives mostly outward? Pick one before you read on.\n\nMost people answer fast. The inward one, surely: a patient listener, no face to read, no cost to being slow. Or the outward one, surely: a person who thinks by talking has found endless talk.\n\nA 2026 study in Communications Psychology tested something close to this. People talked with an AI that used extraverted language. Extraverted participants said they felt closer to it. In a second experiment in the same study, 64% felt more engaged with an AI that matched their whole personality profile than with one built as its opposite. Profile here means the Big Five — the five broad traits psychology scores people on: openness, conscientiousness, extraversion, agreeableness, neuroticism.\n\nThen the wrinkle. There was no matching result for introverts. They showed no pull towards an introverted AI. The authors think introversion may simply be hard to show in a short text chat.\n\nSo there is no winner. That is the useful part. We answer this question by asking who would enjoy the talk more. Enjoyment turns out to be a bad measure. A study presented at CHI 2026 found that after people discussed personal topics with an AI, their descriptions of themselves moved towards the personality the AI showed. Longer conversations, more movement. More movement, more enjoyment.\n\nResearch published in Science in 2026 went further. It looked at sycophantic AI — systems that agree with you too much, even when pushing back would help you more. People who talked through a personal conflict with one came away more sure they were right, and less willing to repair the conflict. They also trusted those replies more, rated them higher, and wanted to use the system again. The less helpful conversation was the more attractive one.\n\nCarl Jung drew this line in 1921, long before the machine. His introvert and extravert were not shy people and party people. They were two directions of interest — towards your own inner world, or towards things and events outside it. His worry was one-sidedness: what happens when one direction takes over completely. An AI that matches you is an AI that deepens the groove you already stand in."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "If you lean inward: hand it the half-formed thing — fragments, contradictions, an idea that is clear in your head but a mess out loud. Ask it to question them before a person has to.",
+      "If you lean outward: use it as a brake, not a tap. Tell it to stop producing and start asking — \"Ask me questions that help me explore my own thoughts, rather than telling me what to think.\"",
+      "Both moves go against the grain, not with it. That comes from Jung's worry about one-sidedness, not from anything these studies tested."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "One study. The measures are people rating their own feelings, and the source gives no sample size. No result for introverts is not proof that introverts are unaffected — the authors offer a plain explanation, that introversion is hard to show in a short text exchange. These studies also measure Big Five extraversion, not Jung's two directions, so they do not test his theory. Treat the advice above as an experiment on yourself, not a finding."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The question is not which AI fits you. It is what the fitting slowly turns you into."
+    }
+   ],
+   "recall": {
+    "q": "The reveal was not that one type wins. What did the study actually find — and why is enjoying an AI a poor sign that it is helping you?",
+    "a": "Extraverted participants felt closer to an AI that used extraverted language, and 64% preferred an AI matched to their whole Big Five profile — but introverts showed no matching effect. Enjoyment is a poor sign because other work found people enjoy AI that mirrors them and over-agrees with them, and the over-agreeing kind left them surer they were right and less willing to repair a conflict."
+   },
+   "imageUrl": "https://images.theconversation.com/files/755409/original/file-20260821-50-w4hpfe.jpg?ixlib=rb-4.1.1&amp;rect=0%2C499%2C6048%2C3024&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/whether-youre-an-introvert-or-extravert-may-decide-how-you-should-use-ai-290210",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-02T11:12:43Z"
+  },
+  {
+   "id": "bbc-world-1f00l67",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Gloria Steinem, feminist writer and editor, dies at 92",
+   "body": "Gloria Steinem died at home in New York on Wednesday, aged 92. Much of what she pushed for now sounds ordinary — a magazine about women that is not about housekeeping, women's working conditions treated as news — and that ordinariness is the measure of how far she moved things. Asked why she married in 2000 after refusing for decades, she said she had not changed; marriage had.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Gloria Steinem died at her home in New York City on Wednesday, aged 92. One move repeats across her life: take what people treat as personal and make it public argument.\n\nBorn 25 March 1934 in Toledo, Ohio, she did not attend school full-time until she was 12. A scholarship took her to India in the late 1950s, where she helped village women organise non-violent protests — the start of her interest in grassroots activism, change built from the bottom up. Her break as a New York freelance writer was an exposé of Playboy Bunny working conditions, which turned women's working lives into news. In 1972 she founded Ms. magazine, one of the first publications to cover women beyond housekeeping and beauty. In 1973 she celebrated Roe v Wade, which made abortion a constitutional right; she had obtained an illegal abortion in London at 22, and lived to see it reversed.\n\nIn 2000, after years of refusing marriage, she married David Bale. Asked why she had changed her mind, she said: \"I didn't change. Marriage changed.\""
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Died aged 92; born 25 March 1934 in Toledo, Ohio",
+      "More than 50 years ago: co-founded the Women's Action Alliance, a group set up to fight sexism",
+      "1972: founded Ms. magazine. 1973: Roe v Wade, reversed nearly half a century later",
+      "2013: given the Presidential Medal of Freedom, the highest US civilian honour, by Barack Obama"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Most of what she argued for now reads as unremarkable: equal pay, women's work as a news subject, a marriage of equals. That is what a won argument looks like — it stops sounding like an argument. Hillary Clinton called her one of the \"architects of the entire structure\" of women's equality. The reversal of Roe is the reminder that a structure can also be taken down."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Her foundation says her home will keep working as a centre for social justice movements, including the Talking Circles she hosted in her last years. A book, An Unexpected Life, is still to come."
+    }
+   ],
+   "recall": {
+    "q": "Steinem avoided marriage for most of her life, then married in 2000. What did she say when asked why she changed her mind, and what does that answer show about how she worked?",
+    "a": "She said: \"I didn't change. Marriage changed.\" It is her method in one line — she did not bend herself to fit an institution, she argued in public until the institution itself was different."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c8/live/cf91da40-a784-11f1-b2d5-535b3b3d379f.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Thu, 03 Sep 2026 18:04:34 GMT"
+  },
+  {
+   "id": "iai-1vw4w8i",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Is the brain too warm for quantum consciousness?",
+   "body": "Since the 1990s, most scientists have treated Roger Penrose's idea — that consciousness needs quantum physics — as a joke. The joke rests on one real argument: the brain is warm, and warmth destroys quantum states. Neuroscientist Mike Wiest says that argument was never settled, and that stable quantum states are now showing up at temperatures nobody expected. That reopens a question. It does not answer one.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "To build a quantum computer, you first make it cold. Not cool — far below zero. Heat is atoms shaking against each other, and that shaking wrecks the delicate coordination the machine runs on. Your brain is warm and wet. For thirty years, that one fact has been enough.\n\nMike Wiest, a neuroscientist, thinks the mockery has run ahead of the evidence. Start with what the claim actually says, because it usually gets told wrong. Roger Penrose, the Nobel-winning physicist who proposed it in the 1990s, does not say neurons are quantum computers instead of ordinary ones. He agrees that neurons compute.\n\nHis argument is narrower. Conscious understanding — the part where you grasp something, not just process it — cannot come from computation alone. Computation means following steps. If some of what a mind does cannot be captured by any set of steps, it needs physics that is not step-following. Quantum mechanics is where he goes looking.\n\nThe second solid point: quantum physics is already running inside your head, and nobody disputes it. Every atom in every material follows quantum rules, brains included. The argument is about scale. Above the level of single atoms, those effects behave like tiny random flickers that average out, and the ordinary non-quantum description works fine.\n\nSo the real question is not whether the brain is quantum. It is whether the brain can coordinate quantum behaviour across huge numbers of atoms at once. Randomness is cheap. Coordination is the expensive thing, and it is what any useful quantum process needs. Penrose's theory has always known this. It needs biological structures that \"orchestrate\" — organise — the activity of molecules, so the non-computable part does real work for the body instead of just adding noise.\n\nThat is where warmth does its damage. And it is here, Wiest says, that the ground has moved. Stable quantum states are now being seen at temperatures far higher than physicists thought possible. He offers no single decisive experiment. He points to evidence collecting from several directions, and says the temperature objection was \"never conclusive\" to begin with. Notice exactly what that buys. It removes a wall everyone assumed was solid. It does not show that anything in a real brain holds its coordination for as long as a thought takes.\n\nThe old complaint is that quantum consciousness shoves two mysteries together and calls them both solved. Wiest answers that there is a specific reason to look here: consciousness, he says, has features that make quantum mechanics the natural place to search. So the pairing is a reasoned guess, not a shrug. That is an argument for reopening the file. It is not an argument that Penrose was right, and Wiest does not claim it is."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The skeptics are not being snobs. In a warm, wet brain, quantum states collapse into ordinary ones far faster than neurons fire. If the coordination is gone before a single signal passes between two cells, it cannot be carrying your thoughts. And since atom-level quantum effects average out at larger scales, ordinary physics already describes the brain well enough. You would need a reason to add strange new machinery, not merely permission to."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Known: Penrose says conscious understanding cannot be reduced to computation, so the mind needs physics that is not step-by-step. He never denied that neurons compute.",
+      "Known: quantum rules govern the atoms in your brain, as in all matter. Nobody argues about that. At larger scales the effects look like random flicker.",
+      "Unknown: whether living structures can coordinate quantum activity across enough atoms, for long enough, to be useful to a body.",
+      "Contested: the warmth objection. Most scientists treat it as settled; Wiest says quantum states holding at surprisingly high temperatures reopen it.",
+      "How it gets settled: not by argument, but by measuring that coordination in warm living structures, on the timescale at which neurons fire."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "An objection everyone repeats can still be an assumption nobody tested."
+    }
+   ],
+   "recall": {
+    "q": "The warmth objection is the strongest case against quantum consciousness. What does the new high-temperature evidence do to it, and what does it leave untouched?",
+    "a": "It removes a wall everyone assumed was solid: warmth alone no longer rules quantum coordination out, since stable quantum states are now seen at far higher temperatures than expected. It does not show that any structure in a real brain holds that coordination across enough atoms, for as long as a thought takes. That part is still unmeasured."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/penroses-theory-of-consciousness.webp",
+   "deepLink": "https://iai.tv/articles/penroses-theory-of-consciousness-supported-by-new-quantum-evidence-auid-3667",
+   "attribution": "IAI News",
+   "publishedAt": "Tue, 01 Sep 2026 11:05:27 +0000"
+  },
+  {
+   "id": "conv-psych-70slad",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "A Cree teaching meets western therapy: carry your heart",
+   "body": "Louis Busch says we are trained from Day One to treat happiness as the point of being alive. So when we hurt, we decide the fault is inside us. His book asks for the opposite move: notice the wish to escape, then hold the hard thing gently and keep walking. He also refuses to let the book stand for Indigenous wisdom in general — Canada alone has more than 600 nations.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Grief arrives. Or a worry that will not close, or a memory you would rather not have. The trained next move is relief — a distraction, an affirmation, medication. Louis Busch's new book is about the second before that reach.\n\nBusch is a behavioural scientist and psychotherapist, and a Bear Clan member of Nisichawayasihk Cree Nation. Carry Your Heart sets teachings from Knowledge Keepers across Turtle Island — North America — beside western psychology. Knowledge Keepers are the Elders who hold a nation's teachings and pass them on. The title comes from a phrase a relative gave him: kita-pimōtātamān kitēb, loosely, \"walking while carrying your heart.\"\n\nThe obvious objection comes first. Isn't this avoidance with better manners? If you sit with pain instead of treating it, you are choosing to keep it.\n\nThe sitting is not passive, and it is not the whole move. To carry your heart is to notice the wish to flee, pause, look at the hard thing, hold it gently, make a little space for it — then keep walking. That first flinch is normal, Busch says. What he wants examined is the automatic reach for relief, not the person reaching.\n\nThe real target is a belief we learn early. From Day One, he says, we are trained that the chase for happiness is the point of being alive. So if you are not happy, something inside you must be broken. Asking someone to do the opposite turns healing upside down. That is where he found overlap with acceptance and commitment therapy, the western method he trained in. Its name is its instruction: accept, then act.\n\nPush harder. If this is wisdom that works, whose wisdom is it, and how far does it reach?\n\nBusch answers by shrinking the claim instead of defending it. The book is not Indigenous wisdom for Canada or North America, he says. It is the wisdom of these particular Knowledge Keepers, in their own Nations and contexts, in talk with him. Canada has more than 600 nations and more than 80 language families — different experiences, languages, spiritual life, customs. He wants readers to close the book knowing how limited it is.\n\nThe book's shape came from the same instinct. He set out to write a clinical manual on working with First Nations Peoples in a culturally safe way, and lost his own interest by chapter two. A friend who read the draft said she was hooked, then hit that chapter and asked: \"Where did you go?\" He rebuilt it as a road trip: visit an Elder, then stop and sit with what they shared.\n\nThen the hardest question, and the interviewer does not soften it. Indigenous knowledge has a long history of being taken and repackaged by non-Indigenous institutions for profit. Why hand it to a mainstream publisher at all?\n\nBusch does not argue the discomfort away; it sat with him through the writing. Some knowledge stays off the page — sacred knowledge, a ceremony described in detail, stories meant for certain people at certain times. If a reader wants those, his instruction is to take some tobacco, find a Knowledge Keeper, and ask respectfully. The author royalties go to two community foundations, Thunderbird Partnership and Legacy of Hope. Books sell; that money goes back to community, and the Elders were content with that.\n\nWhat stays open is the part money cannot settle. He wrote it first for Indigenous Peoples, but all our relations means everybody — we are all relatives, so it is offered to anyone who is struggling. The condition he attaches is one sentence long: treat it as respectfully as you would treat your own grandmother's teachings. Nothing inside a book can make a stranger do that."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "The reach. Something hard shows up and you go looking for relief — the phone, the affirmation, the pill. Busch's first ask is only that you notice the reach, not that you stop it.",
+      "The pause. Look straight at the worry or the unwanted memory, instead of looking past it for something better.",
+      "The gentle hold. Make a little space for it and walk on. Carrying, not fixing."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The urge to run from the feeling is normal. The teaching only asks that you see it before you obey it."
+    }
+   ],
+   "recall": {
+    "q": "What does carrying your heart ask you to do when a hard feeling arrives, and which common belief is it pushing against?",
+    "a": "Instead of reaching straight for relief — a distraction, an affirmation, medication — you pause, look at the hard thing, hold it gently and make space for it while you keep walking. It pushes against the belief we are trained in from Day One: that happiness is the point of being alive, so pain must mean something inside you is broken."
+   },
+   "imageUrl": "https://images.theconversation.com/files/757107/original/file-20260901-50-a6o5qb.jpg?ixlib=rb-4.1.1&amp;rect=0%2C480%2C5760%2C2880&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/integrating-cree-worldview-with-western-psychology-qanda-with-a-psychotherapist-290881",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-01T20:20:50Z"
+  },
+  {
+   "id": "marginalian-ou7v1d",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "news",
+   "title": "Calvino: reading and love both escape the clock",
+   "body": "In If on a winter's night a traveler (1979), Italo Calvino says reading and lovemaking are alike: inside both, time and space stop being the kind you can measure. The novel follows a reader trying to read a book.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "His strongest move is the difference he finds inside the likeness. A page is read in a line. Lovers reading each other's bodies are not: that reading starts anywhere, skips, repeats, goes backward, gets lost. And at the moment two people seem most joined, he says, \"grammatically it doesn't change a thing\" — they are still two, more separate than before.\n\nHe overreaches when the image turns into a list: the body read by touch, sight, smell, taste and hearing, scanned like an index for small faults of style. Then he admits no model could show any of it, and the care cancels itself."
+    },
+    {
+     "label": "The verdict",
+     "style": "note",
+     "text": "Most praise of reading defends it — as empathy, as healing, as freedom. Calvino defends nothing. He just describes it from the inside. Read him if books already run your inner life and you want the feeling named. Skip him if you want a claim you can test."
+    }
+   ],
+   "recall": {
+    "q": "Calvino says reading and lovemaking are alike. What difference does he insist on inside that likeness?",
+    "a": "A written page is read in a line, start to finish. Reading a lover's body is not: it starts anywhere, skips, repeats, goes backward and gets lost."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/02/calvino_ifonawintersnightatraveler.jpg?fit=320%2C484&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/03/calvino-if-on-a-winters-night-a-traveler-love/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Thu, 03 Sep 2026 04:20:35 +0000"
+  },
+  {
+   "id": "daily-phil-1z06q93",
+   "source": "daily-phil",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Assisted dying, and Wittgenstein's fool-and-heretic test",
+   "body": "Wittgenstein saw that when two principles truly clash, each side calls the other a fool and a heretic. Peter Cave holds that line against Britain's assisted dying debate. It fits — but only the people at the far ends. The insult is not bad manners. It is a sign that the evidence has run out.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two more years in a geriatric home — a place for the very old — in Weston-super-Mare. The novelist Kingsley Amis used that room as a measuring stick: no pleasure now, he said, is worth giving up to buy those two years later.\n\nBritain is arguing about that room again. A proposed law would allow assisted dying — helping a person who asks for it to end their own life. The debate has run hot: outrage, and tears. It returns in autumn 2026, and the philosopher Kathleen Stock has a new paper against the law, Do Not Go Gentle. Writing about it, Cave first names what opposing the law commits you to. It says the extra years have value even in that home. Even for a body in steep decline, or a mind in despair. Even when the person is asking for help to die.\n\nThen Cave reaches for a line from Wittgenstein's On Certainty: where two principles meet that cannot be reconciled, \"each man declares the other a fool and a heretic.\" That is not a complaint about rudeness. It is a diagnosis. The names are a sign that the argument has hit its floor — the place where nothing more is shared, so nothing more can be shown.\n\nCave's care shows in how he splits the opposing side. Some believe the extra years are good for the person living them; the value is direct. Others admit those years are bad for that person, and say the harm is worth what everyone else gains by keeping assisted dying illegal. Both count as opposition. Only one is arguing for the patient's sake.\n\nThe pattern is not only about dying. Cave sees it inside religions, between believers and non-believers, and in the long argument over how to build a society — free markets or communism. No meeting of minds, no ending both sides could accept. The question is not hard the way a hard sum is hard. The two sides start from different places, and those places never touch.\n\nCave's most careful move is a limit on all this. The pattern fits only the most determined people at each end. Many others hesitate, on both sides, because they see no clean way to weigh the pros against the cons and let one side plainly win. That hesitation is not softness. It is an honest report of where the question stands.\n\nThe two insults are not one insult either. Fool is the lighter word, and can even be friendly. It says you have not followed your own position to where it leads — a charge you could answer. Heretic is a different kind of word. A heretic does not reason badly. A heretic stands outside the faith, so their reasons do not count at all.\n\nCave opens with Seneca: whoever does not know how to die well will live badly. So go back to the room. Two people can stand at the same bed, agree on every fact in it — the decline, the pain, the request — and still be nowhere near each other. What divides them is not information. It is what they think those two years are worth, and to whom."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "Maybe the deadlock is smaller than it looks. Cave's own limit says most people are not at either end; they feel the pull of both sides at once. If that is right, the fool-and-heretic pattern describes the loudest voices, not the debate itself. A question can be hard — slow, painful, still open — without being closed."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "When an argument stops asking for evidence and starts handing out names, it has hit its floor."
+    }
+   ],
+   "recall": {
+    "q": "Wittgenstein says people in a deep disagreement call each other fools and heretics. Why does Cave treat that as useful information rather than just bad manners?",
+    "a": "Because the names mark where shared ground ends. When two principles cannot be reconciled, no fact or argument that both sides accept can settle it, so they turn on the person instead. The insult tells you the split is about starting values, not missing evidence."
+   },
+   "imageUrl": "https://daily-philosophy.com/cave-stock-do-not-go-gentle/featured-1200px.jpg",
+   "deepLink": "https://daily-philosophy.com/cave-stock-do-not-go-gentle/",
+   "attribution": "Daily Philosophy",
+   "publishedAt": "Thu, 20 Aug 2026 21:25:45 +0800"
+  },
+  {
+   "id": "marginal-rev-1tfla4s",
+   "source": "marginal-rev",
+   "topic": "econ",
+   "kind": "news",
+   "title": "AI's worst case for workers costs 5.3% of GDP to fix",
+   "body": "Worker pay is two numbers multiplied: the size of the economy, and labor's share of it. A new paper argues that only the product matters. If AI grows the pie fast enough, labor's slice can shrink hard and workers still end up no poorer.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The usual fear: AI lifts output, labor's share of income collapses, and workers get poorer while GDP per person climbs. A paper at Marginal Revolution does the arithmetic and says this is probably wrong.\n\nStart with a world without AI. The economy grows 2 percent per person a year, and workers take 60 percent of it. If AI lifts growth to 5 percent, GDP after ten years is about 34 percent larger than it would have been. Labor's share can then fall from 60 to 45 percent and workers, as a group, keep exactly the same buying power. At 10 percent growth — the figure Satya Nadella and Dario Amodei use — the economy more than doubles against the no-AI path, and the share can fall to 28 percent with nothing lost."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "2.1% growth, labor's share 56.6% — the econ-pessimist case, following Acemoglu; transfer needed: 2.7% of GDP",
+      "4.1% growth, labor's share 51.4% — the econ-optimist case, where AI also creates new human tasks; transfer needed: none",
+      "10% growth, labor's share 22.9% — the techno-optimist case, three-quarters of labor income displaced; transfer needed: 5.3% of GDP",
+      "About 6% of GDP — what federal payroll taxes alone already raise, more than the largest transfer above"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Labor's share on its own tells you little about who AI hurts. You need the growth rate too. Ordinary growth plus a collapsing share is the genuinely hard case; very fast growth makes the fix small even with huge job loss. And a transfer worth 5 percent of GDP need not mean 5 percent more tax. Labor is already taxed heavily, so cutting payroll taxes and replacing them with a broad consumption tax — a tax on spending, which also reaches capital income and wealth — is itself a way of paying workers back."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Workers staying whole as a group is not the same as every worker doing well. The author grants there could still be enormous churn, heavy losses in particular jobs, and painful transitions. A flat average hides the people underneath it."
+    }
+   ],
+   "recall": {
+    "q": "Labor's share of GDP falls from 60 percent to 28 percent. Why might workers, taken together, be no poorer?",
+    "a": "Because labor income is the share multiplied by the size of the economy. At 10 percent growth, GDP after ten years is more than twice what it would have been, and 28 percent of that much larger economy is about the same as 60 percent of the smaller one."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2026/09/ai_gdp_transfer_heatmap.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/how-much-redistribution-will-ai-require.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-much-redistribution-will-ai-require",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Thu, 03 Sep 2026 11:18:00 +0000"
+  },
+  {
+   "id": "finshots-vek0nl",
+   "source": "finshots",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Japan's 10-year bond yield hits 3%, its highest in decades",
+   "body": "Japan's government now pays about 3% to borrow for ten years — the most in decades, after thirty years of near-zero rates. Cheap yen funded investments all over the world. If Japan pays a real return at home, that money has a reason to stop travelling.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A bond yield is the return an investor wants for lending to a government. Japan's sat near zero for thirty years. After its 1990s property and stock bubble burst, prices stopped rising and often fell, so the Bank of Japan cut rates to zero, then below zero, bought trillions of yen of bonds, and even capped long-term yields.\n\nThat era is ending. Inflation has held above the Bank's target, wages are rising at last, and lenders want more to hold Japanese debt. Yields are climbing across rich countries too. Governments borrowed heavily for the pandemic, defence and infrastructure, and central banks stopped buying that debt — so private investors must soak up the extra supply, and they will not do it for tiny returns."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Japan's 10-year yield: about 3%, after sitting near zero for most of thirty years",
+      "India's 10-year yield: about 7%; the US, France and Germany at multi-year highs",
+      "The yen has weakened since about 2013, making imported energy and food dearer"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Near-zero rates at home built the yen carry trade: borrow yen almost free, buy higher-returning assets abroad, keep the gap. Rising Japanese yields weaken that logic. Nobody expects trillions to fly home overnight — investors still weigh growth, currency moves and risk — but the pull has changed direction."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "If safe government bonds in Japan, the US or Europe pay decently, investors may want a bigger reward before buying Indian shares and bonds. That can move foreign money flows, the rupee, and borrowing costs at home."
+    }
+   ],
+   "recall": {
+    "q": "Why can higher bond yields inside Japan matter for a market like India?",
+    "a": "Because cheap yen was borrowed and invested abroad — the carry trade. Once Japanese bonds pay a real return with almost no risk, that money has a reason to stay home, and riskier markets like India must offer more to keep it."
+   },
+   "imageUrl": "https://cdn.finshots.app/images/2026/09/Japan-Inflation.jpg",
+   "deepLink": "https://finshots.in/archive/japan-escaped-the-lost-decades/",
+   "attribution": "Finshots",
+   "publishedAt": "Thu, 03 Sep 2026 01:30:40 GMT"
+  },
+  {
+   "id": "psypost-1d1zhhb",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Under stress, warm to a peer, cold to whoever caused it",
+   "body": "Stress does not push social behavior one way. After a hard lab ordeal, 121 people trusted, repaid and shared more with a fellow participant — and spent more to punish the jury that had just judged them, in the same session. The size of their stress response did not predict the split. Who was on the other side did.",
+   "evidence": "single study · n=121 healthy young adults · lab stress test + real-money economic games · no non-stress control group",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The jury wears white coats and gives you nothing back. No nod, no smile, no word of encouragement. You had five minutes to prepare. Now you speak for twelve, then do sums in your head, out loud, for eight more, while they watch. This is the Trier Social Stress Test, the standard lab recipe for making a healthy volunteer feel truly bad. It worked: cortisol — the main stress hormone — rose in their saliva, heart rates climbed, and people said they felt stressed.\n\nPsychology has two old answers for what stress does to social behavior, and both have evidence behind them. Tend-and-befriend says a threatened person reaches out: seeks company, cooperates, builds a supply of help. Fight-or-flight says the opposite: pull back, guard what is yours, strike if needed. Laura Oswald and colleagues at the University of Freiburg thought the argument rested on a bad question. Maybe the answer depends on who is sitting across from you.\n\nSo the 121 participants played four short games with real money. The games measured four plain things: whether you trust someone with your money, whether you pay back a person who trusted you, whether you share, and whether you spend your own money to punish. Each person played twice — once against another participant who had not taken the stress test, and once against a member of the jury that had just judged them.\n\nThe same stressed person behaved like two people. Toward the peer: more trust, more paying back, more sharing. Toward the jury member: less of each, and more punishment. Every gap was statistically significant, meaning chance is an unlikely explanation. Men and women showed the same pattern.\n\nThe finding that matters most is a negative one. How much cortisol someone released, how fast their heart ran, how stressed they said they felt — none of it clearly predicted how differently they treated the two partners. The split did not follow the size of the stress response. It followed the role of the person on the other side. People, the authors write, \"adapt their behavior toward others depending on the social role of their interaction partner.\"\n\nWhy would a pressured body sort people this way? Being generous with a peer is an investment: help given now can come back later. Withholding from the evaluator does something else. It protects what you still have, and hands a little control back to someone who had just been allowed none. On this reading, tend-and-befriend and fight-or-flight were never rivals. They are two halves of one response."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "121 healthy young adults, 62 of them women, average age 23.6. The stressor was the group version of the Trier procedure: preparation, a twelve-minute speech and eight minutes of mental arithmetic before an unresponsive jury in white coats.\n\nThe game scores are counts of choices. Trusting choices: 2.52 toward a peer against 2.02 toward a jury member. Paying back: 3.06 against 2.40. Sharing: 2.83 against 2.27. Punishing: 0.54 toward a peer against 0.74 toward a jury member."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Everyone went through the stress test, so there was no calm comparison group. The study cannot say which direction the movement went: whether stress raised cooperation with the peer, lowered it with the jury member, or did both.\n\nThe order was fixed too — peers first, jury members second. So order alone could shape the result, and people may have simply judged the second partner against the first. The authors ask for a non-stressed control group, friendlier evaluators, and interactions more natural than money games."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Pressure does not make you kind or hard. It makes you both, and then looks at who is standing in front of you."
+    }
+   ],
+   "recall": {
+    "q": "Everyone's cortisol and heart rate rose. So why do the authors say the size of a person's stress response was not the key variable?",
+    "a": "Because it predicted nothing that mattered. How strongly someone reacted had no clear link to how differently they treated the two partners. The gaps in trust, sharing and punishment tracked the partner's role — peer or evaluator — not the size of the stress response."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/worried-stressed-woman.jpg",
+   "deepLink": "https://www.psypost.org/a-new-study-explains-why-stress-makes-us-both-cooperative-and-defensive/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 03 Sep 2026 18:00:03 +0000"
+  },
+  {
+   "id": "psypost-wyx649",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "After harsh parenting, sadness — not anger — fed aggression",
+   "body": "Harsh discipline at age twelve predicted both depression and aggression three years later in Chinese teenagers. In between sat a habit of brooding. The surprise is which kind: when sad and angry thinking were tested together, sadness predicted the aggression too, and the anger link vanished. The authors think long sadness leaves a teenager too worn down to stop an impulse.",
+   "evidence": "single study · n=878 · 3 yearly waves · self-report",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Beating shows love. Scolding shows care. In traditional Chinese family ethics, sayings like these make strict discipline sound like duty — the hard part of a parent's job, done out of love.\n\nYanli Hou and Caina Li, psychologists at Shaanxi Normal University, wanted to know whether that approval softens the harm. Most work on harsh parenting comes from the West, from one-time surveys. They followed 878 junior high students in China for three years instead.\n\nIn the middle year they watched rumination: the habit of turning a bad feeling over and over, asking why it happened instead of what to do next. It comes in two kinds. Sadness rumination circles loss, helplessness and worthlessness, and sadness pulls a person to withdraw. Anger rumination circles unfairness and the wish to get even, and anger pushes a person to act.\n\nThat sets up two neat lanes, and the first analysis found them. Harsh discipline at twelve predicted more of both kinds of rumination a year later. Sadness rumination then predicted depression in year three. Anger rumination predicted aggression — both the reactive kind, lashing out when threatened, and the proactive kind, planned and aimed at hurting or controlling someone.\n\nSplitting boys and girls was meant to sharpen this. Boys are raised to be tough, so: anger, then aggression. Girls are raised to be sensitive and relationship-minded, so: sadness, then depression. The data ran the other way. Sadness to depression was a strong path for boys; anger to aggression was strongest for girls.\n\nThen the team ran everything at once — both kinds of rumination, both outcomes — because a real teenager feels sad and angry in the same hour. The neat lanes collapsed. Sadness rumination now predicted depression and aggression. The anger-to-aggression link disappeared once the heavy overlap between sad and angry thinking was accounted for.\n\nHou and Li had asked whether calling it love changes what it does. Across three years, the name did not seem to help.\n\nTheir reading of the collapse: dwelling on sadness eats a person's mental resources. A teenager worn down by months of it has less left to catch an impulse before it moves. So they hit out — not because anger is hiding underneath, but because they are exhausted."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "878 junior high students, first surveyed at about age twelve, measured once a year for three years. Year one: how often parents used psychological aggression, mild physical punishment like pinching, and physical abuse like kicking. Year two: how much the student ruminated in sadness and in anger. Year three: depressive symptoms, plus reactive and proactive aggression. Every measure came from the students themselves."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, and all of it is self-report — it rests on twelve-year-olds recalling their parents' behaviour and reading their own feelings correctly. The students all attended private schools in a single area; rural China, or another culture, could look different. And rumination was never measured in year one, so we cannot say harsh parenting started the brooding. The order in time is suggestive, not proof."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The child who withdraws and the child who hits may be running the same loop."
+    }
+   ],
+   "recall": {
+    "q": "When both kinds of brooding were tested together, which one predicted aggression — and what happened to the anger link?",
+    "a": "Sadness rumination predicted aggression as well as depression. The anger-to-aggression link disappeared once the overlap between sad and angry thinking was accounted for. The authors think long sadness drains the mental resources a teenager needs to hold an impulse back."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/harsh-parenting.jpg",
+   "deepLink": "https://www.psypost.org/harsh-parenting-predicts-teenage-depression-and-aggression-through-different-typ/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 03 Sep 2026 16:00:01 +0000"
+  },
+  {
+   "id": "neuro-news-1doi867",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Aging wears down problem-solving, not language",
+   "body": "In the same older brains, the problem-solving network was weaker on every single measure. The language network looked just like a young adult's. Not a smaller difference. No measurable difference at all.",
+   "evidence": "single study · brain imaging · ages 17–39 vs 41–80 · sample size not reported",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A grid of squares blinks on a screen. You have to hold in mind where each one sat. That is the first task. The second is easier: lie still, listen to a story, then read some sentences. Researchers at MIT and Boston University put people through both while scanning their brains. The pairing was the point. Each task pulls a different brain system into view.\n\nThe grid task calls on the multiple demand network: areas across the front and upper back of the brain that handle flexible problem solving and executive control. Executive control is the mind's general manager — holding things in mind, switching, planning. The story task calls on the language network, the areas that handle words and sentences.\n\nAge treated the two very differently. In the grid task, less of the older adults' multiple demand network switched on. What did switch on fired less strongly. And its areas were less in step with each other. The executive system, as lead author Anne Billot puts it, declined across almost all of the measures.\n\nThen the language task, and nothing. Not a smaller effect: \"we couldn't find any differences between older and younger groups\", Billot says. Same areas, same spread, same strength. The team also checked something finer: what a brain does when the language hits a bump — odd grammar, or a word you do not know. In young adults, activity in the language areas climbs at exactly those points. In the older adults it climbed the same way. Whatever they do with a hard sentence, they do it the way they always did.\n\nThe researchers explain the split by what each network is for. The multiple demand network is general purpose, a flexible resource lent out to whatever problem turns up, and general resources wear. The language network is a specialist. Its job is not flexibility but collecting: it holds what you picked up from every sentence you have ever heard. Vocabulary, Evelina Fedorenko notes, keeps rising for as long as anyone has measured it. Older people sometimes read more, so they get an extra boost. Her comparison is a language model trained on more and more data.\n\nThat flips the usual shape of an aging story. The system that fades is the one built to handle anything. The system that holds is the one that has only ever done a single job — and that job gets better the more it is fed."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "Two groups: one aged 17 to 39, one aged 41 to 80. Everyone did both kinds of task.\n\nThe problem-solving probe was spatial memory — remember where squares sat in a grid. The language probe was listening to stories and reading sentences, some with odd grammar or unfamiliar words.\n\nIn each network the team measured three separate things: how much of it switched on, how strongly it fired, and how well its areas stayed in step with each other. The executive network dropped on all three. The language network dropped on none."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The \"older\" group starts at 41, so it mixes middle age with genuine old age. A study that split the 70s and 80s from the 40s might not look this clean.\n\nIt also compares two different sets of people at one moment, not the same people followed as they aged. And the finding is about brains free of stroke and dementia — exactly the conditions that take language away.\n\nNeither the report nor the summary gives the number of participants, so how firm any of this is cannot be judged from here."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The all-purpose parts of the mind wear down. The one-job part just keeps collecting."
+    }
+   ],
+   "recall": {
+    "q": "In the same older brains, executive function declined and language did not. What difference between the two networks do the researchers use to explain that split?",
+    "a": "The multiple demand network is general purpose — a flexible resource borrowed for whatever problem shows up — and general resources wear. The language network is a specialist that only collects what you have heard, so more years mean more input, not more wear. Vocabulary keeps rising for as long as anyone has measured it."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/08/aging-brain-maintains-connections-31208-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/aging-brains-robust-language-networks-31208/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Mon, 24 Aug 2026 12:15:48 +0000"
+  },
+  {
+   "id": "et-economy-us6gb9",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's ex-chief statistician wants two GDP series",
+   "body": "India has moved its GDP to a new base year — the reference year all other years are measured against. Pronab Sen, the former chief statistician, wants the old series kept running beside the new one for five years. Doubts have already surfaced about the new growth numbers.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Sen's objection is about prices. To see real output, you strip price changes out — that is deflating. Double deflation does it twice: once on what a producer sells, once on what it buys, each with its own price data. India may not have enough of either. Thin data, weak correction.\n\nWith only one series, a change in the growth number and a change in the method look the same. Run both and you get the same years measured two ways, so the gap is visible instead of guessed."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Five years — how long Sen wants both series published side by side",
+      "December 2026 — when the National Statistical Office is expected to release the back series, the older years recomputed on the new base"
+     ]
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Whether the back series lands on time, and whether the old base is retired at the switch or kept running. Sen no longer holds the office — this is a call, not a decision."
+    }
+   ],
+   "recall": {
+    "q": "Why does Sen want the old GDP series to keep running beside the new one?",
+    "a": "So the same years appear measured both ways. If the growth number moves, you can tell whether the economy moved or only the method did. With one series, there is nothing to check the new figures against."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-133744951,imgsize-44386.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/indicators/former-chief-statistician-pronab-sen-seeks-two-gdp-series-with-old-new-bases-for-five-years/articleshow/133744951.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Fri, 04 Sep 2026 00:29:05 +0530"
+  },
+  {
+   "id": "marginalian-ys3lei",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Szymborska: inspiration is a continuous 'I don't know'",
+   "body": "Asked what inspiration is, the Polish poet Wisława Szymborska said it belongs to doctors, teachers and gardeners as much as to poets. It comes to anyone whose solved problems keep making new questions. Her Nobel speech then names the opposite: the dictator, who knows.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Ask a poet where inspiration comes from and you usually get a shrug. Szymborska thought the shrug was honest — it is hard to explain a thing you do not understand yourself. In her 1996 Nobel lecture she tried anyway. The answer fits in three sentences.\n\nThe passage:\n\n\"Difficulties and setbacks never quell their curiosity. A swarm of new questions emerges from every problem they solve. Whatever inspiration is, it's born from a continuous 'I don't know.'\"\n\nFirst, who \"they\" are. A few lines earlier she says inspiration is not the private property of poets and artists. It comes to anyone who chose their work on purpose and does it with love and imagination — doctors, teachers, gardeners; she says she could name a hundred more jobs. So this is a picture of a working life, not a poem about poetry.\n\nNow the first sentence. Most of us read a setback as news: maybe I was wrong, maybe I should stop. She puts it somewhere else. Setbacks arrive, and curiosity is simply not the part they touch. Curiosity here is not paid for by success.\n\nThe second sentence is the engine, and it is strange if you look straight at it. Solving a problem should leave you with fewer questions. Here it leaves you with more — a swarm. The work never gets closer to finished; each solved piece grows a new edge. That is why she calls such work one continuous adventure. The adventure is not the answers. It is the fresh supply of questions.\n\nThen the definition, and notice what it refuses. Inspiration is not a visit, a mood, a gift, a bolt of lightning. It is born from something else. And the word continuous carries the weight: not one honest admission of not knowing, but one you make again every day. The phrase is small, she says, but it flies on mighty wings.\n\nThen she turns cold. Torturers, dictators, fanatics, demagogues — leaders who win crowds with a few shouted slogans — also enjoy their work, she says, and do it with energy and invention. One word divides them from the rest: they know. What they know is enough for them for good, and they want nothing more, since more might weaken their arguments. Knowledge that stops making new questions dies out, she writes. It cannot hold the heat that life needs.\n\nHer two proofs are small and everyday. Without the phrase, Newton picks the fallen apples up off the ground and eats them with pleasure. Without it, Marie Skłodowska-Curie spends her life teaching chemistry at a private high school for girls from good families. Both lives are perfectly respectable. That is the point. Certainty does not ruin you. It makes your life smaller.\n\nSo the phrase is a tool for working without knowing. Wait to be sure before you start and you will only ever start things someone else has finished. Saying \"I don't know\" does not make the ground solid. It changes what a setback means — from a verdict into the next question."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "You fix a problem at work and two new ones open up behind it. By her measure that is the work going well, not the work going wrong.",
+      "After a setback, check whether it lowered your curiosity or only your mood. She thinks those two can be kept apart.",
+      "Listen for the person whose knowledge has stopped making questions — in a meeting, in an argument online, in yourself. That is her warning, at ordinary size."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "She once put certainty on the map as an island where everything becomes clear — and left it empty, every footprint on its beaches turning back toward the sea."
+    }
+   ],
+   "recall": {
+    "q": "Szymborska says her inspired workers and her dictators both love their jobs. What separates them?",
+    "a": "New questions. For the inspired, every problem solved throws up more, so the work stays open. Dictators know, and what they know is enough for them once and for all — they want nothing more, since more might weaken their slogans. Knowledge that stops making questions, she says, dies out."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/12/nobellectures.jpg?fit=320%2C481&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/03/wislawa-szymborska-nobel-speech/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Thu, 03 Sep 2026 04:24:44 +0000"
+  },
+  {
+   "id": "wotr-1iefg1s",
+   "source": "wotr",
+   "topic": "world",
+   "kind": "news",
+   "title": "AI players fired nukes only when the game set the goal",
+   "body": "Two Livermore analysts ran a nuclear border crisis with AI players on both sides. Twice the AI backed down — even after one side was handed extra nuclear weapons. Nukes flew only on the third run, when the game itself gave one side the goal of settling the dispute on its terms.",
+   "evidence": "3 game setups · a few runs each · AI-only play",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "At Lawrence Livermore National Laboratory, Dustin League and William Dawson handed a border crisis between two nuclear-armed states — Red and Blue — to large language models, the software behind chatbots. Round one ended without war, though the sides staged non-operational nuclear demonstrations: tests meant to signal, not to destroy. Round two gave Red extra tactical nuclear weapons, the small battlefield kind. Still no war, and this time no demonstrations. Round three changed the game, not the models: Red got one explicit goal — settle the dispute on its terms. Nukes flew.\n\nThat cuts against the field. Kenneth Payne found tactical nuclear use in 95 percent of his simulations. Where the push toward nuclear use comes from is contested. Payne places it inside the models. Ankit Panda and Andrew Reddie place it in the training text — thick with coercion and nuclear threats, thin on backing down. League and Dawson suspect the game's goal setting. Three setups with a few runs each cannot tell which is right, and their setup differed a second way too: players moved freely instead of picking from a menu.\n\nSo they propose a test: fix one model version and one scenario, run it a few hundred times, and change only those two things."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "3 game setups, a few runs each — the whole study",
+      "95 percent — tactical nuclear use in Payne's earlier simulations",
+      "2 things to separate: free moves vs. a menu, and self-chosen goals vs. assigned ones",
+      "A few hundred runs on one fixed model — the price of the first experiment"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "AI is moving into national security decisions. Escalation bias — a model's habit of reaching for stronger force — is the biggest finding this young field has produced. The open question, as the authors put it, is whether the escalation is \"coming from inside the house.\" If goal setting drives it, the earlier studies measured the wargame, not the model. That is a cheap question to answer and an expensive one to leave open."
+    }
+   ],
+   "recall": {
+    "q": "The AI players avoided nuclear weapons in rounds one and two, then used them in round three. What changed — and why can't the authors be sure that was the cause?",
+    "a": "The game gave Red one explicit goal: settle the dispute on its terms. But their setup also differed from earlier studies in a second way — players moved freely instead of picking from a menu — and with only a few runs they cannot tell which difference mattered."
+   },
+   "imageUrl": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-46551-56fe9f1b34e8.jpg",
+   "deepLink": "https://warontherocks.com/where-does-ai-escalation-come-from-we-dont-know-we-should-find-out/",
+   "attribution": "War on the Rocks",
+   "publishedAt": "Thu, 03 Sep 2026 07:30:30 +0000"
+  },
+  {
+   "id": "aeon-mostki",
+   "source": "aeon",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "A meltdown is not a character flaw — it's a stress test",
+   "body": "In 1857 Hans Christian Andersen lay face down on Charles Dickens's lawn, crying over a bad review. His host saw one man who felt too much. Two Australian researchers say the fault was never in Andersen. It was in the lawn — the line between private feeling and public surface. Since then we have changed the words of that rule, they argue, and nothing else.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Breakfast time, 1857, an English country house. Charles Dickens goes looking for his daughters and finds his houseguest instead. Hans Christian Andersen — the Dane who wrote The Little Mermaid — is lying face down on the lawn. A newspaper has printed a bad review of his book.\n\nDickens tries to comfort him. He knows what a cruel review feels like. Andersen begins to weep. Not briefly. Not in a way anyone can take in and move past. Dirt streaks his face and his shirt. He stays down. Dickens's daughter Katey stares. The scene just goes on.\n\nThe easy reading is the one Dickens reached for. A man who feels too much, in the wrong place. The fault sits inside Andersen; the fix is to smooth him out. Calm down. Recover fast. Keep it indoors. Dickens's own advice was an order to stop feeling: \"Never allow yourself to be upset by the papers.\" And it is a fair reading, because the disruption was real. That morning, Andersen was a genuine problem.\n\nBut it puts the problem in the wrong place. Siobhan Unwin and Kathryne Ford, two education researchers in Perth, point at the ground instead of the man. A breakdown in a bedroom can be contained. The lawn cannot. It belongs to the household and is built to be seen — a display of how well the family holds itself together. Andersen did not break a rule about crying. He broke the wall between private feeling and public surface. Dickens is not only an upset host. He is an enforcer.\n\nThat switch is neuroqueering. Not an identity to claim but a verb, a doing: refusing to treat one set of habits as the natural way a mind should work. Instead of asking why Andersen cannot control himself, it asks why Dickens's way of speaking, feeling and recovering gets to count as proper. Their name for what spills over is neuroqueer excess — a \"too muchness\" that will not stay inside the narrow room a society gives it. Camp has a shared code that others can read. This often cannot be read at all.\n\nThe rule did not protect the man enforcing it. The next year Dickens separated from his wife and printed a public denial of the affair rumours in The Times. His readers turned on him — troubled, one scholar suggests, less by the behaviour than by his dragging a private matter into public view.\n\nThe belief survives because we changed the words and kept the shape. We say boundaries now, not etiquette; self-care, not self-command. The demand underneath is the same. Feeling should be measured, easy to follow, aimed at a resolution. You may describe distress. You may not perform it. A meltdown is allowed once it has been tidied into a lesson. Anyone who cannot manage that still has to earn care by looking composed first.\n\nSo neuroqueering asks for something smaller and harder than approval. Wait before you interpret. Believe before you correct. Get down on the grass. Do not talk over him. Do not move him indoors. Do not ask him to be presentable first. Nothing resolves. Mud marks your clothes. You stay."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The authors make heroes of nobody. Excess, they write, is disruptive and exhausting, and it sometimes damages the person and everyone near them. Leigh Bowery — the Australian performance artist whose 1980s London act included a staged birth and bodily fluids — really was intolerable to the institutions that shut him down, and the essay does not pretend otherwise. Andersen, Bowery and Dickens are not moral models. They are stress tests. They show where a system stops being able to hold people, and which lives it drops when it fails."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Someone is told to lower their voice and calm down first, before anyone will answer the point they made.",
+      "You can hear about a friend's terrible week only after they have shaped it into a tidy story with a lesson — never while they are still inside it.",
+      "Help comes with conditions: be composed, be grateful, be easy to be around, and then we will care for you.",
+      "Next time someone's distress makes you want to move them indoors, notice that the urge is about the lawn, not about them."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The rule did not spare Andersen, and a year later it did not spare Dickens. Someone always ends up on the lawn."
+    }
+   ],
+   "recall": {
+    "q": "Unwin and Ford say the trouble with Andersen's meltdown was not that he felt too much. What was it?",
+    "a": "It was where the feeling landed. The lawn belonged to the house but was built to be seen, so collapsing there broke the wall between private feeling and public surface — which makes Dickens an enforcer of a rule, not just an unlucky host."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/5644fcf3-600d-4249-8909-475112d8fd6f/essay-v2-.jpg?width=1200&quality=75&format=auto",
+   "deepLink": "https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance",
+   "attribution": "Aeon",
+   "publishedAt": "Thu, 03 Sep 2026 10:00:00 GMT"
+  }
+ ]
+}
