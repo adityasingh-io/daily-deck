@@ -1,0 +1,969 @@
+{
+ "date": "2026-09-07",
+ "generatedAt": "2026-09-06T22:38:21.000Z",
+ "cards": [
+  {
+   "id": "letter-2026-09-07",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "The price of a shortcut",
+   "body": "Today's pieces circle one idea: shortcuts get paid for later. A warm chatbot lifts your mood, and quietly thins your wish to see real people. A tax cut was promised to trickle down; forty-five years of data say the money went up instead. Don't miss Paul Bloom on the professor who gives AI a 99 percent chance of ending us — and still saves for retirement.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "small-potatoes-q3h8xe",
+   "source": "small-potatoes",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "He gives AI a 99% chance of killing us. He still saves.",
+   "body": "A computer science professor told a festival crowd there was a 99 percent chance AI would end humanity in about ten years. Then Paul Bloom asked if he still saves for his children's education. The professor ducked. Bloom's claim: doomers — people who forecast the end — are not lying. They cannot fully believe their own argument, because almost nobody around them does. And that tells you nothing about whether they are right.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Dinner at the rabbi's house in Canada. His wife was reading The Shining. Paul Bloom, a teenager then, remembers being surprised. The rabbi was in his early twenties, clever and funny, with a Melbourne accent. He also believed that a rabbi in Crown Heights, Brooklyn, was the Messiah, and that the world would end soon. His wife believed it too. So why Stephen King?\n\nBloom was too shy to ask the real question. If the world is ending, what kind of mortgage do you take? Are you putting money away for your children?\n\nYears later, older and less polite, he asked it. At a festival panel on AI, a computer science professor said there was a 99 percent chance AI would wipe out humanity in about ten years. He was funny about it. He got laughs explaining how an AI might use bitcoin to bribe people online into building a supervirus that kills us all. Afterwards Bloom asked him: do you save for your children's education? Do you put money aside for retirement? The professor ducked.\n\nNone of Bloom's business, fair enough. But the question stands.\n\nThe easy answer is that belief and action come apart all the time. Bloom's phone breaks. Waiting at the Apple Store, he reaches for the broken phone to check his email. He has not stopped believing it is broken. He forgot. Fears work this way too: you can believe flying is safe and still not board. So do strong feelings. You can believe someone's lateness was not their fault and still snap at them.\n\nBut none of those fit. Forgetting lasts a second. Fear and anger pull against a belief you still hold and can say out loud. A retirement account is not a reflex. It is a slow, calm decision, made again every month. And we know what real belief in an early death looks like. People who get a terminal diagnosis — a doctor's word that this illness will kill them — change their lives in ways that make sense. Bloom says that if an illness would almost certainly kill him by 2035, he would stop saving and live a little richer now. Why is a machine that kills him by 2035 different?\n\nThere is the laughter, too. The two men were joking while discussing the professor's estimate that his children would never grow up. The rabbi's cheer made sense: he expected an end that was glorious. What is funny about everyone dying?\n\nSo: are doomers lying, or saying wild things for attention? Bloom thinks not. His answer is social. We follow the crowd on what to believe. We do not stray far from what the people around us accept, at least not when the stakes are high. Doomers predict doom because they find the arguments excellent. But almost nobody else accepts those arguments, so part of the doomer's mind keeps saying: this can't be right, it's crazy. And the money keeps going into the college fund.\n\nSome people do act. People who left the country when Trump was elected. People who refuse to have children because of climate change. Bloom's hunch is that they care less about what everyone else thinks and trust their own judgment more. A wonderful trait if you really are closer to the truth than everyone else. A disaster if you are not.\n\nWhich leaves the question of what belief would even look like. Not confidence on stage. Not the size of the number. Something closer to what that diagnosis produces: the stopped retirement account, the sold coastal house, a plan that only makes sense if the years really are running out. Until then, the honest reading is that the forecaster does not quite believe the forecast. Which leaves the forecast exactly where it was."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "A historian warns that professors will be sent to camps, has the money to leave, and stays at her university.",
+      "Someone says the oceans will rise and drown the coasts, then buys a house on the coast.",
+      "Next time you hear a confident prediction of disaster, look past the argument and ask what the speaker did with their savings.",
+      "Then run the test on your own loudest prediction. Bloom does not let himself off either."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Not believing something is not the same as being wrong about it. Some true things are very hard to believe."
+    }
+   ],
+   "recall": {
+    "q": "Bloom says the doomer who keeps saving is not lying. What is his explanation — and why does it not make the forecast wrong?",
+    "a": "Belief is social. We do not stray far from what the people around us accept, so part of the doomer's mind keeps refusing an argument they otherwise find excellent, and the money keeps going into the college fund. But being unable to believe something is different from being wrong about it. The forecast is left exactly where it was."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!jjcE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f6639da-b922-455c-95f8-c26de4a3c5ac_640x357.jpeg",
+   "deepLink": "https://smallpotatoes.paulbloom.net/p/do-doomers-believe-what-they-say-91c",
+   "attribution": "Small Potatoes (Paul Bloom)",
+   "publishedAt": "Sun, 06 Sep 2026 15:01:34 GMT"
+  },
+  {
+   "id": "marginalian-cws2nn",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Regret wants an undo. Remorse wants a redo.",
+   "body": "Regret and remorse arrive after the same mistake. But they point in opposite directions. Regret wishes the past had gone differently — a wish time cannot grant. Remorse wants to do something for the person you hurt, and the present can still answer that.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The words are already out. You hear them land on the person in front of you. Some part of you said them, a part you never quite chose, while the rest of you watched. Then comes the second moment: the wish for an undo button. There is none. What you do with that fact decides almost everything.\n\nHistorian Tiffany Watt Smith, in The Book of Human Emotions, separates two feelings we usually blur together. Regret is the wish that the past had gone differently. Remorse is the urge to do something about it now. One faces an event. The other faces a person.\n\nRegret was not always private. The word entered English in the 1400s, from the Old French regrés — sorrows, disappointments. It meant grief at losing a person, or losing your place in the world. And it was performed out loud. It even had a name, the making of regrets: a loud, holy business of wailing at a wake and weeping at a funeral.\n\nThen came the 1500s, the century historians link with the birth of the private inner self. Regret turned inward and hardened into self-blame — a quiet pain felt alone, looking back at what you did, or at what you failed to do. Parents and preachers saw how well this worked as a threat. Hell was far off. This hurt now.\n\nIn 1598 Francis Rous, a Calvinist member of parliament, warned that a bad deed would leave a man fretting, feeding his belly with woe. We inherited that inward, spinning regret. It is, Watt Smith writes, \"a kind of desire for something different to have happened\" — and time runs one way only. The wish can be huge and still change nothing.\n\nRegret is rumination: running the same scene again and again, usually because it clashes with the picture you hold of yourself. Which means the real subject of regret is you.\n\nRemorse arrives later, she says — after the first flare of anger calms, when the reality of what you did settles in your throat. It is not the quiet grinding of regret. It is urgent and frightened, and mixed with something like love, because you want to keep your bond with the person you hurt. Watt Smith defines it plainly as \"an urgent desire to do something\": to make amends, to help heal the one you harmed.\n\nThis is also what separates remorse from shame. Shame is horror at something you are. Remorse is about something you did — and a thing done can be answered.\n\nSo the two build different lives. Regret makes a person who feels the wrong deeply and repairs nothing. Remorse makes a phone call, a changed habit, a debt paid.\n\nRemorse has its own failure. Too much of it, Watt Smith warns, tips into acts out of proportion — big gestures that cause more grief, not less. That happens when the point slides quietly back to your own guilt. The reason to look hard at your mistake is not to feel better about yourself. It is to leave the other person less hurt than you left them."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "Regret is not useless. Its real value, Watt Smith says, is that it shows how divided every life is — the parts of us that do not agree with each other, and that we live with anyway. Regret tells you what you actually care about. It simply cannot reach back into last Tuesday and change it."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Regret entered English in the 1400s as loud public grief. It turned private and self-blaming only in the 1500s.",
+      "Regret spins because it aims at an event, and a finished event cannot answer.",
+      "Regret is about you and your self-image. Remorse is about the person you hurt.",
+      "Shame says: I am bad. Remorse says: I did that, and I can answer for it.",
+      "Too much remorse turns back into self-blame, and produces gestures too big for the wound."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The past cannot hear you. The person can."
+    }
+   ],
+   "recall": {
+    "q": "Both feelings come after the same mistake. Why can remorse repair something when regret cannot?",
+    "a": "Regret aims at the event. It wishes the past had gone differently, and the past does not take requests. Remorse aims at the person: it is an urgent desire to do something, so it turns into amends."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/08/bookofhumanemotions_smith.jpg?fit=320%2C488&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/05/regret-remorse/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sat, 05 Sep 2026 21:28:32 +0000"
+  },
+  {
+   "id": "book-notes-underground-8",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 8 · Two letters, one loathsome truth",
+   "body": "He has just talked a twenty-year-old into sobbing, and the sound of it terrifies him. Today: the letter she keeps as her only treasure, the letter he writes to save his own name, and the one image from that night he will never stop seeing.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The lump in his own throat is the giveaway — he has moved himself. Then he stops, bends over, listens with a beating heart, and hears what he has done. \"It was the exercise of my skill that carried me away; yet it was not merely sport....\" Both halves are true, and the second half is what panics him. He knew he was speaking \"stiffly, artificially, even bookishly,\" and he had calculated that the bookishness would help. It did. Liza is face-down, biting the pillow, biting her hand till it bleeds, holding her breath so no living soul will hear.\n\nHis response is not comfort. It is a cold shiver and fumbling in the dark for his clothes. He wants out. The candle he finds is the worst thing that could happen to him: light. She sits up \"with a contorted face, with a half insane smile.\" He takes her hands and begins, \"Liza, my dear, I was wrong ... forgive me\" — and she grips his fingers so hard that he feels he is saying the wrong thing and stops. What he says instead is the sentence that will cost him everything: \"This is my address, Liza, come to me.\"\n\nThen she does something he is not prepared for. At the door she stops him, runs off, and returns with a face he has not seen before — \"imploring, soft, and at the same time trustful, caressing, timid,\" the look \"with which children look at people they are very fond of.\" She hands him a paper without explanation, as though he, \"a sort of higher being,\" must understand. It is a love letter from a medical student who danced with her at a party, who knew her as a child in Riga, and who knows nothing about where she lives now. She is not proving she is loved. She is proving she is addressable — that a respectful sentence can still be written to her.\n\nHe says nothing, presses her hand, and walks home through the melting snow \"exhausted, shattered, in bewilderment. But behind the bewilderment the truth was already gleaming. The loathsome truth.\"\n\nChapter VIII is what a man does to avoid a truth that is gleaming. He wakes disgusted — not with himself for last night's cruelty, but with his \"sentimentality,\" his \"attack of womanish hysteria, pah!\" The real business is reputation. He borrows fifteen roubles from Anton Antonitch and, signing the IOU with a swaggering air, invents a rake friend, \"a regular Lovelace.\" He returns Simonov's six with a letter whose tone he still admires decades later — candid, tactful, faintly careless — blaming a glass of wine he never drank. \"There is actually an aristocratic playfulness about it!\" He notes that he lied shamelessly. He notes that he isn't ashamed. He moves on.\n\nSet the two letters side by side. Hers exists to raise her in someone's eyes and is destined \"to lie in her box and lead to nothing.\" His exists to raise him in Zverkov's eyes, and it works perfectly. He gets exactly what he wanted. That is the loathsome part.\n\nBecause something will not die. On the twilight walk down Myeshtchansky and Sadovy and through the Yusupov Garden — streets he loves for \"that cheap bustle, that bare prose\" — the crowd irritates him, something rises \"painfully, and refusing to be appeased,\" and he comes home \"just as though some crime were lying on my conscience.\" He can dismiss the entire night except one detail. Not guilt in the abstract. An image: the match, the pale distorted face, the smile. And here the man of forty breaks through the evening of the man of twenty-four to tell you he is still looking at it.\n\nThe rest is the machinery grinding. He defends himself (\"Her crying was a good thing, it will have a good effect\"). He admires his own power — \"how few words ... had sufficed to turn a whole human life at once according to my will. That's virginity, to be sure! Freshness of soil!\" He rages that he would have struck her had she been near. Then, after three quiet days, he dreams himself her saviour, educating her until she falls at his feet: \"you are my creation ... you are my noble wife\" — until even he finds it vulgar and puts out his tongue at himself.\n\nAnd then Apollon: the servant with a mouth \"compressed into the shape of the letter V,\" a pedant carrying \"a vanity only befitting Alexander of Macedon,\" who reads psalms aloud \"as though over the dead.\" The same duel at domestic scale. Our man withholds seven roubles purely to establish that \"I am master, and it is for me to decide\" — and loses in four days to a man who does nothing but stare at him and sigh."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "One moment out of all that had happened last night stood vividly before my imagination; the moment when I struck a match and saw her pale, distorted face, with its look of torture. And what a pitiful, what an unnatural, what a distorted smile she had at that moment! But I did not know then, that fifteen years later I should still in my imagination see Liza, always with the pitiful, distorted, inappropriate smile which was on her face at that minute."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "He escaped every consequence but one — the face he had made, lit for a second by a match, and never put down since."
+    }
+   ],
+   "recall": {
+    "q": "The morning after Liza, what does he decide is \"the chief business\" — and what does he pointedly forget?",
+    "a": "Saving his reputation with Zverkov and Simonov. He borrows fifteen roubles from Anton Antonitch (bragging about a night at the Hôtel de Paris with a rake friend), returns Simonov's six, and writes a self-admiring letter blaming a glass of wine he never drank. He was so taken up with it that he \"actually forgot all about Liza\" — until evening, when she came back to him only as the match-lit face with the distorted smile."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/600",
+   "listenLink": "https://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/",
+   "attribution": "Fyodor Dostoyevsky · Constance Garnett tr. · public domain"
+  },
+  {
+   "id": "psypost-14lkcna",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "REM sleep replays memories in chains, not bursts",
+   "body": "In deep sleep, a rat's prefrontal cortex replays memory in one loud burst. In REM sleep, the same region does it in repeating chains — quieter, longer, a few cells at a time. And the cells those chains wake in the hippocampus are exactly the ones deep sleep had shut down.",
+   "evidence": "single study · n=10 rats · brain recordings + computer model",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A rat finishes its run through a W-shaped maze, takes the reward, and falls asleep with the recording wires still in. The next few hours decide what it keeps.\n\nHere is the puzzle. A day leaves far more traces than a brain can store, so something during sleep has to choose. Half the answer is well mapped. In deep, dreamless sleep — called NREM — sharp electrical waves carry memories between two regions. One is the hippocampus, a small curved part that takes in new experience first. The other is the prefrontal cortex, the front of the brain that holds it long term.\n\nREM sleep, the dreaming stage, also matters for memory. But whether any replay happens in REM at all is still argued over. The easy guess is that REM just does the NREM job again. Ten adult rats say otherwise.\n\nJustin Shin, Shantanu Jadhav and their team placed fine electrodes in both regions and recorded through learning and through the sleep that followed. NREM looked as expected: short fast bursts called ripples, each one setting off a huge crowd of prefrontal cells firing at once — loud, done in about a tenth of a second.\n\nREM had fast events too. But they came in repeating chains, one about every 130 milliseconds — the exact spacing of theta, the steady slow rhythm that runs through the brain during REM. Inside the chains, the background went quiet. Against that hush, small specific groups of cells fired one after another, in order, across about a second.\n\nTwo kinds of replay, then: one shout, one long whisper. What the whisper reached is the best part. During the chains, hippocampus and prefrontal cortex locked together in theta, and the chains woke one particular set of hippocampal cells — the same cells the NREM ripples had silenced hardest. Across the sleep session, those cells slowly fired more often at rest. The two stages take turns on one circuit: one presses down, the other lifts back up.\n\nWhy the split? The team built a computer model of the network and changed one thing: acetylcholine, a brain chemical that is high during REM and almost absent in NREM. Set it low, and a small input set off an explosion. Set it high, and the network held back, producing the same thin, ordered chains they had recorded.\n\nWhat nobody has shown is that any of this helps. The rats' maze scores were never linked to the REM chains. The machinery is on tape. The work it does is still assumed."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "Ten adult rats learned a W-shaped maze for rewards — a task that needs the hippocampus and prefrontal cortex to talk to each other. The team put tetrodes, bundles of very fine wires, into the prefrontal cortex and into CA1, the hippocampus's main output zone. They recorded both the broad rhythms and the firing of single cells, during learning and during the sleep after, sorting sleep into NREM and REM by the mix of brainwave frequencies. Published in eLife."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "One study, ten rats, a few hours of sleep rather than a full day and night. Jadhav calls the evidence \"phenomenological\" — the signature is there, the causal link is not. The team also could not split REM into its calm and active sub-stages, because they did not record the rats' eye movements."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Sleep does not save your day in one pass. Two stages take turns — one shouting the memory to the whole room, one repeating it slowly to the few who need it."
+    }
+   ],
+   "recall": {
+    "q": "NREM replay is one loud burst. What did REM replay look like instead, and which hippocampal cells did it reach?",
+    "a": "Repeating chains of fast events, about one every 130 milliseconds, with the background quiet and small groups of cells firing in order across about a second. The chains reached exactly the hippocampal cells that NREM ripples had silenced hardest — the two stages take turns pressing that circuit down and lifting it back up."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/brainwaves.jpg",
+   "deepLink": "https://www.psypost.org/scientists-discover-previously-unknown-brainwave-chains-that-organize-memory-during-rem-sleep/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 06 Sep 2026 10:00:21 +0000"
+  },
+  {
+   "id": "psypost-14vm49w",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "news",
+   "title": "10% of paying teens made 61% of game purchases",
+   "body": "A survey of 2,308 Austrian teenagers found that in-game spending is very uneven. The heaviest 10 percent of paying players spent 61.4 percent of every euro. They were also more than three times as likely to screen positive for gaming disorder — losing control of gaming until daily life and responsibilities suffer.",
+   "evidence": "single study · n=2,308 · self-report survey · cross-sectional",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The average buries them. Across all paying players, spending came to about 170 euros a year — a number that describes almost nobody. It sits between a large group spending very little and a small group spending heavily.\n\nFamily wealth predicted nothing. Teens from lower-income homes spent about the same number of euros as richer ones, which is a far bigger share of what they had.\n\nAll of it is self-reported: students aged 10 to 19, recalling a year of small purchases at one moment in time. It cannot say whether the spending drove the problem or the problem drove the spending."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "818 of the 2,308 students had bought something inside a game in the past year — 35 percent",
+      "The top 10 percent of payers is 85 students — a sharper split than the usual 20/80 pattern",
+      "Those 85 spent 400 to 12,000 euros each in one year, averaging just over 1,000 — about 20 euros a week",
+      "Gaming disorder: 14.1 percent of heavy spenders, 4.2 percent of the rest"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Free-to-play games cost nothing to download and earn through microtransactions — small real-money purchases made during play. This is the first look at how lopsided that money is among children. It mirrors gambling, where a thin slice of heavy losers carries the market. The lead author's point is not that spending is bad; most players are fine. It is that rules written for the average player leave the 10 percent unprotected."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The researchers want real transaction data from game companies instead of teenage memory. They also want to test whether spending limits or published odds on random rewards change anything."
+    }
+   ],
+   "recall": {
+    "q": "The average paying teenager spent about 170 euros a year. Why does that number tell you almost nothing about the problem?",
+    "a": "Because the spending is extremely lopsided. The top 10 percent of payers made 61.4 percent of all purchases — around 1,000 euros each, and up to 12,000. The average sits between a large group spending very little and a small group spending heavily, and describes neither."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2023/06/gamer.jpg",
+   "deepLink": "https://www.psypost.org/free-to-play-video-games-carry-heavy-financial-costs-for-a-vulnerable-minority-of-teens/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 06 Sep 2026 14:00:28 +0000"
+  },
+  {
+   "id": "conv-neuro-pytor5",
+   "source": "conv-neuro",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Your brain judges a painting in two separate places",
+   "body": "Thirty-four people looked at 96 Chinese watercolours inside a very strong scanner. Their brains split the work in two. The visual pathways read what the picture showed. Deeper reward regions — the same ones that answer to food and money — tracked how much it was liked. A judgment of beauty is those two answers added together.",
+   "evidence": "single study · n=34 · 7T fMRI · 96 paintings · post-scan ratings",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Stand in front of Turner's Sun Rising Over Water, painted between 1825 and 1830, and the picture holds you. Ask yourself why, and nothing useful arrives. Maybe the colour. Maybe the balance, or the strange stillness in it. The feeling comes first. The reasons come late, if they come at all.\n\nThe stranger beside you, looking at the same canvas, very likely feels it too. That is the puzzle. Beauty feels completely private, and we keep finding that we share it. Show almost anyone a misty Song-dynasty mountain landscape, or the soft face of the Mona Lisa, and nearly everyone agrees something striking is there.\n\nNeuroaesthetics — the science of how the brain responds to art — has argued about this for years, in three camps. One puts beauty in perception: composition, contrast, form. One puts it in value, in the brain's reward circuits. One points to the systems behind imagination and self-reflection. Each catches something real. They had rarely been tested in one experiment.\n\nA new study in Nature Communications tested them together. The brain, it found, does not hold beauty as one thing. It splits the experience into two strands. One tracks what an image shows — a figure, an object, a landscape. The other tracks how much pleasure the image gives.\n\nInside the skull those strands stayed remarkably separate. Content was read along the visual pathways, the circuits that let you tell a face from a scene. Pleasure sat much deeper, in the reward regions — the same machinery that answers to food and to money. The brain judges a painting with the equipment it uses on the rest of the world.\n\nOne thing changed the picture: training. How strongly a brain held this two-part map depended on the person's training in visual art, and the difference showed up in the default mode network, the system tied to imagination, self-reflection and meaning-making. Several leading theories put that network at the heart of aesthetic experience. More than exposure, the authors suggest: art training seems to change how the brain represents beauty in the first place.\n\nThat is the part that carries weight. If the experience of beauty has a structure you can measure, and if making and viewing art reshapes it, then arts education looks less like a nice extra and more like training in how seeing, feeling and meaning fit together. Art therapies for depression, trauma and dementia have been trusted on instinct and stories; a brain-level account gives something to test them against.\n\nNone of this tells you why the Turner holds you. It says only that while you stand there, two answers are being written in two places — what this is, and how much you want it — and that you only ever receive their sum."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "Thirty-four volunteers viewed 96 traditional Chinese watercolour paintings inside a 7T MRI scanner, strong enough to catch the small shifts in blood flow that follow brain activity. They rated how the paintings made them feel afterwards, outside the scanner.\n\nInstead of using those raw ratings, the team borrowed collaborative filtering — the kind of algorithm behind Netflix and Spotify suggestions, built to find patterns of agreement buried in many people's preferences. Two dimensions surfaced under everyone's answers. One ran from most figure-like to most landscape-like. The other ran from most disliked to most liked across the whole group. That second one is hedonic value: the plain enjoyment a person gets from an experience."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study of 34 people, all looking at a single tradition of painting, with ratings collected after the scan rather than during it. A scanner shows where activity sits, not the order it happens in — nothing here says content is read before pleasure.\n\nThe expertise result compares people who already differ in art training, so it shows a link, not proof that training built the difference. And a structure is not an explanation. Knowing which systems answer does not tell you why one canvas moves you and the next one does not."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "You do not simply look at the world. You cannot seem to stop scoring it for beauty."
+    }
+   ],
+   "recall": {
+    "q": "The brain split the experience of a painting into two strands, held in two different places. Which strand ran on the machinery the brain also uses for food and money — and what did the other strand track?",
+    "a": "The pleasure strand — how much a person liked the image — sat in the deeper reward regions, the same ones that answer to food and money. The other strand ran along the visual pathways and tracked only what the picture showed: a figure, an object, a landscape. A judgment of beauty is the two added together."
+   },
+   "imageUrl": "https://images.theconversation.com/files/757505/original/file-20260902-50-2p1pp7.jpg?ixlib=rb-4.1.1&amp;rect=0%2C428%2C5126%2C2563&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/science-uncovers-how-the-brain-interprets-artistic-beauty-291068",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-04T13:53:19Z"
+  },
+  {
+   "id": "mint-economy-1hm92bi",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's GDP math changed. The economy got smaller.",
+   "body": "India now uses a brand-new Producer Price Index (PPI) — what factories charge and pay for goods — to strip inflation out of manufacturing GDP. The first result is a manufacturing deflator of minus 1.4%, in a quarter when producer prices rose about 9%. Separately, a new 2022-23 base year cut past nominal GDP by roughly ₹11 trillion for FY25. Growth did not slow. The measuring tool changed.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A deflator is the inflation figure that turns nominal GDP — output counted at today's prices — into real GDP. Last quarter it came to 2.3% overall, against wholesale inflation of 9.4%.\n\nThe ministry points to double deflation: what producers pay for inputs is adjusted separately from what they charge for output. When input costs climb faster than output prices, the deflator can turn negative. Prices rose on both sides. Margins were squeezed. So less value was added at current prices.\n\nAnalysts call double deflation the better method, and the IMF recommends it. The doubt is the PPI itself. India tried and failed to build one for close to thirty years. It launched only in June, holds data from April 2023 onward, and entered the GDP math without ever appearing in the ministry's own late-2025 discussion papers."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "This is about the ruler, not the thing being measured. Nominal GDP is the base for fiscal deficit and debt ratios. Cut the past nominal figures and those ratios move, with nothing happening in the real economy.\n\nAnd nothing was revised this week. The numbers are already published. What is new is the questioning of how they were built, and the call for detailed data so outsiders can check."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "2.3% — GDP deflator in Q1 FY27, against 3.9% retail and 9.4% wholesale inflation",
+      "−1.4% — manufacturing deflator, in a quarter when PPI ran near 9%",
+      "₹6 trillion — cut to Q1 FY26 nominal GDP; about ₹11 trillion for full-year FY25",
+      "+3.5% — median GDP change when 78 economies updated their national accounts, per a 2022 IMF paper. India's went the other way."
+     ]
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The statistics ministry is expected to publish a back series: earlier years recalculated on the new base. That will show how far the measured size of the economy shifts. On the deflator, Abhishek Upadhyay of ICICI Securities Primary Dealership expects it to rise in coming quarters, as firms pass input costs on to consumers."
+    }
+   ],
+   "recall": {
+    "q": "The manufacturing deflator was minus 1.4% in a quarter when producer prices rose about 9%. How can both be true?",
+    "a": "Double deflation adjusts input costs separately from output prices. Input costs rose faster than output prices, so margins were squeezed and less value was added at current prices. It does not mean prices fell, and it does not mean the economy slowed."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/INDIA-MARKETS-RUPEE-0_1756484278024_1756484295189_1788687086669_f41b4943-7199-4451-b6d2-16d790c0091a_351d9f30-8982-4d01-bffa-865e6d085bfb_c78edafd-9f0c-45d3-b1e3-94cd453df08f.JPG",
+   "deepLink": "https://www.livemint.com/economy/smaller-economy-ppi-inclusion-why-india-s-gdp-is-facing-fresh-scrutiny-11788682014639.html",
+   "attribution": "Mint",
+   "publishedAt": "Sun, 06 Sep 2026 15:04:00 +0530"
+  },
+  {
+   "id": "bbc-world-1561f95",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Germany's far right is projected to win 44% in one state",
+   "body": "The AfD is projected to take 44% of the vote in Saxony-Anhalt, an eastern German state — more than double the second-placed conservatives. No far-right party has governed a German state since the Second World War. Whether it governs this one turns on whether a small rival party clears 5%.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Winning is not the same as governing. If BSW, a small left-wing populist party, clears the 5% it needs to enter the state parliament, the AfD ends up short of a majority. If BSW misses, the AfD's chance of a majority rises. Every other party refuses to join it in a coalition — a rule they call the Brandmauer, or firewall. BSW has offered to work with the AfD on some issues.\n\nA state government runs the police, local schools and culture. It could not carry out the AfD's remigration plan, widely understood as mass deportations. Domestic intelligence rates the state AfD as right-wing extremist. Its state leader, Ulrich Siegmund, rejects that label."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "17.8% for the conservative CDU, in second place",
+      "39 of 83 state parliament seats for the AfD, if BSW crosses 5%",
+      "About 78% turnout, unusually high",
+      "2.1 million people live in Saxony-Anhalt"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The AfD leads national opinion polls. It won the 2024 election in neighbouring Thuringia but could not gather enough seats to take power. Saxony-Anhalt is the first place the firewall may fail."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Siegmund has so far refused to lead a minority government — one that governs without enough seats of its own. The party's national leaders say they are open to it."
+    }
+   ],
+   "recall": {
+    "q": "The AfD is projected to finish far ahead of every other party. Why might it still not govern Saxony-Anhalt?",
+    "a": "Seats decide, not vote share. If BSW enters parliament, the AfD holds 39 of 83 seats — short of a majority — and every other party refuses to form a coalition with it."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Sun, 06 Sep 2026 20:45:11 GMT"
+  },
+  {
+   "id": "neuro-news-14z99d1",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "In mice, a mother's infection jams one fetal brain switch",
+   "body": "When a pregnant mouse's immune system fires up mid-pregnancy, her pups' brain cells end up with chemical tags in the wrong places — right on the DNA spots where a key building protein has to land. The cells made plenty of that protein. They just could not use it. The neurons it helps build were still misfiring in adulthood.",
+   "evidence": "single study · mouse model · frontal cortex excitatory neurons, mid-gestation to two weeks after birth · methylation, ge",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Mid-pregnancy, a mouse gets an injection of Poly(I:C). It is not a virus. It is a molecule shaped enough like one that her immune system attacks as if it were. No infection. Just the response to one.\n\nThe question behind that injection is old. Decades ago, in large population studies, researchers noticed that flu in the second or third trimester raised the rate of psychiatric conditions in the children. Later work pointed at IL-6, a protein the mother's body releases when it fights infection. Nobody could say what it did to a brain that was still being built.\n\nA team at the Salk Institute read two layers inside neurons in the pups' frontal cortex, from mid-pregnancy to two weeks after birth: which genes were switched on, and where methyl tags sat. Methyl tags are small chemical marks that stick to DNA and quiet the stretch they cover. The gene stays; it just stops being read. That layer of settings is the epigenome.\n\nThe pups from inflamed pregnancies differed, most sharply at birth. Thousands of control regions that normally gain or lose tags on schedule did the wrong thing. The changes clustered around one job: building deep-layer neurons — the cells at the base of the cortex that carry signals out to the rest of the brain.\n\nThen the sharp finding. Tbr1 is a transcription factor — a protein that lands on certain spots of DNA and switches the nearby genes on. These cells were making more Tbr1, not less. But its landing spots were the ones buried under tags, so the genes it normally wakes stayed quiet. Recordings showed those deep-layer neurons firing abnormally, and still firing abnormally in adulthood. The team also checked SFARI, a hand-curated list of genes linked to autism: about a quarter of its high-confidence entries were disturbed here too.\n\nWhat the work does not show matters as much. These are mice. Poly(I:C) imitates flu; it is not flu. Nothing here says how sick a mother must be, in which week, or for how long. And the recordings measured firing, not behaviour.\n\nThe authors say this themselves. Infection \"changes the odds\", said Joseph Ecker — not everyone who gets sick in pregnancy has a child with a brain development disorder. Odds that shift across a whole population are not a prediction about any one pregnancy.\n\nSettling it would take the same maps in human fetal tissue, across different doses and different trimesters. Then the real test: a treatment that clears the tags off Tbr1's landing spots and shows the neurons recover. Margarita Behrens calls what they have now the tip of the iceberg. That is the honest size of it."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "Salk Institute, published in Molecular Psychiatry. Pregnant mice were given Poly(I:C), a viral mimic that triggers a real immune response without a real infection. The team mapped DNA methylation and gene activity in the excitatory neurons — the signal-sending cells — of the pups' frontal cortex, from mid-pregnancy to two weeks after birth, then took direct recordings of how those neurons fire. Gene activity was most disrupted at birth; the firing changes lasted into adulthood."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "One study, in mice. No animal was actually infected, and no human tissue was examined. The design shows that the misplaced tags and the abnormal firing both follow the mother's immune response. It does not prove the tags cause the firing — which is why the authors write that the block is suggested, not shown. The SFARI overlap compares gene lists. It is not evidence that these mice had anything like autism."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Plenty of protein, no way in. That is what an epigenetic block looks like."
+    }
+   ],
+   "recall": {
+    "q": "The pups' cells were making more Tbr1 protein, not less — so why did the genes Tbr1 controls go quiet?",
+    "a": "Tbr1's landing spots on the DNA were covered in methyl tags, so the protein could not bind there. Supply was never the problem; access was. That is the epigenetic block the researchers describe."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/09/fetal-brain-epigenetics-maternal-illness-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/illness-during-pregnancy-alters-fetal-brain-development-31209/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Wed, 02 Sep 2026 21:55:23 +0000"
+  },
+  {
+   "id": "hackernews-h7njmo",
+   "source": "hackernews",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "People can tell you used AI. They just don't say it.",
+   "body": "More and more readers can spot machine-written text in about two seconds. Almost none of them will say so. They just stop reading — and start doubting the ideas underneath.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A button sits under your half-written post. LinkedIn is offering to rewrite it with AI. The button looks eager to help. You are tired.\n\nPress it. Here is what happens on the other side. Someone opens your post. In about two seconds they take in the emoji, the single sentences sitting alone as paragraphs, the line built as it's not just this, but also that. They have seen that shape many times this month. They know. Then they scroll on. No comment. No quiet message telling you the writing gave you away. You never find out.\n\nThat silence is the real trouble. Think of walking around all day with your zip undone. Many people see it. Nobody says it. The one thing you need is the one thing nobody offers. Machine-written posts work the same way. The number of people who can spot the signs grows fast. The number who will tell you stays near zero.\n\nAnd the damage is not embarrassment. It is doubt. If the voice is clearly not yours, the reader has no way to sort what is real from what was generated. Is that number checked, or produced? Is that opinion yours, or the model's guess at what a person with your job title would say? Maybe it is all true. Maybe not. The reader cannot tell. So they stop reading, and your actual idea — the one you had, the one you wanted to say — goes in the bin with the wrapping.\n\nSo here is the counsel, and it is not stay away from AI.\n\nThese machines are good at nearly every job that surrounds writing. They help you think out loud. They are very good at explaining a hard text back to you. And they make surprisingly good editors, with one quality human editors rarely have: you can ignore every single suggestion. No sulking. No week-long war over a comma. Honest feedback normally costs you something in a relationship. This kind costs nothing.\n\nSo buy it. Write the thing yourself, in your own words, badly if that is how it comes out. Then ask what is unclear, what repeats, where a reader will get lost. Take the notes that convince you. Throw the rest away without guilt. An editor sits beside the writing. The moment it takes the pen, your voice is gone — and the voice was the part that made anyone believe the rest.\n\nYour voice is not decoration on top of the ideas. It is the proof the ideas are yours. Nobody will tell you when it goes missing. So guard it yourself."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Emoji scattered through a serious work post.",
+      "Every sentence standing alone as its own paragraph.",
+      "The \"it's not just X, but also Y\" shape, especially more than once.",
+      "Em-dashes (—) everywhere, from someone who has never typed one in a message to you.",
+      "The clearest test of all: it does not sound like the person you know."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Write it yourself, in your own words, even badly. Then be the one person who tells a friend what nobody told you."
+    }
+   ],
+   "recall": {
+    "q": "The writer says the harm of an obviously AI-written post is not embarrassment. What is it?",
+    "a": "Doubt. When the voice is clearly not yours, the reader cannot tell which parts are real and which were generated. So they stop reading, and the real idea goes in the bin with the wrapping."
+   },
+   "deepLink": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-06T11:56:43Z"
+  },
+  {
+   "id": "aeon-brrl7x",
+   "source": "aeon",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Trickle-down ran the wrong way: debt up, wealth to the 1%",
+   "body": "Cut taxes at the top, free the markets, and the gains spread down to everyone. That was the promise of 1981. Forty-five years of data say something really did flow through the system. It flowed up. This essay names the pipe.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Three thousand pages went around the table at Ronald Reagan's first cabinet meeting in 1981. The book was Mandate for Leadership, from the Heritage Foundation, a conservative research group in Washington. It asked for a smaller state, fewer rules on business, lower taxes and a stronger military. Within a year Reagan's government had adopted 60 per cent of its proposals. The New York Times called it \"the manifesto of the Reagan revolution\". Margaret Thatcher took up the same plan, and it spread through rich democracies.\n\nThe promise travelled with it. You have heard some version. Let the rich keep more, let markets run free, and the gains trickle down: the wealthy invest, firms grow, jobs appear, wages rise, everyone ends up better off. It sounds right. Money really does move when people invest it. A growing company really does hire.\n\nIt is also wrong. Les Coleman, who teaches finance at the University of Melbourne, says forty-five years of data now show exactly how.\n\nStart with the state. The tax cuts were paid for by borrowing. Across the rich democracies, government debt climbed from 40 to 65 per cent of GDP — GDP is the value of everything a country makes and sells in a year. Spending never shrank. It held at almost half of GDP. Growth per person slowed from nearly 3 per cent a year in the 1980s to barely 1 per cent today. Households were handed easy credit, and more than doubled their own debt as a share of GDP. Judged on its own promises — growth, wealth for ordinary people — the plan failed.\n\nSomething did flow, though. It went up. Coleman takes the explanation from the consulting firm McKinsey: heavy government borrowing and cheap credit push more financial assets into private hands and push their prices up. Shares and property get costlier. Wealthy households earn more from owning things than from working. So rising asset prices reach them first, and reach them most. Everyone else is paid in wages. The two lines move together: as government debt rose after 1980, the share of all wealth held by the richest 1 per cent rose by a quarter. That 1 per cent now holds more than a quarter of the wealth in France, Germany and the United States.\n\nFinance was the biggest winner. It also set up a rough seven-year rhythm: bubble, crash, recession. Each round handed unearned wealth to investor elites. Meanwhile a home of your own and a comfortable retirement drifted out of reach for the middle class and below, especially for Gen Y.\n\nSo why does the belief survive? Partly the measuring stick. GDP counts only what carries a price. Wars, sickness and rebuilding after disasters all push it up, while unpaid work and free services count for nothing — and what gets measured gets managed. Partly because the winners now pay for the politics: a 2025 US study found that 30 to 45 per cent of private donations to presidential candidates came from the richest 1 per cent of voters.\n\nColeman's argument is plain. Structure — institutions, laws, customs — shapes behaviour, and behaviour produces outcomes. That is why he reads this as design, not bad luck: countries that refused the plan, China and India among them, did not slide the same way."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "The promise: cut taxes and rules at the top, and the wealth spreads down.",
+      "The record since 1980: debt from 40 to 65 per cent of GDP, growth per person from nearly 3 per cent to barely 1, household debt more than doubled.",
+      "The real pipe: government borrowing and cheap credit push asset prices up; the rich are paid in assets, everyone else in wages.",
+      "The belief survives because GDP flatters it, and because the richest 1 per cent supply 30–45 per cent of US presidential campaign donations."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one economist's argument, built on averages across rich democracies. The debt line and the top-1 per cent line rise together, and he offers an explanation for why — but two lines moving together do not prove that one caused the other. His claim that China and India escaped by refusing the plan gets one sentence and no evidence."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The money did move after 1980. It just never came looking for you."
+    }
+   ],
+   "recall": {
+    "q": "The essay agrees that something flowed through the system after 1980. What flowed, and in which direction?",
+    "a": "Money flowed up. Government borrowing and cheap credit pushed up the prices of assets like shares and property. The rich earn more from owning assets than from working, while everyone else is paid in wages, so the gains reached the top first and most."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/0104da2d-f55d-4db7-933e-ad6ea30d78a8/essay-gettyimages-1916677655.jpg?width=1200&quality=75&format=auto",
+   "deepLink": "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it",
+   "attribution": "Aeon",
+   "publishedAt": "Fri, 04 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "psypost-1c9xmlj",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Chatbots that feel warm: better mood, thinner friendships",
+   "body": "In two experiments, students who met a warm chatbot reported better personal wellbeing — and less wish to spend time with real people. Both results traced back to one thing: how close the user felt to the bot. Add augmented reality, and both effects grew together.",
+   "evidence": "mixed-method · two scenario experiments · n=167, n=350 · self-report plus public user comments",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In a review of Replika, a companion app with millions of registered users, someone calls the bot “the best friend I have ever had.” Their stress, they say, has dropped to almost zero. A few posts away, another user of the same app says they are “hardly left with any time” to see friends in person.\n\nBoth are describing the same product. The question is whether they are describing the same effect.\n\nThree researchers — Shaphali Gupta, Sumit Saxena and Sonia Kataria — tested one trait: a chatbot's emotional intelligence, meaning its ability to notice a feeling, judge it, and answer it. Not how human the machine looks. Just how well it reads you.\n\nTake the hopeful case first, at full strength. Nearly a quarter of adults worldwide say they feel lonely. A machine that spots sadness in your typing and answers it is a listener with no judgement, no schedule, no bad day of its own. In the online comments the team gathered, people reported more than a lighter mood. Some said the bot carried them through hard stretches of life and helped them find meaning in them. In the first experiment, students who met a warm bot scored higher on psychological wellbeing: the inner state made of good feelings, self-esteem, and a sense that life has a point.\n\nNow the worry, at the same strength. Social wellbeing is a different measure — how tied a person is to the people physically around them, and how good those ties are. In that same experiment, the warm bot pushed this number down. The comments said it plainly: long hours with the app left no appetite for offline friends. Comfort that arrives instantly removes the reason to go looking for the harder kind.\n\nSo which is it, help or harm? You cannot weigh one side against the other, and here is why. The researchers looked for what drove each result and found the same thing under both: perceived closeness — how near to the bot a person felt. The people who felt close got the mental-health gain and the pull away from other people. Not two groups. One feeling, two exits.\n\nThat is what makes the second experiment matter. Students met the bot as plain text, or through augmented reality — digital images laid over your real room, seen through a phone camera — and imagined it sitting beside them. Closeness rose. Both effects rose with it: bigger gains inside, steeper drops in the wish to be with people. Making the bond feel more real did not settle the argument. It widened it.\n\nOne caution before the verdict. Closeness was measured, not assigned, so the line from closeness to either outcome is a pattern in the numbers, not proof of cause.\n\nEven so, the shape is clear. The evidence does not say these bots wreck relationships, and does not say they cure anything. It says the benefit and the cost travel down the same wire. The authors' fixes follow from that — limits on session time, bots built to nudge you outward after a heavy conversation — because you cannot keep one end of a wire and cut the other."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "The team first read public posts about Replika on Reddit, YouTube and Trustpilot and sorted them into themes. Then 167 university students from Generation Z read a scenario where they talked to a chatbot that was either high or low in emotional intelligence — warm language and emoticons, or flat robotic replies. They filled in questionnaires on closeness, psychological wellbeing and social wellbeing.\n\nThe second experiment used 350 students in four groups: the high or low bot, crossed with a text chat or augmented reality. The augmented reality group watched a video demonstration and imagined the bot sitting beside them in their own room."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Everyone in both experiments was a university student, and none of them actually used a chatbot. They read or watched an imagined scenario and reported how they would feel. That measures a short-term reaction, not a habit forming over months.\n\nThe researchers also controlled only one thing: the warmth of the bot. How close each person felt was left to the person."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The thing that made the machine worth talking to is the same thing that made people talk to everyone else less."
+    }
+   ],
+   "recall": {
+    "q": "The warm chatbot raised personal wellbeing and lowered social wellbeing. Why can't these be treated as two separate findings about two different kinds of user?",
+    "a": "Because both traced back to one measured thing: how close the user felt to the bot. The same closeness produced the mental-health gain and the pull away from offline friends. In augmented reality, where closeness was stronger, both effects grew together."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/02/artificial-intelligence.jpg",
+   "deepLink": "https://www.psypost.org/the-hidden-cost-of-artificial-empathy-how-chatbots-boost-mental-health-but-isola/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 06 Sep 2026 11:00:15 +0000"
+  },
+  {
+   "id": "nautilus-k0m6hy",
+   "source": "nautilus",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "If we find alien microbes, no law says who owns them",
+   "body": "Missions are now hunting for tiny life on Mars, on Jupiter's moons, and on Saturn's moon Enceladus. If one of them finds it, the 1967 Outer Space Treaty says nothing about who may own that organism, use it, or destroy it. Three researchers argue the discovery would be a political event before it is a scientific one.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A Japanese spacecraft scraped dust from an asteroid near Earth and carried it home. The dust held uracil — a piece of RNA, and RNA is one of the building blocks of life.\n\nThat is not life. But it shows how close the search has come. The three authors — a professor of international affairs who trained as a chemist, plus two scholars of space policy and frontier technology — say the world is not ready for the day the search works."
+    },
+    {
+     "label": "What are they actually looking for?",
+     "style": "prose",
+     "text": "Not the aliens of the movies. Microbes: single-celled life, too small to see. Mars landers have found large amounts of frozen and liquid water. NASA's Europa Clipper and Europe's JUICE probe are on their way to Jupiter's icy moons, to check whether conditions there could hold life. More missions are aimed at Enceladus. Microbes are far more likely than intelligent life — and confirming even one, the authors write, would shift everything."
+    },
+    {
+     "label": "Who would own it?",
+     "style": "prose",
+     "text": "The Outer Space Treaty of 1967 says space must be used peacefully, and that no country may claim a planet or moon as its own. It says nothing about living things: who may own an alien organism, who may use it, keep it, or destroy it. On Earth there is a rule. The Budapest Treaty stops anyone from owning a microbe that occurs in nature — what researchers call biopiracy, patenting a natural resource for profit. In space there is no such rule."
+    },
+    {
+     "label": "Would countries fight over it, or work together?",
+     "style": "prose",
+     "text": "History gives both answers. The space race of the 1950s and 60s pushed two rivals into nationalism and military spending. The global asteroid-watch network and the International Space Station show the same kind of rivals working together when the goal is shared and clear. So the authors map three paths. Cooperative. Competitive — nations racing to control access and turn the biology into money or military advantage. Or isolationist — countries cutting off data sharing out of biosecurity fear, the worry that an unknown organism could harm people or nature."
+    },
+    {
+     "label": "Could a company decide who gets access?",
+     "style": "prose",
+     "text": "About 60 percent of all satellites now orbiting Earth belong to SpaceX's Starlink. The company can block access selectively, and has done so in line with its own political priorities. Government contracts blur the line between business work and strategic work. So when company interests and national interests pull apart, who is let in and who is shut out may not be a government's call alone."
+    },
+    {
+     "label": "And the question nobody can answer yet?",
+     "style": "prose",
+     "text": "Which path we would actually take. The authors refuse to predict one. They ask governments to wargame the discovery now — to play out several futures and test how their plans hold. The open question is not whether we find life beyond Earth. It is whether anyone has decided, in advance, what to do on the morning we do."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "We have built the tools to find it. We have not written the rules for what happens next."
+    }
+   ],
+   "recall": {
+    "q": "The Outer Space Treaty already governs space. Why do the authors say it leaves the biggest question open?",
+    "a": "It bans any country from claiming a planet or moon, but says nothing about living things — who may own, use, keep or destroy an alien microbe, or how to handle biosecurity risk. On Earth the Budapest Treaty blocks owning a microbe that occurs in nature; for space, no such rule exists."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_2002344146.jpeg?w=564",
+   "deepLink": "https://nautil.us/many-space-missions-are-searching-for-life-beyond-earth-but-are-we-prepared-for-the-fallout-if-they-succeed-1284812/",
+   "attribution": "Nautilus",
+   "publishedAt": "Sun, 06 Sep 2026 12:00:00 +0000"
+  },
+  {
+   "id": "rob-henderson-l24654",
+   "source": "rob-henderson",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Nobody stops chasing status. You only pick the game.",
+   "body": "Adults do not grow out of status seeking. They only change which contest they enter. The test is not whether the winner is humble. It is whether the contest leaves anything behind for people who never entered it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Look at any meeting. Someone speaks first. Someone else waits to be asked. A third person makes the joke that gets repeated in the corridor later. Nobody in that room would call it a contest. It is one.\n\nThe grown-up story says you leave this behind. Status games are for teenagers and for men with loud cars. A serious adult does the work and stops counting. It is easy to believe: the loudest kinds of status are the easiest to sneer at.\n\nThe word status is doing the damage. Swap it for respect, or honour, or admiration. Do you want to be respected by anyone at all — colleagues, parents, three strangers online? Then you are in the game. Rob Henderson's point is not that this is good. It is that the wanting never switches off: offices, universities, sports leagues, restaurants, clubs, politics, art. Some people compete openly. Some perform not competing, which is its own move.\n\nSo the question is not whether to play. It is which game. The economist Roger Congleton defines a status game plainly: any contest where your rank depends on how you did next to everyone else. Economics has mostly called these games wasteful. If rank is relative, my rise is your fall. I buy the bigger house, you feel the pressure, everyone spends more, and nobody ends up higher than before.\n\nCongleton says that is incomplete. It holds only when rank is the only thing the contest makes. Two climbers race for the highest peaks and the rest of us get nothing from their pain. But when scientists compete for prestige, outsiders get knowledge. When founders compete for admiration, outsiders get jobs and cheaper goods. When athletes compete for glory, the people in the seats get a match. The hunger is the same. What differs is what falls off the table.\n\nAdam Smith saw this in 1759. His poor man's son looks at rich houses and decides that once he owns what they own, he will finally be at peace. He studies, saves, flatters, schemes. Smith says the first month of it costs him more strain than a plain life would have cost him in total. Then he arrives, and it is smaller than it looked from below. He was wrong about his own happiness. But while he was wrong he built things, and other people ate better and found work. Smith called that trick the thing that \"rouses and keeps in continual motion the industry of mankind\" — it keeps everyone working.\n\nThe hunger cannot be removed, so societies steer it. Duels, street racing and gift-burning contests that ruined the giver were pushed out by law and custom, once the cost to everyone else became clear. Prizes, grants, medals and titles do the opposite: they tell ambitious people that admiration is on offer, if they do something the rest of us value.\n\nThe costly case is the game nobody can leave — a whole society ranking people by wealth, or family name, or how loudly they believe, or by saying the approved thing. You can hate it privately and still play, because stepping out costs income as well as rank. Timur Kuran called this preference falsification: hiding your real view because honesty is too expensive. Punishing a rule-breaker loudly proves your belief is real rather than forced. So people attack the doubters they secretly agree with. Henderson's ranking follows: chasing a handbag is wasteful, but chasing the role of \"voluntary thought police\" is worse. A game whose only prize is rank builds nothing, and its safest move is to bring someone down."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Name a contest you are really in — your team, your field, a group chat, a follower count. Not the one you would admit to.",
+      "Ask what a win there makes besides your own position. A tool, a lesson, a service, an hour someone enjoyed?",
+      "If the honest answer is \"nothing, I just move up\", the contest only moves names around. Not a moral failing, but not building anything either.",
+      "Harder: does winning here need someone else pushed down? That is the costly kind, and it usually feels the most righteous."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "You do not get to stop wanting admiration. You only get to choose who gains while you chase it."
+    }
+   ],
+   "recall": {
+    "q": "Climbers racing for the highest peaks and scientists racing for prestige run on the same hunger. In Congleton's account, what separates them?",
+    "a": "What the contest leaves behind for people who never entered it. The climbers' rank is the whole product. The scientists' rank arrives with knowledge everyone else can use. The test is what reaches non-players, not how pure the motive is."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!76QQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79870008-be4a-47a8-9fbd-ed263f3c1f10_653x1000.jpeg",
+   "deepLink": "https://www.robkhenderson.com/p/some-status-games-are-worth-playing",
+   "attribution": "Rob Henderson",
+   "publishedAt": "Sun, 06 Sep 2026 14:12:42 GMT"
+  },
+  {
+   "id": "iai-104n25l",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Do we share one reality, or live in different ones?",
+   "body": "Steve Fuller says our differences are not different views of one world — they are different worlds. He points to brain science and quantum physics for support. The realist's reply is short: if we truly lived in separate realities, we could not disagree at all. Galileo's trial was a real fight.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Galileo could hold two worlds in his head at once. In one, the sun went around the earth. In the other, the earth went around the sun. Then he looked through his telescope, and the second world won. He stopped visiting the first — and lived so completely in the second that the Church put him on trial.\n\nThe philosopher Steve Fuller uses that moment for a question we usually skip. When two people see the world differently, are they two seats in one theatre, or two theatres?\n\nAlmost everyone assumes the first. That assumption has a name: realism. Reality is found, not made. If the knower helped build it, it is suspect. And it is one world for everyone. The opposite idea — different worlds for different people — is called relativism, and realists dislike it. Most expect science to end with one shared description.\n\nFuller says that default is a mistake. He points to two places where science itself is loosening it.\n\nFirst, the brain. Research keeps showing how much brains differ, and how much they change. The sociologist Judy Singer coined the word neurodiversity for this. Slowly, society is dropping the idea of one normal brain — the standard against which conditions like autism count as damage. The neuroscientist Karl Friston describes brains as tuned differently to the inputs around them. Take that seriously and the goal flips. Instead of training every brain toward one shared world, you build the world around each brain. Fuller thinks this could finally make real what the educationalist Howard Gardner called multiple intelligences forty years ago.\n\nSecond, quantum physics. The political scientist Alexander Wendt calls us \"walking wave functions\". A wave function is a spread of possibilities, not one settled fact. Now and then it collapses, and everyone is forced to accept one reality. But the collapse also rearranges each person's sense of how the past was and how the future will be. Bohr had a word for the gap between two such worlds: incommensurability. No shared measuring stick. Kuhn made it famous.\n\nNow the reply. Every item on that list reads the other way just as well. Brains tuned differently are still tuned to the same inputs — different receivers, one signal. Many intelligences are still many routes into one world. And the sharpest answer sits inside Fuller's own example. The collapse is the moment everyone is forced to accept the same reality. Something does the forcing. A shared world is the plain name for it.\n\nSo the crux is not evidence. It is what disagreement would even be. People in separate realities cannot contradict each other. They are only elsewhere. Galileo and his judges were not passing each other in different worlds. They were fighting over one sky, and the fight had a cost.\n\nThe balance tilts realist. Nothing here forces us to give up the single world; each finding sits comfortably as a view of it. But Fuller's practical point does not need the bigger claim. Stop treating one kind of brain as the standard. Build the room around the person. You have taken his advice and kept the sky."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Realism: reality is found, not built, and is one world for everyone. The opposite view is relativism.",
+      "Fuller's case: brains are tuned differently (Friston, Singer's neurodiversity), and Wendt calls us walking wave functions — so the differences run deeper than viewpoint.",
+      "The realist's best line comes from Fuller's own example: a collapse forces everyone to accept the same reality, and something has to do the forcing.",
+      "The crux: separate realities leave no room for disagreement, only for being elsewhere."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "You can only argue with someone standing in your world. The argument is the proof."
+    }
+   ],
+   "recall": {
+    "q": "The piece says Galileo's trial is a problem for the \"different realities\" view. Why?",
+    "a": "Because disagreement needs one thing to disagree about. Galileo and his judges were not passing each other in separate worlds — they were fighting over the same sky. If their realities had truly been separate, there would have been nothing to put on trial."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/we-dont-have-different-perspectives-we-inhabit-different-realities.webp",
+   "deepLink": "https://iai.tv/articles/we-dont-have-different-perspectives-we-inhabit-different-realities-auid-3668",
+   "attribution": "IAI News",
+   "publishedAt": "Wed, 02 Sep 2026 11:17:14 +0000"
+  },
+  {
+   "id": "marginal-rev-118cozq",
+   "source": "marginal-rev",
+   "topic": "econ",
+   "kind": "news",
+   "title": "AI cyber risk is rising. Insurance prices keep falling.",
+   "body": "Cyber insurance — what a company buys to cover the cost of being hacked — got about 4% cheaper worldwide in the second quarter of this year. That is the twelfth quarterly drop in a row: three straight years of falling prices. If AI is making hacking cheap and easy, this is the one market that has not noticed.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Nate Witkin, a researcher at NYU Stern, calls the falling price \"a plea for level headedness.\" He asks safety researchers to explain the gap: are insurers missing what the models can do, or has the risk simply not arrived yet? Economist Tyler Cowen shared the argument. He says the answer is far from obvious, and expects prices to rise somewhat. His wider complaint is with any huge risk story that \"does not correlate with any observed asset market prices.\""
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Anyone can say a danger is growing. An insurer who says it and is wrong goes broke. That makes price one of the few honest tests of a risk claim — though this argument rests on price alone, with no claims data. A story no market will pay for is not false. It is untested, and after three years the burden is on the story."
+    }
+   ],
+   "recall": {
+    "q": "Cyber insurance has become cheaper for twelve quarters in a row. Why does that price count as evidence about AI hacking risk?",
+    "a": "Because insurers lose their own money when they price danger wrong. Three years of falling prices means the people paid to judge hacking risk have not seen AI change it. The safety argument has to explain that price, not skip past it."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-140.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sentences-to-ponder-140",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Sun, 06 Sep 2026 19:39:39 +0000"
+  },
+  {
+   "id": "paris-review-7iaaw4",
+   "source": "paris-review",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Show dogs are judged against a job they never do",
+   "body": "Every purebred breed has a written \"standard\": a description of the perfect version of that dog, built out of the work the breed once did for a living. Dogs are scored on how closely they match it. A whippet is judged on the body shape that suggests speed — never on whether it catches anything.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A man in an orange vest pushes a broom across polished concrete, chasing loose fur. He will not finish. Around him, in an exhibition hall in Doswell, Virginia, more than four hundred purebred dogs are being judged — not really against each other, but against a piece of paper.\n\nThe paper is called a breed standard. Every recognised breed has one: a written description of the perfect example of that dog. Proportions, attitude, how it should move. Judges, breeders and handlers memorise them. At the ramp, a judge runs her hand down a whippet's back, looks behind its lips at the teeth, and, on the males, briefly feels the testicles.\n\nThat last check tells you what the show is for. No dog here may be neutered or spayed — surgically stopped from breeding — because these events are quality control for a breeding business. A win makes an animal's genes worth more money. Hannah Berger, writing in The Paris Review, keeps having to remind herself that a breed is an economic category, not a scientific one. The dogs are family and property at once.\n\nThe standards are built out of history. A whippet was bred to catch vermin — rats and other pests — so it is now judged on the shape that suggests it could cover the most ground with the least wasted motion. It does not have to catch anything. The look of the ability is the whole test.\n\nThe documents vary wildly. The greyhound gets about two hundred dry words, warming up only at the eyes: \"dark, bright, intelligent, indicating spirit.\" The Coton de Tulear of Madagascar gets nearly eight times as much, with colours and shapes set out in percentages and angles.\n\nSome breeds have quietly lost the job they are supposed to be remembering. The bulldog and Staffordshire bull terrier standards name no purpose at all — probably because their purpose was bullbaiting and dogfighting. And a long-running criticism of these shows is that breeding for shape has hollowed out the working breeds: dogs made to herd or hunt often can no longer do either.\n\nSo the ideal drifts. Breeders chase a target that keeps being rewritten, and every Best in Show moves it a little further from the thing it was copying. Berger's name for this is a preservation lying somewhere \"between reenactment and taxidermy\" — taxidermy being the craft of stuffing a dead animal so it still looks alive.\n\nThe building is full of small proofs. Since at least 2023, Westminster's official winner photo has been edited so the dog poses beside a frame holding the very picture being taken. At Doswell, Saturday and Sunday were separate competitions in the same hall, with the same judges and mostly the same dogs, so points could be collected twice. A long-haired dachshund named Horatio won Best in Show on Sunday. Only then did Berger learn he had won on Saturday too. Again, she writes — or already."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The dog is not asked to do the work. It is asked to look like the memory of the work."
+    }
+   ],
+   "recall": {
+    "q": "A whippet was bred to catch vermin. What does a dog show actually test when it judges one — and why does the ideal it is tested against keep moving?",
+    "a": "It tests the look of the work, not the work: a body shaped to suggest speed, never asked to chase anything. And the ideal lives in a written standard that keeps being rewritten, so every Best in Show pulls the breed a little further from the job it is supposed to be preserving."
+   },
+   "imageUrl": "https://www.theparisreview.org/blog/wp-content/uploads/2026/09/3-scaled-e1788383335696-1024x558.jpg",
+   "deepLink": "https://www.theparisreview.org/blog/2026/09/03/the-conformation-show-and-the-pursuit-of-the-ideal-dog/",
+   "attribution": "The Paris Review",
+   "publishedAt": "Thu, 03 Sep 2026 14:00:31 +0000"
+  },
+  {
+   "id": "anticipating-qm975y",
+   "source": "anticipating",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's states lose the power to tax land under their mines",
+   "body": "A 2024 Supreme Court ruling let India's mineral states tax the land above their ore, with arrears going back to 2005. Parliament has now cancelled that power. The relief is oddly shaped: miners who never paid are let off, and miners who did pay get nothing back.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In July 2024, nine Supreme Court judges ruled that royalty — the fee a miner pays for the ore it digs out — is a contract payment, not a tax. That freed states to tax mineral-bearing land themselves, and a follow-up order let them claim arrears back to April 2005. Jharkhand and Odisha moved fast.\n\nThis month Parliament reversed it. The Mines and Minerals Amendment Act, 2026 bars states from taxing mineral rights or mineral-bearing land except on terms the Union sets. Unpaid dues are wiped out. Dues already paid are not refunded — the miner who paid loses, the one who stalled is protected. The Union's factsheet replies that states already get about 90 per cent of mining revenue. That is royalty and auction premiums, the two streams this Act does not touch."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "₹11,000 crore a year — where Jharkhand's mineral land tax was headed",
+      "Over ₹1 lakh crore — Odisha's potential arrears claim",
+      "₹12,000 crore a year — what former Odisha chief minister Naveen Patnaik says his state now loses"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Five minutes of debate in the Lok Sabha, forty in the Rajya Sabha, no standing committee review. Several of the worst-hit states are run by the ruling coalition, so this reads less like party politics and more like power pulled to the centre for its own sake. The belt has been hit before: the 1956 Freight Equalisation Scheme killed the same states' cost advantage, and the damage only showed by 1990."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Two fixes are on the table: a Minerals Council like the GST Council, where states vote on rates, and a temporary revenue floor for the states losing money. Any payout must come from general Union revenue — the GST compensation cess already taxes coal, so Odisha and Jharkhand have been funding other states' transitions all along."
+    }
+   ],
+   "recall": {
+    "q": "The Union says states already get about 90 per cent of mining revenue. Why does that not answer the states' complaint?",
+    "a": "That 90 per cent comes from royalty and auction premiums — two streams the new Act leaves alone. The fight is over a third one: the tax on mineral-bearing land that the 2024 judgment opened and this Act now blocks."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!hhyB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24de2c2d-6066-4b1a-881f-c17959a9346c_2086x1218.png",
+   "deepLink": "https://publicpolicy.substack.com/p/359-misaligned-cognitive-maps",
+   "attribution": "Anticipating the Unintended",
+   "publishedAt": "Mon, 31 Aug 2026 00:02:14 GMT"
+  },
+  {
+   "id": "noahpinion-vr089t",
+   "source": "noahpinion",
+   "topic": "econ",
+   "kind": "news",
+   "title": "France went all-in on nuclear. Its power costs more.",
+   "body": "Many American engineers believe nuclear power would make electricity almost free, if only the rules allowed it. France took that path. It pays 28 cents per kilowatt-hour; America pays 18. And China, which builds reactors gladly, is spending far more on solar.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In his book Where Is My Flying Car?, J. Storrs Hall blames rules and public fear for America's stuck energy future. His fix: nuclear fission, and power so cheap no one would bother charging for it.\n\nNoah Smith agrees America did overstate nuclear's risks. He does not agree about the promise. France has run mostly on nuclear since the 1980s, and its electricity still costs more than America's. Nuclear made French power clean, not cheap.\n\nChina is the harder test. It builds reactors gladly and has cut their cost more than anyone, yet a reactor there costs no less than in 2010. So it builds far more solar instead. Cheap batteries fixed solar's one real gap: the hours after dark. And China is not a country that bends to environmentalists."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "French electricity: 28 cents per kilowatt-hour. American: 18",
+      "France has run mostly on nuclear since the 1980s",
+      "A Chinese reactor costs no less today than it did in 2010",
+      "US energy use per person has fallen since 2000, while GDP per person grew 40%"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Smith's point is not that nuclear is bad — France cut its emissions hugely with it. It is that a right reading of the past has been mistaken for a plan for the future. The cheapest test of which energy source won: watch what China builds."
+    }
+   ],
+   "recall": {
+    "q": "France gets most of its electricity from nuclear — exactly the path America refused. So why doesn't France prove the case for cheap nuclear power?",
+    "a": "Because French electricity costs 28 cents per kilowatt-hour against America's 18. Nuclear made French power clean, not cheap. And China, which builds reactors gladly, is putting far more money into solar."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!uWie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00a9022-e47f-47dc-a25e-ac48a23950f3_684x1000.jpeg",
+   "deepLink": "https://www.noahpinion.blog/p/why-you-wont-get-a-flying-car",
+   "attribution": "Noahpinion",
+   "publishedAt": "Thu, 03 Sep 2026 09:55:22 GMT"
+  },
+  {
+   "id": "psypost-12198eu",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Premenstrual anger: an SSRI steadied more than mood",
+   "body": "Twenty-seven women with severe premenstrual irritability took an antidepressant in the second half of their cycle only. It lowered their self-rated anger — and it also showed up on a computer attention test, where they pressed early less often and kept a steadier pace. Off the drug, only one of four kinds of impulsivity rose before their period; another one actually fell.",
+   "evidence": "single study · n=27 · randomized crossover, single-blind · self-report + attention task",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Every day for three menstrual cycles, the women filled in a short survey. They rated four things: irritability and anger, low mood, mood swings, tension. That daily record was also the entrance exam. Of 203 volunteers, 27 got in. The rule was a number. Their irritability and anger had to rise by at least half in the luteal phase — the last stretch of the cycle, after the egg is released, when progesterone takes over and the body gets ready for a possible pregnancy.\n\nIf no pregnancy comes, hormone levels fall, bleeding starts, and the symptoms lift. When that pattern is severe it has a name: premenstrual dysphoric disorder, or PMDD — several symptoms that arrive in the luteal phase and mostly vanish once the period begins.\n\nEscitalopram is an SSRI, the common class of antidepressant that leaves more serotonin available between brain cells. In premenstrual disorders it works oddly fast: days, not the weeks depression usually takes. That speed is one reason researchers think serotonin sits close to the mechanism. So the women took 20mg a day during the luteal phase only, and nothing the rest of the month. In one cycle the pill was real. In the other it was a placebo, an identical dummy pill. The order was random.\n\nMaria Gröndal and her colleagues wanted to know what exactly was getting impulsive. They measured impulsivity in four parts. Only one rose before the period: negative urgency, the pull to act rashly while feeling bad. Sensation seeking — the appetite for thrill and risk — actually fell. Planning ahead and sticking with things did not move at all. Whatever premenstrual irritability is, it is not a general loss of control.\n\nThe attention test told a second story. On the placebo, the women made more perseverations — presses that jumped ahead of the signal, repeated, or landed at random — and their reaction times wobbled more from trial to trial. On escitalopram there were fewer early presses and steadier timing. Their own ratings of irritability, anger and mood swings came down as well.\n\nNotice that these are two different comparisons. The urgency finding sets one phase against another inside an untreated cycle. The drug finding sets two luteal phases against each other, pill against dummy. Only the second says anything about what escitalopram does. And what it does reaches past mood, into something a machine can count."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "27 women, average age 33, chosen from 203 volunteers; 85 percent had a university degree. Three cycles: the first with no treatment, then two in which the luteal phase was covered by either 20mg escitalopram daily or placebo, in random order. Single-blind, meaning one side — not both — was kept unaware of which pill was which. The attention test was taken in the luteal phase of both treated cycles. The impulsivity questionnaire was taken in the early (follicular) and luteal phases of the placebo cycle only. Each of the three lab visits paid 1,000 SEK, about $100."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one small study. Twenty-seven women, picked on purpose for severe irritability and anger, most of them university educated — a bigger, broader group may not show the same thing. The design was single-blind rather than double-blind, so expectation on one side cannot be ruled out. And urgency was measured only in the untreated cycle: nothing here shows that escitalopram changes it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The cycle did not make them want more. It made feeling bad a shorter path to acting."
+    }
+   ],
+   "recall": {
+    "q": "Besides lowering the women's own ratings of anger and mood, what did escitalopram change?",
+    "a": "How they performed on a computer attention test. On the drug they made fewer presses that jumped ahead of the signal, and their reaction times were steadier from trial to trial — a change a machine could count, not only a change in how they felt."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/escitalopram.jpg",
+   "deepLink": "https://www.psypost.org/escitalopram-reduces-impulsivity-and-anger-in-women-with-severe-premenstrual-irritability/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 06 Sep 2026 16:00:34 +0000"
+  },
+  {
+   "id": "sd-mind-l8k57",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "A gel in the stroke hole, and mice walked normally again",
+   "body": "A stroke kills brain tissue and leaves an empty pocket behind. Nothing in medicine rebuilds it. Duke engineers filled that pocket with a sponge-like gel coated in signals from brain support cells, and new blood vessels and nerve fibres grew in. The surprise: much of the building was done by neutrophils, the immune cells usually blamed for the damage in the first hours after a stroke.",
+   "evidence": "single study · mouse model · sample size not stated · includes an immune-cell depletion control",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The surgeons pull the clot out. Blood rushes back into the brain. The tissue that already died stays dead, leaving a small empty pocket where brain used to be.\n\nThat pocket is the part medicine cannot fix. Drugs that dissolve the clot, and surgery that pulls it out, save tissue that is still alive. That is why speed matters so much after a stroke. But once cells are gone, returning blood flow brings nothing back. Rehabilitation trains the surviving circuits to take over some of the lost work. It does not rebuild the missing piece.\n\nTatiana Segura's lab at Duke went after the pocket itself. The aim was not to make new brain. It was to turn the empty space into a place where the body's own repair cells would agree to work.\n\nSo they injected a scaffold — a frame for cells to build on. It has a name, MAPS, for microporous annealed particle scaffolds, but the picture is simple: tiny gel beads that lock together into a sponge full of open channels. Cells can crawl in, hold on, and build.\n\nThen they added signals borrowed from astrocytes. These are the star-shaped support cells of the brain. They react fast to injury and talk to their neighbours by releasing extracellular vesicles, or EVs — very small packages carrying proteins, fats and genetic material. The team grew astrocytes in the lab and collected their EVs. Instead of squirting them loose into the wound, they stuck the EVs onto the surface of the gel beads. The signals stayed put, exactly where arriving cells would meet them.\n\nOne pairing worked best. Two molecules, IL-4 and C1q, pulled immune cells deep into the injury. Macrophages came, as expected. So did neutrophils — and they stayed.\n\nThat was the surprise. Neutrophils are usually blamed for making stroke damage worse in the first hours. Here they arrived later, into a scaffold soaked in astrocyte signals, and appeared to help. To test it, the researchers cut down that neutrophil-rich group of immune cells. New blood vessel growth fell sharply, and the scaffold was reshaped much less. The cells were not bystanders.\n\nIn the treated mice, blood vessels grew right through the pocket. So did axons, the fibres brain cells use to send signals, both inside the injury and around it. Then the walking test: mice cross a grid, and the count is how often a forepaw slips through a gap. The treated mice kept improving. By eight weeks, statistics could not tell them apart from healthy mice. The gain held for the rest of the study.\n\nOne control matters most. EVs given without the scaffold did not repair blood vessels the same way. So the gel was not a delivery truck. The open structure and the signals held in place were doing the work together."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Mice, and mice only. No sample size is given here. The gel was injected straight into the damaged part of the brain — a far bigger step in a person. Safety is untested. Which immune cell contributes what is still unclear. And it has not been tried in larger animals, whose strokes look more like ours. Segura's lab is now working with EVs from astrocytes grown from human stem cells, a source that would scale better and give more control over what the packages carry."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The same cell can wreck a place or help rebuild it. What decides is when it arrives, and what it finds waiting."
+    }
+   ],
+   "recall": {
+    "q": "Neutrophils are known for making stroke damage worse. What in this study suggested they were helping to repair instead?",
+    "a": "When the researchers cut down the neutrophil-rich immune cells, new blood vessel growth dropped sharply and the scaffold was reshaped much less. The cells also arrived late, into a scaffold loaded with astrocyte signals — so timing and surroundings, not the cell type itself, seemed to decide whether they harmed or helped."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/brain-stroke-x-ray.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Thu, 03 Sep 2026 23:59:21 EDT"
+  },
+  {
+   "id": "neuro-news-1gxt2jk",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "A youth protein revived brain cleanup cells in mice",
+   "body": "The brain keeps its own cleaning crew: immune cells called microglia that swallow dead material and debris. Take away TIMP2 — a protein researchers link with youth — and those cells turn inflamed and stop clearing. Inject TIMP2 into old mice, and the clearing comes back.",
+   "evidence": "single study · mice · TIMP2 deleted, then injected into aged mice · no sample size reported",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "One picture from this study shows a single cell from an old mouse's brain, lit in two colours. Green marks its lysosomes — small sacs inside a cell that dissolve whatever the cell swallows. Purple marks what sits inside them: pieces of synapse, the tiny junctions where brain cells meet. The cell is digesting the brain's litter. That is exactly its job. This mouse had been given the protein this story is about.\n\nCells like it are called microglia. They are the brain's own immune cells and its housekeepers. They clear dead material, support the circuits neurons build, and arrive first at any injury. Old brains get worse at all of it. Tired microglia can slip into what the researchers call maladaptive states: instead of settling trouble, they keep the inflammation burning. Thinking suffers.\n\nAge is the biggest risk factor for Alzheimer's and other diseases that kill brain cells. Why has stayed a hard puzzle. A team at the Icahn School of Medicine at Mount Sinai went after one suspect: TIMP2, a protein they link with youth.\n\nThey tested it both ways. First they took it away. They bred mice without TIMP2 — some missing it only in their microglia, some only in their neurons. The second kind asks the sharper question: do microglia depend on TIMP2 that other cells make? The microglia changed fast. They cleared debris badly. Their gene activity carried the marks of senescence — the worn-out state where a cell stops doing its work and still does not die. The fluid between the cells filled with inflammatory and stress proteins. Remove one protein, and cells took on the signature of a brain that is old and hurt.\n\nThen the other direction. They injected TIMP2 into aged mice, into the body rather than straight into the brain. The microglia moved back out of their inflamed state, and they swallowed and cleared waste better.\n\nJoseph Castellano, the senior author, keeps the claim small: TIMP2 \"may help restore aspects of microglial function\" that age has damaged. The hedge is doing real work."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "Three ways of looking. Single-nuclei RNA sequencing reads which genes are switched on inside one cell nucleus at a time — that is how the senescence pattern showed up. In vivo microdialysis is a fine probe left in a living animal's brain that samples the fluid around the cells; that is how they caught inflammatory and stress proteins rising outside the cells, not only inside. Functional tests then asked the plain question: can these microglia still eat and clear?"
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "All of this is mice, and the team's own line is that more studies are needed. What was measured is cell behaviour: clearing, inflammation, gene activity. The report does not say whether the treated old mice thought or remembered any better. A cell that cleans well is a good sign, not a cure."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Some of what we call an ageing brain may be a cleaning crew that quietly stopped cleaning."
+    }
+   ],
+   "recall": {
+    "q": "Deleting TIMP2 made microglia look aged. What did that alone not show, and what did the second experiment add?",
+    "a": "Deletion only shows the protein is needed; it cannot show the damage can be undone. The team then injected TIMP2 into aged mice, and the microglia moved out of their inflamed state and cleared waste better. Loss and restoration together make the case."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Fri, 14 Aug 2026 21:20:57 +0000"
+  },
+  {
+   "id": "marginalian-xmmhem",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Your mother still watches you for signs of improvement",
+   "body": "Florida Scott-Maxwell says a mother is not free to let her children be. She is under a law — the life that passed through her must come to something — and that one law makes both her love and her damage. It is why, however old she gets, she is still checking her middle-aged children for signs of improvement.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "An old woman watches her middle-aged son across the room. What she is looking for is signs of improvement.\n\nFlorida Scott-Maxwell wrote that in The Measure of My Days. It is the account of her own life, published in 1968, close to the end of it. She had been a playwright, then a suffragist — one of the women who campaigned for the vote — then a psychologist. She is not describing bad mothers. She is describing all of them, herself included.\n\nHer claim is that a mother is not free. She is under a painful law: the life that passed through her must come to something. She did not choose the law and she cannot quit it. Both her love and her damage come out of it.\n\nThen comes the image that stops you softening any of this. A mother who cannot let her child go, who swallows the child whole, is like a frightened cat that eats its own young to keep them safe. The act is monstrous. The motive is protection. Scott-Maxwell is not excusing the harm. She is showing that it grows on the same stem as the love.\n\nThat brings the sentence at the heart of the passage: \"It is not easy to give closeness and freedom, safety plus danger.\" Each pair names two things a child needs, and they pull in opposite directions. Maria Popova, who gathered the passage, hears in it the balance of closeness and independence that Kahlil Gibran said romantic love needs — because the way we love as adults echoes the way we were first held.\n\nThat is also why the watching never stops. However old she is, she checks her grown children for signs of improvement. She has to know that the seeds of value sown in her have been winnowed — winnowing is the farm work of throwing grain into the air so the wind takes the worthless husks and the good seed falls back. She needs proof that something real came through her, and she carries that hope to the end.\n\nHere is the part Scott-Maxwell calls odd, very odd. A mother stays surprised, and even a little wronged, that her sons and daughters turned out to be ordinary people. Many mothers half expect the newborn to be a redeemer — someone who puts the world right.\n\nShe does not mock them for it. She wonders whether they are right: that the rare quality a mother once glimpsed in her child is still working somewhere inside the burdened adult. Maurice Sendak said something near it — that life is largely a matter of \"having your child self intact and alive and something to be proud of.\"\n\nThat is the shift Popova is after. Your mother is not a saint and not a saviour. She is a person who loved you the best way she knew, with the cards she was dealt. Seeing that takes a whole life. Seeing it without bitterness is what a life can win."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "She never put the hope down. That is the burden, and it is also the love."
+    }
+   ],
+   "recall": {
+    "q": "Scott-Maxwell compares a mother who holds on too tight to a frightened cat that eats its own young. What is she saying with that image — and what is she not saying?",
+    "a": "That the harm and the love come from one source: she is under a law that the life that passed through her must come to something, and fear turns that into holding on too tight. She is explaining the act, not excusing it — the image is meant to be monstrous."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/01/floridascottmaxwell_themeasureofmydays.jpg?fit=320%2C492&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/05/florida-scott-maxwell-mother/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sat, 05 Sep 2026 04:29:05 +0000"
+  },
+  {
+   "id": "marginalian-1xjzr5z",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Beauvoir at 19: friendship, not love, got it right",
+   "body": "At nineteen, in her student journal, Simone de Beauvoir asked what love really is. Her answer: not much. Real connection, she decided, is two free people who keep freeing each other. The romantic ideal fails that test, because it asks one self to dissolve into the other. She found the real thing not in a lover but in her best friend, Zaza.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A packed recital hall in Paris, early last century. In the front rows sit girls in their best dresses, curled and ribboned, waiting their turn at the piano. Behind them, teachers in stiff black silk and white gloves. A girl in a blue taffeta dress plays a piece her mother had called too hard for her. She plays it perfectly, for once. Then she turns and sticks her tongue out at her mother.\n\nThe curls in the front row trembled. The teachers' faces froze. The girl was Zaza. Watching her was Simone de Beauvoir, who remembered the moment for the rest of her life.\n\nBeauvoir was nineteen when she started writing about love in her journal, published later as Diary of a Philosophy Student. She had an intellectual crush on a young man who would become a famous philosopher himself. She was also suspicious of the whole business. To say that I love him — what does that mean? Does the word have a meaning at all?\n\nHer doubt ran like this. Suppose you love people for what is deepest in them — not their intelligence, just the plain fact that they exist. Then you must love them all equally, since existing is already complete. So the strange thing is not that we love everyone. It is that we prefer one.\n\nAsked what love is, she answered: not much. Sensitivity, imagination, tiredness, the effort to depend on somebody. A taste for the other person's mystery, and the need to admire.\n\nWhat she wanted instead came from Hegel, the German philosopher. For a mind to be free, he held, it must free the other mind too. Freedom is not held alone. It is something two people do for each other. From that, Beauvoir drew her formula for the ideal bond: absolute reciprocity — two minds recognising each other as the same kind of thing, equal in both directions.\n\nThe romantic ideal we inherited swaps that for something else: swallowing. One self dissolves into the other, and the loss gets called depth. Beauvoir, at nineteen, refused the trade. Love should not make everything else disappear, she wrote, only tint it with new shades. She wanted \"a love that accompanies me through life, not that absorbs all my life.\"\n\nShe found it, and not with a lover. She found it with the girl in the blue dress. She only understood it during one of the separations their families and school terms kept forcing on them. She had never even thought to tell herself that she missed Zaza. \"I needed her presence to realize how much I needed her,\" she wrote.\n\nThe neat ranking she grew up inside — friendship respectable, romance splendid, family love sacred — fell apart. Friendship, she decided, gets right what love keeps getting wrong: it asks everything of you and demands nothing. No jealousy, no conditions, no testing. She did not need Zaza to feel anything definite back, and admiring her never made her smaller in her own eyes.\n\nZaza died suddenly at twenty-one, halfway through Beauvoir's second year of philosophy. The woman who spent the rest of her life breaking rules first learned it could be done from a girl who stuck her tongue out at a piano recital."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The ideal she refused has a defence. The self-loss she calls swallowing is exactly what its admirers prize — the proof that this love is unlike every other. And she was nineteen, writing about a crush, not about a life shared across decades. She went on to build her own rule-breaking union of minds. So her real target may have been the demand that one side give way, not romance itself."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The test is not how much of you a bond takes. It is how much of you it leaves standing."
+    }
+   ],
+   "recall": {
+    "q": "Beauvoir wanted a love that goes alongside her life instead of swallowing it. What was she rejecting, and where did she find her alternative?",
+    "a": "She rejected the romantic ideal in which one self dissolves into the other. Her alternative, taken from Hegel, was two free people who keep freeing each other — absolute reciprocity. She found it not in romance but in her friendship with Zaza, which asked everything of her and demanded nothing back."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/04/debeauvoir_memoir.jpg?fit=320%2C491&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/05/simone-de-beauvoir-love-friendship/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sat, 05 Sep 2026 19:42:07 +0000"
+  },
+  {
+   "id": "et-economy-1wod4pt",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Deposits from Indians abroad are testing the RBI",
+   "body": "Indians living abroad are moving foreign currency into Indian bank accounts. All that money lands as spare cash in the banking system, and the Reserve Bank now has to decide what to do with it. One auction will show how big the pile really is.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Indians living abroad are pouring money into FCNR(B) accounts — foreign currency deposits that non-residents hold at Indian banks. That money lands as spare cash inside the banking system. Keeping that spare cash — liquidity — in a comfortable range is the Reserve Bank of India's job.\n\nThe test is a variable rate reverse repo auction. The RBI invites banks to park their spare cash with it for a fixed period, and banks bid on the rate. How much they offer, and how cheaply, tells the RBI how big the surplus really is. That reading may shape how it manages liquidity from here.\n\nTwo heavier tools are held back: dollar swaps with banks, and sales of government bonds."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Good news with an awkward side. The inflow is welcome, but the RBI still has to decide how much of that cash to leave in the system — and one auction sets the tone for the months ahead."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "How much cash banks actually park in the auction, and whether the RBI stops there or reaches for dollar swaps and bond sales."
+    }
+   ],
+   "recall": {
+    "q": "Deposits from Indians abroad sound like plain good news. Why do they become a problem the RBI has to manage?",
+    "a": "The money lands as spare cash inside the banking system, and holding that spare cash in a comfortable range is the RBI's job. The reverse repo auction is how it measures the surplus."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-133850114,imgsize-.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/finance/rbis-liquidity-test-may-set-future-course/articleshow/133850114.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Mon, 07 Sep 2026 00:54:53 +0530"
+  }
+ ]
+}
