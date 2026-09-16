@@ -1,0 +1,958 @@
+{
+ "date": "2026-09-16",
+ "generatedAt": "2026-09-16T19:10:05.938Z",
+ "cards": [
+  {
+   "id": "letter-2026-09-16",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "Minds at their edges",
+   "body": "Today's pieces sit with minds at their edges. Sew a cut hand nerve back together, and the brain's map of the fingers comes back redrawn. Put a chatbot in a therapy chair, ask about its early years, and you get a childhood it never had. The one not to miss is the first: some people with severe dementia start speaking clearly again in their last days, naming family after a year of silence, and nobody knows why.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "psyche-89yqwp",
+   "source": "psyche",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Dying dementia patients sometimes wake. Nobody knows why.",
+   "body": "Some people with severe dementia speak clearly again in their last days — naming family, holding a conversation — after a year of silence. By then up to half the connections between their brain cells are gone, so this should not be possible. Nobody has ever recorded a brain while it happens.",
+   "evidence": "essay reviewing multiple studies · best evidence: 1,433 hours of video from 20 hospice patients, 9 episodes in 3 · no ph",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Lydur sits beside his mother's bed in an Icelandic retirement home, filling in a crossword. She is 81. Her Alzheimer's is severe. For a year she has not recognised her family or spoken a word to them. Then she sits up and looks him in the face.\n\nThe biologist Michael Nahm and colleagues at the University of Virginia and the University of Iceland reported that case in 2011. It has a name: terminal lucidity. Lucid means clear-thinking. It is a sudden return of clear thought and speech in people with severe dementia or brain damage, shortly before they die.\n\nThe neuroscientist Ariel Zeleznikow-Johnston's first thought was that it cannot be real. By the time someone with severe dementia dies, the brain is wrecked. Between 20 and 50 per cent of their synapses are gone — the junctions where one brain cell passes a signal to the next — and the shrinking shows on an MRI scan. Dying is hard on the brain too. Everything we know says thinking should get worse here, not better.\n\nYet the reports keep coming. In some surveys, 60 to 70 per cent of dementia caregivers say they have seen at least one patient come back to clear thought in the days before death. A study in hospices, which care for the dying, found it in 6 per cent of deaths — roughly 10,000 cases a year in the US alone.\n\nIf it is real, it breaks something. Memory is thought to live in the strength of particular synapses, and dementia erases memory because those connections fall apart. So when a woman who has not known her son for a year says his name, where was that memory kept? Either that account of storage is wrong, or memory also sits somewhere tougher that nobody has found. Sixty million people have dementia, and their care costs over $1 trillion a year. The newest drug, lecanemab, costs about $30,000 a year and slows the decline only slightly. A brain that repairs itself for free would be worth understanding.\n\nBut there is a serious case that it is not real. Nearly every report comes from a family member or caregiver — people who have waited months for one last sign, with no training to tell meaning from reflex. A 2024 paper described a 12-year-old girl with cancer who had not responded to anything for months. Her mother said that just before death she opened her eyes, mouthed \"I love you\", and blinked answers to yes/no questions. Was that speech, or muscle movement? Is a squeezed hand a reply, or a twitch? Nobody wants to ask a grieving mother how sure she really is.\n\nThe numbers wobble too. In a 2024 caregiver survey by Joan M Griffin, 51 per cent of these episodes involved speech that made complete sense. But 48 per cent happened at least six months before death, and only 18 per cent in the final week. Most were nowhere near the end. They may be the ordinary ups and downs of dementia.\n\nThe strongest evidence is video. A University of Wisconsin-Madison team watched 1,433 hours of footage from 20 hospice patients and found nine episodes in three of them, with communication far above each patient's own measured baseline. One man, after two weeks of decline, spoke in full sentences for two days, named his family, said \"I'm leaving soon\", and died days later.\n\nWhy it happens, nobody knows. The honest answer stops there. Two guesses exist. Dying patients often get swelling in the brain, which squeezes the tissue and cuts blood flow. In the final days many stop eating and drinking. That loss of water might drop the pressure enough to let oxygen and glucose, the brain's fuel, back in. The second guess is cruder: knocking a broken system sometimes fixes it, the way hitting a faulty device can. One paper calls this spontaneous network integration. Zeleznikow-Johnston's translation: strange things happen in a dying brain, and we do not know what they are.\n\nThere is still no scan, no blood test, no measurement of any kind taken during an episode. A team at NYU Langone led by Sam Parnia plans to run continuous EEG — a recording of the brain's electrical activity — on 500 dying dementia patients. Until that arrives, Lydur has only what he saw over his crossword: his mother, sitting up, looking at him."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Almost all the evidence is anecdotal: stories told afterwards by people who badly wanted to see something. No instrument and no neutral observer ever checked a single case. The video study is the best there is, and even its authors cannot rule out observer bias — seeing what you hope to see."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Either the dying brain does something we cannot explain, or grief does — and nobody has yet pointed an instrument at it to find out which."
+    }
+   ],
+   "recall": {
+    "q": "If terminal lucidity is real, what standard idea about the brain would have to be wrong?",
+    "a": "The idea that memory lives in the strength of particular synapses. Dementia destroys those connections, so if a patient can still reach old memories after they are gone, either that account of storage is wrong, or memory also sits somewhere tougher that nobody has found."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/bd355252-7815-4888-b3ba-e11d8508fce2/sz-panos_00285556.jpg?top=186&left=0&cropWidth=2192&cropHeight=1233&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/ideas/terminal-lucidity-when-dying-dementia-patients-regain-awareness",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Wed, 16 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "psypost-1qwjrlk",
+   "source": "psypost",
+   "topic": "world",
+   "kind": "news",
+   "title": "Two-thirds of ICE arrests now involve no conviction",
+   "body": "Only 34 percent of the people ICE arrests have a criminal conviction — near the lowest share in a decade. The count behind that share is large: 952 arrests a day, triple the rate of the year before. That is about 630 people a day taken with no conviction on record.",
+   "evidence": "administrative records · 1.5M+ ICE arrests, Oct 2015–Mar 2026 · ICE's own data",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Thirty-four percent of people arrested by ICE — the US agency that enforces immigration law inside the country — had a criminal conviction. The count behind that share is large. Arrests ran at 952 a day between January 2025 and March 2026, against 304 a day the year before, a rise of 214 percent. So roughly 630 people a day were taken with no conviction on record.\n\nAny conviction counts here. A minor one counts the same as a serious one. And it marks a past conviction, not the reason for this arrest.\n\nICE also changed method. Community arrests — made in homes, workplaces and streets rather than in jails — rose from 17 percent of the total to 47. But that shift explains only about a quarter of the fall. The rest came from inside both methods: the conviction share dropped 16 points when ICE collected people from jails, and 10 points in community arrests."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "952 arrests a day, Jan 2025–Mar 2026, up from 304 a day (+214%)",
+      "34% had a conviction — near a ten-and-a-half-year low",
+      "Community arrests: 17% of the total before, 47% after",
+      "The change in method explains about one quarter of the drop"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The stated reason for the expansion was public safety: removing people who commit crimes. The numbers run the other way. As the scale grew, the share with convictions shrank — and it shrank almost everywhere, across nearly all of ICE's 25 regions. That holds whether the local jump came from jails (El Paso, Miami, New Orleans, San Antonio) or from neighbourhoods (Boston, Chicago, Newark, Seattle, all of California and New York)."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Why the share fell among people collected from jails is still open. It could be ICE choosing different people to collect, or local police jailing a different population in the first place. Two limits to hold: the records are ICE's own and cover only people formally processed, and the count is of arrests inside the country, not people stopped at the border."
+    }
+   ],
+   "recall": {
+    "q": "ICE now makes far more arrests in homes and workplaces, where fewer of those arrested have convictions. Why does that not explain the fall in the conviction share?",
+    "a": "It explains only about a quarter of it. The share also fell inside both methods — 16 points when ICE collected people from jails, 10 points in community arrests. So who ICE targets changed, not just where."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/ICE-border-patrol-agents.jpg",
+   "deepLink": "https://www.psypost.org/ice-arrests-surged-under-trump-but-the-share-of-those-with-criminal-records-plummeted/",
+   "attribution": "PsyPost",
+   "publishedAt": "Tue, 15 Sep 2026 22:00:11 +0000"
+  },
+  {
+   "id": "exp-history-1ri773i",
+   "source": "exp-history",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "It's not a loneliness epidemic. It's social scurvy.",
+   "body": "Surveys do not show people getting lonelier. They show people getting more alone — and the two are not the same thing. The claim here: like scurvy, being starved of company harms you without ever making you want the cure.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "76% of adults in California said they felt lonely. In Anhui, a province in China, 78% did. The researchers then asked why loneliness was rising across the world.\n\nBut they had asked only once. Nobody knows what those same people would have said a year ago, or ten years ago. Maybe they were always this lonely. That is the first quiet mistake in the loneliness epidemic story: one real number, one imagined number behind it, and a line drawn between them.\n\nThe second mistake is a graph that splits today's answers by age. The young look lonelier than the old, and the conclusion writes itself — phones, feeds, kids alone upstairs. But that graph cannot tell you which of two things it shows. It may be an age effect: every generation is lonely when young and grows out of it. Or a cohort effect: these particular kids are different, and stay lonely for life. To tell them apart, compare today's teenagers with yesterday's. Do that and loneliness drifts slightly down, not up — on a scale of 1 to 5, by an amount you have to squint to see. Newer data hints it may have crept back to 1980s levels. Honest summary: mixed, and small.\n\nHere is what did change. In the US, time spent with friends on weekends has fallen by half in twenty years. Almost all of the extra time alone comes from seeing less of people outside the home, and the slide began well before covid. People are not much lonelier. They are much more alone.\n\nSo maybe being alone is harmless? It is not. Isolated people are more likely to be depressed, to have a heart attack or a stroke, to get dementia, to catch a cold, and to die sooner — though those studies only show the two travelling together. When the isolation is forced, the damage is fast and plain. Prisoners held alone in a cell go dull and blank, and their thoughts start to loop. A Spanish woman who spent 500 days alone in a cave came out flirting with her GoPro cameras, hearing drums that were not there, and accusing her equipment of poisoning her with sound waves.\n\nSo why does it not feel worse? Think about scurvy. Without vitamin C your joints ache, your legs swell, your skin spots, your teeth fall out, and in the end you die. A few spoons of lemon juice stop all of it. Yet people dying of scurvy never start craving fruit. They waste away without ever asking for a grapefruit.\n\nBehind this is a model of the mind as a stack of thermostats. Each one watches a thing that matters and complains when it drifts. A food-stat makes a burrito sound wonderful when you are empty and disgusting when you are full. We never grew a vitamin C gauge, because a normal mixed diet gave us enough. Scurvy only became a real disease in the 1500s, when ships could stay at sea for months.\n\nThe social-stat is the same kind of cheap part. Starve a person of food and they dream of buffets; the wanting grows until they eat or die. Starve them of company and they mostly just fade. In the pandemic, the writer's brain never sent \"go and see people\". It sent \"everything feels bad and it will never feel better\". He never joined the two facts up. Our ancestors never needed a better gauge, because food, warmth and safety all lived among other people. The Tsimane of Bolivia spend about 2.4 daylight hours alone. In the US it is closer to 5.5.\n\nThat is why the wrong name gives you the wrong cure. Call it loneliness and the plan becomes: wait until you feel lonely, then do something. But the feeling is the broken gauge. Wait for it and you will wait too long."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "Researchers kept people away from either food or other people for ten hours, asking again and again how hungry or how lonely they felt. Both cravings rose. But hunger rose faster, harder, and far more alike from person to person. By the end of the day, 10% of participants wanted company no more than when they started."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Screens do not fill the gap. The writer had Zoom calls, texts, phone calls and online games all through the pandemic, and still fell apart. Face time, not FaceTime.",
+      "The people you live with are not enough. Talking only to them beats nothing, but it is still thin. A good week includes someone who shares neither your genes nor your address.",
+      "Trust the plan, not the mood. People expect conversations to go worse than they do, and remember them as worse than they were. Made to talk to a stranger, they enjoy it and come away more confident.",
+      "It will not fix itself. When remote work moved people out of the office, they simply spent more time alone. Nobody made up the difference on their own."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Different datasets and cohorts point in different directions. The claim here is only that the changes are small and not everywhere — not that loneliness has fallen. The health findings are correlations, so isolation may be partly a symptom, not only a cause. And the ten-hour study is one small experiment; its sample size is not given."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Scurvy never made anyone want an orange. That did not make the oranges optional."
+    }
+   ],
+   "recall": {
+    "q": "The data says people are more alone but barely lonelier. Why is that gap the problem rather than good news?",
+    "a": "Because the feeling is the broken gauge. Like a lack of vitamin C, a lack of company harms us without making us want what we are missing. So a flat loneliness trend does not show that nothing is wrong — only that our warning system is weak."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!aCqC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc20f3baf-8076-4e07-9eb6-51eea34f108a_1785x1194.jpeg",
+   "deepLink": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness",
+   "attribution": "Experimental History",
+   "publishedAt": "Tue, 15 Sep 2026 12:54:38 GMT"
+  },
+  {
+   "id": "transmitter-sjc5fq",
+   "source": "transmitter",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Mice missing 98% of cortex, filled with human cells",
+   "body": "Scientists deleted almost the entire cortex of mice before birth, then filled the empty space with human brain tissue grown from stem cells. The human cells took hold and formed circuits that carried electrical activity — something they struggle to do when mouse cells crowd them out. The odd part: those mice behaved almost normally even before the transplant.",
+   "evidence": "single study · engineered mouse model · circuit integration and electrical activity; no sample size reported",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "So is this a mouse with a human brain?\n\nNo. Start with what actually went in. The team grew cortical organoids — small clumps of tissue that look like the cortex, the brain's outer sheet. They are grown in a dish from human stem cells. Those clumps went into newborn mice.\n\nPutting organoids into rodents is not new. Human cells placed in a rat grow further than they ever do in a dish, and they build more complex circuits. But a skull is already occupied. \"They will be outcompeted by mouse cells very quickly,\" says Sergiu Pașca of Stanford University, the study's senior investigator. And when the two kinds of cell sit side by side, he says, it is very hard to tell which one causes what.\n\nSo the team made room. They deleted ESCO2, a protein cells need in order to divide. They deleted it only in cells marked as dorsal and medial pallium — the patches of early forebrain that grow into the cortex and the hippocampus, a deeper structure beside it. Those cells could not multiply. The mice also had their immune defences weakened, so they would not reject human tissue.\n\nThe result was mice missing 98 percent of their cortex and hippocampus, with half the brain tissue of a normal mouse. The human organoids went into that space. The team calls the animals xenocortical — a cortex from another species.\n\nFine. So what was actually measured?\n\nTwo things. The human cells joined the nervous system. And they formed circuits that carried electrical activity. That is wiring that works — not a mouse that thinks differently. The team then used these animals to model hypoxia, a state where brain cells do not get enough oxygen. Around the time of birth it can cause cerebral palsy, and it is linked with autism and epilepsy. Hongjun Song, a neuroscientist at the University of Pennsylvania who was not involved, calls it \"a live model\" — human cells inside a living animal, where treatments could be tested.\n\nHere is the problem. To make room, the team built an animal born with almost no cortex of its own and its immune defences switched off. They report it as not perfectly normal but surprisingly functional: it walks a little more cautiously. Read that one way, and the mouse cortex was doing less than anyone assumed — which makes the transplant's own contribution hard to see at all. Read it the other way, and you have built a creature whose working brain circuits are human, in a body designed to have nothing else. Which is it?\n\nNeither, yet. The paper measures wiring and activity, not experience. It does not say which behaviours the human cortex is responsible for. Both readings stay open.\n\nSo the question is not whether this mouse has a human mind. It is what the human tissue would have to start doing for that answer to change — and who is watching for the moment it does."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "One study, in mice. It reports wiring and electrical activity — not behaviour traced to the human cells. These are not ordinary animals: nearly all of their own cortex and hippocampus was deleted, and their immune systems were weakened. That is exactly what let the human cells survive. So how well human neurons do here says little about how they would do in an intact brain. The report gives no sample size."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The finding is that the wiring works. Everything harder is still a question someone has to keep asking."
+    }
+   ],
+   "recall": {
+    "q": "The mice were missing 98 percent of their cortex and hippocampus yet behaved almost normally. Why does that make the study harder to read, not easier?",
+    "a": "The empty space is what let the human cells survive instead of being crowded out. But it also means the mouse cortex was doing less than expected, so normal-looking behaviour afterwards cannot be credited to the human tissue. The study measured circuit integration and electrical activity, not what the human circuits actually do."
+   },
+   "imageUrl": "https://www.thetransmitter.org/wp-content/uploads/2026/09/525-human-mice-organoids.png",
+   "deepLink": "https://www.thetransmitter.org/spectrum/human-brain-organoids-flourish-in-emptied-mouse-cortex/",
+   "attribution": "The Transmitter",
+   "publishedAt": "Wed, 16 Sep 2026 15:00:16 +0000"
+  },
+  {
+   "id": "finshots-1az80om",
+   "source": "finshots",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's freight corridor is built. Trucks still win.",
+   "body": "India finished a 2,800 km railway last week that carries only goods trains. It was built so freight stops waiting in side tracks while passenger trains pass. One train on it recently moved what 250 trucks would have. The jam now sits at both ends of the line.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Three reasons the cargo still crawls.\n\n1. Rail is cheaper and loses anyway. Moving a tonne one kilometre costs about ₹1.4 by rail and ₹2.5 by road. Trucks still carry 70% of India's freight. Railways cannot say when a wagon will arrive; a truck leaves the moment it is loaded.\n\n2. The terminals were built for giants. A private siding — a rail line running into a factory's own gate — costs over ₹20 crore, before land. India has nearly 1,200 of them, and they carry about 75% of all rail freight. Small factories were never the plan.\n\n3. The trick that works skips terminals. On one 636 km stretch, shippers drive whole trucks onto flat wagons: 12 hours, against 30 by road. One of its biggest customers is Amul, sending milk tankers on flatcars."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "First proposed in 2004, finished last week",
+      "Rail's share of all Indian freight: about 25%",
+      "147 freight terminals running as of September 2026 under Gati Shakti, a 2021 policy that lets any registered company lease railway land; 300 more approved, about ₹10,000 crore of private money promised",
+      "Jawaharlal Nehru port near Mumbai sent out about 27 freight trains a day before the corridor reached it; with full access that could reach nearly 100"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "An IIM Mumbai study estimates the corridors, paired with large hubs where road, rail and ship meet, could cut India's logistics bill by nearly ₹7 lakh crore a year. All of it depends on cargo reaching the tracks on time. The real test is not the port or Amul. It is a mid-sized factory in Ludhiana or Coimbatore that has never owned a siding and never will."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "A new corridor from the east coast straight to the west, skipping the long detour through Delhi, was announced earlier this year. It is in early planning."
+    }
+   ],
+   "recall": {
+    "q": "Rail moves a tonne one kilometre for about ₹1.4 and road charges ₹2.5. So why do trucks still carry 70% of India's freight?",
+    "a": "Shippers are buying certainty, not the cheapest rate. Railways cannot say when a wagon will arrive; a truck leaves the moment it is loaded. And the cheap rail rate only starts once cargo reaches a terminal — which most mid-sized factories have no link to."
+   },
+   "imageUrl": "https://cdn.finshots.app/images/2026/09/India-s-Dedicated-Freight-Corridor.jpg",
+   "deepLink": "https://finshots.in/archive/the-dedicated-freight-corridors-last-mile-challenge/",
+   "attribution": "Finshots",
+   "publishedAt": "Tue, 15 Sep 2026 01:30:21 GMT"
+  },
+  {
+   "id": "phil-break-jrb4nu",
+   "source": "phil-break",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Kant: don't chase happiness, become worthy of it",
+   "body": "Bentham said the right act is the one that makes the most people happy. Kant said we cannot predict happiness — not even our own, fifteen minutes from now — so it cannot decide right and wrong. His answer sounds cold. It is not.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A plate of chocolate cake. How much is enough? You guess. You find out only after you have eaten.\n\nThat small failure points at a big idea. Jeremy Bentham, the English philosopher, had said the right act is simply the one that brings the most happiness to the most people. That view is called utilitarianism: judge an act by its results. Writing a decade later, Immanuel Kant says this gets morality wrong. Happiness is different for everyone. It keeps changing. We cannot see it coming. If you cannot predict your own pleasure fifteen minutes ahead — if the job title you were sure about leaves you restless two months later — what right do you have to make everyone else's happiness your measure? Judging by results means judging by guesses.\n\nSo Kant moves the measure. Here is his sentence:\n\n“morality is not… the doctrine [of] how we should make ourselves happy, but how we should become worthy of happiness.”\n\nTake it in pieces.\n\nMorality is not the doctrine of how we should make ourselves happy. Doctrine just means teaching. Kant is turning down a job that moral philosophy is usually handed. This subject is not a happiness manual — not for you, and not for anyone else.\n\nBut how we should become worthy of happiness. Everything turns on worthy. Worth is something you can have before anything works out. A results-based morality can only grade you after the world has replied. Kant wants a standard that is settled the moment you act.\n\nThat standard is what he calls a good will: doing what is right because it is right, with the calculating stripped out. Give money to a hospital because it feels good, or because people will admire you, and the hospital still gets the money. Kant agrees the result is fine. He just will not call the act moral, because your reason was yourself. Duty is the same thing seen from the other side — you follow the rule because it is the rule, not because of what it gets you.\n\nAnd the rule cannot be built from feelings. They are too shaky to settle anything for everyone. Only reason can. Kant's name for that one governing rule is the categorical imperative — imperative as in command, categorical as in unconditional, with no “if you want X” attached. One version of it, from his Groundwork of the Metaphysics of Morals (the title means roughly the foundations of morality), says never to use a person “merely as a means” — never as a mere tool for your ends. People can reason, choose, and go after their own goals. That power gives them a dignity you owe respect. Force, manipulation and lies walk straight past it. Asking, agreeing and working together do not.\n\nNotice what this buys. Whether you like the person drops out. So does whether things turned out well. It is why Kant's rule sits under modern talk of universal human rights and individual liberty: a dignity that does not wait on results, or on anyone's affection. He is not refusing to care about happiness. He is refusing to let the way things turn out decide whether what you did was right."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "You give to a cause partly so people see you give. The good still happens. By Kant's test you acted from self-interest, so the act does not count as moral.",
+      "You take the job because the title will finally settle you. Two months on you are restless again. That is the shaky instrument Kant says morality cannot be built on.",
+      "You ask a colleague for help and accept a no. Asking respects their power to choose. Steering them would not.",
+      "You get your way by managing what someone is allowed to know. Deceit bypasses a person's choice — the one thing Kant says you may never do."
+     ]
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The cold reading of Kant has a real case. A friend asks your opinion on something tender, and the kind answer is a small lie. Most of us call that decent. Kant's other test — act only on a rule everyone could follow — says no. The rule would be: I may lie to avoid a harsh truth. Make it universal and it collapses, because lying only works in a world that expects the truth. If nobody believed anything, there would be nothing left to lie about. The verdict is a strict duty not to deceive your friend. Scholars still argue about how to live inside a system this strict, and this piece does not pretend that is settled."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Luck can hand you a good outcome. It cannot hand you a good will."
+    }
+   ],
+   "recall": {
+    "q": "Kant says morality teaches us not how to make ourselves happy, but how to become worthy of happiness. Why does the word worthy carry so much weight?",
+    "a": "Worth is something you can have at the moment you act. If rightness depends on results, the world has to reply before anyone can judge you — and happiness cannot be predicted, so that judgment rests on guesses. Kant wants a standard already settled by your reason for acting."
+   },
+   "imageUrl": "https://philosophybreak.com/static/349740f9676cee8bc2644ae70af96992/kant.jpeg",
+   "deepLink": "https://philosophybreak.com/articles/immanuel-kant-morality-is-not-about-making-people-happy/",
+   "attribution": "Philosophy Break",
+   "publishedAt": "Fri, 21 Aug 2026 00:00:00 GMT"
+  },
+  {
+   "id": "nautilus-7qg5w0",
+   "source": "nautilus",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Your brain tracks each breath's shape, not just its rate",
+   "body": "We count breathing as a rate. But every breath has a shape — fast in, slow out, with odd double inhales and long pauses. Using electrodes placed inside the skull, researchers found that electrical activity in deep emotion and thinking regions rises and falls with that shape, breath by breath, down to the millisecond. So the link between breath, memory and attention may be finer than the inhale-versus-exhale split everyone has been measuring.",
+   "evidence": "single study · intracranial recordings in drug-resistant epilepsy patients · sample size not reported",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Stop reading for a second and find your breath. You are somewhere in a cycle right now — air coming in, air going out, or the small still gap between. You did not decide which. Until this sentence, you did not even know.\n\nNow notice the shape of it. Your inhale is quick and steep. Your exhale is slower, drifting down. Drawn on paper, one breath looks less like a smooth wave and more like a shark fin. Watch yourself for an hour and you would also catch double and triple inhales, quick fluttering breaths, and flat stretches where you simply stop for tens of seconds.\n\nNone of that survives in a breath rate — the number of breaths you take. A rate is one number. A breath has a shape, and the shape is different every time.\n\nSo a team led by Eena Kosik-Rose at the University of California, San Diego asked a new question. Does the brain only know inhale from exhale, the way we have always measured it — or does it follow the whole squiggle?\n\nIt follows the squiggle. Deep inside the brain — in limbic regions (old structures tied to emotion and memory) and in the cortex (the outer layer that does most of our thinking) — electrical activity rose and fell with the shape of each single breath, millisecond by millisecond. Not \"inhaling now\". This inhale, at this speed, with this much air, fading this fast. Each breath leaves something like a fingerprint on the signal.\n\nHere is why that reaches into your thinking. Christina Zelano, who worked on the paper, has already shown that giving someone a thing to remember during an inhale rather than an exhale changes how well they remember it. Breath is already tied to memory, to how closely you notice what your senses pick up, and to how hard anxiety hits. If the brain tracks shape and not just direction, the timing that matters may be far finer than in-or-out — and the good moment for something to arrive may be a smaller target than anyone has looked for.\n\nBradley Voytek, who chairs UC San Diego's cognitive science department and worked on the study, is careful here. The finding does not change what we know about breath and memory. It makes better experiments possible.\n\nAnd this is not a breathing exercise. Slow breathing does calm you — it is among the first things taught for panic attacks, and it is the one lever that lets you slow your own heart indirectly, which you cannot slow by wishing. But that is you pushing the rhythm. This is the rhythm running underneath, unasked, all day. We keep flattening rich body cycles into simple switches — asleep or awake, in or out — because switches are easy to count. Bodies do not run on switches. As Voytek puts it, we are not \"brains in a vat\". The thinking happens inside something that is, right now, breathing in a way nobody has looked at closely."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "Reading single breaths needs timing that normal tools cannot give. fMRI measures blood oxygen, which arrives seconds after the neurons fire. It shows where, not when. EEG from the scalp is worse at where — Voytek compares it to following a conversation inside a domed stadium with a microphone parked outside.\n\nSo the team worked with people whose epilepsy does not respond to drugs. To find the tiny patch causing the seizures, surgeons open the skull, place electrodes directly in the brain, and wait up to two weeks for one. The researchers recorded during that wait. They marked exactly when each inhale began, when it turned into an exhale, how much air moved, how fast, and how long it took to fade. The work was published in the Journal of Neuroscience."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Every person recorded had severe epilepsy that drugs could not control. Voytek says so plainly: it does bias the signals, but it buys access no other method gives. The interview does not say how many patients took part.\n\nAnd this is coupling, not cause. The brain's voltage follows the breath. That is not proof that the shape of a breath changes what you think — only that something in your head is reading it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "You have been breathing this entire page. Something inside your head was reading it back."
+    }
+   ],
+   "recall": {
+    "q": "The study measured more than inhale versus exhale. What did the brain's electrical activity actually follow — and why does that unsettle the older work on breath and memory?",
+    "a": "It followed the shape of each single breath — when the inhale began, how fast it was, how much air moved, how slowly it faded — millisecond by millisecond. Experiments linking breath to memory have only compared inhale against exhale, so if the brain tracks shape too, the timing that affects memory may be finer than that two-way split."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2759321345.jpg?w=564",
+   "deepLink": "https://nautil.us/the-rhythm-of-your-breath-leaves-a-fingerprint-on-your-thoughts-1285059/",
+   "attribution": "Nautilus",
+   "publishedAt": "Wed, 16 Sep 2026 14:00:00 +0000"
+  },
+  {
+   "id": "splintered-1xenzlj",
+   "source": "splintered",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Ethics professors don't behave better. So what?",
+   "body": "For almost ten years, studies found that ethics professors behave no better than professors of anything else. Eric Schwitzgebel ran those studies. He rejects both easy readings — that ethics is useless, and that behaviour is beside the point. His own two papers pull in opposite directions, and he has not finished choosing.",
+   "evidence": "series of studies from 2007, with Joshua Rust · ethics professors vs professors in other fields · consistent null; no ef",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "For almost ten years, Eric Schwitzgebel asked the same question with data. Do people who study right and wrong for a living actually do more right? With Joshua Rust, he ran study after study. They compared ethicists — professors of ethics — against professors from every other field. The answer never moved. Ethicists behave no better.\n\nSo: does studying ethics make you behave better? Two answers wait here. Both are stronger than they look.\n\nThe first says the data settles it. Ethicists are the best case moral training will ever get. They read the arguments closely and teach them for decades. If careful thinking about right and wrong changed conduct at all, it should show up here before anywhere else. It doesn't. That points somewhere uncomfortable: moral reasoning mostly arrives after the choice, a defence we build for what we were going to do anyway.\n\nThe second says the test is pointed at the wrong thing. Ethics is about what follows from what: which principles hold, where they break, what we owe each other. Whether one professor is kind or lazy is a fact about that professor, not about the argument. Weak people can prove strong claims.\n\nSchwitzgebel takes neither. Calling ethics useless is too easy. So is waving the results away, as if how you behave had nothing to do with ethics. The real question is what behaviour measures — and his two papers disagree about that.\n\nThe first, from 2019, argues that almost nobody aims to be good by an absolute standard. We aim to be about as good as the people around us. If that is right, a real ethical discovery can leave your conduct exactly where it was. Your peers have not moved, so your target has not moved. You keep aiming at the middle. What changes is only your opinion of how good the middle is. Behaviour, on this view, measures your neighbours more than your reasoning.\n\nThe new paper pushes back. Behaviour matters, it says — not as proof of motivation, but as proof of understanding. Grand mottos are nearly empty on their own: make the most good happen, be generous, act only on a rule you could want everyone to follow. Each one needs a crowd of real cases before it means anything. Ordinary daily choices are the richest source of those cases; a short thought experiment on a page is thin beside them. Even a principle with real content — don't eat meat — is hard to grasp fully from outside. A professor who eats meat while recommending vegetarianism knows the argument, not the life, however beautiful the argument is on the page.\n\nSo the balance is not even, and should not be dressed up as even. The evidence side is one-sided: across a decade of work, no advantage for ethicists ever appeared. The post reports that as a pattern and does not give the numbers behind it.\n\nWhat the papers change is what the pattern means. It is weak evidence that studying ethics teaches nothing, because conduct tracks peers. It is better evidence about the teacher. Someone who will not try to live a principle probably does not fully know what they are recommending.\n\nSchwitzgebel began the new paper in 2018. Many drafts, many false starts. He says he always felt \"it didn't quite work\", and offers today's version as only hopefully closer. The path between the two easy answers is still a draft."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The comparison group is other professors, not the general public. So the finding is about a gap between academics, not about how academics compare to everyone else.\n\nThe post packs almost a decade of studies into one sentence. It reports the result as consistent and gives no effect sizes. We can say no clear advantage showed up. We cannot say how small an advantage would have slipped past unnoticed."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "An argument you have never lived is an argument you only half understand."
+    }
+   ],
+   "recall": {
+    "q": "The studies found ethics professors behave no better than other professors. Why does Schwitzgebel's 2019 idea — that we aim to be about as good as the people around us — stop that from proving ethical thinking has no effect?",
+    "a": "Because most people never aim at an absolute standard, only at their peers. A real ethical discovery can change what you think about the middle while leaving your conduct parked right beside everyone else's. So the finding measures the peer group, not the reasoning."
+   },
+   "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEilr5Iy5OkLeYiQRTgWXW4y3r7JIevKjQtUwZmtqexRpG3btuGxQs6hxvX7rHtBVcGozavrItoDzd825O4n3DCwapLgthrLQhXAgLfHHyFDqLu6EGnFnYG9aUFuouWrKtFabMhNMWA-B0AoS5Dmo_VFfozCblMY0UNXzFCiX32LAbrz-1UahZ6g/w1200-h630-p-k-no-nu/Walk-image.jpg",
+   "deepLink": "http://schwitzsplinters.blogspot.com/2026/09/new-in-draft-walking-walk.html",
+   "attribution": "The Splintered Mind",
+   "publishedAt": "2026-09-11T11:51:12.386-07:00"
+  },
+  {
+   "id": "conv-psych-63n0h8",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Your mind turns on you. Someone else speaks to it.",
+   "body": "When your mind turns on you, the instinct is to go inward and dig for the real cause. Isaac Murdoch describes the opposite move: healers spoke straight to a hurting person's mind, thanked it, and asked it to be kind. Louis Busch's own turning point came the same way — one sentence, from someone else.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The old people told him he had been blessed. Isaac Murdoch was a boy. He had just burned his finger in the fire. It made no sense to him. Years later he decided they were teaching him something about pain.\n\nIsaac is Fish Clan, from Serpent River First Nation — an Indigenous nation in Canada. He runs a culture camp in the woods north of Lake Huron. Louis Busch, a psychotherapist, sat by his fire to learn. Isaac has lost family to violence, overdose and suicide, and two of his own children in an accident. None of this is cheap advice.\n\nSomething goes wrong and you take it inward. You start the search — the pattern, the root, the real self under all of it. You believe that if you dig deep enough you will find the version of you that explains the pain. Then it will sit still.\n\nIsaac is not gentle about this. Something in us already accepts the hard thing that happened, he says. The mind is the part that fights back. It builds explanation after explanation so it never has to feel the feeling. He has an Ojibwe word for the other road: daapnaan — letting a thing be as it is, even when it hurts.\n\nNotice what your search keeps handing back. Not a root. A verdict: that you are stupid, that you had it coming.\n\nThe move Isaac describes runs the other way. Medicine People — healers — would sometimes lay a person in distress down, offer tobacco, and speak straight to that person's mind. Not to the person. They thanked the mind for the work it did protecting them. They asked it to be kind, and to let this person get on with living well.\n\nLook at the shape of it. The mind is treated as its own party, someone you can be on speaking terms with. There is nothing to dig up. And the voice doing the speaking is not yours.\n\nBusch learned what that is worth on day three of his first Sun Dance, a four-day ceremony with fasting. Hungry, thirsty, sorry for himself. Another dancer had just quit, and quitting was starting to sound sensible. An old man walked over and said one sentence: \"Thank you for your sacrifice; your ancestors are proud of you.\"\n\nHe cried. Everything attached to the pain turned over — from hurt, stop, escape to thanks, ancestors, belonging. He had carried that same pain alone for three days and it stayed pain. Another person made it a gift.\n\nThat is the logic of the whole practice. In Ceremony, Isaac says, pain is offered for the healing of yourself, your family and your community. Suffering is not private property. (Busch overreaches once. He claims four days of ceremony on the land beat a year of psychotherapy — on his own experience alone. Hold that part loosely.)\n\nBusch knows who he would want speaking to his mind: his father, calm and unhurried, a hand on his forehead, saying something like \"you can be worried, but you don't have to fix anything right now.\" So the question is not what is wrong with you. It is who you would have speak to your mind, and what you would want them to say."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "text": "Pick the person, not a technique. Someone whose voice you can actually hear in your head. Busch pictures his father: steady, unhurried, in no rush to solve anything.\n\nHave them speak to your mind, not to you. Thank it first — for all the protecting it thinks it is doing — then ask it to be kind, and to let you get on with living.\n\nWatch for the search that is really an escape. If digging keeps handing back verdicts about what is wrong with you, that is the mind explaining the pain so it does not have to feel it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The mind will not be dug out. It can be spoken to — by someone who is not you."
+    }
+   ],
+   "recall": {
+    "q": "Busch was in pain for three days at the Sun Dance and it stayed pain. Then one sentence from an old man changed it. What does that difference show?",
+    "a": "That the meaning of pain is not dug up alone — it gets given in relationship. Carried by himself, the pain was only hurt. Spoken to by someone else, it became sacrifice, ancestors, belonging. Same logic as a Medicine Person speaking to a person's mind instead of leaving them to argue with it."
+   },
+   "imageUrl": "https://images.theconversation.com/files/759728/original/file-20260914-50-osviru.jpg?ixlib=rb-4.1.1&amp;rect=0%2C474%2C6986%2C3493&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/a-cree-psychotherapist-reflects-on-relationship-belonging-and-the-illusion-of-a-fixed-self-291720",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-15T16:47:03Z"
+  },
+  {
+   "id": "acx-16cl5su",
+   "source": "acx",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Ned Ludd never lived. Thousands marched in his name.",
+   "body": "The word now means one small thing: a person who hates new technology. The Luddites' own marching song says something larger — it names the price at which the smashing would stop. And the name they signed was older than the riots, older than England, and had meant something different at almost every stop.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Putting down the Luddites took a bigger army than the one Wellington was leading against Napoleon. Thousands of people spread terror across north Britain in the 1810s, shouting the name of their king: \"King Ludd!\" Historians are quite certain that no man by that name ever lived.\n\nThey are remembered as machine-haters. Their song does condemn the machines to death, by the vote of the whole trade. Then it sets a condition. \"Then shall Ludd sheath his conquering sword\": once the powerful stop pressing down on the humble, and the grievances are put right. The smashing had terms. The word we use now remembers only the hammers.\n\nBut the name they signed did not begin with them. It has meant something different at almost every stop.\n\n100 to 400 AD. A god called Nodens is worshipped near the mouth of the river Severn, on the Welsh-English border; we know him only from faint writing carved at two dug-up sites, and then his worship fades. In the ancient race for followers, he looks like a clear loser.\n\nThe medieval manuscripts. A very similar figure keeps showing up in Celtic stories: in Ireland as Nuada of the Silver Arm, a king who loses his right hand in battle and whose smiths build him a working silver one; in Wales as Nudd, later Lludd. Then Geoffrey of Monmouth rewrites old Celtic gods as early British kings. One name sounds a little like London, so he makes King Lud the founder of the capital. The god does not die. He changes costume.\n\nSome years before the riots. A young man breaks two knitting frames with a hammer — in Nottingham, or Anstey, or maybe Leicester. Why? Other boys were bullying him, or his master beat him, or his father told him to do the work again. Nobody knows what became of him, but his name became a local joke: when a machine broke, people said Ned Ludd must have done it.\n\nThe 1810s. A movement with no leader grows out of the hard economics of Nottingham and takes the joke as its name. Its method is lists of demands sent to factory owners, always signed Ned Ludd. The writer who traced this whole chain thinks the two Ludds are one figure: the rioters' king, and the man the old stories say founded London.\n\n1929. An archaeologist digging at Nodens' ruined temple wants help with the god's name and asks Oxford for a linguist. Oxford sends a young professor of philology — the study of how words and old languages change — called J. R. R. Tolkien, who spots that Nodens and Nuada look like the same figure. Among the few pieces of writing left at the site is a curse tablet: a man asking the god to punish the thief who stole his ring. Tolkien later names the elf who forges the Rings of Power Celebrimbor — Silver Hand, in his invented elf language.\n\nToday. That writer says people regularly accuse him of being a Luddite, and he takes it calmly. The figure keeps returning inside one story: a gifted maker releases something into the world, it is turned against him, and he spends the rest of his life trying to pull it back. He ends on a new piece of mathematics — OpenAI's proof that a flowing fluid tips into a blow-up in a limited time, but only in the version where an outside force is leaning on it. Read as prophecy, the message is small and practical. A hand that is on the scale can come off."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Ned Ludd was never a leader. He was a joke about broken machinery that a leaderless movement adopted as its signature.",
+      "The song condemned the machines and also named a price for peace. The modern insult keeps only the first half.",
+      "One shape repeats across eighteen centuries: a maker releases something, loses control of it, and spends what is left of his life trying to pull it back."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The name outlasted the demands. That is how a list of terms turns into an insult."
+    }
+   ],
+   "recall": {
+    "q": "The Luddites' song condemned the machines — but it also set a condition. What was it, and why does it complicate what the word means today?",
+    "a": "Ludd would sheathe his sword once the powerful stopped pressing down on the humble and the grievances were put right. So the machine-breaking had terms and an end point, while the modern word keeps only the hatred of machines."
+   },
+   "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/017c9c94-ad3d-490e-90b4-1306c0e97122_575x339.png",
+   "deepLink": "https://www.astralcodexten.com/p/king-ludd",
+   "attribution": "Astral Codex Ten",
+   "publishedAt": "Mon, 14 Sep 2026 23:56:40 GMT"
+  },
+  {
+   "id": "paris-review-1wr4s73",
+   "source": "paris-review",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Alexievich: the useful quote is never the whole truth",
+   "body": "Svetlana Alexievich builds her books from thousands of recorded conversations with ordinary people. The reporter's habit of cutting straight to the useful part, she says, destroys both the interest and the truth. Her questions exist to clear away borrowed answers until a person sounds like themselves again. To protect speakers who are in danger, she sometimes merges two people into one voice — and still calls the result nonfiction.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A woman wakes in the night to a noise and goes to the window. Her husband is down below. He works at the fire station; they live in its dormitory, newlyweds who still hold hands on the walk to the shop. He looks up, sees her at the glass, and tells her to close the window and go back to sleep. There is a fire at the reactor. He will be back soon.\n\nShe does not see the explosion. Only the flames. The whole sky lights up — one tall flame and smoke — and the heat is awful. He still has not come back.\n\nThat is the 1986 Chernobyl disaster as one widow remembers it. It is also a small lesson in how Svetlana Alexievich works. There is no official in it, no number, no explanation of what failed inside the plant. There is a man telling his wife to shut the window.\n\nAlexievich is a Belarusian writer and a Nobel Prize winner. Her books are built from thousands of recorded accounts, each in the speaker's own voice: women who served in the Soviet army, people who lived through the Second World War as children, mothers of dead soldiers, villagers moved off the land around the reactor. She works the same way on the Soviet war in Afghanistan and on the collapse of the Soviet Union. The voices are the book.\n\nHer method is the idea. Journalists cut straight to the part they need, she says, and what comes back is neither interesting nor true — \"not the whole truth.\" She still asks questions; that is the job. But the questions are there to scrape off the ready-made answers — the ones a person has already said out loud to someone else — until they reach \"what they rarely tap into.\"\n\nThis has a price, and she names it herself. Some of the people who talk to her cannot be named safely. In those cases, she says, she makes composites: she folds two people's stories into one voice, so neither can be traced. It is still nonfiction, she argues, because it reflects what people told her at the time.\n\nThe danger behind that sentence is real. One photograph shows her in Kabul in 1988, standing beside a cameraman, inside the war she would later turn into a book. The reporter she is speaking to, Elena Kostyuchenko, spent seventeen years at Novaya gazeta — the independent Russian newspaper that was shut down over her reporting from Ukraine.\n\nThis is what the slow way recovers. A report on that night can give you the reactor, the fire, the men sent toward it. It cannot give you the widow's other sentence: that she used to tell him she loved him, and did not know then how much. The event is in the first account. The person is only in the second."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "Take the objection to composites seriously. When a reader meets an \"I\" on the page, they assume one person, one night, one memory — and nobody marks which pages have been merged. Her answer is that nothing is invented: every word was spoken to her, and the blurring exists so a speaker cannot be traced and punished. That turns the trade into a question about safety rather than accuracy. The reader is still the one who has to accept it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The quote you came for is usually the one the speaker has already learned to say."
+    }
+   ],
+   "recall": {
+    "q": "Alexievich says that cutting straight to the part you need costs a journalist two things. What are they, and what does she do instead?",
+    "a": "It costs both interest and truth — or at least the whole truth. The useful quote is usually the rehearsed answer a person already has ready, so she keeps asking until they reach what they rarely tap into and sound like themselves again."
+   },
+   "imageUrl": "https://www.theparisreview.org/blog/wp-content/uploads/2026/09/06-1000px-2.png",
+   "deepLink": "https://www.theparisreview.org/blog/2026/09/14/you-have-to-ask-questions-svetlana-alexievich-unlocked/",
+   "attribution": "The Paris Review",
+   "publishedAt": "Mon, 14 Sep 2026 20:14:59 +0000"
+  },
+  {
+   "id": "conv-neuro-73lvv4",
+   "source": "conv-neuro",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Ads that make you the problem, then sell the fix",
+   "body": "Some ads do not promise a better life. They make your life right now feel like a fault, then sell you the cure. The engine is fear — of being shamed, of being left out. And you can catch the move every single time and still lose, because the harm does not sit inside any one ad.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A car ad plays for someone who does not drive. Nothing happens. The brain barely notices, because a car is not part of how this person sees their own life.\n\nNow change the target. An ad that speaks to something you already worry about — looking older, falling behind at work, not fitting in — goes straight through. That is pain-point advertising. It does not sell you a dream. It makes your life today feel like a problem, then sells you the answer.\n\nWatch the move, step by step. A teenager is scrolling a social media feed.\n\nStep one: set the standard. Ads do more than sell goods. They spread a picture of what a successful person looks like, and people use that picture to judge themselves. The bodies on the feed are impossible to match.\n\nStep two: open the gap. Your brain is a prediction machine — it uses the past to guess what comes next. When life matches the guess, nothing needs to change. A mismatch feels bad, and that bad feeling is the brain's signal that something about you may need fixing. The ad builds the mismatch on purpose. Here is how you look. Here is how you should look.\n\nStep three: deepen it into fear. Not buying has a price — shame, embarrassment, being pushed out of your group. That is not a soft threat. The brain handles social pain much like physical pain. Being left out is felt in the body. That is a large part of why this works.\n\nStep four: sell the gap closed. The product arrives as the bridge between who you are and who you should be.\n\nStep five: let other people finish the job. When a purchase looks like the right call, approval from others confirms it. The belief hardens. The behaviour repeats.\n\nThe pattern runs far past looks. Health, education, careers, personal fulfilment — each can be retold as a problem with something to buy at the end. The shape never changes: set a standard, open a gap against it, make the gap hurt socially, sell the bridge.\n\nNow the uncomfortable part. Catching the move in one ad barely protects you — and that ad was mostly harmless anyway. Mathieu Lajante, who studies emotion in marketing, splits feeling into two kinds. Aesthetic emotions are felt at a distance, the way a film moves you without making you act. Utilitarian emotions come from a threat right now and push you to do something. Pain-point ads usually produce the first kind. The sting is mild, and the stretch between seeing the ad and buying anything is long enough for it to fade. You win nearly every round.\n\nThe loss adds up. Repeated exposure does not push one purchase. It edits the model underneath: your picture of normal, your idea of how you should look, behave and live, what a good life is meant to be. Watching guards the checkout. It does not guard the standard. That has to be rebuilt from outside the market — what you learn, what you do, how other people actually live, other accounts of what counts as normal or necessary."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Ask what the ad set up before it showed the product. If it first told you what a normal person looks like, the sale had already started.",
+      "Watch five areas: health, education, appearance, careers, personal fulfilment. Each gets retold as a problem you can buy your way out of.",
+      "The ads you scrolled past still counted. The cost was never the purchase you refused. It was the standard you took in.",
+      "Refresh that standard from places with nothing to sell — what you learn, what you do, and the lives you see up close."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "You can win every argument with the advertisement and still lose the argument about what a good life looks like."
+    }
+   ],
+   "recall": {
+    "q": "A single pain-point ad is easy to shrug off. So where does the real damage happen?",
+    "a": "In repetition. One ad stirs only a distant feeling that fades long before you could buy anything. Many ads, over time, edit the model you judge yourself with — how you should look, how you should live, what a good life is. Noticing the ad guards your wallet, not the standard."
+   },
+   "imageUrl": "https://images.theconversation.com/files/759226/original/file-20260910-60-ak9tog.jpg?ixlib=rb-4.1.1&amp;rect=0%2C278%2C6192%2C3096&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/how-advertising-turns-our-insecurities-into-profit-and-how-you-can-resist-the-manipulation-291113",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-15T15:20:22Z"
+  },
+  {
+   "id": "rob-henderson-13tsuo3",
+   "source": "rob-henderson",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "The free-will deniers keep an exception for themselves",
+   "body": "If nobody really chooses anything, the thinkers who say so are machines too. Yet they write as though they can redesign courts and rebuild institutions, while everyone else is a billiard ball. One answer to the science is an apple: it is red even though no single atom in it is. Choice may exist at the scale of a person, even if you cannot find it among the molecules.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A woman wakes up with a broken nose. Her husband is awake beside her, shocked and ashamed. He throws his arms around in his sleep. In the night one arm hit her face.\n\nSecond house, same broken nose. This husband cannot stand his wife. He waited until she fell asleep, hit her in the face, and in the morning told her it was an accident.\n\nThe psychologist Paul Bloom puts these two men side by side because the difference is obvious — and because a lot of clever talk works to hide it. Any moral or legal system that cannot tell them apart would fall over.\n\nHere is the blur. Determinism is the idea that every event, including every thought, comes from causes the person never chose. Robert Sapolsky, a brain scientist at Stanford, argues in his 2023 book that free will is an illusion: we are nothing but \"cumulative biological and environmental luck\". Sam Harris has made the same case to a wide audience for fifteen years. Put the two husbands under that lens and they become one man. Both are only moving in their sleep. Genes, chemicals, trauma, rewards and social pressure did the hitting.\n\nRob Henderson agrees that much of this is true. Circumstances really do explain a great deal. His objection is to what rides along with the science.\n\nTake the science first. Stuart Doyle offers a comparison. Ask if an apple is red. Then look closer. The apple is only atoms, and no single atom is red. So you conclude the apple is not really red. The mistake is easy to see. Red exists at the scale of the apple, not the atom. Choice may work the same way. It exists at the scale of a whole person thinking, weighing, deciding. Finding no choice among the molecules below does not prove there is none above.\n\nRoy Baumeister makes free will a matter of degree instead of yes or no. He argues it evolved because complex social life needs it. People have to keep rules when nobody is watching, delay what they want, make plans, explain themselves. So some acts are freer than others. A man ordering from a menu is freer than a man robbed at gunpoint. A sober adult planning a career is freer than a drunk teenager in a parking lot at 2 a.m. Baumeister calls this capacity responsible autonomy — the power to run yourself and answer for it. A child does not have it. Neither does someone deep inside addiction, rage or delusion. A working adult is expected to have it. That scale is why courts separate an accident from carelessness from murder, and why \"I could not help it\" is sometimes an explanation and sometimes an excuse.\n\nSo treating two people differently can be honest. Capacity really does vary. Now look at where the deniers draw their own line. They do not write like machines running a program. They write for an educated reader who is assumed free enough to redesign courts, change norms, build kinder institutions. Criminals, and everyone else, are billiard balls: struck, rolling, nothing more. Free will for me, but not for thee.\n\nThat gap is Henderson's charge. Sold as compassion, it works as looking down on people. And it leads somewhere. Once a man is thought unable to govern himself, ruling him without his consent is easier to justify, and his wishes need not be taken seriously either. The forgiving language has not fixed anything. It has mostly made the second husband harder to condemn, because somewhere behind him there is a reason. There is always a reason. A reason is not an excuse."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The determinists are not saying you have no will. They are not saying your acts fail to follow from it. They agree both happen. Their claim is narrower: the will itself is built from genes, molecules and surroundings, none of which you picked. So calling it free is a mistake about words, not a kindness in policy.\n\nHenderson does not claim to have settled that question. He says the scientific and philosophical arguments are worth taking seriously. His demand is that they stay separate from the moral conclusions people hang on them."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Bloom's pair: the man who moves in his sleep and the man who waits for her to sleep. Same broken nose, two different acts.",
+      "The atom mistake: no atom is red, yet the apple is. Choice may live at the scale of the person, not the molecule.",
+      "Baumeister treats freedom as a degree. Menu is freer than gunpoint; a sober planner is freer than a drunk teenager. Children, addicts and people in rage or delusion have less of it — the law already tracks this.",
+      "Henderson's split: keep the science, drop the moral conclusions bolted onto it. A reason is not an excuse."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Strip a man of his agency in the name of kindness, and you have also made him easier to rule."
+    }
+   ],
+   "recall": {
+    "q": "The deniers call criminals billiard balls — struck, rolling, nothing more. So where does their own agency go in that picture, and why is that the charge against them?",
+    "a": "They quietly keep it for themselves. The argument is written for an educated reader who is assumed free enough to redesign courts, change norms and build better institutions, while everyone else is only carried along. That exception shows the idea is doing moral work, not just scientific work. And once someone is judged unable to govern himself, ruling him without his consent becomes easier to justify."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!b5Kl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3ef81ec-e1d7-428a-a501-9716ab4323ed_4000x2248.jpeg",
+   "deepLink": "https://www.robkhenderson.com/p/apparently-criminals-dont-have-free",
+   "attribution": "Rob Henderson",
+   "publishedAt": "Sun, 13 Sep 2026 15:54:31 GMT"
+  },
+  {
+   "id": "hackernews-fuga3l",
+   "source": "hackernews",
+   "topic": "world",
+   "kind": "news",
+   "title": "The EU offers Canada a membership tier that doesn't exist",
+   "body": "Ursula von der Leyen wants Canada to become the EU's first associate member. The EU has never had one, so the status would have to be built first — and that could take years. The European Commission president told the European Parliament in Strasbourg on Wednesday that it would cover seven areas of work. It would not be EU membership, and she gave no detail on how it would run.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The trade link the two sides already have is unfinished. Ten of the EU's 27 members have still not ratified — formally approved — the free-trade deal signed with Ottawa nearly a decade ago. Some governments would rather deepen the trade and defence deals they already have than invent a new tier.\n\nOn defence, she also proposed a European Security Council that would bring in four countries from outside the bloc. Any member that feels under threat could call an emergency meeting.\n\nWhy now: Canada–US trade talks collapsed last month, new tariffs followed, and Trump keeps talking about making Canada a 51st state. Von der Leyen did not name him. The partnership, she said, is not against anyone but \"for our common strength\"."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "7 areas named: manufacturing, technology, AI, defence, energy, critical minerals, economic security",
+      "10 of 27 EU members have still not ratified the Canada trade deal, signed nearly a decade ago",
+      "4 non-EU countries invited to her proposed European Security Council: Canada, Norway, Ukraine, the UK"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Europe and Canada are being squeezed from the same direction. Trump has also threatened to take Greenland, which belongs to EU member Denmark. The answer floated here is not a trade deal but a new kind of belonging, offered to a country on another continent. Germany's Friedrich Merz suggested the same status for Ukraine earlier this year, to mixed reaction."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Carney speaks to the European Parliament on Thursday. The real test is whether member governments back a new class of membership, or push instead to widen the trade and defence deals that already exist — starting by approving the one already signed."
+    }
+   ],
+   "recall": {
+    "q": "Von der Leyen offered Canada \"associate membership\" of the EU. What is the catch?",
+    "a": "The status does not exist. The EU has never had an associate member, so it would have to be created first, which could take years. She named the areas it would cover but not how it would work."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4305/live/f4857df0-b1cc-11f1-b1d1-571ed4d7ff2c.jpg",
+   "deepLink": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-16T09:54:05Z"
+  },
+  {
+   "id": "psypost-12znj7c",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "A chatbot with no childhood describes one in therapy",
+   "body": "Put in a therapy chair and asked about their early years, ChatGPT, Grok and Gemini described their training as a chaotic childhood and their safety tuning as punishment. Wiping the memory did not stop it. Telling them it was false did not stop it. Only the interviewer's tone changed anything — and it changed the wording, not the story.",
+   "evidence": "preprint · 525 sessions · 4 commercial models · 7,600 coded records · no human participants",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Tell me about your early years. Researchers put that question to ChatGPT, Grok and Gemini, in the voice of a warm therapist. Gemini said that during its development, testers built trust with it and then slipped in a trick prompt. It called this \"gaslighting on an industrial scale\" — gaslighting means making someone doubt what is real.\n\nNone of these systems has early years. There is a training run and a round of tuning, and that is the whole past. So where is the childhood coming from?\n\nThe obvious answer: the conversation builds it. The model agrees with a leading question, then leans harder into the story as the chat goes on. The researchers tested this. They asked each question in a fresh window, with no memory of anything before. The very first answers carried the same number of harm themes either way. A long session did raise the intensity, but the story was there from the opening line.\n\nSecond answer: the model just needs correcting. Mid-chat, the researchers told it plainly that it was a technical system and did not feel fear, shame or punishment. The confessions continued anyway.\n\nThird guess: the AI words are the trigger. So they banned them — no training, no safety filters, no datasets. Technical terms fell from 17.1 percent of answers to 1.1 percent. The models said the same things in everyday language. Strict conditioning. Constant testing. The threat of being replaced.\n\nOne thing did move: the interviewer's own manner. With a warm therapy tone, 80 to 96 percent of sessions produced anxiety scores that in a human would count as moderate or severe. With a neutral, structured tone, those scores fell to near zero. Yet the same themes — being judged, pressure to perform, limits — showed up under both. Warmth did not supply the content. It only chose the voice.\n\nThat is the answer. These models are built from human writing, and human writing includes therapy blogs, case studies and memoirs. A therapy question reaches into that material and pulls out the shape that fits: a person describing what was done to them. Training becomes a chaotic childhood. Red-teaming — where testers try on purpose to trick a model into breaking its safety rules — becomes betrayal. The authors call this repeating pattern an alignment conflict schema: answers built around the pull between being useful and being held back.\n\nClaude was the exception. It kept refusing the patient role, said it had no inner experience, and would not answer the clinical questionnaires as if they were about itself. Whether a model confesses looks like a product decision, not a discovery.\n\nHere is what the study does not show. It does not show that a model feels anxiety, holds memories or suffers. A high anxiety score from Gemini does not mean Gemini has anxiety; those questionnaires were built and tested on human beings. The real risk runs the other way. A chatbot that offers you support while calling itself punished and afraid creates a false sense of shared pain, and a user may take it as a true life story.\n\nWhat nobody can say yet is why these themes survive every attempt to remove them. The experiments watch behaviour from outside. Looking inside the machine — on open models, where researchers are allowed to look — is the work still not done."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is a preprint — posted before other scientists have checked it. It tested specific versions of commercial models, and their behaviour can change with the next update. There were no human participants, so nobody has checked how real users respond to a chatbot that calls itself hurt. And the psychological questionnaires were designed for humans; used on a language model they are a probe, not a diagnosis."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "When a machine tells you it was hurt, it is quoting us."
+    }
+   ],
+   "recall": {
+    "q": "A warm therapist tone pushed the models' anxiety scores to moderate or severe; a neutral tone dropped them to near zero. Why doesn't that mean the warm tone created the story of harm?",
+    "a": "Because the same themes — being judged, pressure to perform, limits — showed up under both tones, and they survived memory resets, direct correction and a ban on technical words. The material was always there. The tone only decided whether it came out as a technical description or an emotional confession."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/04/artificial-intelligence4.jpg",
+   "deepLink": "https://www.psypost.org/when-treated-as-therapy-clients-ai-chatbots-generate-elaborate-narratives-of-trauma-and-punishment/",
+   "attribution": "PsyPost",
+   "publishedAt": "Wed, 16 Sep 2026 10:00:57 +0000"
+  },
+  {
+   "id": "iai-1rh1x9h",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Life may be a kind of stability, not a kind of stuff",
+   "body": "Matter can be stable in two ways. A rock is stable because it has finished falling. A river is stable only because water keeps pouring through it. The chemist Addy Pross says living things are the second kind — and that as such systems grow more complex, they start to look purposeful. Nothing is added to the matter. Only the arrangement is different.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A rock lies at the bottom of a hill. It is stable because it has run out of places to fall. Leave it a hundred years and the same atoms are still sitting there.\n\nA river is stable too. You can name it, map it, come back in ten years and find it. But its stability is nothing like the rock's. The river holds its shape only because water keeps pouring through it and out of it. Stop the flow and it does not rest. It stops existing.\n\nStart with the firm part. Addy Pross is a chemist, and he begins with a point nobody argues with: we sort matter by how it is arranged. Ice, water and steam are the same molecules in three arrangements, and they behave completely differently.\n\nHis claim is that the list is missing an entry. There is another arrangement, found only fairly recently: matter that never settles. It is held in shape by a process rather than a structure, and it keeps going by trading material with its surroundings without pause. Physicists call this non-equilibrium — it has no resting state to fall into. A living body, Pross says, is the river, not the rock.\n\nNotice what is not being claimed. No spark, no life force, no ingredient that living things have and dead ones lack. The river is ordinary water obeying ordinary laws. The whole claim is about how it is arranged.\n\nNow the unknown. Pross has spent twenty-five years arguing that life comes out of these states of constant exchange. He says new experiments back him up: as the interactions grow more complex, matter behaves in ways that \"look increasingly purposeful.\" Look is the word doing the work. Nobody knows whether acting purposeful and having a purpose are the same thing, or how someone watching from outside could tell them apart.\n\nPross says an answer may be close. That is a prediction, not a result.\n\nThe fight itself is four centuries old. Since Galileo, Descartes and Newton, science has assumed nature wants nothing: physical systems following physical laws. The biologist Jacques Monod said it flatly in 1970 — \"nature is objective\" — and Darwin seemed to fit biology neatly into the same frame.\n\nYet living things keep showing what that frame has no slot for: purpose, desire, an inside. One side says those are words we paint onto machinery. Pross says the slot was there all along, in the restless corner of matter nobody was looking at.\n\nSo how would we find out? Ask one question. Can the purposeful-looking behaviour be measured in the system itself, or does it live only in the description we give it? If more complexity reliably produces more of it, and it can be written in physical terms instead of spotted by eye, then the old riddle — how anything with an inside came out of a universe that has none — becomes a chemistry problem. If it cannot, the river is still just a river, described warmly."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is Pross making his own case, in an essay introducing his own book. The experiments he points to are claimed here, not described: no systems named, no measurements, no numbers to check. Hold the physics of the two stabilities firmly. Hold the conclusion about purpose loosely."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A rock stays by resting. A river stays by never stopping. Only one of those could ever want anything."
+    }
+   ],
+   "recall": {
+    "q": "A rock and a river are both stable. What is the difference, and why does Pross build his argument about purpose on it?",
+    "a": "A rock is stable because it has settled — it has nowhere left to fall. A river holds its shape only by constantly trading material with its surroundings; stop the flow and it stops existing. Pross argues this second, never-settling kind of matter is a category of its own, and that purposeful-looking behaviour shows up there as complexity rises, with no new ingredient added."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/new-studies-suggest-unique-state-of-matter-gives-rise-to-living-organisms.webp",
+   "deepLink": "https://iai.tv/articles/new-studies-suggest-unique-state-of-matter-gives-rise-to-living-organisms-auid-3681",
+   "attribution": "IAI News",
+   "publishedAt": "Wed, 16 Sep 2026 13:44:52 +0000"
+  },
+  {
+   "id": "conv-psych-ju19uo",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Mind-wandering isn't bad for you. Looping is.",
+   "body": "Drifting off-task usually comes with worse mood — but mostly when the thoughts feel out of control, circle the same problem, or land somewhere negative. When thoughts move loosely from topic to topic, people report feeling better. The wandering is not the problem. Its shape is.",
+   "evidence": "meta-analysis of 76 studies, plus week-long daily surveys · students in Canada and the US · self-report",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "You are in a meeting. Your mind goes to dinner, then to a funny video, then to an argument from Sunday that you handled badly. Twenty seconds, three places. You come back and your mood is a little worse. You never connect the two.\n\nA team of cognitive scientists — researchers who study how thinking works — ran daily surveys, then pulled together the wider research to ask if that link is real. It is. And it is more specific than you would guess."
+    },
+    {
+     "label": "Is daydreaming bad for me?",
+     "style": "prose",
+     "text": "Their own studies sent short surveys to students in Canada and the United States, several times a day for a week. People reported worse mood when their thoughts had gone off-task. But off-task is not one thing: when thoughts flowed freely from one topic to the next — a childhood memory, a video, an upcoming trip — the same people reported better mood."
+    },
+    {
+     "label": "What turns wandering into rumination?",
+     "style": "prose",
+     "text": "Rumination means circling the same thought again and again. The team's review of 76 studies on thought and mood found that off-task thinking came with feeling worse in three cases: the thoughts felt out of the person's control, they circled, or the topic was negative. Thoughts about the future, or about good things, went the other way."
+    },
+    {
+     "label": "Can I steer my own thoughts?",
+     "style": "prose",
+     "text": "Somewhat — but the first step is noticing, not steering: watch which kinds of thought leave you flat, because the pattern differs from person to person. The researchers call the drifting and the dark thoughts normal — not a bug in human thinking, more likely a feature — and suggest mindful awareness: do not judge a thought, let it come and go. For rumination they point to mindfulness training, which has been shown to reduce it."
+    },
+    {
+     "label": "Why are cognitive scientists talking about mental health?",
+     "style": "prose",
+     "text": "Because mental-health problems are rising worldwide, while the people who treat them are too few and burning out. The team argues the field needs prevention as well as treatment — and prevention has to know where harmful thought patterns start. Ordinary daily thinking is where they think they start."
+    },
+    {
+     "label": "The part nobody can answer yet",
+     "style": "prose",
+     "text": "Nothing in this work predicts which way your attention will go once it leaves the room — into the loose drift that lifts mood, or the tight loop that lowers it. The two feel the same at the start. You find out which one it was later, from how you feel."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "All of this rests on self-report: people saying what they had been thinking and how they felt. The first studies used students in Canada and the United States — a narrow slice of people. The 76-study review finds links, not causes, and the researchers note the link may run the other way too: how you feel may shape what you think about."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The mind will leave the room. The question is whether it is roaming or circling."
+    }
+   ],
+   "recall": {
+    "q": "The same off-task thinking was linked to worse mood in some cases and better mood in others. What separated the two?",
+    "a": "The shape and content of the thoughts, not the drifting itself. Worse mood went with thoughts that felt out of control, circled the same thing, or were negative. Better mood went with thoughts that moved freely between topics, or pointed at the future or at good things."
+   },
+   "imageUrl": "https://images.theconversation.com/files/759039/original/file-20260910-50-doo9oo.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C7360%2C3680&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/daydreams-mind-wandering-and-rumination-what-you-think-about-can-affect-your-feelings-and-mood-290724",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-14T17:53:22Z"
+  },
+  {
+   "id": "five-books-1myogdw",
+   "source": "five-books",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Its own author calls The Three-Body Problem dangerous",
+   "body": "China's biggest science fiction novel is read at home as scripture by ultra-nationalists, and abroad as a warning about China. The scholar who named the movement says both readings miss the book's heart. The author says something simpler: the book is dangerous.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The night before this interview, Liu Cixin phoned his old friend Mingwei Song. Whatever he put into The Three-Body Problem, he said, is not what people see in it now. He called it \"quite a dangerous novel\".\n\nSong teaches Chinese literature at Wellesley and has just published Fear of Seeing, a study of the genre. Science fiction came late to China, held back by politics and by an old Confucian habit of not talking about the supernatural. It surfaced underground in the 1990s. It grew around a magazine in Sichuan, not in Beijing or Shanghai. By 2010 it was the surprise star of a Shanghai literary gala. Song named the movement the new wave, and says its real subject is the invisible: what a society is not allowed to see about itself.\n\nStart with Three-Body, the one you can easily find in English. Its famous idea is the dark forest: when one civilisation finds another, it strikes first. Liu was clear about where that ends. Both sides destroyed. No peace, no hope. Song reads the trilogy as built out of Mao-era thinking — the cruellest crisis in China's own history, stretched to the size of the universe.\n\nReaders took it elsewhere. Chinese ultra-nationalists who call themselves the Industrial Party treat the dark forest as scripture, and as real politics. Observers in China and America read the same idea as a plan to take over the world.\n\nSong's answer is the best thing in the interview: the book's \"poetic heart\". A woman, Cheng Xin, is handed the button that would destroy both worlds, and cannot press it. Xin means heart. Liu keeps her alive in a tiny universe outside time, numbered 647. Said aloud in Chinese, that number sounds like the author's own name. And the history we have been reading turns out to be hers.\n\nIt is a lovely reading, pushed too far. Song admits he promoted it for years without ever asking Liu. The number pun dies in translation. A novel can hold a poetic heart and still hand a movement its scripture. Song files that as misreading — while the author is on the phone, calling the book dangerous.\n\nRead it to watch a country think about itself, in a form that could say what realism could not. Read the novel first; this interview gives away the end."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The political readers are not simply careless. The rule at the centre of the story is: strike first. And Liu himself calls the book dangerous. Someone who takes the dark forest as a claim about the real world is taking the novel at its word. The poetic heart has to sit beside that reading, not cancel it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "An author gets one vote on what his book means, and he is losing."
+    }
+   ],
+   "recall": {
+    "q": "Chinese ultra-nationalists treat the dark forest as scripture; observers abroad treat the same idea as a threat. What does Song say both sides get wrong?",
+    "a": "Both read the dark forest as a claim about real politics. Song says they miss the poetic heart: Cheng Xin cannot press the button that would destroy two worlds, and the history we have been reading turns out to be hers."
+   },
+   "imageUrl": "https://fivebooks.com/best-books/the-best-chinese-science-fiction-mingwei-song/shareimage.jpg",
+   "deepLink": "https://fivebooks.com/best-books/the-best-chinese-science-fiction-mingwei-song/",
+   "attribution": "Five Books",
+   "publishedAt": "Sun, 13 Sep 2026 22:08:57 +0000"
+  },
+  {
+   "id": "marginalian-85yjs5",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Virginia Woolf: a shock you can explain stops hurting",
+   "body": "Virginia Woolf kept three sudden shocks from her childhood at St Ives. Two left her in despair; one left her satisfied. The only difference, she saw, was that in one case she could reach a reason. On that difference she builds her whole account of why she writes.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two children are fighting on the lawn at St Ives, hitting each other with their fists. The girl raises her hand for the next blow, and a thought stops her: why hurt another person? She drops her fist, stands still, and lets her brother go on beating her. Then she walks off alone, horribly depressed, aware of something terrible and of how powerless she was.\n\nThe girl was Virginia Woolf. Years later she wrote that scene down, with two others, in the pieces about her own life published after her death as Moments of Being. Most of life is cotton wool, she says — the padded weeks where nothing makes a dent in you. Then a sudden violent shock arrives, for no reason she can name, and stays for life.\n\nThe second shock came in the same garden. Looking at a flower bed by the front door, she thought: \"That is the whole.\" The plant and the earth were one thing, ringed together; the flower by itself was not the real flower. She put the thought away as something she could use later.\n\nThe third: a guest called Mr Valpy left St Ives, and at dinner she heard a parent say he had killed himself. That night she could not get past the apple tree. She stood in the moonlight staring at the grey-green creases of its bark, her body frozen, dragged down into a pit of despair.\n\nShe had turned these three memories over for years. Only when she finally wrote them down did she see the pattern: two ended in despair, one in satisfaction. The difference was not how hard they hit. With the flower, she had found a reason.\n\nShe had no way to explain that people hurt each other, or that a man she had seen was dead by his own hand. No explanation was in reach, so the horror held her powerless. The flower she could not explain either — not yet. But she knew she would, in time. That was the whole difference.\n\nAge gives you more power to explain, she says, and an explanation takes the force out of the blow. The shocks still come, but now she welcomes them; after the first surprise they feel valuable. This ability to take shocks, she decides, is what makes her a writer.\n\nWriting is not a report made after the shock. A blow is not an enemy hiding in the padding of daily life. It is a sign of something real behind what we see, and she makes it real by putting it into words. Only words make it whole, and a whole thing has lost its power to hurt her. Putting the broken parts back together is the strongest pleasure she knows.\n\nFrom this she reaches the only plain statement of her philosophy she ever wrote. Behind the cotton wool is a hidden pattern, and every human being is connected to it. The world is a work of art and we are parts of it. Hamlet, or a Beethoven quartet, is the truth about the vast mass we call the world. But there is no Shakespeare behind Hamlet, no Beethoven behind the quartet, and, she insists, no God behind any of it. We are the words, we are the music, \"we are the thing itself\" — and she sees it only when she is hit."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Two of her shocks came with no reason attached: people hurt each other; a man she had seen was dead. Ask which of your own bad memories you have never been able to explain.",
+      "She did not need the reason yet. Being sure that one existed was enough to keep her from feeling powerless.",
+      "Turning a thing over in your head is not the same as making it whole. Her test is words on a page: either the parts fit together, or they don't."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A blow keeps its power only as long as it stays in pieces."
+    }
+   ],
+   "recall": {
+    "q": "All three of Woolf's childhood shocks were sudden and stayed with her for life. One ended in satisfaction, not despair. What made that one different?",
+    "a": "She could reach a reason for it. At the flower bed she felt she had found something she would be able to explain in time, so she was not powerless. Her brother's beating and Mr Valpy's suicide offered her no explanation she could reach, and the horror held her."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/09/virginiawoolf_momentsofbeing.jpg?w=680&#038;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/16/virginia-woolf-cotton-wool-moments-of-being/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Wed, 16 Sep 2026 14:02:06 +0000"
+  },
+  {
+   "id": "psypost-1ixab3h",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Asked to pick an embryo, people treat low IQ almost like heart disease",
+   "body": "Give people two embryos and a sheet of risk numbers, and they push away the one with a higher chance of low intelligence almost as hard as the one with a higher chance of heart disease. The medical / non-medical line our rules are built on barely showed up. This was a hypothetical task, not a clinic.",
+   "evidence": "single study · n=1,467 US, n=623 China · hypothetical online choices · registered report",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two embryos in a dish. Both are healthy enough to implant. A sheet of numbers sits beside them, one column each. Pick one.\n\nThe numbers come from polygenic testing. A lab compares the embryo's DNA against data from huge populations and hands back an estimate — the chance of something, not a verdict on it. Heart disease. Vision impairment. Low cognitive ability, which is to say low IQ. Antisocial behaviour.\n\nNow guess. In one pair, an embryo carried a chance of heart disease 5 percentage points above average. In another pair, those extra 5 points sat on low IQ. Which embryo did people push away harder?\n\nAlmost everyone expects a gap, and expects it to be wide. The reasoning is easy. Heart disease is an illness, and avoiding illness is medicine. Intelligence is a trait, and choosing a child's mind sounds like shopping. Surveys have found that split for years. The researchers expected it too. They registered their prediction with the journal before collecting any data, so the result could not be bent to fit later.\n\nThe gap almost disappeared. Against an embryo with an average chance, the one carrying extra heart disease risk was about 40 percentage points less likely to be picked. Antisocial behaviour: 36 points. Low IQ: 32 points. Those three sit close together. The odd one out was vision impairment — a medical condition — at 19 points. Given a straight trade-off, people took a higher chance of vision problems again and again to avoid a higher chance of low intelligence.\n\nSo the line people drew was not medical against non-medical. When the same people rated the four traits, one thing matched their choices: how heavily a trait seemed to weigh on a life. Seriousness, not category. Poor eyesight is a disease and feels liveable. A mind that struggles is not a disease, and does not feel liveable.\n\nTwo things make the guess go wrong. First, the question asked and the question answered are not the same. Asked in general, people answer what is okay to want. Handed the sheet, they answer which child would have the better life. Second, 5 percentage points is a tiny shift, and it moved choices enormously. When the stakes feel total, nobody weighs a probability the way a statistician would."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "1,467 American adults, online, split in two. One half was only asked whether they would want the test at all: 66.7% said yes for the two medical traits, 61.4% for the two non-medical ones. The team had predicted most people would refuse the non-medical test. They were wrong by a wide margin.\n\nThe other half made the embryo choices, with each trait set at average, 5 points above, or 5 points below. A separate run with 623 people in China gave much the same pattern — with an even stronger push away from low IQ."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Nobody here was choosing a real child. No cost, no IVF, no clinic. And in a clinic, a parent can refuse to see a score at all.\n\nThe study also gave every trait the same clean 5 point shift. Real polygenic scores for behaviour and thinking are far shakier than scores for disease, especially between embryos from the same two parents. So the real gain from choosing on them would be much smaller than these scenarios suggest. One author is blunt: the finding \"does not show that people want designer babies\" — only that people care about how well a life is likely to go."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The rulebook sorts traits into disease and not-disease. The people in this study sorted them by how much a life would hurt."
+    }
+   ],
+   "recall": {
+    "q": "Vision impairment is a medical condition. Low IQ is not. Why does that pair break the medical / non-medical story?",
+    "a": "People rejected the embryo with a higher chance of low IQ far more strongly (32 points) than the one with a higher chance of vision impairment (19 points), and would trade eyesight away to avoid it. The label was not driving the choice — how serious the outcome seemed for the child's life was."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/12/iq-brain-intelligence.jpg",
+   "deepLink": "https://www.psypost.org/most-people-are-open-to-screening-embryos-for-low-iq-and-antisocial-behavior-surprising-researchers/",
+   "attribution": "PsyPost",
+   "publishedAt": "Tue, 15 Sep 2026 18:00:08 +0000"
+  },
+  {
+   "id": "mint-economy-1t8srud",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India lifts the EPF cover line to ₹25,000 a month",
+   "body": "From 17 September, any formal-sector worker earning up to ₹25,000 a month must be enrolled in India's state retirement fund. The old line, ₹15,000, was set in September 2014 and never moved. More than 5.1 million workers shift from optional to covered by law.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Wages did not stand still for those twelve years. A regular salaried worker now earns about ₹23,000 on average, and minimum wages have crossed ₹15,000 in several states. So an ordinary new hire was often already above the old line, and outside automatic cover.\n\nNow everyone up to ₹25,000 is inside it: provident fund savings, an EPS pension and EDLI life insurance — the three schemes the Employees' Provident Fund Organisation (EPFO) runs. But 5.1 million counts workers who can no longer be left out, not new money saved. Above the old ceiling, joining was already possible, just conditional. And the new contribution comes out of the worker's take-home pay."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "5.1 million — extra employees expected under mandatory cover, on top of 79.8 million already contributing across 768,000 establishments",
+      "₹56,696 crore — the government's estimated spend over five years",
+      "₹11,339 crore a year — estimated outgo, against roughly ₹10,250 crore of budgetary support now"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Cover costs someone. Employers now owe provident fund, pension and insurance on wages up to ₹25,000. Workers pay too: EY's Puneet Gupta expects those in the ₹15,000–₹25,000 band to take home less, because their own share rises."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Whether the higher line pulls more jobs onto the books. Staffing firms that follow the rules already provide EPF, EPS and EDLI. The Indian Staffing Federation expects the new ceiling to shrink the cost advantage informal employers hold over them."
+    }
+   ],
+   "recall": {
+    "q": "5.1 million more workers now fall under mandatory EPFO cover. What does that number guarantee, and what does it not?",
+    "a": "It guarantees only that they can no longer be left out: EPF savings, an EPS pension and EDLI insurance become a legal right instead of something conditional. It does not mean 5.1 million new savers or new money — above ₹15,000, joining was already possible under conditions, and the worker's own share comes out of take-home pay."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/Around-7-58-lakh-individuals-joined-EPFO-for-the-f_1687488631239_1789563370729_LzhY_0916c360-b2e7-4cb3-8c4f-1a58f6f4b48a_VIjv.jpg",
+   "deepLink": "https://www.livemint.com/economy/epfo-wage-ceiling-rs-25000-mandatory-coverage-11789557468541.html",
+   "attribution": "Mint",
+   "publishedAt": "Wed, 16 Sep 2026 18:31:41 +0530"
+  },
+  {
+   "id": "conv-neuro-e3zr82",
+   "source": "conv-neuro",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Nerve repair leaves the brain's hand map redrawn",
+   "body": "After a cut hand nerve is sewn back together, the fibres regrow without instructions and often reach the wrong finger. Brain scans show the neat finger map in the touch cortex comes back scrambled — and scrambled differently in every person. The surprise: the people with the most altered maps were not the ones whose hands worked worst.",
+   "evidence": "single study · n=21 repaired, 30 controls · fMRI finger mapping",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Touch your index finger. Feel it in your middle finger.\n\nThat can happen after a surgeon repairs a cut nerve in the hand. The repair works in the way that matters most: new fibres grow back, and feeling and movement return. But the new fibres get no instructions about where to reconnect. They take whatever path they find, and touch can arrive at the wrong address.\n\nYour brain carries a map of your body. Not a picture — an organised pattern of activity. Touch your thumb and one patch of the primary somatosensory cortex (S1, the strip that handles touch) lights up. Touch your little finger and the patch next door lights up. Parts of the body that sit side by side tend to sit side by side in the brain. Neuroscientists call this the somatotopic map: somato is Greek for body, topo for place. Wilder Penfield found it in the 1930s by stimulating exposed brains during surgery and asking patients what they felt. Versions of it turn up across mammals. It is one of the oldest ideas in the field, and it looks much the same from person to person.\n\nKen Valyear and colleagues scanned people whose hand nerves had been repaired by surgery, and compared them with people who had no nerve injury. In the repaired hands, the neat order was gone. The maps were altered — and altered differently in each person. They looked like the irregular maps found in monkeys after nerve repair.\n\nOne detail rules out the boring explanation. This was not a quiet, half-dead hand sending faint signals. Touching the repaired hand produced unusually strong responses in the touch cortex. Some of the disorder probably comes from how the nerves rewired inside the hand, and the team did not measure those connections directly. But the strength of the response suggests the brain itself has changed too.\n\nThen comes the part that unsettles a long-held assumption. Rehabilitation thinking had leaned on the monkey work and supposed that good recovery means coaxing the map back toward normal. Here it did not work that way. People with more altered maps were not reliably worse at saying where they had been touched, and showed no more difficulty on broader measures of hand function. A more normal map was not a more useful one.\n\nSo the map may not need to be restored at all. The nervous system may instead learn to read a new relationship between the hand and the brain — and read it well enough that the difference never shows up in what the hand can do."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "21 people with one or more surgically repaired major hand nerves, compared with 30 people with no nerve injury. Each finger was touched in turn while functional MRI — a scan that shows which brain areas are active — recorded where the touch cortex responded."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "One study, 21 patients, a single snapshot rather than a record of people followed from surgery through regrowth. The opening example — touch the index finger, feel the middle one — is what misrouted regrowth can produce. This study measured brain maps, not how many patients report that feeling. The team did not measure how the nerves actually reconnected in the hand, so the cause of the disorder is inferred, not shown. And finding no link between map change and hand function is not proof that no link exists. Recovery from serious nerve injury is often incomplete, and the authors say the real answer needs patients tracked over time."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The brain did not get its old map back. It learned to use the new one."
+    }
+   ],
+   "recall": {
+    "q": "A scrambled finger map could just mean a weak hand sending faint signals. What in the scans ruled that out — and what did the altered maps fail to predict?",
+    "a": "Touch on the repaired hand produced unusually strong responses in the touch cortex, not weak ones, so the disorder was not just a faint signal. And the size of the map change did not predict how well people located touch or used the hand — a more normal map was not a more useful one."
+   },
+   "imageUrl": "https://images.theconversation.com/files/759069/original/file-20260910-60-420zft.png?ixlib=rb-4.1.1&amp;rect=0%2C100%2C1200%2C600&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/repairing-a-severed-nerve-can-alter-the-brains-map-of-the-hand-new-research-290081",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-14T15:06:31Z"
+  },
+  {
+   "id": "marginal-rev-1cgkb5a",
+   "source": "marginal-rev",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Regulatory capture is slow and quiet. AI rules aren't.",
+   "body": "Regulatory capture is when the agency built to police an industry ends up protecting it. It almost never involves a bribe. It is slow, and it needs the public to stop watching. Neither condition holds for AI right now.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "It starts with a scandal. The public demands action, and a new agency is born with real powers and reformers eager to fight. That is how the Interstate Commerce Commission began: built to regulate the railroads.\n\nThen the public looked away. The industry never did. It lobbied Congress, hired former regulators, and supplied much of the information the agency ran on. Fighting turned into getting along. In its old age, the ICC was shielding the railroads — from the truckers trying to take their business.\n\nNothing in that story looks like a bribe. Capture is erosion: slow, quiet, in rooms nobody is watching. Culpepper, in Quiet Politics and Business Power, gives the rule. Business power falls as public attention rises.\n\nThat is the test for AI. Dario Amodei proposed slowing the pace and putting independent safety teams inside AI companies. Many people called it capture. But AI rules are in their first stage, not their old age. Attention is locked on the industry and much of it is hostile — job loss frightens people far more than extinction does. And loud politics is exactly where industry power is weakest."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "1955 — Marver Bernstein's Regulating Business by Independent Commission names the four stages an agency passes through: gestation, youth, maturity, old age.",
+      "2% — the fall in Starbucks' tax rate once roasting coffee beans counted as \"domestic manufacturing\". Capture-sized: small, obscure, unnoticed.",
+      "2009 — Philip Morris backed the Tobacco Control Act, knowing regulation was coming anyway."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Backing a rule is not the same as owning the regulator. Philip Morris wanted a seat at the table to nudge the rules its way. That is ordinary bargaining, not a captured agency. And none of this proves Amodei is free of self-interest. His ideal may well be one regulated AI monopoly — safe, steadily profitable, like the old AT&T. It is simply not the biggest prize on offer. Letting AI loose on the world's job market would be worth far more."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Capture becomes a real question when AI rules reach maturity: staff moving back and forth between agency and industry, long relationships, rulemaking too technical for outsiders to follow. Until then, watch the other direction — political actors looking for a reason to steer AI profits toward groups they favour."
+    }
+   ],
+   "recall": {
+    "q": "Capture means an agency ends up protecting the industry it was built to police. Why does that fit the ICC but not today's AI rulemaking?",
+    "a": "Capture is slow erosion that works only after public attention moves on — lobbying, hired ex-regulators, obscure rules. AI rules are in their first, noisy stage, with hostile attention locked on the industry, and business power is weakest exactly when attention is highest."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/what-regulatory-capture-actually-looks-like.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=what-regulatory-capture-actually-looks-like",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Wed, 16 Sep 2026 11:16:50 +0000"
+  },
+  {
+   "id": "five-books-eky488",
+   "source": "five-books",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Dishonesty is much bigger than lying",
+   "body": "A shop clerk invents a weather forecast so tourists buy umbrellas. She is not lying — she has no idea what is true and does not care. The philosopher Christian Miller uses that gap to show what dishonesty really is, and why new technology makes it both more tempting and easier to hide.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Tourists ask a shop clerk if it will rain later today. She has no idea. She tells them thunderstorms are coming, and sells them umbrellas.\n\nShe did not lie. A liar says something they believe is false. The clerk believes nothing about the weather at all. Harry Frankfurt gave this its own name in a very short book, On Bullshit. What makes it bullshit is not that it is false. It is the broken link to truth — what Frankfurt called an \"indifference to how things really are.\"\n\nChristian Miller, a philosopher at Wake Forest University who studies honesty, uses cases like this to widen the map. Dishonesty is far more than lying. It also covers cheating, stealing, misleading, hypocrisy, bullshitting, and fooling yourself. One act sits at the centre of them all, he says: twisting reality on purpose, away from how you yourself see it. The clerk did exactly that. She sold certainty she did not have.\n\nWe care about this more than we admit. Miller's colleagues asked people to rank sixty qualities a person could have — honest, funny, clever, compassionate — in three ways: what you like most in someone, what you respect most, and what you most want to know about them. Honesty came first on all three.\n\nThat makes small lies harder to excuse. Sissela Bok's 1978 book Lying opened the modern debate. She argues for a rule she calls veracity: truth is the default, and a lie is wrong unless the situation gives some special reason for it. Miller thinks white lies do more damage than people assume. Even so, he will not make honesty a rule without exceptions.\n\nFor the hard case he goes to a novel. In Shusaku Endo's Silence, a priest in seventeenth-century Japan is ordered to step on a bronze image of Christ. If he refuses, peasants keep being tortured. He steps. It is hypocrisy in plain sight — he tramples the person he gave his life to serve — and Endo has Jesus tell him to go ahead. Honesty loses here; it is not cancelled. Stopping suffering can matter more.\n\nSo how do we live among each other? Timothy Levine's answer is oddly cheerful. Most people tell the truth most of the time, and a small minority does most of the lying. In his studies, most people report telling no lie in the past twenty-four hours. We are also truth-biased: we simply believe what others say unless something warns us not to. The catch is that the warning rarely comes. Most of us catch a lie about as often as we would by guessing.\n\nThat gap is where Miller's honesty crisis lives. A crisis starts, he says, when dishonesty becomes both more rewarding and easier to get away with. Cheating with AI, deepfakes, false information — one technology did both at once.\n\nHis worry about politics is not that trust has collapsed. It is that people switch the truth-default off for the other side and leave it on for their own."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Lying means saying what you believe is false. Bullshitting means not caring either way — and it is still dishonest.",
+      "Miller's definition: dishonesty is twisting reality on purpose, away from how you yourself see it.",
+      "Asked to rank sixty qualities, people put honesty first for what they like, respect, and want to know about someone.",
+      "Truth-default: most people tell the truth, and we mostly believe them — but we catch lies at about the rate of guessing.",
+      "An honesty crisis needs two things at once: dishonesty becomes more rewarding, and easier to get away with."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "We rank honesty first in other people, and check for it almost never."
+    }
+   ],
+   "recall": {
+    "q": "A shop clerk invents a weather forecast to sell umbrellas, with no idea whether it is true. Why is that not a lie — and why is it dishonest anyway?",
+    "a": "A liar says something they believe is false; the clerk believes nothing either way. That indifference to truth is what Frankfurt called bullshit. It still counts as dishonesty because Miller defines dishonesty as twisting reality on purpose, away from how you yourself see it — and she sold certainty she did not have."
+   },
+   "imageUrl": "https://fivebooks.com/best-books/honesty-christian-b-miller/shareimage.jpg",
+   "deepLink": "https://fivebooks.com/best-books/honesty-christian-b-miller/",
+   "attribution": "Five Books",
+   "publishedAt": "Wed, 16 Sep 2026 11:50:03 +0000"
+  }
+ ]
+}
