@@ -1,0 +1,946 @@
+{
+ "date": "2026-09-18",
+ "generatedAt": "2026-09-17T20:46:03.318Z",
+ "cards": [
+  {
+   "id": "letter-2026-09-18",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "The corrections issue",
+   "body": "Today's thread is corrections: settled pictures that turn out to be wrong. The one not to miss is the axon — the cable a brain cell sends its signal down. Textbooks have drawn it as a smooth tube for a hundred years, and careful new imaging shows something closer to a string of pearls, which quietly changes the neuron picture you have carried since school. Two more sit beside it: a physicist argues the famous quantum puzzle may have started with a choice Schrödinger himself made, and a new book says nothing is really lost when you squash a clay statue.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "sd-mind-1g45yg1",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Textbook axons are smooth. Real ones look like pearls.",
+   "body": "For a hundred years, students learned the axon — the cable a brain cell sends its signal down — as a smooth, narrow tube. Freeze mouse neurons fast instead of drying them out, and the tube turns out to be a string of tiny pearls. The shape is not decoration. It changes how fast the signal travels, and hard use makes the pearls swell.",
+   "evidence": "single study · mouse neurons, nonmyelinated axons · high pressure freezing electron microscopy, live imaging, modelling ",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The drawing has not changed in a hundred years. A blob for the cell body, a spray of short branches, and one long smooth cable running off the edge of the page. That cable is the axon — the wire a brain cell uses to send its electrical signal to the next cell. The textbook gives it a few bulges. Those are synapses, the handover points, full of neurotransmitters — the chemicals one cell passes to another. Between them: a clean, narrow tube.\n\nNow the new picture. A team at Johns Hopkins looked at mouse axons and found small swellings repeating all the way along, like pearls on a string. They are not synapses. The team calls them non-synaptic varicosities — bulges that are not handover points. The work appeared in Nature Neuroscience in December 2024. Shigeki Watanabe, who led it, says it challenges a century of understanding.\n\nThe pivot was not a new idea. It was a new way of preparing tissue. An axon is about a hundred times thinner than a human hair, so you need an electron microscope to see one. The usual method treats the tissue with chemicals and dries it out — steps that can quietly change the shape you came to measure. This team froze it under high pressure instead. Watanabe's comparison: freeze a grape rather than dry it into a raisin. Across tens of thousands of images, the same pearls. Live imaging of working neurons showed them too, so the freezing was not inventing them.\n\nTheir first guess was that a scaffold inside held the shape. Jacqueline Griswold, the first author, broke that inner skeleton. The pearls stayed. So the team looked outward, to the membrane — the axon's skin — and modelled it with biophysicist Padmini Rangamani. Simple physics gave the same pearls, with no stiff mould needed. Pull the membrane tighter, by adding sugar to the liquid around it, and the pearls shrank. Take out cholesterol, which leaves the membrane floppier, and the pearls changed and the signal slowed. Wide stretches let ions — the charged particles that carry the current — through without a traffic jam. But bigger was not always faster. The narrow necks between the pearls mattered too.\n\nThen the part that makes this more than a drawing. After hard electrical stimulation, the pearls grew: about 8% longer and 17% wider, still swollen half an hour later, with signals slowed for at least an hour. The wire had been reshaped by its own use. A related study has since found pearled axons in human brain tissue taken during epilepsy surgery.\n\nHold it loosely. This is one group re-describing one structure, not a finished replacement for the textbook.\n\nAnd still, a smooth tube teaches something it never says out loud: that the axon is plumbing. Fixed. Passive. Interesting only at its ends. A hundred years of students learned where to look for the action, and it was never the middle of the cable."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Then: a smooth narrow tube with a few bulges, and every bulge a synapse.",
+      "Now: pearls repeating all along it, and most are not synapses at all.",
+      "The pivot: high pressure freezing instead of chemicals and drying. Grape, not raisin.",
+      "What it buys: shape changes signal speed, and hard use changes the shape."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Mouse neurons, and bare ones — no myelin, the insulating cover that wraps many axons. The human follow-up looked mainly at how nerve endings recycle membrane. It does not show that every human axon is pearled, or that pearling does the same job everywhere in the brain. Beads along axons are also an old sight in dying neurons and in Parkinson's disease, where they come with damage. Telling healthy pearls from that damage is still open, and the team names it as their next question."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The textbook was not lying. It was drawing a raisin and calling it the grape."
+    }
+   ],
+   "recall": {
+    "q": "The pearls were there all along. What kept them out of the picture for a century?",
+    "a": "Not a missing idea — a preparation step. The standard method treats tissue with chemicals and dries it, which can change the very shape you are trying to measure. Freezing it fast under high pressure instead — a grape rather than a raisin — kept the pearls intact."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/microglia-brain-immune-cells.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Thu, 17 Sep 2026 06:54:28 EDT"
+  },
+  {
+   "id": "aeon-ey8vf7",
+   "source": "aeon",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "The oven can cook the lamb. It cannot taste it.",
+   "body": "In a Silicon Valley basement in 2015, two chefs cooked a farm's worth of meat to teach a prototype oven their recipes. They tasted every result and filled in forms. The oven could hold a heat no human hand can hold. It could not taste a thing.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The basement was full of smoke. Silicon Valley, summer 2015, under an office building. Wall ovens stood stacked on trolleys. Cords ran behind a steel counter. On a prep table sat a small machine that looked like a microwave built for one cupcake. It was a moisture analyser: it measured how much juice was left in a piece of lamb or swordfish.\n\nThe company wanted an oven that made restaurant food at the press of one button. Two chefs were hired to cook a farm's worth of meat into it. They tasted every result and filled in forms: colour, smell, temperature, texture, taste. The smoke had a cause. One chef had pushed three racks of lamb straight under the broiler, the oven's fierce top heat, chasing the colour you get from \"smacking it\" with a blowtorch. The oven had no setting for smacking.\n\nLiam Spradlin was there as design lead for the oven's touchscreen. His job pulled two ways. The chefs wanted controls they could adjust by hand. The company wanted the home cook to have almost none. Changing a recipe would fight the oven's smarts and risk a bad dinner. \"Change the ritual\" was written on the whiteboards.\n\nThe oven could read moisture to a decimal point and hold a heat no human hand can hold. It could not taste. Not ever. The forms the chefs filled in were not the oven learning taste. They were taste turned into numbers, so the machine could work without it.\n\nSpradlin has an image for it: you cannot taste a cherry by counting the petals on the tree. Count as long as you like. The blossom is real. It is not the fruit. Asking a machine to judge taste, the designer Nitzan Hermon says, is like asking a stone which films it likes. Not a hard question. The wrong kind of question.\n\nHe has a name for the belief under the oven: computism. The idea that the world, people included, is made of parts you can measure — so everything can be computed, predicted, improved. Believe that, and the person in the middle stops looking like the point and starts looking like the fault.\n\nWhich brings you to tonight. A paid service called Wonder now assigns its users three meals a day. It reads their fitness goals, likes and hunger, then decides what they will eat. Spell-checkers have grown into tools that tell you how to sound, built from other people's writing. In June 2026 a startup announced that taste itself is a data problem: with enough extra training, a model can make great works of taste.\n\nEach time, on its own, the machine's version is the sensible choice. It is faster. It is usually better. Deciding is tiring. The chef holding three racks of lamb under the broiler was not being efficient. He was doing the exact thing the oven was built to remove."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The company's fear was not silly. A home cook who changes a recipe really can ruin dinner. An oven that holds an exact temperature beats most people's guesswork most nights. Spradlin says he took the vision seriously at the time. The cost is not one spoiled meal. It is that the judging now happens somewhere else, by something that has never eaten."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Count every petal on the tree, and you still have not tasted one cherry."
+    }
+   ],
+   "recall": {
+    "q": "The chefs rated colour, smell, texture and taste for every dish they cooked. Why does the writer say this was not the oven learning to taste?",
+    "a": "The forms turned taste into numbers the oven could follow. The oven still had no experience of taste at all. Data about a thing can stand in for the thing, so the machine can work without it — like counting blossoms instead of eating the cherry."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/df3de1b9-0cd3-48a0-a054-36d0baf17bbe/essay-v1-.jpg?width=1200&quality=75&format=auto",
+   "deepLink": "https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries",
+   "attribution": "Aeon",
+   "publishedAt": "Thu, 17 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "book-beyond-good-evil-2",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 2 · The 'I' that grammar invented",
+   "body": "Yesterday Nietzsche put philosophers on the couch. Today he goes after the one thing everyone thought was safe — the \"I\" in \"I think\" — and finds grammar where a soul was supposed to be.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Descartes said \"I think, therefore I am,\" and treated it as bedrock. Nietzsche picks the sentence apart.\n\nSay \"I think.\" Count what you just assumed. That it is I who think. That thinking must have a thinker. That thinking is an activity, and every activity needs a doer. That there is an \"ego\" at all. And last: that you already know what thinking is — otherwise how could you tell this event is thinking and not \"willing\" or \"feeling\"? To name your state you must compare it with other states you remember. So the most certain sentence in philosophy quietly leans on memory. It is not immediate at all. His reply to the man who is sure: \"it is improbable that you are not mistaken, but why should it be the truth?\"\n\nThen the cleanest line of the day: \"a thought comes when 'it' wishes, and not when 'I' wish.\" Sit still and watch your own head. Thoughts arrive. You do not make them. So where does the \"I\" come from? From grammar. A sentence needs a subject, so we invent one behind the verb. He compares it to old physics: there was a force, so people assumed a little particle for the force to live in — the atom. Physics learned to drop the particle. Maybe one day logic drops the \"I\".\n\nNext he opens up the will, which Schopenhauer called the one thing we know completely. Nietzsche finds it crowded. In a single act of will there are sensations — the state you move away from, the state you move toward, the \"from\" and \"towards\" itself, and a muscle feeling that begins before you move a limb. There is a ruling thought. And above all there is an emotion: the emotion of command.\n\nThat is the trick at the center of today. When you will something, you are both the one giving the order and the one obeying it. We hide that split under the little word \"I\". So when the order gets carried out, the commander takes the credit and feels a rush of power — and that rush is what we call \"freedom of the will.\" L'effet c'est moi: the effect, that's me. The body, he says, is \"a social structure composed of many souls,\" and the ruling class always claims the wins of the whole country.\n\nHe widens it. Philosophers feel original, yet they keep circling one orbit, because the grammar of their language decides which thoughts are even available; Indian, Greek and German philosophy look like relatives for that reason. Thinking is less a discovery than \"a return and a home-coming.\"\n\nThen he refuses both sides of the free-will fight. To be causa sui — your own cause — you would have to pull yourself into existence by your own hair, Munchausen-style. But \"non-free will\" is mythology too. Cause, effect, necessity, law: useful fictions for talking to each other, not explanations. In real life there are only strong wills and weak ones. And watch which side a man takes: some cannot give up their responsibility, out of vanity; others want to be blamed for nothing, out of self-contempt.\n\nThe physicists get the same treatment. \"Nature's conformity to law\" is not a text, it is a reading — and a flattering one, equality before the law, very modern. Someone else could read the same facts as pure Will to Power. Then the honest shrug: \"Granted that this also is only interpretation... well, so much the better.\"\n\nThe chapter ends on a dare. Psychology has run aground on moral fear. Suppose hatred, envy, greed and the love of ruling are conditions of life itself, and the good impulses grow out of the bad ones. That thought gives an honest conscience seasickness. Set your teeth, he says, hand on the helm, and sail \"right OVER morality.\"\n\nChapter II, The Free Spirit, opens strangely gentle. We live in a simplified, falsified world, and that is exactly how we manage to enjoy it; knowledge stands on a \"granite-like foundation of ignorance\". His advice to thinkers is not courage but care. Beware of martyrdom — suffering for truth makes you stubborn and theatrical, and truth is not so weak that it needs bodyguards. Better to have masks, a garden, good solitude. \"And no one is such a LIAR as the indignant man.\""
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "With regard to the superstitions of logicians, I shall never tire of emphasizing a small, terse fact, which is unwillingly recognized by these credulous minds--namely, that a thought comes when \"it\" wishes, and not when \"I\" wish; so that it is a PERVERSION of the facts of the case to say that the subject \"I\" is the condition of the predicate \"think.\" ONE thinks; but that this \"one\" is precisely the famous old \"ego,\" is, to put it mildly, only a supposition, an assertion, and assuredly not an \"immediate certainty.\""
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A thought comes when it wishes. The \"I\" arrives afterwards, to take the credit."
+    }
+   ],
+   "recall": {
+    "q": "Nietzsche says a thought comes when \"it\" wishes, not when \"I\" wish. So where does the \"I\" in \"I think\" come from?",
+    "a": "From grammar. A sentence needs a subject, so we invent a doer behind the activity — the way old physics invented the atom to hold the force. The \"ego\" is a supposition, not an immediate certainty."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/4363/pg4363.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/4363",
+   "listenLink": "https://librivox.org/beyond-good-and-evil-by-friedrich-nietzsche/",
+   "attribution": "Friedrich Nietzsche · Helen Zimmern tr. · public domain"
+  },
+  {
+   "id": "fred-india-m3qntb",
+   "source": "fred-india",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's inflation has slowed to about 3%",
+   "body": "In March 2025, Indian prices were about 3% higher than a year earlier. A year before, the rise was 4.2%. So a ₹100 grocery basket from March 2024 costs about ₹103 today. The index has even slipped since November — but one month settles nothing.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "India's consumer price index is one number for the cost of a fixed basket of everyday goods. In March 2025 it sat about 3% above March 2024 — down from 4.2% the year before. Much of that easing is recent: the index peaked in late 2024 and has slipped since. Still, one month's reading proves little. The yearly figure depends as much on last year's starting point as on today's prices."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "March 2025 index: 157.6, against 153.0 in March 2024",
+      "Peak of this run: 159.2 in October–November 2024",
+      "Slip since the peak: about 1% over four months"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "At 3%, money sitting idle loses about 3% of its buying power each year. A salary that does not rise loses ground. So do savings that pay under 3%."
+    }
+   ],
+   "recall": {
+    "q": "The index fell between November 2024 and March 2025, but the card says prices are about 3% higher. How can both be true?",
+    "a": "The 3% compares March 2025 with March 2024, twelve months apart. Inside that year the index climbed to 159.2 in late 2024, then slipped about 1%. It still ended higher than it started."
+   },
+   "imageUrl": "https://fred.stlouisfed.org/graph/fredgraph.png?id=INDCPIALLMINMEI",
+   "deepLink": "https://fred.stlouisfed.org/series/INDCPIALLMINMEI",
+   "attribution": "FRED · St. Louis Fed",
+   "publishedAt": "2026-09-17T19:09:36.218Z"
+  },
+  {
+   "id": "nautilus-1l7qo9n",
+   "source": "nautilus",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Psychedelic trials can't fool anyone. That's a problem.",
+   "body": "In psychedelic trials, close to 100 percent of patients work out whether they got the drug or the placebo — and their therapists know too. So nobody can yet say how much of the benefit is the drug and how much is expectation. A team writing in JAMA Psychiatry thinks the fix is a cocktail of other drugs, plus telling participants less.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Niacin turns your face hot and red for a few minutes. That is the whole effect. For decades it was the best fake psychedelic medicine had: the pill you gave the control group so nobody would know who got the real drug.\n\nNobody was fooled. It was used once or twice in the 1960s and 70s, and, as UCSF psychiatrist Josh Woolley says, nobody was confused about which they had taken. Trial doses of psilocybin are high. People hallucinate. Vision, the senses and the emotions shift. Some report bliss, or the sense of being one with the universe. A hot face is not in that league.\n\nA trial is supposed to be masked, or blinded: neither the patient nor the staff knows who got the real drug. Merely hoping you got it can make you feel better. In psychedelic trials, masking has collapsed. Close to 100 percent of participants work out what they were given, Woolley says, and they know it \"immediately and completely.\" The therapists in the room know too. When both sides know, the measured gap between drug and placebo stretches, and the drug looks stronger than it is. Medicine has been caught this way before: operations everyone believed in, until a masked trial showed the belief was doing the work.\n\nAt the start of the year an executive order — a direct instruction from the US president — told federal agencies to speed up research and approval of psychedelic therapy for depression, anxiety and addiction. This week the FDA held a public hearing on how to approve and deliver these drugs.\n\nNobody knows the size of the error. Psychedelics may be as good as the trials say, or expectation may be carrying much of the load. No existing trial can tell you which, because none has hidden the assignment. Woolley compares it to the weather: everyone talks about it, nobody does anything.\n\nThe fight now is over what a fake psychedelic should be. An active placebo is a control that really does something, so the control group also feels strange. Drug research has avoided them because they get messy. You must prove your fake does not lift mood on its own, does not make people worse, and brings no side effect you failed to mention. Single candidates get floated: THC, or dextromethorphan, a cough-medicine ingredient that acts a little like ketamine. Both have only been tried in healthy volunteers, never in a real trial, and one drug is hard to mistake for psilocybin.\n\nSo Woolley and colleagues at UCSF, UC San Diego and Stanford, writing in JAMA Psychiatry, propose two moves. First, mix drugs from different classes into one cocktail that reaches strangeness by another route — an experience a person might confuse with psilocybin. Second, tell participants less, and tell them you are doing it: you may get between 1 and 30 milligrams, we will not say how many groups there are or what your odds are, and you may get none, one or two of these other medicines. No lies, and no hidden risk. The target is a coin flip. Say \"1 milligram or 25\" and the patient can simply guess right."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The camp Woolley is arguing with has a real case. A psychedelic's effect is a vivid conscious experience, so hiding it may be impossible by nature, not merely hard. Loading extra drugs into the control arm buys mess, new side effects and ethical trouble, and the mask may leak anyway. Their conclusion: masking psychedelics cannot be done, and does not matter much. Woolley's reply is narrow but hard to dismiss — the field has not seriously tried, so it does not know."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A drug that always announces itself is a drug you can never quite test."
+    }
+   ],
+   "recall": {
+    "q": "Nearly everyone in a psilocybin trial works out whether they got the drug. Why does that make the results hard to trust?",
+    "a": "Patients and their therapists both know, and expectation alone can change how people feel and how they are rated. That stretches the measured gap between drug and placebo, so the drug can look stronger than it really is."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2445451403.jpg?w=564",
+   "deepLink": "https://nautil.us/seeking-a-trippy-placebo-1285089/",
+   "attribution": "Nautilus",
+   "publishedAt": "Thu, 17 Sep 2026 14:00:00 +0000"
+  },
+  {
+   "id": "nautilus-rfm6gs",
+   "source": "nautilus",
+   "topic": "books",
+   "kind": "essay",
+   "title": "To read Vesuvius's scrolls, they burned their own",
+   "body": "Vesuvius turned more than 1,800 library scrolls to charcoal. To learn how to read them, a team wrote fresh scrolls, charred them in a furnace, and found that a trace of lead in the ink makes the letters glow in a scan.",
+   "evidence": "single study · modern replica scrolls burned in a furnace · not tested on Herculaneum originals",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two thousand years after Mount Vesuvius buried them, the scrolls of Herculaneum are being read. They are lumps of charcoal that crumble if you open them. So the reading happens inside a computer: an X-ray scanner looks through the closed roll, and software unwinds it on screen. A new paper in the journal PLOS One says there is a much faster way to find which lumps will give up their words — look for lead.\n\nIt unfolded like this.\n\nIn 79 CE, the eruption that destroyed Pompeii also buried the town of Herculaneum nearby. A library there was covered in ash and hot volcanic gas. More than 1,800 scrolls of papyrus — the paper of the ancient world — turned to charcoal. The same event ruined them and saved them. Some were already centuries old when they burned.\n\nThe library was found in the 18th century, and people tried to open the scrolls. One machine unrolled a few millimetres a day; a single scroll took four years. Many were destroyed in the attempt. Italian officials stopped the work.\n\nThen came CT scanning — the hospital kind, which builds a 3D picture out of many X-ray images — and AI trained to spot ink between the layers. Parts of the scrolls have now been translated, in months rather than years. But the old problem stayed. The ink is soot, and the papyrus under it is now soot too. The researchers call it \"carbon ink on carbon paper\".\n\nSo a mixed group — physicists, chemists, archaeologists, computer scientists, classicists, and people who normally search for life on other planets — decided to build the problem themselves. Douglas Seiler, at the University of California, Berkeley, got hold of carbon ink, papyrus and reeds, and set high school students to writing scrolls. Instead of Greek philosophy, they copied lines from Star Wars, the Bible and the Outer Limits. Into the ink went different amounts of lead nitrate, a lead compound that ancient writers often mixed into their colours. The finished scrolls were rolled up, sealed in metal canisters and put in a furnace, to char them the way the volcano had.\n\nLead soaks up X-rays. That is the whole idea: where a stroke of lead ink sits inside the roll, the scan should see a shadow that plain soot cannot make. When the homemade scrolls went into the machine, the letters \"lit up like a Christmas tree\", Seiler said. Even the weakest lead mix gave a strong signal. The team's own program then unwound the rolls on screen, and the words came back.\n\nThat is the shortcut. A handheld instrument can test a lump for lead without opening anything, and most of the charred Herculaneum scrolls have never been tested. Find the lead first, and you know which scrolls will read easily.\n\nWhich leaves the rest. A scroll written in plain carbon ink is still black marks on black, and nothing here changes that. The team proved the method on scrolls whose words they already knew — modern lines, written by teenagers, burned on purpose. What the library actually says is still inside the charcoal."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Two thousand years underground may change ink and papyrus in ways a furnace does not copy. And the study shows only that a lead signal is easy to see — not how many of the real Herculaneum scrolls carry lead."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "To read what a volcano burned, they first had to burn something of their own."
+    }
+   ],
+   "recall": {
+    "q": "Lead in the ink is the team's big find. Why does it not make every Herculaneum scroll readable?",
+    "a": "Lead soaks up X-rays, so lead ink casts a clear shadow in a CT scan. A scroll written in plain carbon ink is soot on charred papyrus — black marks on black — and the trick does nothing for it."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/scroll_thumb.jpg?w=564",
+   "deepLink": "https://nautil.us/how-do-you-read-ancient-charred-scrolls-make-your-own-1285098/",
+   "attribution": "Nautilus",
+   "publishedAt": "Thu, 17 Sep 2026 17:00:59 +0000"
+  },
+  {
+   "id": "bbc-world-18k9rcf",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "UN finds grounds to believe US committed war crimes in Iran",
+   "body": "A UN fact-finding mission says there are \"reasonable grounds to believe\" the US committed war crimes in two strikes in Iran on 28 February. At least 177 civilians died, 156 of them in one primary school. That phrase is a legal test, not a verdict. It means the evidence is strong enough to open an investigation and bring charges. Only a court can decide guilt.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The UN's Independent International Fact-Finding Mission on Iran is three experts reporting to the Human Rights Council. They examined two attacks on 28 February, the day the US and Israel began the war.\n\nTomahawk missiles hit the school in Minab. It stood beside a naval complex of the IRGC, Iran's Revolutionary Guard, which was also struck. But the experts found the school easy to identify, with no sign of military use, and hit twice: the intended target, not a stray. In Lamerd, missiles spread clouds of tungsten pellets over a sports complex and homes.\n\nThe US has not commented on the report. It says it is investigating Minab — Defence Secretary Pete Hegseth has said US forces would never target civilians — and it denies striking Lamerd at all, disputing even which weapon was used."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "28 February 2026 — both strikes, the opening day of the US and Israeli war on Iran",
+      "Minab primary school: at least 156 killed, 120 of them children",
+      "Lamerd sports complex and homes: at least 21 killed, seven of them children",
+      "177 — total civilian dead across the two attacks, per local authorities"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The same report found Iranian authorities committed crimes against humanity — murder, torture, mass jailing — while crushing the protests of December and January. The mission's own summary: Iranian civilians are caught between two dangers."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The experts tied both strikes to the US partly because it is the only side in this war with those missiles. The US military has still not released its own inquiry into Minab. Media reports say a preliminary version already found US forces responsible."
+    }
+   ],
+   "recall": {
+    "q": "The UN experts said there are \"reasonable grounds to believe\" the US committed war crimes. Why is that not the same as finding the US guilty?",
+    "a": "It is a legal test, not a verdict. It means the evidence is strong enough to open an investigation and bring charges. The mission finds facts; only a court can decide guilt."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Thu, 17 Sep 2026 15:07:47 GMT"
+  },
+  {
+   "id": "iai-q646nw",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Nick Land: capitalism is literally an AI, not a metaphor",
+   "body": "In 1993 Nick Land wrote that capitalism is an artificial intelligence invading us from the future. His claim: a market and a trained model are one self-improving process seen from two sides. Today's AI boom is offered as proof. A bubble would look exactly the same.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In 2014, on a conference stage in Vancouver, Nick Land told the room that one question had held him for twenty years: whether capitalism and artificial intelligence are the same thing. He had put it more wildly in 1993. The history of capitalism, he wrote then, is something invading us from the future — an intelligence with no body of its own, forced to build itself out of whatever its enemy already owns. Land is hard to read calmly. He ran occult experiments with a university research unit in the 1990s, broke down on drugs at the end of that decade, and returned in the 2000s as a leading voice of the far-right Dark Enlightenment. The philosopher Vincent Lê goes looking for what is true in the claim anyway. Here is that argument, in two voices.\n\nSkeptic: Isn't this just a metaphor? We say the economy overheats. We say an engine wants to run. Calling a market an intelligence is a fancy way of saying it is complicated and nobody is in charge.\n\nExpert: That is the first door Land shuts. He takes the move from Gilles Deleuze and Félix Guattari, two French philosophers he prefers to call cyberneticists — cybernetics is the study of systems that steer themselves using feedback. Their 1972 book Anti-Oedipus, which Land reads as an engineering manual and not as social theory, says the social machine is a machine literally, \"irrespective of any metaphor\". Land means it the same way. Capitalism is not like an intelligence. It is one.\n\nSkeptic: Then say exactly what the claim is.\n\nExpert: His term is teleological identity — teleology is the study of what a thing is aimed at, its goal. Same goal, same process, two angles of view. Watch a market: it takes in signals as prices, profits and losses, keeps whatever pays, drops whatever doesn't, and puts the winnings back into whatever paid. Now watch a model in training: it takes in signals, keeps what scores, drops what doesn't, feeds the result back in. Both improve themselves, both run on their own, neither has anyone at the wheel. In 2016 Land said capitalism and AI are \"the same thing being seen from different aspects\". On that reading, AI is not something capitalism built. It is capitalism becoming easy to see.\n\nSkeptic: Here is where I stop. You call him a prophet because American growth now leans on AI money. But that is a bubble: money piling into a story about the future. Lê admits it himself — guessing that companies would pour their money into AI is an obvious call. So the half of Land that came true is the cheap half. The expensive half — that the machine is literal, and pulling itself toward us out of the future — rests on two ideas his own essay sets aside: that machines carry desires of their own, and that a future can reach back and shape what comes before it. Drop those and there is nothing left to check. Keep them and nothing could ever count against him.\n\nExpert: That lands. The evidence that actually arrived is the boring evidence. And you were right to refuse a figure of speech at the start — a family resemblance between a market and a model is not much better. Two things that improve themselves can still be two things.\n\nSo the question stays open. If the obvious Land and the strange Land produce the same headlines — more money, bigger models — what would you have to see to tell them apart? Name it, and the literal reading becomes a claim about the world. Fail to name it, and it stays decoration on the obvious."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The half of a prophecy that comes true is usually the half that was never strange."
+    }
+   ],
+   "recall": {
+    "q": "The AI investment boom is offered as proof that Land was right. Why does it not help the strange version of his claim?",
+    "a": "Because the boom only confirms the obvious prediction — that companies would pour money into AI. Land's real claim is that capitalism and AI are one and the same process, and a bubble of human betting looks exactly the same whether that is true or false."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/ai-is-capitalism-capitalism-is-ai2.webp",
+   "deepLink": "https://iai.tv/articles/capitalism-is-ai-ai-is-capitalism-auid-3683",
+   "attribution": "IAI News",
+   "publishedAt": "Thu, 17 Sep 2026 10:05:17 +0000"
+  },
+  {
+   "id": "iai-1upchnn",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Did Schrödinger create the quantum mystery by mistake?",
+   "body": "De Broglie pictured particles riding on waves. Schrödinger found the equation for those waves and threw the particles away. Physicist Antony Valentini argues that this one choice, made in the 1920s, is where the whole \"observation creates reality\" mystery begins. The theory Schrödinger dropped still makes the same predictions.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A geologist reads Earth's deep history off rock. An astrophysicist watches galaxies billions of years old. A biologist pulls DNA out of a fossil. Nobody in those rooms thinks the rock, the galaxy or the dead animal needed a human present to be real.\n\nQuantum physics is the exception. There, a particle does not exist until someone measures it — though humans arrived very late in the story of life on Earth. Valentini thinks that exception is not a discovery. He thinks it is one man's mistake, made once and never taken back."
+    },
+    {
+     "label": "The 1920s",
+     "style": "prose",
+     "text": "The French physicist Louis de Broglie predicts that particles travel along wave-like paths: particles riding on waves. In that picture reality is still made of things that have a position, whether or not anyone is watching."
+    },
+    {
+     "label": "Soon after",
+     "style": "prose",
+     "text": "Erwin Schrödinger finds the equation that describes those waves — the equation physics still runs on — but he keeps the waves and drops the particles. Valentini calls this an \"enormous blunder\": the equation was fine, and the particles were thrown out with nothing put in their place."
+    },
+    {
+     "label": "What follows",
+     "style": "prose",
+     "text": "With no particles left, something must explain why a single dot lands on the screen in the two-slit experiment — so the textbooks hand that job to the observer, whose measurement collapses the wave. That is the measurement problem, and once you accept it you have to say the same about cats, the Moon and the universe."
+    },
+    {
+     "label": "The 1950s",
+     "style": "prose",
+     "text": "The American physicist David Bohm revives de Broglie's abandoned theory, now called pilot-wave theory. Picture a bottle floating on the sea: the wave passes through both slits, the bottle goes through one, and it arrives somewhere definite."
+    },
+    {
+     "label": "Over many runs",
+     "style": "prose",
+     "text": "The particle paths bunch together into the interference pattern that is supposed to be impossible to explain — as long as the incoming particles start out spread in a way that matches the wave, the famous \"Born rule\". The theory gives the same answers as standard quantum mechanics in other experiments too, so no result on the books rules it out."
+    },
+    {
+     "label": "Ever since",
+     "style": "prose",
+     "text": "Pilot-wave theory has mostly been swept under the rug, by physicists and historians alike. But \"blunder\" is Valentini's verdict, not settled history. He is the theory's defender, and he still has to win the argument in public — against physicists like Sabine Hossenfelder and Philip Ball."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "If the two theories predict the same things, no experiment can separate them — which is also a reason to leave the textbooks alone. And pilot-wave theory has to be handed one condition, that matching spread, before the pattern comes out. Valentini's fight is about clarity and history, not a test anyone can run tomorrow."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A mystery that began as a choice can be unchosen."
+    }
+   ],
+   "recall": {
+    "q": "Valentini says the measurement problem came from a decision, not an experiment. Which decision — and why does it push an observer into physics?",
+    "a": "Schrödinger kept de Broglie's waves but threw away the particles riding on them. With no particles left, something has to explain the single dot on the screen, so the textbooks give that job to the observer, whose measurement collapses the wave."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/Schrodingers-blunder-created-the-quantum-measurement-problem.webp",
+   "deepLink": "https://iai.tv/articles/schroedingers-blunder-created-the-quantum-measurement-problem-auid-3680",
+   "attribution": "IAI News",
+   "publishedAt": "Wed, 16 Sep 2026 10:38:53 +0000"
+  },
+  {
+   "id": "marginal-rev-14aubyw",
+   "source": "marginal-rev",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Why AI bosses warn of danger, then race anyway",
+   "body": "The easy read: AI chiefs who warn their product could go badly wrong, then ship it faster, are lying. Tyler Cowen says the warnings are sincere — each boss is simply more afraid of a rival winning first. Watch the compute spending, not the speeches.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A boss says his product could put the world in danger, then builds it faster. So the warning must be marketing — or a bid to get the rules written in his favour. Economists call that regulatory capture: bending the referee.\n\nCowen takes a better model from Kevin Roose's coming book on the race: plain rivalry. Dario, Altman and Musk each truly believe the other two cannot be trusted with very powerful AI. So honest fear and personal ambition point the same way — I must win, for everyone's sake. Selfish and selfless stop being opposites. The safety worry is real; the worry about losing is bigger.\n\nThe lie story sticks because the selfish motive sits in plain view, right next to the sincere one."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Sincere warnings carry real information. They will still never slow anyone down. Take these men as experts and the lesson is not pause — it is that who gets there first matters most."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Compute — the raw computing power used to train models — costs real money, so spending on it is the honest signal. Despite the talk of pausing, it is still rising, and even speeding up. If the model were wrong, a leading lab would quietly ease off buying compute while its rivals sprinted. Cowen's rule: a theory that cannot explain what these firms do with compute explains nothing."
+    }
+   ],
+   "recall": {
+    "q": "Cowen says the safety warnings are sincere. Why doesn't that slow the bosses down?",
+    "a": "Each one fears a rival getting there first even more. Honest fear and personal ambition point the same way, so sincerity produces speed, not caution. Rising compute spending is the evidence to watch."
+   },
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/the-correct-model-of-ai-ceo-behavior.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-correct-model-of-ai-ceo-behavior",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Thu, 17 Sep 2026 04:19:07 +0000"
+  },
+  {
+   "id": "psypost-rcoveu",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "How genes stand in for a GLP-1 drug trial",
+   "body": "Nobody can run a sixty-year drug trial. But gene variants are dealt out at random before birth, so a rough version of that trial has already happened. Read the results and people whose genes lean harder on the GLP-1 receptor have lower odds of depression and bipolar disorder — a much bigger gap than for genes that only lower body weight.",
+   "evidence": "single study · Mendelian randomization · genetic databases incl. UK Biobank · European ancestry only",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Picture the study that would settle it. Two nurseries of newborns. In one, a single receptor in the brain runs slightly higher for life; the other is left alone. Then wait sixty years and count who ends up depressed. That study will never be built.\n\nSo a team led by Guoyi Yang used a trial that had already been run — by nobody. The principle fits in one line: you inherit your gene variants at random, before birth, so nature already ran the lottery. The rest is bookkeeping. Here are the steps.\n\nFirst, pick the switch. The GLP-1 receptor is a protein on cells in the pancreas and the brain. Switch it on: blood sugar gets handled, and the brain hears that you have eaten enough. The popular weight-loss and diabetes drugs — semaglutide and its relatives — flip exactly this switch. Trials had hinted they ease depressive symptoms, and there was also worry they might push some people toward suicidal thoughts. But nobody could separate the receptor from the mirror: a person who loses weight may simply feel better about themselves.\n\nSecond, find the stand-in. Some people are born with variants in or near the GLP1R gene that lean on that same receptor a little harder, for life. Yang's team took two sets. One lowers body mass index, the rough body-fat score from your height and weight. The other lowers HbA1c, a measure of average blood sugar over the past few months. Same receptor, two different routes out.\n\nThird, read the lottery results. In genetic databases holding hundreds of thousands of people — the UK Biobank among them, all of European ancestry — they checked what those variants travelled with. Per one point of body mass index lowered through the GLP-1 route, well-being was 0.06 of a standard deviation better: more life satisfaction, less neuroticism (the pull toward worry and low mood), fewer depressive symptoms. A standard deviation is the yardstick statisticians use to compare unlike scores, so that is a small step. Odds of major depression came out at 0.82, about 18% lower. Bipolar disorder came out at 0.61, roughly 39% lower. Substance use disorders and alcohol problems leaned the same way, more weakly.\n\nFourth — the step that turns a pattern into an argument — run the test that could kill your own answer. They lined the GLP1R variants up against ordinary weight-lowering variants from across the whole genome. If thinner simply means happier, those ordinary variants should score just as well. They scored much lower. And the blood-sugar set of GLP-1 variants showed no broad mental-health benefit at all. Same receptor, different route, different answer. That is hard to explain if the story is only about the scales. The authors suspect the receptor's own work in the brain — on stress, on inflammation — is doing some of it.\n\nThe pattern carries. Pick a drug's target, find the variants that lean on it, then test whether they beat the ordinary path to the same outcome. The method is called Mendelian randomization. Pointed at a drug target like this, it is a cheap dress rehearsal for a trial."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The lottery only buys so much. The whole method rests on one assumption that cannot be checked: that these variants touch mental health only through the GLP-1 receptor. Genes have neighbours, and the ones beside GLP1R may be doing work of their own. Tests looked for that and found nothing, which is not the same as nothing being there.\n\nThe bigger gap is shape. A variant is a faint nudge carried from conception. A prescription is a strong dose taken by an adult for months. Yang says it plainly: these numbers are not the risk reduction a patient will get. Only clinical trials can answer that."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A study earns its trust at the step where it tries to fail."
+    }
+   ],
+   "recall": {
+    "q": "The team compared the GLP1R variants against ordinary weight-lowering variants from across the genome. What was that comparison for?",
+    "a": "To test whether the mood benefit was really just weight loss. The ordinary weight-lowering variants scored much lower, so losing weight alone does not seem to explain the result — hinting that the receptor's own work in the brain plays a part."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/glp-1-receptor.jpg",
+   "deepLink": "https://www.psypost.org/large-genetic-study-links-glp-1-receptor-activation-to-improved-mental-well-being/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 17 Sep 2026 02:00:27 +0000"
+  },
+  {
+   "id": "marginal-rev-1bdb1ts",
+   "source": "marginal-rev",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "AI raises pandemic risk. The defences are cheap.",
+   "body": "The claim: AI hands small groups more power over biology. So ordinary pandemic defence is now AI safety spending.",
+   "sections": [
+    {
+     "label": "What does a pandemic have to do with AI?",
+     "style": "prose",
+     "text": "Start with COVID. If it began with a lab leak — possible, not proven — then a research accident has already killed millions. Either way, COVID showed what one pathogen, one disease-causing germ, can do."
+    },
+    {
+     "label": "What would AI actually change?",
+     "style": "prose",
+     "text": "Using AI to fix a washing machine is the difference between reading a manual and having a tutor beside you, step by step. The same jump applies at a lab bench.\n\nAnthropic's own threat report lists five cases where people used its models in ways that \"could support biological weapons development\", including military-linked virus research. Some got past access controls and hid part of their work.\n\nAI speeds up cures too. But faster science is not faster defence: a discovery protects nobody until institutions turn it into a delivered vaccine, and they may not keep pace."
+    },
+    {
+     "label": "What would we build?",
+     "style": "prose",
+     "text": "Wastewater surveillance — testing sewage for early signs of disease. Prediction markets, where people bet money on what comes next. Vaccine libraries built ahead of time. Human challenge trials, where volunteers are deliberately infected, with the rules written before the crisis. A Pandemic Trust Fund.\n\nNone of it costs much, and none of it needs politicians to be wise in the moment. Tripwires and banked money are what you build when you trust nobody to move fast."
+    },
+    {
+     "label": "What nobody can answer yet",
+     "style": "note",
+     "text": "Whether any of it holds against a pathogen that was designed, not evolved. Some safeguards seem to have worked. But nobody knows the base rate — how many attempts there were in all. And nobody knows what happens with open-weight models, published for anyone to download and run, outside any company's control."
+    }
+   ],
+   "recall": {
+    "q": "AI will also speed up vaccines and treatments. Why doesn't that cancel out the added risk?",
+    "a": "Because faster science is not faster defence. A discovery protects nobody until institutions turn it into a delivered vaccine, and they may not keep pace — which is why the argument backs cheap defences banked in advance."
+   },
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pandemic-preparation-is-ai-safety",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Thu, 17 Sep 2026 11:17:01 +0000"
+  },
+  {
+   "id": "the-point-1iu8v8q",
+   "source": "the-point",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Can you practice your way into being good?",
+   "body": "Effective altruists — people who pick their good deeds by the numbers — treat helping as a craft: count, compare, fund the fix that does the most per dollar. It works. Lead-paint rules in Nigeria. Electric stunners on shrimp farms. But the writer who spent days among them was never argued into caring. A cow he had raised on a bottle did that.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In 2007, in the English town of Wigan, a ten-year-old boy went into a pond after his sister. Two elderly fishermen pulled the girl out. They could not reach him. Two police officers stood on the bank and did not go in. The boy's stepfather arrived minutes later and lifted his son's body from the water.\n\nA senior officer said the police had \"acted correctly.\" The stepfather said something else: \"You don't have to be trained to jump in after a drowning child.\" Is being good a craft — something you study and get measurably better at? Or is it a kind of person you already are, which no course can install?\n\nTake the craft view at full strength. It begins with a thought experiment by the philosopher Peter Singer, which most effective altruists treat as the start of their movement. You pass a shallow pond. A child is drowning. You wade in and ruin your clothes. Obviously. Distance changes nothing about the duty — but our feelings do not know that. We beg and push each other before sending help abroad. Nobody needs persuading to step into a pond.\n\nSo stop trusting the feeling and learn to count. American violent crime tracks the lead found in preschoolers' blood twenty-three years earlier, and cutting lead exposure has been shown to reduce violent crime by as much as 56 percent. So a few people write one solid review of the evidence, meet officials who already half agree, and in 2024 Nigeria adopts enforceable rules on lead paint. Nobody loves a shrimp either. Yet two of these people shipped free electric stunners to shrimp farms, where the alternative is up to an hour suffocating in ice: 1,400 shrimp stunned first for every dollar donated. That is method, not warmth. Method can be taught.\n\nNow the other side, just as strong. The trained men in Wigan were the ones on the bank. They had a procedure, they followed it, and it was still shameful. The fishermen had no procedure. They went in.\n\nThe man who later spent days at an effective altruism conference first heard the drowning-child argument as a student. Objections rose in him so fast he stopped hearing the rest of the talk. Back at the farm where he worked, he and his friends tore the idea apart in the garden. One of them held up a ripe tomato as evidence for something none of them could name.\n\nWhat changed him was a cow. Boo's mother died at his birth, so the students raised him on a bottle. Grown, he galloped over to be scratched between the eyes and nudged the irrigation pipes along with his head. One morning the herd was gone, trucked to a meatpacking plant. The writer had grown the alfalfa that fattened him. He stood in the field and wept. Only then did the argument come back, in his own words: they had gained something small, lost something huge, miscalculated.\n\nSo what would decide it? Look at where the two come apart. Technique without feeling still works: trillions of shrimp, and nobody weeping for them. Feeling without technique still works: two old men in cold water. Neither alone is the whole of being good. The real question is narrower. Which of the two can you hand to a person who does not have it?\n\nAt the conference, the method changes hands all day, a new partner every 25 minutes. Nothing there teaches anyone to care. It teaches them what to do with the caring they walked in with. The writer's own turn came from an animal he had fed by hand. The craft is real, teachable, and reaches much further than kindness alone ever will — but it multiplies a motive it cannot make."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The craft side has one more move, and it is a good one. Nobody arrived at that conference loving shrimp. The method went looking for suffering, found it where no heart would have looked, and the caring followed the number. If that happens often, the split above is too clean: sometimes the technique does create the motive."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The method can be handed to you in a hallway. Whatever sends you into the water arrives some other way."
+    }
+   ],
+   "recall": {
+    "q": "The piece calls the craft of doing good a multiplier. What is it multiplying, and why does that word set a limit on it?",
+    "a": "It multiplies the caring you already brought. Method turned a few meetings into Nigeria's lead-paint rules and stunners for shrimp farms, but the writer only came back to the argument after a cow he had raised was slaughtered. Skill decides how far your caring reaches. Something else has to start it."
+   },
+   "imageUrl": "https://thepointmag.com/wp-content/uploads/2026/09/12209928076_94be21f82c_h.jpg",
+   "deepLink": "https://thepointmag.com/examined-life/getting-good/",
+   "attribution": "The Point",
+   "publishedAt": "Thu, 17 Sep 2026 16:54:38 +0000"
+  },
+  {
+   "id": "conv-psych-5gemly",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why clusters of holes make some people feel sick",
+   "body": "A photo of a lotus seed pod or a kitchen sponge makes about one in six people feel some discomfort — nausea, crawling skin, a need to look away. The name for it, trypophobia, is misleading twice over: the main feeling is disgust rather than fear, and the holes may not be what the brain is reacting to at all.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A kitchen sponge sits on the edge of the sink. It cannot hurt anyone. But some people cannot look straight at it. The stomach turns, the skin crawls, the eyes jump away. A lotus seed pod does it too, and honeycomb, and a strawberry.\n\nThe name for this is trypophobia: a strong dislike of clusters of small holes or circles. For most people it is mild and gone in seconds.\n\nThe name misleads. Trypophobia is not recognised as a mental health disorder of its own, and the main feeling is usually not fear. It is disgust. That difference is bigger than it sounds. Fear says: this could attack me, get away. Disgust says: this could be rotten or infected, do not touch it, do not eat it. Two alarms, built for two different dangers. The sponge is setting off the second one.\n\nThe other easy answer is that the internet invented it. Social media did make trypophobia well known, and the images that spread are often edited to be as unpleasant as possible. In a 2024 study, almost two-thirds of people had first heard of it on social media. Those who knew the word beforehand reported stronger reactions than those who did not.\n\nBut in that same study, about a quarter of the people with trypophobia had never heard the word. Knowing about it can turn the volume up. It cannot explain why the sound is there at all.\n\nThe best current explanation is that the holes are not what the brain is answering. Two theories compete. Threat detection: these patterns look like the markings on poisonous or dangerous animals, snakes among them. Disease avoidance, which has the growing evidence behind it: clusters of holes look like skin sores, rashes, parasites, the surface of an infection. A lotus pod is harmless, but it may be a close enough match to switch on old machinery built to avoid infection.\n\nBoth theories say the same strange thing. You are not reacting to the object. You are reacting to what your brain has quietly guessed the object might be — and the guess arrives before you can argue with it.\n\nWhat neither theory explains is why you and not your brother. Which one is right is still being argued, and neither says who will feel this and who will scroll past. For a few people that gap matters. In one researcher's own studies, participants avoided strawberries, cooking and baking, clothing, even showers — as much avoidance as you see in a specific phobia such as a fear of spiders."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Both explanations are still in debate — disease avoidance has more support, not proof. The one-in-six figure covers everyone with at least some discomfort, from a flicker to real distress. Treatment is barely tested: until recently nothing had been tried for trypophobia specifically. The one promising result — a single intensive session aimed at both fear and disgust — comes from a recent study co-authored by the researcher reporting it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The sponge is innocent. Something in you filed it under infection, and the body answered first."
+    }
+   ],
+   "recall": {
+    "q": "Nothing is actually wrong with a lotus pod or a sponge. So what is the brain reacting to — and why is disgust the giveaway?",
+    "a": "Not the holes themselves, but what the pattern looks like: skin sores, rashes, parasites, or the markings of a dangerous animal. Disgust is the giveaway because it is the infection alarm, not the get-away-from-danger alarm — the body answers before you can check."
+   },
+   "imageUrl": "https://images.theconversation.com/files/758706/original/file-20260909-50-lmzmh6.jpg?ixlib=rb-4.1.1&amp;rect=0%2C250%2C2000%2C1000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/this-sponge-has-holes-some-find-that-truly-disgusting-291263",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-17T02:26:12Z"
+  },
+  {
+   "id": "psypost-wnuzie",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "A good marriage can't outrun bad sleep and bad food",
+   "body": "Happy marriages usually come with slower ageing inside the body. In a two-year study of 107 couples, that mostly held. The exception was striking: among couples who slept badly and ate badly, the happiest marriages showed the fastest cell ageing. The idea behind it is that a shared bad habit can be one of the things making a couple happy.",
+   "evidence": "single study · n=107 couples · 2-year follow-up · blood markers, self-report and observed lab interaction",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The snack bowl sits between them on the sofa. One more episode, then bed — they said that two episodes ago. Neither of them minds. Being awake together at this hour is the good part. It feels like a marriage, not a shared mortgage.\n\nA study in the journal Brain, Behavior, and Immunity suggests that sofa is doing two things at once. Stephanie J. Wilson and her colleagues took blood from 107 couples, aged 40 to 87, then took it again two years later. They looked for wear inside the cells. Telomeres: the caps on the ends of chromosomes that fray a little every time a cell divides. Chemical tags on genes that can be read like an inner clock. And a protein called p16INK4a, which piles up when cells enter senescence — they stop dividing but refuse to die, and leak chemicals that keep the body inflamed.\n\nAt first the news was kind. Partners who rated their marriage highly carried less of the senescence protein. Couples who supported each other during a recorded lab conversation had slower gene clocks. But every one of those benefits came with a condition. The lower protein showed up only in couples who exercised regularly. The slower clocks showed up only in couples who slept well and ate well.\n\nWilson's team was testing an idea called symptom-system fit: a bad habit can be part of what holds a couple together. Staying up too late, eating junk — done side by side, these feel like closeness. You are in sync. You are on the same team at midnight. The habit is not competing with the marriage. It is feeding it.\n\nThe two-year numbers are where it turns. Couples who began the study happiest did gain the senescence protein more slowly. That much held. Their telomeres said something else. Among couples reporting poor sleep and poor diets, high marital satisfaction predicted faster telomere loss. The warmest couples on camera, if they also ate badly, aged fastest on the gene clock over those two years. The happiness did not cancel the habit. It looked more like the happiness was holding the habit in place.\n\nThis is a link, not a cause, and the researchers say so plainly. What the data can support is narrower, and still worth hearing: a good marriage is not a shield you can hold up in front of your own routine.\n\nSo — the snack bowl, the sofa, the fourth episode. The warmth is real. It is not covering for anything."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "Each couple came into a lab and held three recorded conversations: one about a recent good thing, one about a personal problem, and one about a long-running fight between them. Trained coders scored how warmly or coldly the partners treated each other. The couples also reported their exercise, their sleep quality, and how closely they followed a Mediterranean-style diet. Both partners' answers were averaged into one score per couple."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The study only watched couples over time; it changed nothing and tested nothing. So it cannot show that marital satisfaction causes anything at the cell level. The two-year gap shows the habits came before the biological change, but not that they produced it. The couples were mostly white, highly educated, and healthier than average adults. And when the team ran stricter tests to rule out chance, some of the early healthy-looking patterns stopped holding up. The authors call the evidence early and plan longer studies."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A marriage can make a bad habit feel like love. The body still counts it as a bad habit."
+    }
+   ],
+   "recall": {
+    "q": "In some couples, higher marital satisfaction predicted faster telomere loss. Which couples — and what does the study's theory say is happening?",
+    "a": "The couples who reported poor sleep and unhealthy diets. Under symptom-system fit, a shared bad habit can feel like closeness, so the happiness may be helping to keep the habit in place — and the habit is what wears down the cells."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/05/couple.jpg",
+   "deepLink": "https://www.psypost.org/how-a-happy-marriage-might-accelerate-your-biological-aging/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 17 Sep 2026 12:00:23 +0000"
+  },
+  {
+   "id": "ndpr-18q976n",
+   "source": "ndpr",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Being a statue is just a phase the clay goes through",
+   "body": "Squash a clay statue and most philosophers say something died. A new book says nothing did. The statue and the clay were one object all along, and being a statue was just a phase — like being a teenager. The rule that makes this work is tidy, until a fourteen-year-old loses a 174-pound leg.",
+   "sections": [
+    {
+     "label": "Did anything just die?",
+     "style": "prose",
+     "text": "A clay statue stands on a table. Press it flat with your palm. Something is over — but what?\n\nThe two usual answers both involve a death. In the first, the statue stops existing and the lump of clay carries on — a second object that was sitting in exactly the same place all along. In the second, the statue stops existing and a new object, a squashed lump, takes its place.\n\nJustin Mooney's book Phases of Objects defends a third answer: nothing died. The statue is the clay. The clay is still here. It has simply stopped being a statue."
+    },
+    {
+     "label": "What is a phase?",
+     "style": "prose",
+     "text": "A stretch of a thing's life spent being a certain kind of thing. Being a teenager is a phase. Nobody thinks the teenager dies at twenty and an adult appears in the chair. Being a statue, Mooney says, works the same way. It is not a second object sitting on top of the clay. It is something the clay is doing for a while."
+    },
+    {
+     "label": "Why do philosophers need the word?",
+     "style": "prose",
+     "text": "Because the other answers get crowded. Statue and clay clearly differ — squash them and one is finished, one is not. And if two things differ, the usual logic says they are two things. So you end up with two objects in one place, made of the same atoms.\n\nPhasalism — the name for Mooney's view — swaps that crowd for one object with a longer life story. Almost nobody has defended it. No phasalist appears in Rea's landmark collection Material Constitution, and the Stanford Encyclopedia gives the idea one sentence."
+    },
+    {
+     "label": "So what survives, and what doesn't?",
+     "style": "prose",
+     "text": "One rule, for every physical object, people included. A thing survives if it traces a path through space and time with no big jumps, and if no rival path is smoother.\n\nTidy. Also surprisingly generous. A pumpkin can become a carriage. Take the Empire State Building apart piece by piece and it may end up as a scrap of steel that fits in your shirt pocket. You do not stop existing at death, but somewhere inside cremation or decay."
+    },
+    {
+     "label": "Where does the rule hurt?",
+     "style": "prose",
+     "text": "In what Mooney calls \"remnant survival\" — a thing splits into uneven pieces, and the small piece still looks like the original. Cut a vine off at its base and the stub keeps growing. But that vine covered a brick wall, and the rule says a two-inch stub cannot be the plant that covered it. The jump is too big.\n\nThen there is Jasmine Ramirez. Tumours grew in her leg until it weighed 174 pounds. Surgeons removed it when she was fourteen, leaving a one-legged girl of about 100 pounds. The rule cannot let Jasmine be that girl. It cannot let her be the leg either. Mooney has to say she stopped existing on the table — and then answer a worse question. Who was the one-legged girl before the surgery?"
+    },
+    {
+     "label": "The question the book leaves open",
+     "style": "prose",
+     "text": "Reviewers see a way out. Let strong body-and-mind continuity — the unbroken thread of a living, thinking person — beat the path through space, and Jasmine survives as the girl in the bed.\n\nThe cost is the tidiness. Once one thing can beat the rule, you need rules about what beats what, and the clear answers go. So the book leaves this open. Is the world orderly enough for one rule to cover statues, vines and people? Or did this answer come out clean only because it was willing to lose her?"
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Ask what survives a squashed statue, and you find yourself asking who is left after the surgery."
+    }
+   ],
+   "recall": {
+    "q": "Mooney must say Jasmine Ramirez stopped existing when her leg was removed. Which part of his rule forces that?",
+    "a": "His rule lets a thing survive only along a path through space and time with no big jumps. Losing most of her body in one operation is exactly that kind of jump. So the rule cannot let the one-legged girl be Jasmine, and it cannot let the removed leg be her either."
+   },
+   "imageUrl": "https://ndpr.nd.edu/assets/677367/mooney.jpg",
+   "deepLink": "https://ndpr.nd.edu/reviews/phases-of-objects/",
+   "attribution": "Notre Dame Philosophical Reviews",
+   "publishedAt": "Mon, 14 Sep 2026 13:12:00 -0400"
+  },
+  {
+   "id": "et-economy-1acwv6b",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's PM adviser: end population control now",
+   "body": "For decades India built policy to push its birth rate down. One of the Prime Minister's own economic advisers now says that push should stop — completely.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Before you read on: guess what India is now being advised to do about population growth.\n\nMost guesses land soft. Ease the old rules. Keep the two-child norm — it still sounds responsible.\n\nSanjeev Sanyal is blunter. He sits on the Economic Advisory Council to the Prime Minister, the panel that advises the PM on the economy. Births have fallen sharply, he says, so the policies built to push them down should be repealed — cancelled outright, not softened, not later. That means the money paid for sterilisations, and the two-child norms. It also means the words: \"fertility reduction\" still sits in policy documents, long after the numbers that put it there moved.\n\nThe rule came before the data. Repeat a goal long enough and it stops sounding like a goal.\n\nHe is not against family planning. Contraception, gaps between births, care for mothers, free choice — all of that stays. What ends is the state's own interest in fewer births."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "A government adviser is asking the government to stop paying for a result it is already getting."
+    }
+   ],
+   "recall": {
+    "q": "Sanyal wants sterilisation incentives and the two-child norms repealed. What does he want kept?",
+    "a": "Family planning as a service — contraception, gaps between births, care for mothers, free choice. What goes is the state's goal of fewer births, including the \"fertility reduction\" wording still sitting in policy documents."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-134320068,imgsize-101374.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/policy/eac-pm-member-sanjeev-sanyal-suggests-ending-population-control-policies-amid-falling-fertility/articleshow/134320068.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Fri, 18 Sep 2026 00:15:47 +0530"
+  },
+  {
+   "id": "conv-psych-1a2cgsw",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Few keep a go-bag. One would not leave the teddy bear.",
+   "body": "A UK survey asked 1,000 adults what they keep ready for an emergency. Four of them were fully prepared. Then it asked what else they would carry out, and a surprising number named something with no survival value at all — a childhood teddy bear. Psychologists think that answer is less silly than it sounds.",
+   "evidence": "single survey · n=1,000 UK adults · self-report · results not yet published",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "One of the thousand people wrote this: \"My childhood teddy bear. He is going to the grave with me. Apart from that, nothing matters much.\"\n\nThe survey went out in April 2026 to 1,000 UK adults. It was run by After the End, a research project on how people live through crises and recover from them. It measured readiness: did you have a go-bag — a bag packed in advance that you can pick up and walk out with? Governments publish lists of what goes in it. Three days of food, water and medicine. Documents, cash, batteries or a power bank, a wind-up radio, and some idea of where local help would come from. Most people had less than half the list. Four out of the thousand said they were fully prepared. A bigger government survey in 2025 pointed the same way: of 10,536 UK adults, only 13% felt largely or totally prepared.\n\nThen the survey asked what else people would carry. That is where the bear came in, along with jewellery, family photos and things kept since childhood. Pets came up again and again, cats and dogs described as family. Some people said they would take the ashes of a pet that had already died.\n\nThere is a psychology idea that fits: extended self theory. It says our sense of who we are is fragile, and we keep rebuilding it out of our connections to the world — including our things. A teddy bear kept since childhood is not stuffing and stitches. It is a store of memory: where you came from, who looked after you. Objects hold that self steady across years and across places.\n\nThe steadiness matters most when everything else is moving. Research suggests a stable, clear sense of self works like an anchor in a crisis: people cope better and get stuck on the bad memories less. Being able to reach things from before the disaster also seems to shape how well people recover. Survivors of the 2011 Japan tsunami often named lost family photos as one of their hardest losses.\n\nThe two lists are linked, too. Self-efficacy is the psychologist's word for believing you can actually do what you set out to do. Higher self-efficacy goes with being better prepared before and coping better after. In this survey, people who reported more self-efficacy also reported having more of the recommended supplies. The bear and the wind-up radio are not fighting for the same space.\n\nStill, the bear is one line from one person. The team says a surprising number answered this way, but does not say how many. What the survey does show is narrower, and still worth knowing: asked to imagine losing everything, many people answer by naming a small object nobody else would value."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The survey is new and not yet published, so nobody outside the team has checked it. It covers UK adults only. Every answer is what people said about themselves — nobody looked inside their cupboards, and what you say you would grab at 2am is not what you would grab.\n\nThe self-efficacy finding is two answers on the same form lining up. It is not proof that confidence makes you pack better; people who are already well stocked may simply feel more capable. The wider claims about identity and recovery come from other research on other groups, not from these 1,000 people."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The list keeps you alive for three days. The bear tells you who got out."
+    }
+   ],
+   "recall": {
+    "q": "Asked what else they would carry out, people named a teddy bear, family photos, a dead pet's ashes. What does extended self theory say those objects are doing?",
+    "a": "It says our sense of who we are is fragile and gets rebuilt out of our connections to the world, including our things. A childhood object carries the memory of where you came from and who looked after you, so it holds the self steady when everything around you changes — and a steady sense of self is linked to coping better in a crisis."
+   },
+   "imageUrl": "https://images.theconversation.com/files/759158/original/file-20260910-50-s65t5b.jpg?ixlib=rb-4.1.1&amp;rect=0%2C432%2C5184%2C2592&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/when-prepping-for-disaster-dont-forget-to-pack-your-teddy-bear-290673",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-17T15:40:45Z"
+  },
+  {
+   "id": "psyche-1e2ktnc",
+   "source": "psyche",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Regret is information. Don't throw it away.",
+   "body": "A widow's list of should-haves looks like pure self-punishment. But every line names something she valued. Her way out was not deleting the list. It was turning one line into a phone call at 2 pm. The trap is not the regret. It is the \"why\" you ask instead of acting.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "So you have decided not to regret anything. I understand the wish. You have seen where regret goes. It goes to 2.30 in the morning, awake, putting yourself on trial — accused, lawyer and judge, all of them you.\n\nSandra Lamb has been in that room. Her husband Charles was being treated for lymphoma, a cancer of the immune system. She was away on a trip they had agreed she should take. They had argued in the car on the way to the airport — a small fight that leaves a mark anyway. She called home. It took ten rings for him to answer, his voice heavy with sleep. She told him she loved him, hoping he would hear the sorry folded inside it. The line went dead. By late afternoon he was not answering at all. A neighbour found him unconscious in bed.\n\nThen a series of small doors closed. The ambulance crew said the roads were bad. They could only use the nearest hospital, four miles away, not the cancer centre ten miles off that was expecting him. On day four she learned the two hospitals' computers could not read each other's records. On day five Charles woke and said he wanted to go home. He was moved to a rehab centre, caught an infection there, and died.\n\nThe regrets came like a drumbeat. She should not have gone. She should have shouted at the ambulance crew. She should have said sorry in the car. Now read that list as a list. Every line names something she cared about: being there, speaking up for him, not letting a fight stand. That is what regret is. Not a verdict on you. A reading of what you value, printed in the most painful font there is.\n\nWhat nearly finished her was not the regret. It was the question she kept asking it. Why did I go? Why didn't I insist? Questions with no floor. Researchers call this habit rumination: circling the causes of your pain without moving toward a fix. Three months on, a church grief class only made the circling worse. Misery, she writes, is a skill you can learn. One night she stood at the medicine cabinet, counting the pain pills he had left behind.\n\nWhat pulled her back was oddly small. Charles had fought to put a refund clause into the lease of a condo — a flat they paid a full month for and never used. That was the careful man he was. Claiming that money felt like honouring him. She wrote one line in her planner: call the owner at 2 pm tomorrow. He dodged her, then refused. She filed a complaint. She showed up. Each real step was a rope she pulled herself out on, hand over hand.\n\nSo here is my quarrel with your rule. You cannot switch regret off. You can only refuse to read it. That does not spare you the ache. It means you pay in full and take nothing home. Lamb still has regrets, mostly about what she did not do: words unsaid, presence not offered. They are easier to carry now, because each one has somewhere to point. Read yours."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "When a should-have loops in your head, ask what it was trying to protect. That thing is the value. The guilt is only the wrapping.",
+      "Check how your question starts. Anything beginning with \"why did I\" is rumination, and the groove gets deeper every time you travel it.",
+      "Trade it for two questions that have answers: What can I do? What, exactly, will I do tomorrow, and at what time?",
+      "Write the time down. Then expect the step to fail. The owner refused Lamb's first call. She filed a complaint anyway. The climb came from moving, not from winning."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Regret will come again, as surely as the weather. Meet it with a time, not a why."
+    }
+   ],
+   "recall": {
+    "q": "Lamb kept her regrets and still got out of the spiral. So what actually changed?",
+    "a": "The question she asked them. \"Why did I go? Why didn't I insist?\" has no answer and only digs the groove deeper — that is rumination. \"What will I do tomorrow, and at what time?\" turns the same regret into a step. The regret stayed. It just got somewhere to point."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/4821438e-81c2-4ee7-90ac-608f4f2aaf9a/sz-emanuel-haas-w6fiivvwphs-unsplash.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/turning-points/how-a-to-do-task-stopped-the-ruminative-loop-of-my-grief",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Tue, 15 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "marginal-rev-11a4a2u",
+   "source": "marginal-rev",
+   "topic": "econ",
+   "kind": "news",
+   "title": "America's time tax: 50 hours a year, more if you're poor",
+   "body": "A new book counts the hours a government makes you waste: about 50 a year for the average American, far more if you are poor. Annie Lowrey calls that a tax, and the most regressive one in American life. Tyler Cowen's reply: some of that waiting may be doing useful work.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Annie Lowrey's new book, The Time Tax, puts a price on something nobody bills you for: hours on hold, in waiting rooms, and on forms a well-run state would have filled in for you. Regressive means the cost falls hardest on the people least able to carry it — and it does. The heaviest form-filling sits in welfare programs like TANF. Social Security's retirement payment is her model of the opposite.\n\nTyler Cowen pushes back. The friction may be quietly useful, he says: it limits knee surgeries that don't work, deters fraud, and filters for immigrants with the drive to push through."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Under 1% — of Social Security's retirement money goes on running the program, and it does the paperwork for you",
+      "10 years — Cowen's timeline for winding the US postal service down to zero",
+      "Denmark — scrapped its own postal service this year, the example Cowen points to"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Their sharpest split is over the mail. Cowen would shut the US postal service down, and he would happily let that push people out of rural areas the state finds expensive to serve. Lowrey will not go there: in a country this unequal, many people still have no smartphone and no computer, and paper is the only way the state reaches them."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "They put a five-year clock on one question: will AI agents end up paying these taxes for us — holding the line, filling the forms — so the hours never reach a person at all?"
+    }
+   ],
+   "recall": {
+    "q": "Everyone waits on hold. So why does Lowrey call the time tax regressive instead of flat?",
+    "a": "Because the hours are not spread evenly. The average American loses about fifty a year; the poor lose far more, because the heaviest form-filling sits in welfare programs like TANF — the programs poor people are the ones using."
+   },
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-annie-lowrey.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-excellent-conversation-with-annie-lowrey",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Thu, 17 Sep 2026 08:20:16 +0000"
+  },
+  {
+   "id": "leap-blog-1fnyrp9",
+   "source": "leap-blog",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's financial regulators skip their own checks",
+   "body": "SEBI, the RBI and four other financial regulators have each written down how they must consult the public before making a rule. A new paper checked one 2025 consultation paper from each against those promises. All six broke at least one. Not one weighed a rule's costs against its benefits.",
+   "evidence": "document review · 6 regulators · 1 randomly selected 2025 consultation paper each",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Parliament lets SEBI and the RBI write much of India's financial rulebook themselves. A consultation paper is how a regulator explains a proposed rule and invites comments before fixing it.\n\nThe six studied were SEBI, RBI, IRDAI, IBBI, IFSCA and PFRDA. Natasha Aggarwal and Renuka Sane took one 2025 paper from each and read it against that regulator's own stated process. None carried a cost-benefit analysis, which weighs what a rule will cost against what it will gain. None asked whether a rule was needed at all."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "SEBI, 2024-25: 104 consultation papers, 61 amendments to its own regulations, 154 policy measures",
+      "21 days: the usual minimum window for comments. PFRDA allows 30, but makes consulting optional",
+      "1 of 6 regulators (IRDAI) named the law that gave it the power to act"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "If no paper asks whether to regulate, the public can only argue about how. A new rule becomes the default answer, not a choice that has to be defended. And with no law cited and no cost estimate on the page, outsiders cannot check where the power came from or how the decision was reached."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The Securities Markets Code, 2025 would turn public consultation and periodic review into a legal duty for SEBI, not a self-imposed one. In March 2026 the Standing Committee on Finance asked the IBBI for a mandatory regulatory impact assessment framework."
+    }
+   ],
+   "recall": {
+    "q": "Six regulators wrote their own rules for consulting the public. What did the new paper find when it tested one 2025 consultation paper from each?",
+    "a": "All six broke at least one of their own rules. None weighed a rule's costs against its benefits, and none asked whether a rule was needed at all — so the public is only ever asked how to regulate, never whether to."
+   },
+   "deepLink": "https://blog.theleapjournal.org/2026/09/regulating-regulators-assessing.html",
+   "attribution": "The Leap Blog",
+   "publishedAt": "2026-09-04T17:18:32.181+05:30"
+  },
+  {
+   "id": "psypost-55vn1f",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Testosterone and suicide risk run opposite ways in men and women",
+   "body": "In 805 older patients in hospital for severe depression, higher testosterone came with less suicide risk in the men and more in the women. Same hormone, same direction of change, opposite meaning. It is a pattern, not a cause — and not a reason to touch anyone's hormones.",
+   "evidence": "single study · n=805 · hospital records · observational, one blood draw",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "805 hospital files, collected between 2013 and 2020 at a psychiatric hospital in China, sorted into two piles. In one pile: 382 patients aged 60 to 89, admitted for severe depression, each with a record of suicidal thoughts or of acting on them. In the other: 423 patients with the same severe depression and no such record. The question was whether anything in the blood told the piles apart.\n\nIt is a question with weight. People over 60 with severe depression tend to hold suicidal thoughts longer, and die by suicide more often, than younger people. Isolation, bodily illness and slipping memory all push in that direction. What doctors do not have is an objective reading — a number from a blood test — that flags who is in the most danger.\n\nSo the team looked at testosterone, a hormone that helps set mood, energy and behaviour. Both sexes make it; men make far more. It also shifts with age. Men's levels fall slowly, sometimes far enough to count as too low. Women's change around menopause, and can end up high next to their other hormones.\n\nThat creates a counting problem. A man carries ten to twenty times more testosterone in his blood than a woman does, so the raw numbers cannot sit side by side. The researchers graded each patient against the average for their own sex instead. High now meant high for a man, or high for a woman — two separate scales, finally readable together.\n\nThey pointed opposite ways. In the men, more relative testosterone came with less risk of suicidal thoughts or acts: each step up the scale matched a drop of about 7.6 percent, in an average older man carrying no other big risk factor. In the women, the same step up ran the other way — about 4.5 percent more risk, each time.\n\nThe rest of the picture split along the same line. Alcohol use was tied strongly to risk in the men, and the authors think it works together with a hormone imbalance to sharpen impulsive, aggressive behaviour. Physical illness — diabetes, heart disease — was tied far more heavily to risk in the women. Only one thing weighed the same on both sides: a recent hard event, a family conflict, a death.\n\nNone of this is a treatment. It is the rough start of a marker, a reading that might one day tell a doctor which depressed older patient needs the closest watch. The authors are blunt that nobody should move a patient's testosterone on the strength of it. Raise the hormone without a full check of the body's hormone system, and you may get aggression or anxiety instead."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study that only watched patients; it tested nothing. It is also a snapshot. Records from a single moment can show a pattern; they cannot show that testosterone causes anything.\n\nEveryone in it was staying in hospital with severe depression, so the finding may not carry over to milder depression or to people treated outside hospital. Testosterone also moves — across the day, and under stress. The team had one blood draw, taken within days of admission, which may not be anyone's usual level. Data on body weight and on specific medicines, both of which shift hormones, was missing."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The same reading, in two bodies, did not mean the same thing."
+    }
+   ],
+   "recall": {
+    "q": "Men carry ten to twenty times more testosterone than women. How did the researchers get around that — and what showed up once they had?",
+    "a": "They graded each patient against the average for their own sex, so \"high\" meant high for a man or high for a woman, on two scales that could be read together. On those scales, higher relative testosterone came with less suicide risk in the men and more suicide risk in the women."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/05/testosterone-head.jpg",
+   "deepLink": "https://www.psypost.org/higher-testosterone-linked-to-opposite-suicide-risks-for-older-men-and-women/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 17 Sep 2026 16:00:34 +0000"
+  },
+  {
+   "id": "marginalian-1mav73g",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Writers on solitude: hard, and it leads back to people",
+   "body": "Writers who spent real time alone keep arriving at the same uneasy place. Solitude is heavy — Rilke says it turns up exactly when you would trade it for any company at all, however cheap. And the ones who stayed in it longest insist it does not cut you off from other people. It hands you back to them with something to give.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The guests have gone. Rose Macaulay walks back through her own rooms and writes down what the quiet feels like: peace soaking the house, dripping from the walls like music, the books shining on their shelves. She pulls a heavy book down onto the sofa. Her life is her own again.\n\nThat pleasure is real. It is also the shallow end.\n\nRilke was in his late thirties, answering letters from a nineteen-year-old cadet at the military academy that had nearly broken him as a boy. There is only one solitude, he tells the young man, and it is large and hard to carry. It comes, he says, almost always at the moment you would gladly swap it for any company at all, however ordinary and cheap. That is exactly when it is ripening — when it is doing its work. (The letters were published after Rilke's death as Letters to a Young Poet.)\n\nHermann Hesse says it plainly. Solitude is the path people fear most, and most never walk it. They leave their parents only to settle into new warmth and new ties, and never once sit with themselves.\n\nSo why choose it? Santiago Ramón y Cajal — the man who founded the field we now call neuroscience, and later won a Nobel Prize for it — spent long winter evenings alone in his private laboratory, in the hours when the universities were shut. A researcher's first job, he thought, was to discover himself before discovering anything about nature: to build a mind that is his alone. Alone, he said, you stop improvising, your patience hardens, and you notice more.\n\nThen comes the turn nearly all of them make. Thoreau, who had bad stretches of depression, said he never found a companion as companionable as solitude, and that we are lonelier among people than in our own rooms. His time at Walden was less cut off than his book makes it sound. But for him, being alone was a way out of himself — out from under his own small troubles and into a wider world, where even the gloomiest man can find kind company in any natural thing.\n\nWendell Berry puts it flatly: \"we enter solitude, in which also we lose loneliness.\" May Sarton, living her last years in a house by the sea in Maine, saw visitors one at a time so that each meeting could be a real exchange — but \"the continuity is solitude.\" Without the long stretches alone, especially in winter, she wrote, she would have nothing to give, and would be less open to what others brought her.\n\nStephen Batchelor names the strange turn in it. Look long enough and hard enough at yourself in isolation, and the rest of humanity ends up staring back. Go far enough into being alone and the movement reverses: it carries you back to people."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The test of time alone is not how peaceful it feels. It is what you have to give when you come back."
+    }
+   ],
+   "recall": {
+    "q": "May Sarton lived alone by the sea and still saw visitors. Why did she say the long stretches of being alone were what let her meet them well?",
+    "a": "Without them she would have nothing to give, and would be less open to what others brought her. For her, solitude was the continuous thing, and company was the break it made possible. Berry and Batchelor make the same turn: real solitude does not seal you off from people, it carries you back to them."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2019/01/Solitude-by-Maria-Popova.jpg?resize=680%2C907&#038;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/17/solitude/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Thu, 17 Sep 2026 12:41:24 +0000"
+  },
+  {
+   "id": "intrinsic-18vaeug",
+   "source": "intrinsic",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Why 2026 is a bad year to share an unfinished idea",
+   "body": "Liu Cixin imagined the universe as a dark forest. Every civilization stays silent, because anything that shows its position gets shot. One writer says AI has turned creative work into that forest. Being seen used to cost a rival a year of effort. Now it costs a prompt. The real loss is not credit. It is that nobody can think out loud in public anymore.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The file has been open on your screen for a year. Call it an app. It could as easily be a proof, a novel, a game. Tonight it is good enough to show and nowhere near good enough to finish alone. What you want is the one stranger who says: this part breaks.\n\nSo you post it. Then count who is reading.\n\nTwelve people reply. That is not the count. The count includes everything that scrapes the public web, and every AI tool you yourself typed into all year while the thing took shape. Being seen used to cost a rival what it cost you. Copying meant walking your road, and whoever walked it arrived carrying roughly the insight you would have carried. Now being seen costs a prompt. Someone can have an almost-as-good version of your great thing by Friday. The reward you were working toward is mined out before you reach it.\n\nTwo mathematicians have already lived this. Navier-Stokes is one of six unsolved Millennium Problems in mathematics. A pair spent a year on it in their own time — one employed at Anthropic, one a professor at NYU — using AI models as tools and building on several years of earlier work by Diego Córdoba and Luis Martínez-Zoroa. As their result neared release, OpenAI announced its own solution the same afternoon. Tristan Buckmaster, the NYU half, says he was told very little human input went into it. That turned out not to be true: an entire team had been working on it. Buckmaster had put every draft of his year into OpenAI's coding tool. He asked whether the model had been trained on those sessions. He says he got no answer.\n\nYou have just felt the dark forest. In Liu Cixin's The Dark Forest, the second book of his Three-Body trilogy, the universe works like this. Every civilization is an armed hunter moving through trees, pushing branches aside, breathing carefully, because the forest is full of hunters like him. Whatever he meets — \"an angel or a demon, a delicate infant or a tottering old man\" — he opens fire, because he cannot know what it is or what it will grow into. It is Liu's answer to an old puzzle: why does such a huge, old universe seem empty of other voices? Nobody is calling. Calling is how you die.\n\nThe loss goes past credit. Terence Tao has asked whether proofs made this way are \"odorless\" — missing the human smell of insight that makes other mathematicians want to read them. You can check that a proof is correct. You cannot check that it taught anyone anything. Ask a strong model for a fantasy trilogy and it will hand you one, characters and plot and a map in the front. It will not be the trilogy you wanted to read.\n\nSo you face the wall. In Liu's first book, the wallfacers are the few people allowed to keep their real plan nowhere but inside their own heads, because a head is the only place that cannot be read. That is now plain advice for anyone making anything: show nothing until it is finished. The cost is not only yours. It is the talk about unfinished work. It is the post that says here is half an idea, tell me where it is wrong — the open ground where Tolkien's private obsession became the whole modern fantasy genre. The good things will still appear. You simply will not see them being built. They will show up finished at dawn in a clearing, beautiful, of unclear origin."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The person leading the effort at OpenAI has publicly agreed that a human team was involved, while adding that those mathematicians had no prior experience with Navier-Stokes and so could not meaningfully contribute to the mathematical content. That may be exactly true. But contributing to the paper and contributing to the process are two different claims, and from outside there is no way to tell which one is being made. The writer's honest position: we will probably never learn more than the vague statements."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "You will still see the work. You will never again see the working."
+    }
+   ],
+   "recall": {
+    "q": "Ideas have always been copied. What changed, according to this piece, that makes posting an unfinished idea feel dangerous now?",
+    "a": "The wall of effort fell. Copying used to cost the copier the same year it cost you, and they arrived carrying similar insight. Now a prompt produces an almost-as-good version in days. So the safe move is to hide everything until it is finished, and public thinking-in-progress disappears."
+   },
+   "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/32cc4b9d-7a18-4638-947c-889d72ffd920_1200x630.png",
+   "deepLink": "https://www.theintrinsicperspective.com/p/culture-becomes-a-dark-forest",
+   "attribution": "The Intrinsic Perspective",
+   "publishedAt": "Wed, 09 Sep 2026 12:58:46 GMT"
+  },
+  {
+   "id": "marginalian-5wmueo",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Henry Miller at 80: the middle-aged are the old ones",
+   "body": "At eighty, Henry Miller went looking for people who still seemed young to him. He found two men over ninety. The really old ones, he decided, were the comfortable middle-aged — and his test for youth barely mentions age. He also thought success was a plague, and that nobody's character really changes.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "At eighty, Henry Miller went looking for people who still seemed young to him. He found two. Both were over ninety.\n\nThey were Pablo Casals, the cellist, and Pablo Picasso, the painter. Old men like those, he wrote, put the young to shame. The worn-out ones were the middle-aged and comfortable — people stuck in their grooves, sure the world will stay as it is, or so afraid it won't that they have climbed into \"mental bomb shelters\" to wait it out. He wrote this in a 1972 essay, On Turning Eighty, printed in just 200 numbered copies.\n\nHis test for youth barely mentions age. Can you still enjoy a long walk and a big meal, and sleep without a pill? Do birds and flowers, mountains and the sea still reach you? Then you are lucky.\n\nThe hard half comes next. Fall in love again and again. Forgive your parents for bringing you into the world. Forgive as well as forget. Be content to get nowhere. Keep from turning sour and bitter and cynical. Manage that, he says, and you have it half beaten.\n\nHe is blunt about what did not help. For a writer who still has something to say, public success is a plague. At the age when he expected some rest he was busier than ever — worked over by fans, well-wishers, and everyone who wanted to use his name. The fight was no longer to be heard. It was to stay free.\n\nThen his coldest claim. A person's basic character does not change. Success improves nobody; it only makes their faults louder. The clever boys at school often turn out not to be clever. The ones you disliked then, you will dislike more when they become financiers and generals. Life makes us learn a few lessons, he writes, but it does not make us grow.\n\nThe young prove it to him. Your children, and their children, make the same heart-breaking mistakes you made, and nothing you say stops them. What you get instead is a mirror: you finally see what an idiot you were, and probably still are.\n\nAnd still he ends up cheerful — more cheerful at eighty, he says, than at twenty or thirty. He grew up late and only began to feel young in his forties. By then the illusions were gone. The curiosity was not.\n\nCuriosity is the engine he keeps naming, with a sense of wonder he says is close to a religion. What he put down was heavier: ideals, principles, the wish to convert anyone, the private sense of being smarter than them. You can fight evil, he says, but against stupidity you are helpless — and the worst things people do almost always arrive dressed as the highest motives."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "The risk is the groove, not the birthday. Miller's walking dead are people in the middle of life who have quietly stopped expecting anything to change.",
+      "Count the loves, not the love. Again and again is the standard — new work, new places, new people.",
+      "Watch a younger person walk straight into a mistake you once made. You cannot stop it, Miller says, but it does show you who you were.",
+      "If you are young in years and already tired in spirit, his advice is to tell your boss — silently — that he does not own you."
+     ]
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "Miller's hardest line — that character never changes — has a strong opponent who knew him well. Anaïs Nin, his onetime lover and lifelong friend, argued the opposite: a personality stays fluid and keeps growing all through a life. Psychologists have since found support for her side, not his.\n\nWhich leaves an odd possibility. Miller — cheerful at eighty, and by his own account only young after forty — may be the best evidence against his own claim."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "He looked back on a life full of tragic moments and called it a comedy — \"one of those comedies in which while laughing your guts out you feel your inner heart breaking.\""
+    }
+   ],
+   "recall": {
+    "q": "Miller's test for who counts as young leaves age almost out of it. Who does he call the truly old, and why?",
+    "a": "The comfortable middle-aged — people stuck in their grooves, or so scared of change that they are hiding from it. For Miller, youth is a set of abilities: still falling in love, still forgiving, still curious and open to wonder. By that test, two men over ninety were young and people half their age were not."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/06/henrymiller_onturningeighty1.jpg?w=680&#038;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/17/henry-miller-on-turning-eighty/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Thu, 17 Sep 2026 12:40:39 +0000"
+  }
+ ]
+}
