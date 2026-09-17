@@ -2,8 +2,8 @@
  "bookId": "beyond-good-evil",
  "title": "Beyond Good and Evil",
  "author": "Friedrich Nietzsche",
- "nextIndex": 0,
- "lastDate": null,
+ "nextIndex": 1,
+ "lastDate": "2026-09-17",
  "installments": [
   {
    "id": "book-beyond-good-evil-1",
