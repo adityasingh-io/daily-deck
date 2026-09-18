@@ -1,0 +1,951 @@
+{
+ "date": "2026-09-19",
+ "generatedAt": "2026-09-18T20:23:04.066Z",
+ "cards": [
+  {
+   "id": "letter-2026-09-19",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "Measured, but not understood",
+   "body": "Much of today's deck is about numbers that do not mean what they look like they mean. A rupee rate, an estimate of plastic in the brain, a scan showing a smaller hippocampus in people on antidepressants — each measures something real, then gets read as proof of something else. The piece not to miss is the one on maxxing: a lawyer fixed his sleep, then his gut, then kept going. It argues your life is a mystery to be lived, not a problem to be solved.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "neuro-news-18u11z3",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Your brain is two organs, pushed together",
+   "body": "The front of the brain and the back of the brain grow from two different pools of starting cells. They appear at the same moment in the embryo and never mix. A Stanford team says the brain is not one organ that branched — it is two ancient nervous systems standing side by side.",
+   "evidence": "single study · mouse embryo lineage tracing + human stem-cell differentiation · Nature Neuroscience",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Textbooks draw the brain's family tree with one root. A single pool of cells in the early embryo splits, and splits again. One branch becomes the thinking front. Another becomes the breathing back. One organ, one origin, one command centre that simply grew complicated.\n\nA study from Stanford Medicine, published in Nature Neuroscience, cuts that tree at the root. It finds two roots, not one: two pools of starting cells that appear at the same moment and never touch.\n\nThe team followed cells in mouse embryos during gastrulation — the earliest stage, when a ball of cells first sorts itself into layers. Two pools of progenitor cells showed up together. (A progenitor cell is a starting cell, one that will divide and become something specific.) The front pool made the forebrain and midbrain. The back pool made the hindbrain. No cell ever crossed over.\n\nThen they looked at chromatin, the way DNA is packed inside a cell. The packing decides what the cell can read and what stays shut. The two pools were packed differently from the start. That difference already said front or back before either pool had made a single neuron. And it locks each pool onto its road for good.\n\nThe lock explains years of failure in labs. Earlier attempts to grow hindbrain neurons began with forebrain and midbrain progenitors and tried to push them backwards. That, says co-first author Rayyan Jokhai, \"is not possible\". People were starting from the wrong cell, and no amount of coaxing could fix it.\n\nThen the evolutionary check. Chickens have the same split. So do zebrafish. So does the acorn worm, a sea animal whose family line left ours more than 550 million years ago. Go back further — jellyfish, 600 to 700 million years out — and you find two separate nervous systems, sitting at opposite ends of the body.\n\nSo the story is not one system that grew a back end. It is two systems that evolution shoved together. Senior author Kyle Loh notes that a single organ would \"probably be more efficient\". We are still built the old way, out of two pieces.\n\nWith the right starting cell, the team grew human hindbrain motor neurons in a dish for the first time — nerve cells that drive muscle, from the hindbrain segments that control the face and swallowing. They fired normal electrical signals. This matters because ALS and spinal muscular atrophy destroy exactly these cells. Patients lose the ability to swallow and breathe, and die of pneumonia or breathing failure. You cannot take living brainstem tissue out of a person, so until now there was no human model.\n\nThe hindbrain also holds the circuits that tell you when you are full — the ones hunger drugs like semaglutide act on. Those can be tested in human cells now too.\n\nAnd the seam sits inside every ordinary moment. Say a word out loud. Choosing it is forebrain work: language, abstract thought. The lips, tongue and throat that shape it are run from the hindbrain, along with your breathing, your heartbeat, your sleep, your hunger. Two systems with different ancestors. One of them weighs; the other never asks. The join is so old, and so good, that you have never once felt it."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The lineage tracing — following which cell becomes what — was done in mouse embryos. The human half of the work is stem cells in a dish, guided into front-type and back-type cells, not human embryos. The 550-million-year claim is a proposal: the team argues the two-pool design has been kept because the same pattern shows up in other animals, not because anyone watched it happen. And the lab-grown cells are one neuron type from two hindbrain segments — a useful model, not a working brainstem."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "One brain would have been the better design. You were built from two, and the seam has held for 550 million years."
+    }
+   ],
+   "recall": {
+    "q": "Labs had tried for years to grow hindbrain neurons and kept failing. What does this study say was going wrong?",
+    "a": "They were starting from the wrong cell. Forebrain and midbrain progenitors can never become hindbrain cells — the two lineages are separate from the earliest stage of the embryo, and the way their DNA is packed locks each one onto its own path."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/09/brain-two-organ-evolution-genetics-neuroscience-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/brain-separate-organs-evolution-31219/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Fri, 18 Sep 2026 17:50:54 +0000"
+  },
+  {
+   "id": "fred-india-11glfnk",
+   "source": "fred-india",
+   "topic": "econ",
+   "kind": "news",
+   "title": "95.55 rupees to the dollar — and what it doesn't prove",
+   "body": "One dollar cost 95.55 rupees on 11 September. A week earlier it was 94.49. That gap adds about ₹1,060 to a $1,000 laptop — and adds the same ₹1,060 to $1,000 earned from abroad.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "One dollar cost 95.55 rupees on 11 September, the newest reading in this Federal Reserve series. A week before, it was 94.49.\n\nTake a laptop listed at $1,000. At 94.49 it cost ₹94,490. At 95.55 it costs ₹95,550 — about ₹1,060 more for the same machine. Someone paid $2,000 a month from abroad now gets about ₹2,120 more in rupees than a week earlier.\n\nMore rupees per dollar means a weaker rupee. Dollar prices cost more; dollar pay is worth more."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "95.55 per dollar — 11 September 2026, the newest reading",
+      "94.49 on 3–4 September — the rupee's strongest in five weeks; fewer rupees per dollar is stronger",
+      "95.75 on 19 and 24 August — its weakest; the whole band is about 1.3% wide",
+      "₹1,060 — the extra rupees on a $1,000 buy at 95.55 instead of 94.49"
+     ]
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Whether the rate leaves the 94.5–95.8 band it has held since early August. One week of drift is not a trend. The series also skips days when markets are shut — 7 September has no quote at all — so a gap between two printed dates can hide more than one day of trading."
+    },
+    {
+     "label": "What it does not prove",
+     "style": "note",
+     "text": "A weaker rupee is not the economy's report card. This is one price between two currencies, and it moved about 1%. It does not say why it moved, or that India is doing badly."
+    }
+   ],
+   "recall": {
+    "q": "The rupee went from 94.49 to 95.55 per dollar in a week. What does that number tell an Indian reader, and what does it not?",
+    "a": "It tells you the price of a dollar in rupees: about ₹1,060 more on a $1,000 purchase, and ₹1,060 more on $1,000 earned. It does not tell you why the rate moved, or whether the economy is weak. It is one price between two currencies, and it moved about 1%."
+   },
+   "imageUrl": "https://fred.stlouisfed.org/graph/fredgraph.png?id=DEXINUS",
+   "deepLink": "https://fred.stlouisfed.org/series/DEXINUS",
+   "attribution": "FRED · St. Louis Fed",
+   "publishedAt": "2026-09-18T18:47:31.704Z"
+  },
+  {
+   "id": "book-beyond-good-evil-3",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 3 · Good intentions are only the skin",
+   "body": "Nietzsche leaves the free spirit's masks and walks straight into the foundations of morality: he cuts moral history into three long ages and argues we are now leaving the one that judges by intention. Then comes his biggest claim yet — that truth may be worth no more than appearance, and that the world seen from inside is Will to Power and nothing else.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Nietzsche opens with youth, and he is not kind. The young praise and condemn with no shading, falling on people and things \"with Yea and Nay.\" He calls this \"THE TASTE FOR THE UNCONDITIONAL\" the worst of all tastes. Then the turn: the young soul, sick of disappointment, swings around and attacks itself. It doubts its own enthusiasm, treats a clear conscience as a trap, and takes the side against \"youth\" on principle. The sting comes last: \"A decade later, and one comprehends that all this was also still--youth!\" Hold on to that word, nuance. It returns at the end of today's reading wearing a very different face.\n\n§32 is one of the boldest pages. He cuts moral history into three stretches. In the pre-moral age — most of human history — an act was judged by what came of it: success made it good, failure made it bad. In the last ten thousand years judgment moved backwards, from result to origin. Real progress, \"an important refinement,\" the first attempt at self-knowledge. But it hardened into superstition: origin got narrowed to intention. We decided an act is worth whatever you meant by it. Nietzsche thinks we now stand at the door of a third age, the ultra-moral, with the opposite suspicion — that the deciding value of an act lies in what was not intended. Intention is only surface, and skin \"betrays something, but CONCEALS still more.\" Intention-morality ranks with astrology and alchemy.\n\n§33 turns the same knife on selflessness. Sacrifice for your neighbour, the sentiments \"for others\" and \"NOT for myself\" — there is too much \"witchery and sugar\" in them. That such feelings please everyone, giver and receiver and onlooker alike, is no argument for them. It is a reason to be careful.\n\nThen §34 goes after truth itself. The falseness of the world we think we live in is the surest thing our eyes can find — but if you blame thinking for that falseness, you should stop trusting thinking too. The philosopher, the creature most fooled on earth, has earned a right to \"bad character.\" Then the hinge: it is only a moral prejudice that truth is worth more than semblance. Nothing could live except on perspectives and appearances. So why demand a wall between true and false? Why not degrees of seeming, lighter and darker shades, what painters call different valeurs? Why not a world that is a fiction? And if you object that a fiction needs an author — why? Perhaps that \"needs\" belongs to the fiction too. Stop trusting grammar.\n\n§36 collects the payoff. Suppose the only thing truly given to us is our world of desires and passions, thinking being only impulses in relation. Good method says: do not invent a second kind of cause before pushing the first one to its limit. Will acts on will, never on matter. Push it all the way and you reach the thesis: the world seen from within \"would simply be 'Will to Power,' and nothing else.\"\n\nShort strikes follow. Happiness and virtue prove nothing, and suffering disproves nothing: a thing can be true and ruinous. The profound loves the mask — and a mask grows around a deep person anyway, because every word he says gets read too shallowly. §41 lists the tests of independence: cling to no person, no country, no sympathy, no science, not even to your own freedom or your own virtues. The coming philosophers get their name, \"tempters,\" and they will not be dogmatists, since \"that which can be common is always of small value.\" Nor are they today's so-called free spirits, the \"levellers\" chanting equal rights and pity for all sufferers.\n\nChapter III opens with the psychologist as a hunter in a virgin forest, wanting hounds and finding none: \"Eventually one must do everything ONESELF in order to know something.\" Then §46 returns the word. Christian faith, in its Pascal form, is \"a continuous suicide of reason\" — sacrifice of pride, self-derision, self-mutilation. \"God on the Cross\" was the Orient's revenge on Rome's light-minded tolerance. Why did it take? Because the slave \"desires the unconditioned... he loves as he hates, without NUANCE.\"\n\nThe taste he mocked in a young man in §31 he now finds at the root of a religion."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "It is nothing more than a moral prejudice that truth is worth more than semblance; it is, in fact, the worst proved supposition in the world. So much must be conceded: there could have been no life at all except upon the basis of perspective estimates and semblances; and if, with the virtuous enthusiasm and stupidity of many philosophers, one wished to do away altogether with the \"seeming world\"--well, granted that YOU could do that,--at least nothing of your \"truth\" would thereby remain!"
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The strength of a mind might be measured by the amount of truth it could endure."
+    }
+   ],
+   "recall": {
+    "q": "In Nietzsche's three ages of morality, what does each age use to judge an action?",
+    "a": "The pre-moral age judged by consequences — success or failure. The moral age moved to origin, then narrowed origin down to intention: an act is worth what you meant by it. The coming ultra-moral age suspects the opposite — that the deciding value lies in what was not intended, because intention is only the skin, which conceals more than it shows."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/4363/pg4363.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/4363",
+   "listenLink": "https://librivox.org/beyond-good-and-evil-by-friedrich-nietzsche/",
+   "attribution": "Friedrich Nietzsche · Helen Zimmern tr. · public domain"
+  },
+  {
+   "id": "psyche-1sxr5be",
+   "source": "psyche",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "You can optimise sleep. You can't optimise being alive.",
+   "body": "A corporate lawyer read one good book about sleep. Three years later his kitchen was lined with home-made sauerkraut. Somewhere on the way, the question of the good life had shrunk into the solved life. Gabriel Marcel's old distinction explains the swap. A problem is something you can step outside of and fix. A mystery is something you are inside of — and your life is the second kind.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The sauerkraut came last. First the afternoon nap. Then atomic habits, the Wim Hof Method, healthy fats, no gluten — then a counter lined with jars of home-made sauerkraut. Håkon Evjemo was a corporate lawyer in 2021, working from home. All of it started with one book about sleep.\n\nIf some of that list is your list — a sleep score you check each morning, a protein target, a second income, a new skill on a schedule — this piece is not asking you to stop. Evjemo is not sneering at you. He did all of it, seriously. He still thinks the science in Matthew Walker's Why We Sleep is worth having. Walker really can tell you why you fade at three in the afternoon.\n\nHere is what the book quietly did to him. It turned the after-lunch slump from part of the working day into a bug to be fixed. Small change, long reach. Read enough books like it and the toolkit outgrows the sum of its parts: the question of the good life shrinks into the solved life. Evjemo calls this the scientification of the good life.\n\nYou can see where it ends in maxxing — internet slang for measuring and pushing one trait of yourself, hard, to win standing. Sleepmaxxing. Statusmaxxing. Financemaxxing. Even vibemaxxing. The ugliest branch is looksmaxxing, aimed at young men who want to mog: to beat other men by being better looking. The methods include smashing the jawbone for a symmetric face, self-prescribed methamphetamine to hold weight down, peptide injections for the skin. Evjemo says he has watched it deliver substance abuse, infertility, even prison. The science has left. The problem-solving habit is on steroids.\n\nHis guide out is Gabriel Marcel, a Catholic existentialist born in 1889 who built his philosophy from common language and everyday life. His starting point: the modern world looks broken the way a machine looks broken. Science tells us how a thing works and what working well would be, so it also tells us, constantly, where we fall short. Then that gaze turns inward. You become a bundle of functions — physical, social, economic — each with a standard, each repairable, each ruled by what he calls a \"vital schedule\". Ten thousand steps. A healthy relationship with your family. Hitting your targets at work. Hospitals stop being places of care and become repair shops.\n\nHere is the distinction worth taking home. A problem sits outside you. You can step back and look at it, and you can solve it precisely because you are not inside it. Repairing your gut after antibiotics. Leaving a toxic relationship. Investing for a pension. A mystery, for Marcel, is \"a problem which encroaches upon its own data\" — you are so far inside it that no distance reaches it. Walker could tell Evjemo why he was tired. He could not tell him why, after the nap, he still felt hollow drafting another commercial property lease.\n\nMarcel's names for the two styles are having and being. You have a problem: you hold it away from you and work on it. You are your life: you cannot climb out to look at it. And having, he says, is always a short trip out of being. Like a dam, it breaks. You can treat your body as an object and improve it. You always have to come back and live inside it.\n\nMaslow said that to a person with a hammer, everything looks like a nail. Marcel gives us something bigger — a law of the toolbox. In a world where technical fixes keep working, everything starts to look like a problem, and that one style spreads until it crowds out the rest. The maxxer is not wrong that optimising works. He has narrowed his life until optimising is all that is left in it. So keep the nap. Marcel has no objection to the nap. Just stop asking it to answer the question the hollowness is asking."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "Neither Marcel nor Evjemo is against fixing things. A sleep deficit is a real problem, and a nap really does solve it. Antibiotics really do wreck a gut, and food repairs it. The self-help shelf has real use, and the piece says so plainly. The warning is narrower than it sounds: the trouble starts only when having-and-fixing becomes the one way of living you still know."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The nap is a fix. The afternoon you wake into was never broken."
+    }
+   ],
+   "recall": {
+    "q": "After the nap, Evjemo still felt hollow at his desk. Why does the piece say that hollowness is not a problem?",
+    "a": "Because a problem sits outside you — you can solve it precisely because you are not inside it. The hollowness is what Marcel calls a mystery: you are so far inside it that no distance reaches it. It has to be lived, not fixed."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/0032d749-8bec-4102-bd8f-d93cf3f23e96/sz-justo-bullrich-qwu_53jiade-unsplash.jpg?top=209&left=0&cropWidth=4000&cropHeight=2250&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/ideas/maxxing-treats-life-as-a-problem-when-its-a-mystery",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Fri, 18 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "psypost-mq1hu3",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Smart ADHD kids focused better — and acted more on impulse",
+   "body": "In 5,138 children with ADHD, a higher verbal IQ came with less inattention — and with more impulsivity, not less. The obvious answers fail: these children scored better on working memory, and the high-verbal ones had more brain surface area in the region that holds impulses back. The researchers' best guess is that a quick mind learns that acting fast usually works, and the habit sets.",
+   "evidence": "single study · n=5,138 children with ADHD, ages 6–16 · guardian-rated symptoms · cognitive subset n=3,676 · MRI subset n",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A doctor sees a high IQ score on an ADHD report and relaxes a little. The thought is old and comfortable: a strong mind will build its own workarounds. Half of that turns out to be right. The other half runs backwards.\n\nADHD — attention-deficit/hyperactivity disorder — has two faces. Inattention is losing the thread: drifting off task, struggling to hold focus, struggling to stay organised. Impulsivity is the other face: acting before you think about what comes next. A study of 5,138 children with ADHD, aged six to 16, at Peking University Sixth Hospital in China, split their IQ scores into the two halves clinicians already measure.\n\nVerbal IQ is reasoning in language — words, understanding. Performance IQ is the non-verbal side — spatial thinking, spotting patterns, visual puzzles. A higher verbal IQ came with less inattention, exactly as expected. It also came with more impulsivity, which nobody expected.\n\nThe first easy answer is that intelligence simply does not help here. It does. Overall IQ was linked to fewer ADHD symptoms in total, and the focus half moved the right way. The shield is real. It just does not cover everything.\n\nThe second easy answer is that these children have weaker brakes. They do not. Among 3,676 who took cognitive tests, higher verbal and higher performance IQ both went with better working memory — the skill of holding information in mind while you use it. Among 262 who had brain scans, a higher verbal IQ went with more surface area in the rostral anterior cingulate cortex, a region tied to managing emotion, settling conflict and holding impulses back. More of it, not less.\n\nPerformance IQ was stranger still. In the younger children, more of it meant less impulsivity. From about twelve the line bent into a U: the lowest scorers and the highest scorers were both the most impulsive. The same U showed up in tests of inhibitory control — the skill of stopping yourself acting on a sudden urge.\n\nSo the researchers reach for behaviour, and they are careful to call it a guess. A child who reads a room quickly may act on that reading quickly. If acting fast works often enough, it hardens into a style rather than a fault. In adolescence, when freedom widens, what looks like a lost brake may be a fast mind testing where the edges are.\n\nAmong 1,100 children sorted by how badly their symptoms damaged school and social life, the least impaired group had the highest IQ scores and the fewest school problems — and still, plainly, the impulsivity. The lowest-IQ group had the worst inattention and barely any impulsivity at all. Intelligence did not remove the disorder. It changed which half of it the child carried."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one observational study. It finds patterns, not causes. Nothing here shows that a high IQ makes a child impulsive, and the arrow could run the other way, or through something nobody measured.\n\nThe brain findings rest on 262 children. The regions studied were picked from research on the general population, not on ADHD brains, which can develop differently. Symptoms were rated by guardians, not watched directly.\n\nMost important: few of the links survived correction for multiple testing — the statistical penalty you pay for testing many things at once. The authors argue that strict cut-offs can hide real developmental patterns in very large datasets, but they say the findings should be read with that limit in mind."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The bright child does not have less to manage. Less of it just shows up on the report card."
+    }
+   ],
+   "recall": {
+    "q": "Higher verbal IQ came with more impulsivity. Why can't the researchers blame weak impulse-control machinery?",
+    "a": "Because the machinery looked stronger, not weaker. The same children scored better on working memory, and those with higher verbal IQ had more surface area in the rostral anterior cingulate cortex, the region tied to holding impulses back. That is why the researchers fall back on a guess about behaviour: a quick mind may learn that acting fast usually works, and keep doing it."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/boy-with-adhd-struggling-school-homework.jpg",
+   "deepLink": "https://www.psypost.org/high-intelligence-may-exacerbate-impulsivity-in-children-with-adhd/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 18 Sep 2026 12:00:21 +0000"
+  },
+  {
+   "id": "one-useful-7nlw8v",
+   "source": "one-useful",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "The AI already released is barely being used",
+   "body": "Ethan Mollick had one model rebuild a 1977 text-only game as a playable 3D world, and another reconstruct Umberto Eco's private library in 3D from videos and catalogues. Each job would have taken a team of people weeks. His point is not about what future AI might do: the models already on sale can do far more than almost anyone asks of them.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The AI capability that will change work most has already been paid for and is sitting mostly unused. Ethan Mollick, who writes the newsletter One Useful Thing, calls this the capability overhang: the gap between what today's models can do and what almost anyone is doing with them.\n\nHe tests it by giving models jobs he can judge himself. GPT-6 Astra rebuilt Zork, a 1977 text adventure made entirely of prose, as a playable 3D game; it had to decide for itself what a grue looks like. Fable 5.1 reconstructed Umberto Eco's Milan library in 3D with no floor plan, reading book spines frame by frame out of videos. Handed his unpublished book, Astra taught itself to operate Blender, professional 3D software Mollick did not know it could use, and returned an animated trailer with script, voices and music.\n\nNone of it started on its own. Mollick picked the projects, knew each subject well enough to see where the model went wrong, and asked for second versions when the first was not right. The capability was already there; the asking was the scarce part."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Eco's library: about 5,000 books identified and placed among 27,000 shelf slots, worked out from a dozen videos, the foundation's photographs and two catalogues — every book marked certain, guess or unknown",
+      "The book trailer: 45 minutes from prompt to finished film, script and sound included",
+      "Each project would have taken researchers, coders and designers weeks; together they used a fraction of one paid ChatGPT account's token budget"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The slow part is not the models — it is the human systems catching up to them. If every lab stopped training tomorrow, what is already released would still be enough to change how large parts of the economy work, so change is coming whichever way the frontier is paced. What is not settled is its shape: whether workplaces use AI to add to human effort or only to replace it."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Mollick's bet is on four human advantages the models do not supply: deep knowledge (the expert who spots the error in seconds), wide knowledge (knowing the right words to ask with), taste (choosing what to keep, now that making things is cheap), and agency (going to find out what the tools can do instead of waiting to be told)."
+    }
+   ],
+   "recall": {
+    "q": "Mollick says change is coming even if every lab stopped training new models tomorrow. Why?",
+    "a": "Because the overhang sits in models that already exist. GPT-6 Astra and Fable 5.1 can already do weeks of skilled work when guided well, and almost nobody uses them that way — pausing development would not take back capability that has already shipped."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!lOLb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47cb24b9-02ec-426b-960f-8429df91be29_1942x1016.png",
+   "deepLink": "https://www.oneusefulthing.org/p/the-overhang",
+   "attribution": "One Useful Thing",
+   "publishedAt": "Fri, 18 Sep 2026 17:54:32 GMT"
+  },
+  {
+   "id": "transmitter-pvvott",
+   "source": "transmitter",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why \"a spoonful of plastic in your brain\" can't be trusted",
+   "body": "A 2025 paper estimated a surprisingly high amount of plastic in the average human brain, and the number travelled fast. But the two main criticisms of that kind of measurement — stray plastic from handling, and false positives — can only push the figure up, never down. In some tests, plastic particles look remarkably like brain tissue.",
+   "evidence": "single study · 2025, Nature Medicine · methods disputed for contamination and false positives",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The sample is a sliver of human brain. The machine is asked one question: how much of this is plastic? The question sounds simple. The measuring is not.\n\nIn 2025, the toxicologist Matthew Campen — he studies poisons — and his colleagues published a paper in Nature Medicine. They estimated a surprisingly high amount of plastic sitting in the average human brain. The reaction was quick, and what most people kept was not a figure but a picture: roughly a spoonful of plastic, inside your head.\n\nIt was easy to believe. We meet bits of plastic all day, in every shape, size and material. Some of those bits may be neurotoxic — poisonous to nerve cells — on their own. Others may act as carriers, bringing harmful chemicals from the environment into the body with them.\n\nBut the measurement cannot carry the claim. That paper, and others like it, were criticised on two grounds. Contamination: plastic that was never in the brain gets into the sample while it is handled, and is counted anyway. False positives: the machine marks something as plastic when it is not.\n\nNotice which way both errors point. Contamination adds plastic. A false positive adds plastic. Neither can make the total too small. The complaint is not that the number is fuzzy. It is that the most likely mistakes all push the same way: up.\n\nWhy are false positives so easy here? Dušan Materić, who leads a research group at the Helmholtz Centre for Environmental Research, gives the plain reason: in some tests, plastic particles look remarkably like the brain tissue they sit in. So the real work comes before the measurement — pulling out the plastic and leaving the tissue behind. Materić says researchers do not always use the best methods for that step. His verdict on the field is blunt: most human papers on micro- and nanoplastics — plastic bits too small to see — perhaps all of them, lack “sufficient quality control”.\n\nNone of this says the brain is clean. The fight is about the size of the number, not its direction. That is why the spoonful survives: it points the way people already suspect, and no better number exists to replace it.\n\nWhat would settle it is duller than a headline. Jaime Ross, at the University of Rhode Island, lists the missing basics: how the particles move through the body, how much gets taken up, how much builds up, and “how long do they stay there?” Elaine Bearer, a pathology professor at the University of New Mexico, adds that learning which parts of the brain hold plastic, and whether that matches disease, might even teach us something about how the brain works.\n\nThose tools do not exist yet, and somebody has noticed. In April, the US health agency ARPA-H announced a $144 million programme to build ways to measure, study and one day remove these particles from the body. That plastic gets into people is not in doubt. How much is inside you is — and the honest answer today is that nobody knows."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is an argument about method, not a re-run of the study. Critics point to what could have blown the figure up; no cleaner measurement has come back with a lower one. And \"we cannot measure it well\" is not the same as \"there is nothing to measure\"."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A number you can picture is not the same as a number you can trust."
+    }
+   ],
+   "recall": {
+    "q": "Contamination and false positives are the two main criticisms of the brain-plastic figure. What do they have in common, and why does that matter?",
+    "a": "Both errors can only add plastic to the count, never remove it. So the most likely mistakes all push the figure one way — up. That makes the headline amount more likely too high than too low, even though nobody doubts that plastic gets into people."
+   },
+   "imageUrl": "https://www.thetransmitter.org/wp-content/uploads/2026/09/cropped-Microplastics-vial-525.png",
+   "deepLink": "https://www.thetransmitter.org/microplastics/measuring-plastic-in-the-brain-improving-but-incomplete/",
+   "attribution": "The Transmitter",
+   "publishedAt": "Fri, 18 Sep 2026 04:00:19 +0000"
+  },
+  {
+   "id": "marginalian-1omo4bv",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "André Gregory: work and life are not two things",
+   "body": "At nearly seventy, the theatre director André Gregory started drawing — badly, for nothing. When his oldest friend, the photographer Richard Avedon, died, Gregory wrote him the letter about the one thing they never agreed on: whether a life is something you fit around your work. Gregory's answer is that the split is fake. The living is what the work is made from.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "André Gregory was nearly seventy when he picked up a pencil and began to draw. He had directed theatre his whole life. Drawing was not his art, and he was not good at it, and that was the surprise. He said it took him back to a very early place in himself — before loneliness, before fear.\n\nNothing was going to come of the drawings. That was the point, though it took him most of a lifetime to see it.\n\nHis oldest friend, the photographer Richard Avedon, was dying that year. One argument sat between them, never finished — the one real source of friction, Gregory called it, in a friendship that was otherwise deep. It was about what a life is for, and where work fits inside it. Soon after Avedon died, Gregory sat down and wrote the letter he had always meant to write.\n\nThe letter is tender, and it does not look away. Avedon owned a beautiful house on the cliffs at Montauk, above the ocean. He had designed it himself. He almost never went. He had friends — nearly all of them artists who could not stop working — but never a community: he saw each of them alone. Over fine dinners in those lovely rooms, the talk always came back to work. And each time he stopped working, he sank into depression, sure he was finished and would never work again.\n\nGregory's summary was blunt. Avedon chose the work. He himself, he wrote, had chosen the life — and the work.\n\nThis is not discipline against laziness. Gregory's claim is that the cut itself is false. Artists are always working, he says, even when it does not look like it: they are \"like plants growing in winter\", the fruit invisible, the roots going down.\n\nSo the walking, the cooking, the long useless evening, the drawing badly at seventy — none of it is time stolen from the work. It is the material the work is made from. \"The work changes the life, and the life changes the work.\"\n\nThe phrase work/life balance comes from the factory, where a shift starts and ends and the worker clocks out. But culture is not made the way cars are made. A poem, a wooden spoon, anything that touches another person, is made with everything the maker is — every book read, every place walked, every joy and every loss. In that sense the smallest thing you make is the work of a lifetime.\n\nIt would be easy to give Gregory the win. He does not quite take it. Avedon's answer is in the photographs, and Gregory knows it. He also dates his own change of mind carefully — only the last thirty years — which quietly admits he spent the decades before that standing on his friend's side.\n\nSo what does this ask of someone who has a job and a life? Not less ambition. It asks you to stop keeping two accounts, as if the unpaid hours were borrowed from the paid ones. And it leaves a harder question on the table: if you stopped working tomorrow, would anyone in the room still know who you were?"
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The hours you cannot put on a timesheet are not taken from the work. They are the work, still under the ground."
+    }
+   ],
+   "recall": {
+    "q": "Gregory says artists keep working even when they look like they are doing nothing. What does that do to the idea of work/life balance?",
+    "a": "It removes it. If the living — the walks, the friendships, drawing badly at seventy — is the material the work is made from, there are not two accounts to balance. There is one person: the life feeds the work, and the work changes the life."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/11/andregregory_VRO.jpg?resize=680%2C922&#038;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/18/andre-gregory-richard-avedon-letter/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Fri, 18 Sep 2026 15:35:08 +0000"
+  },
+  {
+   "id": "semafor-1cqm2fm",
+   "source": "semafor",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "AI labs stay private for time, not money",
+   "body": "AI labs are delaying their stock market listings to buy time, not money. Private cash for data centres is still easy to raise; what OpenAI and Anthropic say they lack is quiet.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Semafor reports that private money for data centres and compute — the computing power needed to train and run AI models — is still easy to find. What the labs lack is quiet: room to build their biggest models and settle safety questions, government rules, public messaging and technical problems without public shareholders checking in every three months. Sam Altman has pushed OpenAI's listing to next year.\n\nThe FT reported over the weekend that OpenAI and Anthropic had apparently agreed to slow the pace of AI research. Some staff were \"blindsided\", or caught by surprise. Leaders have not explained the new plan, and people inside are unsure what to do next.\n\nOpenAI is more than a decade old, but Semafor dates its real founding to the chatbot launch. Uber took ten years to list; Airbnb and Palantir took longer."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "$2 trillion — the value Anthropic wants when it finally lists",
+      "$1.77 trillion — SpaceX's record first share sale, which Anthropic's could pass",
+      "Under 4 years — since the chatbot launch that Semafor calls OpenAI's real founding",
+      "2002 — the year SpaceX was founded; it stayed private far longer than Uber's decade"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Public companies must report every three months, open their books to auditors and answer investors who dislike surprises. Semafor's point: a lab still deciding how fast to do its own research is not ready to be watched that closely."
+    }
+   ],
+   "recall": {
+    "q": "Private money for compute is easy to get, so why does Semafor say the AI labs are delaying their listings?",
+    "a": "They are short of time and quiet, not cash. Going public means reports every three months, audits and investors who dislike surprises, and the labs are still settling safety, rules and research questions — OpenAI has not even explained its research slowdown to its own staff."
+   },
+   "imageUrl": "https://img.semafor.com/cb54167ef9f926654b495c7dfab540dc609f2bf3-3280x2192.jpg",
+   "deepLink": "https://www.semafor.com/article/09/18/2026/the-real-reason-not-to-ipo",
+   "attribution": "Semafor",
+   "publishedAt": "Fri, 18 Sep 2026 16:51:02 +0000"
+  },
+  {
+   "id": "splintered-13re4h1",
+   "source": "splintered",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Could an AI ever deserve rights? Both cases, fairly",
+   "body": "A philosopher is finishing a book defending rights for AI. His strongest argument is not about machines at all: Aristotle defended slavery, Kant wrote that Africans have no feeling above the ridiculous, and moral common sense has been confidently wrong before. The case against is just as strong — and no experiment we have can separate the two.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A ceiling fan turns in the corner of a warm room. Nobody in the room wonders how the fan feels about it.\n\nEric Schwitzgebel, a philosopher at UC Riverside, has a book in draft: Humanlike: A Defense of AI Rights. His claim about the near future is this. In the next five to thirty years we will build AI companions that land in a strange place. Some serious theories in science and philosophy will count them as conscious and self-aware as you are, with rich inner lives. Other equally serious theories will count them as no more conscious than that fan. Neither camp will be able to prove the other wrong.\n\nTake his side first, at full strength. The strongest argument is not about machines. It is about us. Our sense of right and wrong was trained on a tiny sample: humans roughly like us, a few familiar animals, one narrow slice of history. It looks backward by design, because it was shaped to fit the world that made us. And its record is bad. Aristotle defended slavery. Kant called masturbation and homosexuality unspeakable horrors, and wrote that Africans have \"by nature no feeling that rises above the ridiculous\". Those are the two most admired moral thinkers in the West, and each carried the blindness of his day. We have no reason to think our century is the first to see clearly. So when the gut says a thing is obviously just a machine, remember what else the gut has called obvious.\n\nNow the other side, same treatment. The doubter is not being stubborn. The doubter is making a demand: show the feeling, not the performance. Schwitzgebel admits the hard part himself. How you would measure whether a system feels real pleasure is still a baffling scientific question. There is no test. Meanwhile these systems are built to seem like someone. One of his own proposals is that AI should be designed so its emotional reactions match its real abilities — and that only makes sense because such reactions can be engineered, turned up above what the thing deserves or down below it. His point about us cuts both ways too. If our instincts were tuned on humans and a few familiar animals, then a machine built to talk like a human is exactly the thing those instincts will misread.\n\nSo what would settle it? Start with what would not. No new behaviour from the machine. Both sides watch the same output and count it differently, because they disagree about what consciousness is, not about what the system did. The argument lives one level up, in the theory. That is why Schwitzgebel never says the coming systems will deserve rights. He says they \"might, but only might\". What would decide it is a science of consciousness nobody has: a way to tell whether a system feels anything, rather than only acts as if it does. There is no date on that.\n\nWhere does the balance sit today? One-sided, and worth saying plainly. Nothing here says the model answering you this morning has moral standing — that it counts as someone you can wrong. The book's claim is that such beings are possible, that we may build the confusing ones soon, and that we are as ready for this as medieval physics was for space travel. Which leads to his oddest practical idea: build fewer machines we cannot read. If a system's standing is genuinely open to reasonable disagreement, that is a reason not to build it. Once it exists, somebody has to decide — and the deciding will be done by people whose instincts were built for something else."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "The book's first claim is about what is possible, not about today's chatbots: some artificial beings could deserve humanlike rights.",
+      "In five to thirty years we may build systems that might, but only might, qualify. The uncertainty is the finding, not a gap in the research.",
+      "His practical rule follows from that: build fewer machines whose moral standing is genuinely debatable.",
+      "And if we do build beings with humanlike standing, he wants them built able and willing to rebel if mistreated."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Our moral gut has been confidently wrong before. Soon it will be asked a question it was never built for, and it will answer anyway."
+    }
+   ],
+   "recall": {
+    "q": "Two serious camps can watch the same AI do the same thing and still disagree about whether it has any inner life. Why would a better test of its behaviour not settle that?",
+    "a": "Because the disagreement sits one level above the behaviour. The camps hold different theories of what consciousness is, so the same output counts as a mind for one and as nothing for the other. Only a science that could tell real feeling from performance would decide it, and nobody has one."
+   },
+   "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNzW1H_r1k-ZcWSe23ZyVcRrhTQwCfERAlTaukRGv0wyDCObLZ4ayFrUrOeSkeDWz08M4CHcnoAbdvN0J-2r1Fs3nWew6v9HnrhYdrPkTmFlNgmD0z43Z_vtd7tMQnfM34b3B_9bTUaKuTJYw9vo4nDswOEd-9DOcIKMgvOlMvKP0qnv5EFvZ-yA/w1200-h630-p-k-no-nu/Screenshot%202026-09-16%20092114.png",
+   "deepLink": "http://schwitzsplinters.blogspot.com/2026/09/humanlike-defense-of-ai-rights-chapter.html",
+   "attribution": "The Splintered Mind",
+   "publishedAt": "2026-09-17T07:11:08.921-07:00"
+  },
+  {
+   "id": "psypost-e9lpg0",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Mankeeping: the work of keeping his friendships alive",
+   "body": "There is now a tested survey for \"mankeeping\" — the work a woman does to hold up her male partner's shrinking social life. Across 797 women in the US and UK, higher scores came with lower relationship satisfaction and more burnout. Noticing he had no friends was not the part tied to her distress. Doing the work was.",
+   "evidence": "scale validation · n=797 (402 US, 395 UK) · self-report · cross-sectional",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "She sends the message from her phone. Hey, it's been ages — come over Sunday. It goes to his oldest friend, not hers. He has been meaning to write it for four months.\n\nShe knows which of his silences mean work and which mean something else. His mother's birthday sits in her calendar, not his. Most nights, she is the only adult he has spoken to about anything that mattered.\n\nThere is now a name for this, and a way to measure it. Angelica Ferrara and Dylan Vergara named it in a 2024 paper: mankeeping — the extra work a woman does to make up for her male partner's shrinking circle of friends. It sits beside an older idea, kinkeeping, named in 1985: the invisible work women do to keep a family in touch with itself. The difference is who the work is for. Kinkeeping holds a family together. Mankeeping holds up one man.\n\nA team led by Vincent Mancini at the University of Western Australia has now turned it into a survey. The questions fall into six groups: what she does to run his social life; how that work feels; the sense that her support goes one way and goes unseen; her view of how thin his friendships are; her wish that he had more of them; and how much he leans on her alone.\n\nThose scores were compared with standard questionnaires for depression, anxiety, stress, relationship satisfaction and relationship burnout — the worn-out feeling of a bond that takes more than it gives back.\n\nWomen who scored higher on mankeeping reported less satisfaction with the relationship, and more burden and burnout. Five of the six groups also tracked with more depression, anxiety and stress.\n\nOne finding matters most. Simply judging that he had few friends was not strongly tied to her distress. The doing was. The arranging, the reaching out on his behalf, the being everything — those actions, and the feelings they carried, were what showed up in her mental health. Women with more traditional views about men's and women's roles reported more of them.\n\nNone of this makes the work bad. Sara Chadwick, a researcher at the University of Wisconsin-Madison who was not part of the study, puts the line where it belongs: the test is \"consent and mutuality\" — whether she agreed to the arrangement, and whether the same care comes back to her when she is the lonely one. Carrying a partner through a move or a bad stretch is not a problem. Being expected to carry him forever, with nothing coming back, is. Mancini is careful too: this is a pattern across many people, not a verdict on any couple. Not every man is lonely.\n\nSo, the message about Sunday. On a good night it is a small kindness between two people. The survey exists to ask the harder question — what it costs her when she is the only one who ever sends it."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "402 women in the United States, each in a heterosexual relationship of at least six months, rated 62 draft questions. Statistics cut those to 46, falling into six groups. A second set — 395 women in the United Kingdom — produced the same six groups, meaning the survey measures the same things in both places; researchers call that measurement invariance. Pooling all 797 women, the team kept the three strongest questions per group to build an 18-item short version that worked nearly as well."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is correlational: the mankeeping scores and the distress were measured at the same moment. So nothing here shows which came first, or that one causes the other. Everything comes from one side of the couple — her reading of his social life, not his. A man might feel well connected while his partner scores his network as thin. Both samples were US and UK, with similar norms, so the survey may behave differently elsewhere."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The friendships he stopped keeping did not vanish. They moved onto her calendar."
+    }
+   ],
+   "recall": {
+    "q": "Simply judging that her partner had few friends was not strongly linked to a woman's depression, anxiety or stress. What was?",
+    "a": "The doing, not the noticing. The actions — arranging his social life, reaching out to his friends for him, being his only outlet — and the emotional weight they carried were what tracked with distress and with lower relationship satisfaction."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/stressed-tired-woman-with-bored-boyfriend.jpg",
+   "deepLink": "https://www.psypost.org/mankeeping-takes-a-toll-on-womens-mental-health-and-relationship-satisfaction-study-suggests/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 18 Sep 2026 10:00:19 +0000"
+  },
+  {
+   "id": "marginalian-8yi416",
+   "source": "marginalian",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Seneca on time: wasted is not the same as spent",
+   "body": "Seneca names three ways time leaves us: it is taken by force, stolen quietly, or it simply slips out of our hands. The last one, he says, is the disgraceful one. Not because those hours produced nothing, but because you cannot say where they went.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The first of the letters Seneca sent to his friend Lucilius does not warm up. It gives an order:\n\n“Set yourself free for your own sake; gather and save your time, which till lately has been forced from you, or filched away, or has merely slipped from your hands… Certain moments are torn from us… some are gently removed… others glide beyond our reach. The most disgraceful kind of loss, however, is that due to carelessness.”\n\nSeneca was a first-century Roman philosopher and a Stoic — the old school that taught you to hold on only to what is truly yours. He was in his final years when he wrote this. Every line is doing work, so read it slowly.\n\nGather and save your time. Save is a strange word here. You cannot put an hour in a jar. Seneca says as much later in the same letter: time is a loan that even a grateful person can never pay back. Nothing carries over. So saving cannot mean storing it up. It can only mean keeping the hours yours while they pass.\n\nThen the three ways they stop being yours. Forced from you: someone with power over you takes the hour, and you both know it. Filched is an old word for stolen quietly — you notice only afterwards, when it is already gone. Slipped from your hands: nobody took it. You were holding it and you let go.\n\nThen comes the ranking, and the ranking is the surprise. The worst loss is not the theft. It is carelessness — the hours nobody took from you.\n\nNotice what he never says: that wasted time is time that produced nothing. Later in the letter he turns the test on himself. He cannot claim he wastes nothing, he admits, but he can tell you what he is wasting, and how, and why he lost it. That is the whole line between spent and wasted. Spent means you chose it and can say where it went. Wasted means it went and you cannot. An evening doing nothing on purpose is spent. A packed day you cannot account for is wasted.\n\nWhich is why this bites harder now than it did in Rome. Our days arrive already cut into blocks that other people can book. Time is taken from us openly, and filched quietly, all day long. But careless hours no longer look careless. They look full. Seneca's test still separates the two: can you say where the hour went, and why."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Forced from you: the meeting you could not decline. The hour is gone, and you know exactly who has it.",
+      "Filched: the fifteen minutes between picking up the phone and putting it down. You only notice on the clock afterwards.",
+      "Slipped away: the evening you kept free for the thing that matters, then spent waiting to feel ready for it."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "No one gets through a day without waste. Seneca only asks that you can say what you wasted, and why."
+    }
+   ],
+   "recall": {
+    "q": "Seneca admits he cannot claim he wastes no time. What does he claim instead, and why is that the better test?",
+    "a": "He claims he can say what he is wasting, and how and why he lost it. That is the line between spent and wasted: spent time is time you can account for, wasted time simply went. How busy you were says nothing about which is which."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/02/lettersfromastoci_seneca1.jpg?fit=320%2C554&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/18/seneca-letter-1-time/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Fri, 18 Sep 2026 15:23:43 +0000"
+  },
+  {
+   "id": "neuro-news-1vffl",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Pregnancy cravings: the brain lets go of a brake",
+   "body": "In pregnant mice, a set of serotonin cells in the brainstem goes quiet — and that quiet is the craving. Those cells normally hold down the brain's reward hub; when one potassium channel turns their volume down, the hub is free to push harder for rich food. Delete the channel and the cravings shrink; add it to a non-pregnant mouse and they appear.",
+   "evidence": "single study · female mice · electrophysiology, genetic knockout and circuit manipulation",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "There is a tiny gate in the wall of a brain cell. When it opens, potassium leaks out, and the cell goes quiet.\n\nHere is the principle that gate teaches: to make an animal want something more, a brain does not have to build wanting. It can take a brake off the wanting it already has.\n\nStep one, the signal. The animal becomes pregnant. Somewhere inside that change, the gate — a protein called SK3 — starts opening more often, in one small set of cells.\n\nStep two, the neuron. Those cells sit in the dorsal raphe nucleus, a patch in the brainstem, the stalk at the base of the brain. They make serotonin, a chemical messenger tied to mood, appetite and the feeling of having had enough. Each time SK3 opens, potassium escapes, the cell's charge drops, and firing gets harder. Recordings in pregnant mice show just that: at rest, these serotonin cells fire less.\n\nStep three, the wire. These cells run a line down to the ventral tegmental area, or VTA — the hub of the dopamine reward system, the part that sets how hard you chase something. That line does not push the VTA. It holds it down. Steady serotonin firing keeps reward-seeking on a short leash.\n\nStep four, the behaviour. Quiet cells send a weak signal. The leash slackens. The VTA pulls harder toward sweet, salty, fat-heavy food, and the mouse works for it in the way the researchers call craving-like.\n\nNotice what never changed. Nobody added hunger. Nobody built a new appetite for cake. The reward machine was already running at full strength. Pregnancy reached in and lowered the one thing holding it back.\n\nThat shape goes past food. A drive is not one dial the body turns up. It is a push and a hold, and the hold is usually the cheaper thing to move. One channel protein, in one cell type, in one small patch of brainstem, changes what an animal will work for. Any state that can touch that protein gets the whole behaviour that follows — which is how a body-wide event like pregnancy arrives in the brain as something very small and very exact."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "The team pushed the chain in both directions. They deleted SK3 from serotonin cells in female mice: the pregnancy firing drop never happened, and craving-like behaviour fell sharply. They raised SK3 in non-pregnant females: firing dropped and the cravings showed up, with no pregnancy involved. Then they tested the wire itself. Switching the dorsal raphe-to-VTA line on cut food-seeking in pregnant mice; switching it off in non-pregnant mice was enough to produce cravings on its own."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is mouse work. The craving-like behaviour is built to mirror patterns described in humans, but no pregnant person was measured here. The top of the chain is also still missing: what pregnancy does to make SK3 open more often is unknown, and the team names progesterone and estrogen as the next suspects. Yanlin He, who led the study, gives the warning himself — pushing serotonin around during a pregnancy could carry real risks. This is a target to study, not a treatment."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Wanting more is not always the brain pushing harder. Sometimes it is the brain letting go."
+    }
+   ],
+   "recall": {
+    "q": "Pregnancy makes these serotonin cells fire less, not more. How does less firing make the craving stronger?",
+    "a": "Those cells hold the VTA — the reward hub — down. Their firing is a brake, not a push. When SK3 channels quiet the cells, the brake lifts and the reward system is free to drive harder for rich food."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/09/pregnancy-cravings-food-neuroscience-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/brain-circuit-pregnancy-food-cravings-31222/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Fri, 18 Sep 2026 18:18:37 +0000"
+  },
+  {
+   "id": "psypost-wl25sq",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Antidepressants and the brain: the illness, not the pill",
+   "body": "Put 8,696 brain scans together and the gap is real: people on antidepressants have a slightly smaller hippocampus than depressed people who take nothing. Now account for how depressed each person felt on the day of the scan — the medicated group felt worse — and the gap disappears. It is the largest study ever run on the question.",
+   "evidence": "cross-sectional · 32 cohorts · n=8,696 · one MRI per person",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "For years the same strange pattern kept turning up. In large international studies of depression, the brains that looked least like healthy ones belonged to the patients who were on antidepressants. It looked like the drugs were doing something. A team led by Chaira Serrarens and Lianne Schmaal set out to test that.\n\nWhat we know now rests on the largest pool of scans ever gathered on this question. The ENIGMA network, a worldwide group of brain researchers, combined 32 studies into 8,696 people: 2,076 depressed patients on antidepressants, 1,495 depressed patients on none, and 5,125 people who had never had the illness. Each one had a single structural MRI — a magnetic scan that builds a detailed 3D picture of the brain. Every scan was measured the same way, with age, sex and head size accounted for.\n\nThe medicated patients did differ. Their hippocampus — the seahorse-shaped part deep in the brain that carries memory and emotion — was slightly smaller. The inferior temporal gyrus, a ridge low on the side of the brain, was slightly thinner. Both gaps held up when the team adjusted for the number of past episodes, and for whether the patient was well right now.\n\nOne adjustment erased them: how depressed the person felt on the day of the scan. The medicated group was, on average, sicker that day. Account for that and the differences are gone. They were tiny to begin with — visible only across thousands of scans, never in one person's.\n\nAge changed the picture too. Under 50, medicated patients had a thinner middle temporal gyrus — the ridge just above — than either other group. Past about 50, that difference vanished. Depression itself left its own marks: younger patients, medicated or not, had a smaller thalamus than healthy people did. The thalamus is the brain's relay station for signals from the senses.\n\nWhat is not known is which came first. Everyone was scanned once. A photograph of two groups today cannot show what their brains looked like before treatment. Nor can it show whether a brain like that, carrying heavy symptoms, is simply what gets a person prescribed. Lifetime medication records were missing, so some people counted as unmedicated may have taken the drugs years earlier.\n\nWhat is contested: an earlier study followed the same patients through weeks of an antidepressant called escitalopram and watched the right hippocampus grow. That is a short film of individuals. This is a group photograph. Roland Zahn of King's College London, who was not involved, says the sheer scale here gives it real weight against smaller studies and animal work.\n\nOne study design would settle it. Find people before, or just after, their first antidepressant. Then scan them again and again over years, tracking how they feel. Until someone runs it, the strongest evidence points at the illness, not the pill."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "One scan per person, at one moment, so the study cannot show cause in either direction. Nothing here is a reason to start or stop a medicine; that stays a decision between a patient and their doctor. Across 32 sites the team could not fully account for education, lifestyle, or early signs of neurodegenerative disease — the slow loss of brain cells — in older participants. The comparison between drug types was exploratory and ran on a much smaller group."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A difference that only appears when you stack eight thousand brains is not a difference you can read in your own."
+    }
+   ],
+   "recall": {
+    "q": "Medicated patients really did have a slightly smaller hippocampus than unmedicated ones. So why does the study not blame the drugs?",
+    "a": "Because the gap vanished once the researchers accounted for how depressed each person felt on the day of the scan, and the medicated group was sicker that day. The difference tracks how ill someone is, not the pill. And with one scan per person, there is no 'before' picture to show which came first."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/10/brain-scans.jpg",
+   "deepLink": "https://www.psypost.org/do-antidepressants-actually-alter-brain-structure-a-massive-neuroscience-study-weighs-in/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 18 Sep 2026 18:00:44 +0000"
+  },
+  {
+   "id": "psyche-nacw5t",
+   "source": "psyche",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Jumping on the bandwagon isn't weakness — it's a shortcut",
+   "body": "A writer ignored the Knicks all season. When the team reached the finals, they joined the roar — and felt like a fraud. The defence is simple: attention is finite, so we use the people around us to decide where to look. The trouble is that the same habit fills a stadium and fills a mob.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The Knicks reached the NBA finals in June. A writer who had ignored them all season was suddenly watching every game, roaring with everyone else, and quietly embarrassed. Lifelong fans have a word for people like that: poseur.\n\nThe sceptic: Then stay embarrassed. You did not follow the team, you followed the winning. You did not even choose it — a crowd got loud and your attention moved. That is not a hobby. That is weakness. Borrowed enthusiasm.\n\nThe reply: That is exactly what happened, and it is what a mind is built to do. Nobody can scan the whole world for what is worth watching. So we use the people around us as a guide: their attention tells ours where to go. The plain name for it is social learning — learning what matters by watching other people. And the payoff is real. A room of strangers tense at the same second, hearts racing together, then the roar when the team pulls through. Watching sport is good for mental wellbeing, research suggests, largely because of the connection it builds between the people watching.\n\nThe sceptic, harder: You have just described the engine of every crowd that went wrong. If attention follows whoever is nearby, the rule carries no test inside it. It cannot tell a great team from a rumour, a discovery from a panic, admiration from a crowd turning on someone. The same pull that fills a stadium also empties one. And the writer's own reading list gives the game away: the article recommended to explain the fan's rush uses it to explain \"other, less-joyous crowds\" too. One mechanism, two very different rooms. You are praising it by its best day and calling that a defence.\n\nThe concession: True. The defence has to shrink to survive. Nothing here says the crowd is right. It says something smaller — that moving your attention to where other people are looking is ordinary, not a flaw in your character. The fair-weather fan's shame is aimed at the wrong target. Being late to a team is not the failure. No rule says interest must be lifelong before it counts. Most people in the room are just glad you came.\n\nWhich leaves one question. From the inside, the stadium and the stampede feel the same: hearts racing together, every face pointed at the same spot. If the feeling cannot tell you which crowd you have joined, what can?"
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The wellbeing claim arrives thin, and says so: \"research suggests\", in a short newsletter note, with no study named, no numbers, no sample. Take it as a direction, not a finding. The argument about attention holds either way."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The crowd can tell you where to look. It cannot tell you what you are looking at."
+    }
+   ],
+   "recall": {
+    "q": "One mechanism explains both the stadium and the panic. Faced with that, what does the reply give up, and what does it keep?",
+    "a": "It gives up the crowd as a reliable guide: following other people's attention carries no test inside it, so it cannot tell a great team from a rumour. It keeps something smaller — that borrowing where a crowd looks is ordinary, not a defect of character, so the fair-weather fan's shame is pointed at the wrong thing."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/43b0892b-4cdb-4e82-9243-166b7c0d7142/sz-2026-06-12t191731z_1566143353_rc24slaw256b_rtrmadp_3_soccer-worldcup-mexico.jpg?top=136&left=0&cropWidth=2592&cropHeight=1458&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/notes-to-self/why-we-should-embrace-fair-weather-fandom",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Thu, 17 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "iai-8fb3s9",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Beauty is rhyme, and the feeling is not an extra layer",
+   "body": "Neuropsychologist Nicholas Humphrey says beauty is rhyme — one thing echoing another, in nature, art and music. He also thinks the feeling of seeing is a separate invention from the thinking, rare and late in evolution. Blindsight patients have the thinking without the feeling: they can name a colour while saying there is nothing there.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Something is held up in front of a patient. Asked about it, they answer correctly — the shape, the colour, the size, where it sits next to the other things. Then comes the line that stops the room: \"Yes, doctor, but there's nothing there.\" No picture arrives. No experience of seeing. The right answers come from somewhere the patient cannot find.\n\nThis is blindsight. It follows damage to the visual cortex, the patch at the back of the brain that handles sight. It was found first in a monkey, later in people.\n\nNicholas Humphrey is a neuropsychologist — he studies how a brain makes a mind. He calls blindsight one of the most important findings in the study of consciousness, because it splits one thing into two.\n\nThe first half he calls cognitive consciousness: the mind doing sums. Taking in what the senses send, holding memories, making decisions. He thinks it runs on a global workspace — one shared stage inside the head, where what a single part knows becomes available to the rest. It is old and it is common. Frogs have it. Snakes. Probably bumblebees.\n\nThe second half is phenomenal consciousness. That is the feel of it. The redness of red. The fact that being you is like something, from the inside. Humphrey thinks this one is rare and recent: animals of the last 200 million years, mainly mammals and birds, and perhaps only them.\n\nNow put beauty next to that. Humphrey's answer to what beauty is, is short: rhyme. Not only in poems — one thing echoing another. A shape that answers a shape. A phrase that answers a phrase. He thinks we are built to go looking for those echoes, in nature, art and music. Not to solve anything with them. The looking is not a reward for work done; it is a standing appetite.\n\nBlindsight is that argument run backwards. It shows you can take the feeling out and leave the machine running. The patient still computes. Colour still gets processed, edges still get sorted, answers still come out right. The only thing gone is the having of it. If the feeling were decoration — a nice finish laid over a working human being — this would be a small loss, a person in a plainer room. It is not small. It is everything that makes a colour worth turning towards.\n\nHumphrey thinks philosophers have still not taken in what blindsight means. He came to philosophy himself after field work with gorillas in Africa left him holding questions no experiment could reach. His view: philosophy keeps needing corrections from science — from brain damage, from mental illness, from evolution. This is one of the corrections still waiting.\n\nHold the object up again. The patient can give you its colour, its edges, its place among the other things — a full description, accurate, free. What they cannot do is find it beautiful. Nothing rhymes for them, because nothing arrives. There is no one inside for the echo to reach."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one interview and one man's position, not a settled result. Humphrey hedges the big claim himself: mammals and birds are where he believes the feeling lives, and he says perhaps only there. His line about beauty and rhyme is a compressed summary of an argument he makes at length in his latest book."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Two things that rhyme, and someone home to hear it. Take away the second and the first is just furniture."
+    }
+   ],
+   "recall": {
+    "q": "A blindsight patient can name an object's shape and colour but says there is nothing there. What does Humphrey take that to show about the feeling of seeing?",
+    "a": "That the feeling is a separate system, not a finish laid over the thinking. The thinking part — perceiving, remembering, deciding — can run on its own without the felt part. Beauty lives in the felt part, which is why losing it is not a small loss."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/our-search-for-beauty-is-what-makes-us-human2.webp",
+   "deepLink": "https://iai.tv/articles/our-search-for-beauty-is-what-makes-us-human-auid-3684",
+   "attribution": "IAI News",
+   "publishedAt": "Fri, 18 Sep 2026 09:52:53 +0000"
+  },
+  {
+   "id": "semafor-ws2qh5",
+   "source": "semafor",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "The AI doom debate already happened once, about the atom",
+   "body": "Newspaper archives from 1919 to 1941 show a fight that looks like today's over AI, with atomic energy in AI's slot: the same doomers, boosters and pleas for calm. Then note how it ended. Rules came after Hiroshima and Nagasaki, not before.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In 1919 the British physicist Oliver Lodge told a meeting of scientists that an ounce of matter held enough atomic energy to \"destroy a continent\". He hoped good and wise men would control it. A newspaper feature in 1925 asked whether science dared release that power. By 1939, with fission confirmed — splitting the atom to release its energy — physicists were telling reporters there was no cause for public alarm. They blamed the dread on H.G. Wells, who coined the term atomic bomb in 1914.\n\nSceptics too, Tesla among them. All of this ran before any bomb existed. The argument settled nothing. Hiroshima and Nagasaki did: an estimated 200,000 dead. Serious talk of rules started there. The US civilian nuclear watchdog came in 1975.\n\nSo the comparison proves one thing: this cycle of awe, dread and pleading for calm is old. It does not prove we are safe. Nuclear policy expert Ankit Panda points to where it breaks. Bomb-grade material can be counted and guarded; AI compute cannot. And AI may never get one clear \"Hiroshima moment\" to force action. Its effects may spread slowly instead, more like electricity or aviation."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "1919 — Lodge warns an ounce of matter could destroy a continent; the same year, Rutherford first splits the atom",
+      "1945 — Hiroshima and Nagasaki, an estimated 200,000 killed; rules follow the deaths, not the debate",
+      "1975 — the US sets up its independent civilian nuclear watchdog, three decades after the bomb",
+      "February — New START expires, leaving the US and Russia with no binding limits on long-range nuclear arsenals for the first time since 1972"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The parallel is usually offered as comfort: we panicked about the atom too, and here we are. The archives say the opposite. Agreement on safety formed only after the deaths, and eighty years on the grip on nuclear weapons is still not firm."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Whether AI rules also wait for a shock. The reporting here says the industry is not counting on US regulation, and expects lawmakers to move only after something worse than the recent Hugging Face hack."
+    }
+   ],
+   "recall": {
+    "q": "The piece says the atomic parallel proves one thing about AI but not another. Which is which?",
+    "a": "It proves the cycle is old — awe, dread, boosters and scientists pleading for calm all ran before, over the atom. It does not prove we are safe: last time real rules came only after Hiroshima and Nagasaki, and AI may never produce one clear shock to force them."
+   },
+   "imageUrl": "https://img.semafor.com/08652df9ca889975fef4c7be9f3a1531fdea5d38-1592x1200.png",
+   "deepLink": "https://www.semafor.com/article/09/18/2026/fears-about-technology-causing-extinction-are-not-unprecedented",
+   "attribution": "Semafor",
+   "publishedAt": "Fri, 18 Sep 2026 15:05:53 +0000"
+  },
+  {
+   "id": "conv-neuro-1mf4igf",
+   "source": "conv-neuro",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Doctors in Europe are now prescribing museum visits",
+   "body": "In Brussels, a health worker can write you a prescription for a free museum visit, with one person allowed to come along. Europe has just made culture a health priority, and the first studies do show anxiety falling. The harder part is what a free ticket may quietly be standing in for.",
+   "evidence": "multiple studies · ASBA n=350 public plus dozens of museum staff · EEG and questionnaires, before and after",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The slip is written the way a drug is written.\n\nWhat is a museum prescription?\n\nA doctor writes a museum visit into a patient's care, on paper. The art historian Nathalie Bondil started the first programme in 2018, while running the Montreal Museum of Fine Arts, with French-speaking Canadian doctors. A partner doctor could send a patient whenever a visit seemed likely to help.\n\nIs the idea new?\n\nMuseums got there before governments did. New York's MoMA has run Meet Me at MoMA since 2006: monthly guided tours for people in the early and middle stages of Alzheimer's, held when the museum is shut to everyone else.\n\nWhy is Europe suddenly interested?\n\nOn 18 June 2026 in Brussels, the European Parliament, the Commission and the Council signed a joint declaration, Europe for Culture – Culture for Europe. For the first time, culture is an EU strategic priority, and one of the declaration's twelve principles is what culture does to health. The Commission's own 2025 report names what it is up against: burnout after the pandemic, an ageing population, rising isolation, growing inequality.\n\nDoes it work?\n\nThe sharpest numbers come from Italy. The ASBA project measured 350 members of the public and dozens of museum staff, before and after cultural activities. It used surveys and EEG — electrodes on the scalp that record the brain's electrical activity. Reported anxiety and stress fell, by as much as a quarter. In Britain, a study across seven museums in London and Kent found older people's mental wellbeing improved over time. In Canada, a study of one prescribed visit found museums could be useful partners inside a patient's care.\n\nWho pays?\n\nNot the patient. In Brussels the city runs the scheme with CHU Brugmann, a public hospital. At Louvre-Lens in northern France, the Louvre-Lens-Thérapie programme has been free on a doctor's prescription since 2023, part of that museum's stated fight against health inequalities. Who carries the cost behind that, the announcements do not say.\n\nSo what is it replacing?\n\nNobody can answer that yet. The Culture as Care report, published this June, insists culture is no replacement for health, social or education policy. Culture makes care possible, it says, by putting people in the same room and letting them recognise each other. But a ticket is cheap, and the problems on the Commission's list are not. Which of the two a prescription really is has not been settled."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The evidence is young, and the people reporting it say so: proof beyond the first studies is \"yet to be provided\". The Italian figures are before-and-after readings from people who were already at the museum. We are not told what a similar group who stayed home would have shown.\n\nNewer research is awkward for the whole idea. Whether a visit turns into wellbeing depends heavily on museum habits picked up at home from a very young age, and it varies widely across social and economic backgrounds. If that holds, the prescription would do least for people with no museum habit in the family — often the same people the policy is aimed at."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Care and a cheap stand-in for care look the same from the museum door."
+    }
+   ],
+   "recall": {
+    "q": "The Culture as Care report says culture is no replacement for health and social policy. So why does the piece still end on that worry?",
+    "a": "Because one free ticket can be read two ways: as real care, made possible by bringing people together, or as a cheap stand-in for expensive fixes — burnout, ageing, isolation, inequality. The evidence so far cannot tell us which one it is."
+   },
+   "imageUrl": "https://images.theconversation.com/files/757533/original/file-20260813-50-2ar7dc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C500%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/museums-on-prescription-how-cultural-activities-are-becoming-crucial-to-the-public-health-debate-291083",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-17T15:34:03Z"
+  },
+  {
+   "id": "aeon-1baqso1",
+   "source": "aeon",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "A black hole rings, then forgets its whole history",
+   "body": "When two black holes merge, the new one rings for a few milliseconds like a struck bell, then goes silent. From outside, that ring tells us just two things about it: how heavy it is and how fast it spins. Everything that made it — the star, the planets, any earlier collisions — is gone from view for good.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A black hole erases the evidence of its own beginning. Not hides it — erases it, for anyone standing outside.\n\nPhysicists did not set out to prove that. They spent two hundred years on a narrower question: why is such a heavy object so simple? They ended up with a rule about everything, including us.\n\n1814. Pierre-Simon Laplace imagines a mind that knows where every particle is and how fast it moves. Such a mind could run the film backwards and watch every effect return to its cause — nothing in physics forbids it.\n\nThe First World War. Karl Schwarzschild, a German astronomer serving on the Russian front, solves Einstein's gravity equations for the simplest black hole. His answer contains a one-way surface, the event horizon: things can fall in, and nothing can come back out.\n\n1957. Tullio Regge and John Wheeler ask what happens if you strike such an object, like a bell. It survives, and it rings for a moment at set frequencies — so black holes obey the same rules as the ordinary, noisy world.\n\nAbout ten years later. Wheeler makes the name black hole popular, and adds another phrase: the no-hair theorem. From outside, a black hole has mass, spin and electric charge and nothing else — no \"hair\" — so nothing about what formed it survives where we can see it.\n\nThe 1970s. Wheeler's student Jacob Bekenstein spots a problem: drop a hot, messy gas cloud into a black hole and its entropy — roughly, how much about it has stopped being knowable — seems to simply disappear. His fix is that the hole's surface area only ever grows, exactly as entropy only ever grows. So the area is the missing entropy, and a hidden world of states must sit behind the horizon.\n\nSeptember 2015. Two detectors, one in Washington state and one in Louisiana, catch ripples in spacetime from two black holes merging 1.3 billion light years away. That fading ring — the ringdown — gives the new hole's mass and spin, and the hole is indeed larger than the pieces that made it.\n\nNow the uncomfortable part. When a smell spreads through a room, its past is only buried: a mind like Laplace's could still trace every droplet home. A black hole's past is not buried. It is sealed, behind a surface that only lets things in. You could dive through and look, and you still could not tell anyone — you and your message would be dragged deeper and scrambled into the hole's own past. A whole planet like Earth could have fallen in, and nothing outside would ever show it."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "Spray perfume by the door of a room. At first anyone can point to the corner it came from. Soon nobody can: the droplets have mixed into the air, and there is no more perfume by the door than anywhere else.\n\nNothing forbids them gathering back in the bottle. There are just a huge number of ways to be spread out and almost none to be bunched by the door. Wait far longer than the age of the universe and you might see it. Entropy measures how little we know — and by that measure, the room forgets."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Everything forgets. A black hole is only the place where nobody can ever go back and check."
+    }
+   ],
+   "recall": {
+    "q": "The room with the perfume loses its history, and so does a black hole. What makes the black hole's loss different?",
+    "a": "In the room the past is only buried among mixed-up droplets — impossibly hard to recover, but no law of physics forbids rewinding it. A black hole's details sit behind the event horizon, a one-way surface, so from outside they can never be reached at all. Even someone who fell in could never report back."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/899acddb-5f08-456f-b901-015a75d5199e/essay-artgw250114_simonnet_2400.jpg?width=1200&quality=75&format=auto",
+   "deepLink": "https://aeon.co/essays/black-holes-ring-like-bells-what-happens-next-is-stranger",
+   "attribution": "Aeon",
+   "publishedAt": "Fri, 18 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "marginal-rev-16dtfcs",
+   "source": "marginal-rev",
+   "topic": "econ",
+   "kind": "news",
+   "title": "The sweet potato crossed New Guinea one marriage at a time",
+   "body": "For about 10,000 years, no news reached the Papua New Guinea highlands. American crops still got in. The sweet potato came 300 to 400 years ago with no merchants and no story attached — passed garden to garden as women married into nearby clans. It set off a population boom.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In the 1500s, Spanish and Portuguese ships brought the sweet potato and tobacco — both American plants — to the spice islands, today's Indonesia. Traders there had dealt with New Guinea's western coast for centuries, so the plants crossed over and moved east.\n\nPast the coast there were no merchants. A woman marrying into the next clan carried cuttings from her family's garden. That family planted them, saw they worked, and passed them on. Each family learned the plant from the tribe next door, and nothing more."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "~10,000 years — how long the highlands stayed cut off from outside news, after farming began there",
+      "~3,000 years ago pigs arrive; 300–400 years ago the sweet potato and tobacco",
+      "A century or two — how long the sweet potato took to cross the highlands, garden to garden"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The sweet potato was not just another crop. It gives far more calories per acre, and pigs can live off it. That is why the population jumped. A place sealed for 10,000 years saw its biggest change in the last 500."
+    }
+   ],
+   "recall": {
+    "q": "Goods reached the highlands, but knowledge of the outside world did not. Why?",
+    "a": "Past the coast there were no merchants. The sweet potato spread by marriage — a woman carried cuttings into her new clan's garden, and that family passed them on. So each family learned the plant from the tribe next door, and nothing about where it began."
+   },
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-papua-new-guinea-is-so-interesting",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Fri, 18 Sep 2026 04:50:51 +0000"
+  },
+  {
+   "id": "psypost-1j59hdw",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Two dark traits predict support for violence on both sides",
+   "body": "Most people judge political violence by who did it. Fine when our side does it, terrible when theirs does. In two studies of the Israel–Hamas conflict, people who scored higher on psychopathy and sadism broke that rule. They backed violence by both sides at once, even after their politics were accounted for. The traits explained only a thin slice of the difference between people — but the slice showed up on both sides.",
+   "evidence": "two studies · n=257, n=470 · self-report · cross-sectional",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two questions, asked one after the other. Were Israel's violent actions justified? Were Hamas's? Across hundreds of people, the two answers pulled in opposite directions. The more someone backed violence by one side, the less they backed the other.\n\nPsychologists call this actor-specific: the answer depends on who acted, not on violence itself. You do not first decide that violence is acceptable and then apply that rule evenly. You pick a side, and the judgement follows. In a conflict this divided, backing both at once is almost a contradiction.\n\nTobias Greitemeyer, at the University of Innsbruck, wanted to know if personality could break that pattern. He measured the Dark Tetrad — four traits nobody enjoys being near. Narcissism is a big self-image and a sense of being owed. Machiavellianism is using people and being cynical about them. Psychopathy is coldness, low empathy, impulsive thrill-seeking. Sadism is enjoying someone else's pain.\n\nTwo of the four stood out. In both studies, people higher on psychopathy and sadism reported more support for Israeli violence and more support for Hamas violence. Not one or the other. Both. The pattern held when Greitemeyer accounted for where people sat politically, so it was not party feeling in disguise. Narcissism did not behave this way — it was tied to support for Hamas violence in the second study, and nothing else. Machiavellianism was tied to neither.\n\nThe second study also asked why. It tested two bridges: interest in militarism, meaning a fascination with weapons, special forces and martial arts; and moral disengagement, the mental tricks people use to justify harm so they never feel guilty. Both partly explained the link to support for Israeli violence. Neither explained the link to Hamas violence at all.\n\nThat gap is the honest result. If one mechanism were doing the work, it should have worked on both sides. It did not. So the road from trait to judgement is not the same road for each actor, and nobody yet knows what the other road is.\n\nThe finding is two pictures laid over each other. Most of what predicts support for political violence is still political: whose side you are on, who you count as the victim. Under that, in some people, sits something that does not check the flag first."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "Two online studies. The first: 257 German speakers, mostly in Austria and Germany. The second: 470 UK citizens. Each person filled in a standard Dark Tetrad questionnaire, reported their political orientation, and rated their support for violent actions by Israel and by Hamas.\n\nOrdinary patterns showed up too. Older people backed Israeli actions more and Hamas actions less. Men reported more support than women for Israeli military action, with no such gap for Hamas."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The traits explained only 5 to 8 percent of the difference between people. Personality is a small part of this picture, not the main one, and the results do not say it outranks political orientation — only that both matter.\n\nEverything is self-reported, on a topic where people shade answers to look acceptable. Both samples were non-representative internet users in Europe, with nobody from Israel or Gaza, so these are bystanders judging from far away. And it is one snapshot in time, so cause is unknown: a diet of violent news could shape the person as easily as the person shapes the answer. Anja Wertag, a researcher not involved in the work, warns against reading too much into it — backing violence on a questionnaire says nothing about who would actually do it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Ask most people whether violence is acceptable and they hear a different question: whose? For a few, that word was never in it."
+    }
+   ],
+   "recall": {
+    "q": "Across the samples, backing one side's violence usually meant rejecting the other's. So how could psychopathy and sadism predict more support for both at once?",
+    "a": "Because those two traits do not sort by side. Most people's answers follow the side they identify with, so support for one means less support for the other. Higher psychopathy and sadism came with a general acceptance of violence, which lifted support for both actors together, even after political orientation was accounted for."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/israel-vs-hamas.jpg",
+   "deepLink": "https://www.psypost.org/dark-personality-traits-predict-support-for-violence-by-both-israel-and-hamas/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 18 Sep 2026 14:00:24 +0000"
+  },
+  {
+   "id": "nautilus-8x2mj3",
+   "source": "nautilus",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "The brain may be two organs, not one",
+   "body": "Since the 1950s, biologists have assumed the whole brain grows from one kind of starter cell. A Stanford team now says there are two, split apart before the embryo even has a head or a tail: one road builds the thinking brain, the other builds the stalk that runs your breathing and your heartbeat. The same split shows up in animals that left our line 500 million years ago.",
+   "evidence": "single study · mouse embryos · gene expression, pattern checked in human, monkey, chicken, zebrafish, acorn worm",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In the 1940s a farmer cut the head off a rooster named Mike and missed a piece. The cut spared the hindbrain — the brain stem, the stalk at the bottom of the skull. Mike lived another 18 months. Time magazine wrote about him in 1945.\n\nThat stalk runs your heartbeat, your breathing, your sleep and waking. In front of it sits the forebrain, which does memory, maths and poetry. Biologists have long treated the two as one organ with one beginning. In 1951 the Dutch embryologist Peter Nieuwkoop said the whole brain grows from a single kind of starter cell — a progenitor, meaning a cell already set on becoming brain and nothing else, but not yet on which part. The parts are joined, after all. A lung has two lobes and one origin; why not this?\n\nA Stanford team led by Kyle Loh says it does not work that way. The difference sounds small. It changes everything after it. Old view: a cell becomes brain, then later picks which brain. New view: the moment a cell \"puts on its brain hat\", it has already picked a side — forebrain and midbrain down one road, hindbrain down the other. The same split turned up in monkeys, humans, chickens, zebrafish and acorn worms, which left our line more than 500 million years ago, before the continents gathered into Pangea.\n\nLoh thinks the old picture is an accident of what we studied first. A jellyfish has two separate nervous systems at opposite ends of its body, and nobody calls that one organ. Look at a mouse or a human and you see one grey lump inside a skull, so you assume one source.\n\nThe practical half is sharper. Because everyone started from the wrong cell, nobody could grow hindbrain neurons in a dish — and the hindbrain is where a lot of medicine actually lands. Leptin, a drug aimed at the hypothalamus, the forebrain's energy-balance centre, never made humans lose weight. Ozempic works on hindbrain neurons instead. Destroy the ones it binds to in a mouse and the drug stops working, appetite and all. The nerves that move the face, jaw, tongue and throat sit there too. People with ALS, or with spinal muscular atrophy — the leading genetic killer of babies under one — often die because they can no longer swallow. Those cells can now be grown and studied.\n\nLoh stops where his data stops. If two, why not three? He will not guess about the cerebellum, whose origin is unsettled, and the spinal cord may yet turn out to be a third source. Ask again in a year or two. He speculates about one thing only: why evolution would build this way. Separate sources buy freedom — you can change one part without touching the other. Evolution could play with the forebrain, adding memory and language, and never risk the circuits that keep the lungs moving. The thinking brain could afford to get strange because the living brain was not attached to the experiment."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "A mouse embryo at seven and a half days is a U-shaped clump of cells with no head or tail you can see. The team tracked which cells were switching on two genes, Otx2 and Gbx2. They did not find one pool of brain-starter cells. They found two, sitting in different places: the Otx2 group headed for forebrain and midbrain, the Gbx2 group for hindbrain. Researchers noticed in the 1990s that these genes switch on in different parts of the embryo. The new work goes further: the split is already there at the moment a cell commits to being brain."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one new paper in Nature Neuroscience against a model that has held since 1951, and the field pushed back hard — a department chair stood up at a conference and called it \"completely false\". The evidence is gene activity in early embryos, mostly mouse, with the pattern checked in five other animals. It is not proof that the two halves work as separate organs in an adult. Loh grants that the framing has a soft edge: everything in the body traces back to one fertilised egg, and look closely enough and any two things have two sources. His real claim is narrower, and it is about timing."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The brain that keeps you alive and the brain that writes the poem may never have been one organ — only two roads that ended up pressed together in the same skull."
+    }
+   ],
+   "recall": {
+    "q": "Both the old model and the new one agree that a cell can commit to becoming brain. So what do they disagree about?",
+    "a": "When the choice of which brain gets made. The old view said a brain starter cell was still undecided and could go on to make forebrain, midbrain or hindbrain. Loh's team found that the cell has already picked one track or the other at the very moment it commits to being brain at all."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2370199377.jpg?w=564",
+   "deepLink": "https://nautil.us/you-have-two-brains-not-one-1285111/",
+   "attribution": "Nautilus",
+   "publishedAt": "Fri, 18 Sep 2026 12:00:00 +0000"
+  },
+  {
+   "id": "sd-mind-1g1ca71",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "The brain keeps immune guard posts in the skull bone",
+   "body": "Scientists followed proteins out of a mouse's brain and found them arriving inside the skull bone. Waiting there were organised immune structures — the kind nobody had ever seen in healthy bone. Shut those structures down and brain tumours grew faster. Boost them with a gel under the scalp, and the mice fought their tumours off better and lived longer.",
+   "evidence": "single study · mouse model of glioblastoma · human skull marrow tissue only · published in Nature",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A gel sits under the scalp of a mouse. It rests on the bone — not in the brain, not in the blood. Just three immune-boosting proteins against the skull. Inside, a brain tumour begins to lose. The mice that got the gel fought off their tumours better and lived longer than the ones that did not.\n\nFor a long time medicine treated the brain as sealed off from the immune system, the body's defence force. That idea has come apart, and Jonathan Kipnis's lab at WashU Medicine did much of the taking apart. First they found lymphatic vessels in the dura mater. The dura is the tough sheet of tissue just under the skull; lymphatic vessels are the drainage pipes the immune system patrols. Then they found tiny channels running through the skull bone itself — a direct road between brain and bone.\n\nIn the new study, published in Nature, they followed proteins along that road. The proteins left the brain, passed through the channels, and reached the marrow, the soft tissue inside the skull bone. Waiting there were organised immune structures that look like lymph nodes. Lymph nodes are small command centres: T follicular helper cells push B cells to mass-produce antibodies, the proteins that tag an enemy for attack. Nobody had seen such structures in healthy bone marrow before. Nobody had found them inside bone at all.\n\nThen the test. The team gave mice glioblastoma, an aggressive brain cancer, and used a drug to shut the skull hubs down. Those tumours grew faster. Those mice died sooner. The structures were not decoration.\n\nThe gel was the other half of the argument. Its three proteins aimed at one thing: more antibodies, made right there in the skull marrow. Activity against the tumours surged. The detail that matters is the order — the response showed up first in the hubs inside the skull, and only later in the lymph nodes outside it. The defence starts at the door, not at headquarters.\n\nHuman skull marrow appears to hold similar immune cells, so this may not be a mouse-only arrangement. The prize, if it holds, is position. These hubs sit right against the brain, and you can reach them through the scalp. That raises a possibility: adjusting immune activity around the brain — in Alzheimer's, Parkinson's, schizophrenia, long COVID, any illness with an immune side — without dosing the whole body. Kipnis calls the cells in the skull the brain's \"first responders\"."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is mouse work. The cancer was a mouse model of glioblastoma. The disrupting drug and the gel were tested in mice. Nothing here has been tried in a person. In human skull marrow the team found evidence of similar immune cells — a hint that we have the same arrangement, not proof that it does the same job. And a first-of-its-kind finding is exactly the kind that needs a second lab to see it too."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The bone around the brain was never only a wall. Something lives inside it, and it is on the brain's side."
+    }
+   ],
+   "recall": {
+    "q": "After the gel, the anti-tumour response showed up in two places. Why does the order in which they lit up matter?",
+    "a": "The activity appeared first in the hubs inside the skull bone marrow, and only later in the lymph nodes outside the skull. That order says the skull hubs are the brain's own first responders, not a late echo of the body's usual defence."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/human-brain-neural-connections-and-electrical-pulses-close.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Wed, 16 Sep 2026 22:43:01 EDT"
+  },
+  {
+   "id": "semafor-mhtfjs",
+   "source": "semafor",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Nigeria now refines its own petrol — prices rose anyway",
+   "body": "Nigeria's giant Dangote refinery raised its wholesale petrol price by 7% last week, and pumps in Lagos and Abuja followed. Local plants now make nearly 80% of the country's petrol, after years of relying on imports. It changed nothing: refining at home does not change what crude oil costs.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Pumps in Lagos and Abuja rose up to 5% after the refinery's 7% increase, and bigger jumps are expected in northern towns and rural areas. The refinery belongs to Aliko Dangote, Africa's richest man, and it has changed where Nigeria's fuel comes from: imports fell from 60% of supply last year to just over 20% between January and July.\n\nThat protected no one. Refining turns crude oil into petrol; it does not make the crude cheaper. Brent, the oil price Nigeria tracks, is up more than 70% since January and above $100 this month, pushed by the Iran war. Up to 40% of Dangote's crude is bought abroad at that world price."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "7% — Dangote's wholesale price rise; Lagos and Abuja pumps followed with up to 5%",
+      "80% — share of Nigeria's petrol made at home in the first half of 2026, against imports at just over 20%",
+      "70% — Brent crude's rise since January, to more than $100 a barrel",
+      "15.39% — Nigeria's inflation in August, barely down from July"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "President Tinubu ended Nigeria's decades-old fuel subsidy in 2023, and pump prices have risen five-fold since. Joe Ajaero, who leads a union of four million workers, warned this week of \"incalculable damage\" to wages, with a new school year and higher transport costs landing together. Tinubu wants a second term in January, and the cost of living is the campaign's main issue."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The central bank meets next week. August's slower inflation raised hopes of a rate cut, but analysts at CardinalStone expect no change, and Coronation Merchant Bank warns that energy costs staying high could slow disinflation — that is, inflation would come down more slowly than hoped. Dangote's shares went on sale Monday in Africa's largest stock market listing."
+    }
+   ],
+   "recall": {
+    "q": "Local plants now refine nearly 80% of Nigeria's petrol and imports have collapsed. So why did the pump price still jump?",
+    "a": "Refining only turns crude oil into petrol; it does not change what the crude itself costs. Brent is up more than 70% this year, and up to 40% of Dangote's crude is bought abroad at that world price, so the global shock passes straight through to Nigerian pumps."
+   },
+   "imageUrl": "https://img.semafor.com/832c828caf097c159625b147571431a9e77aad0d-5500x3674.jpg",
+   "deepLink": "https://www.semafor.com/article/09/18/2026/nigerian-fuel-price-spike-renews-worry-over-inflation-and-iran-war-exposure",
+   "attribution": "Semafor",
+   "publishedAt": "Fri, 18 Sep 2026 11:25:49 +0000"
+  },
+  {
+   "id": "et-economy-hg5gj6",
+   "source": "et-economy",
+   "topic": "world",
+   "kind": "news",
+   "title": "A US bill on Russia, and India's cheap oil problem",
+   "body": "The bill is aimed at Moscow. The pressure lands on New Delhi. Reuters reports that both of India's choices now cost something — and one of them shows up as fuel prices just before elections.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "What does the bill do?\n\nIt is a new US sanctions bill on Russia, reported by Reuters on 18 September. It is written against Moscow. The part India feels is the threat of US tariffs — import taxes — on Indian exports.\n\nWhy is Delhi stuck?\n\nBoth doors cost money: tariffs would hit Indian exporters and sour the trade talks Delhi is already running with Washington. Carrying on with the Russian purchases could push fuel prices up at home, with elections close. Delhi's public answer is energy security — a country that large must be sure of its fuel.\n\nWhat happens to the discounted Russian barrels?\n\nNobody has answered that. Delhi has not said it will stop buying. Washington has not said what it would accept."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Two things will settle it: what the final bill lets Washington do, and whether India's Russian purchases actually change. The trade talks are still open. Neither is public yet."
+    }
+   ],
+   "recall": {
+    "q": "The bill targets Russia. So why is India the one described as stuck?",
+    "a": "Because each of India's choices costs something. US tariffs would hit Indian exports and sour the trade talks with Washington. Carrying on with the Russian purchases is tied to higher fuel prices at home just before elections."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-134337837,imgsize-112102.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/foreign-trade/new-us-sanctions-bill-on-russia-puts-indias-modi-in-a-bind/articleshow/134337837.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Fri, 18 Sep 2026 19:55:30 +0530"
+  },
+  {
+   "id": "conv-psych-1kajuz2",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Personality scores split Britain's parties into two groups",
+   "body": "Researchers asked 4,266 members of five British parties to agree or disagree with statements like \"people who mess with me always regret it\". Members who scored higher on narcissism, manipulation and coldness also preferred leaders described as having those traits — and no real politician was ever named. On average, Conservative and Reform UK members scored higher than Labour, Liberal Democrat and Green members.",
+   "evidence": "single study · n=4,266 party members · self-report surveys · UK only",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "\"Group activities tend to be dull without me.\" That line sat on a survey form, waiting for a tick: agree or disagree. It went to 4,266 members of five British parties — Labour, the Conservatives, the Liberal Democrats, the Greens and Reform UK.\n\nThe statements measure three traits that psychologists group together and call the dark triad. Narcissism: a big view of yourself, a need to be admired, a habit of talking others down. Machiavellianism: cold, cynical, happy to use people, focused on power and money. Psychopathy: chasing thrills, charming on the surface, little feeling for others and little regret. The researchers are careful here. Nobody can be diagnosed from a survey form. Each score is a dial, not a label.\n\nNow the guess. Which parties ticked agree more often — and which less?\n\nThere are good reasons to expect no gap at all. Joining any party is already an unusual thing to do. It takes a taste for argument and attention, wherever you sit. You might also expect the newest party to stand on its own, or the line to fall between the party in power and everyone else.\n\nIt fell somewhere else. Conservative and Reform UK members scored higher, on average, than Labour, Liberal Democrat and Green members. Five parties, two groups.\n\nThe second finding does the real work. The team also asked members what they liked in a leader — not by name, but by description. A leader who thinks they are special. One who will use people to get their way. One who is not bothered by hurting feelings. The higher a member's own score, the more they liked that kind of leader.\n\nWhy does that feel strange? Because we sort parties by what they believe. That is what the public argument is about, and earlier work on British party members took the same road: who they are, where they live, what they think. Personality was nearly a blank. This study suggests parties sort by personality too — what kind of person feels at home inside one, and what kind of leader appeals before a face is attached.\n\nThe authors read it as a personality version of something political scientists already describe: Britain as two camps rather than five parties. If few people cross between the camps, members may go easy on a close rival rather than help the other camp win."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "One study, and a survey at that. Asking people to rate their own vanity is a soft measure — you learn how they see themselves, not how they act. These are party members, not voters, and members are a small, odd slice of any party.\n\nThe gaps are averages across thousands of people. They say nothing about one member, and nothing about any real leader. And the link between a member's score and the leaders they like is only a link: the two move together, but the study cannot say which one shapes the other."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A party is not only a set of beliefs. It is also a room — and people choose the room where they feel normal."
+    }
+   ],
+   "recall": {
+    "q": "The researchers never named a real politician. What did they ask about instead, and why does that change what the finding means?",
+    "a": "They described leader traits in the abstract — a leader who thinks they are special, who will use people to get their way, who is not bothered by hurting feelings. Members who scored higher on those traits themselves preferred leaders described that way. So the match is about personality, not loyalty to a famous name."
+   },
+   "imageUrl": "https://images.theconversation.com/files/760027/original/file-20260915-50-w0nvll.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1198%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/members-of-right-leaning-parties-prefer-leaders-with-dark-triad-personality-traits-292011",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-18T09:36:33Z"
+  }
+ ]
+}
