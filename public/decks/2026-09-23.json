@@ -1,0 +1,906 @@
+{
+ "date": "2026-09-23",
+ "generatedAt": "2026-09-22T20:02:52.272Z",
+ "cards": [
+  {
+   "id": "letter-2026-09-23",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "How we change, and its limits",
+   "body": "Today's pieces are about change: how hard it is to choose to become someone new, how sleep, exercise and time slowly reshape your brain and body, and how to live with what you cannot know in advance. Don't miss the Vampire Problem. It asks a simple question: how can you choose a life-changing experience when the experience itself will change what you want? You will not find a neat answer, but you may see your own big choices a little more clearly.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "marginalian-1hg2n2g",
+   "source": "marginalian",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Would you become a vampire? The trap in big life choices",
+   "body": "You can't know what a life-changing experience is like until you have it. And having it changes what you want. The philosopher L.A. Paul says this is why life's biggest choices can't be weighed the normal way. She offers a different question to ask.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "One ordinary evening, you get an offer. You can become a vampire. It will not hurt, and you will never have to hurt anyone. You will gain amazing powers. The price is your human life. All your friends have already done it, and they all say they love it.\n\nWould you say yes? The philosopher L.A. Paul uses this thought experiment in her book Transformative Experience. Her point: you have no good way to decide.\n\nNormally, we make a big choice by picturing both futures and picking the better one. Here that fails. You cannot know what being a vampire is like until you are one. So you cannot compare it with your life now. You can imagine it, but imagining is not knowing.\n\nAsking your friends seems like the fix. It isn't. They are not human any more, so they want what vampires want. When they say they love it, they speak for the person you would become, not the person who is choosing. The change does two things at once: it gives you a new experience, and it changes what you want.\n\nThis is Paul's real target. Many of life's biggest personal choices have the same shape. Think of having a child, starting a new career, or changing your faith. You pick an experience that will reshape your life, and a key part of the choice is how that life will feel. But only living it can teach you that.\n\nOur minds make it worse. At the edge of a big change, we see clearly what we will lose: the familiar ground under our feet. We cannot see the other side, so we fill it with fear. We do our sums of costs and gains from inside our current life, not the new one. Gains we cannot picture never get counted.\n\nPaul goes further. Without living it, you cannot really know what it is like to be someone very different from you: an octopus, a slave, a blind person. The same wall can stand between you and your future self. The person after the change may know things the person before it cannot. The psychologist Daniel Gilbert put it this way: humans are \"works in progress that mistakenly think they're finished.\"\n\nSo is every big choice irrational? Paul does not say give up. She changes the question. Don't ask which life will feel better. You cannot know that yet. Ask whether you want to find out who you will become. That question you can answer today."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Imagining is not knowing. And the people who do know have already been changed by knowing."
+    }
+   ],
+   "recall": {
+    "q": "Your vampire friends all say they love their new life. Why doesn't that settle the choice for you?",
+    "a": "The change also changed what they want. Their praise speaks for the person you would become, not the person choosing now. Paul says many big life changes work the same way: only living them teaches you what they are like, and they change you along the way. So she suggests asking a different question: do you want to find out who you will become?"
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/09/transformativeexperience_paul.jpg?fit=319%2C499&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/22/transformative-experience-vampire-problem/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Tue, 22 Sep 2026 17:54:04 +0000"
+  },
+  {
+   "id": "bbc-world-1l4xpdb",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "El Niño hits record strength weeks before its peak",
+   "body": "The El Niño now forming in the Pacific is the strongest on record. On 19 September, a key part of the central-eastern Pacific was 3.05C warmer than average. That beats the old record of 3.02C, set during the very strong El Niño of 2015. And the peak is still several weeks away, later in 2026.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "El Niño is a natural pattern that comes every two to seven years. The trade winds across the Pacific get weaker, warm water spreads east, and the ocean gives off heat into the air. This can raise world temperatures and change weather around the globe.\n\nProfessor Adam Scaife of the Met Office, the UK's weather service, said the early record shows \"the enormity of this El Niño\"."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "0.5C: the steady rise that counts as an El Niño. The 3.05C reading is about six times that.",
+      "15%: how far India's monsoon rain was below normal up to 22 September (India Meteorological Department)",
+      "12.5 million: people in Indonesia already affected by fires"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "El Niño years usually bring weaker monsoon rain to India, and this year's rain is already short. El Niño also raises the risk of drought and wildfires in Brazil, Australia and Indonesia. But record strength does not mean record damage. Scientists are still checking whether the effects will match its size."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "A second measure, the Relative Oceanic Niño Index (RONI), compares this part of the Pacific with the rest of the tropical oceans. This removes the background warming caused by climate change. By RONI, this El Niño is not a record yet. But more records are likely in the coming weeks."
+    }
+   ],
+   "recall": {
+    "q": "The daily ocean reading has already beaten 2015. Why is this El Niño still not a record by every measure?",
+    "a": "By RONI it is not a record yet. RONI compares this part of the Pacific with the rest of the tropical oceans, so it removes the warming caused by climate change. The peak is still weeks away, so that may change soon."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c8/live/a2ab36e0-b673-11f1-b711-df5e4d50c2fd.jpg",
+   "deepLink": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Tue, 22 Sep 2026 12:54:14 GMT"
+  },
+  {
+   "id": "book-beyond-good-evil-7",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 7 · Doubt, and the men who command",
+   "body": "Chapter VI ends with a diagnosis: the doubt that Europe wears as a badge of honour is really a sickness of the will. Then Nietzsche finally says what a philosopher is — and opens a new chapter on whatever virtues we have left.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Say out loud that you are not a skeptic, and watch the room go quiet. Nietzsche notices this and enjoys it. People grow nervous; they hear something far off, \"a dynamite of the spirit,\" a will that does not only say No but PRACTISES its No. Against that fear, doubt is the prescribed medicine — \"the mild, pleasing, lulling poppy of skepticism.\" Poppy is opium. Doubt is handed out like a sleeping drug, with Hamlet as the second dose. From outside the skeptic looks brave and honest. Nietzsche sees a man whose conscience flinches at every Yes and every No, and who has made a virtue out of never deciding. \"What do I know?\" \"Even if the door were open, why should I enter immediately?\" These sound like humility. He hears a man consoling himself.\n\nThen comes the diagnosis, and it is physical. Skepticism, he says, is what a certain kind of body feels like from the inside — \"nervous debility and sickliness.\" He traces it to the sudden mixing of classes and races that were long kept apart: the new generation inherits opposite standards \"in its blood,\" the values argue with each other, the virtues block each other from growing, and the first thing to break is the will. Such people have lost \"the courageous feeling of pleasure in willing.\" Then the sharpest line in the whole stretch: most of what displays itself today as \"objectiveness,\" \"the scientific spirit,\" \"l'art pour l'art\" (art for art's sake) is only \"decked-out skepticism and paralysis of will.\" High standards worn as a costume by someone who simply cannot choose.\n\nHe maps the weakness across Europe — France weakest and most charming about it, Germany firmer, England and Spain firmer still, Russia strongest of all, a stored-up will \"waiting threateningly to be discharged.\" And his conclusion is political, not private: Europe must acquire ONE will. \"The time for petty politics is past; the next century will bring the struggle for the dominion of the world.\"\n\nThere is a second kind of doubt, though, and he tells it as a story. Frederick the Great's strange father, the collector of tall grenadiers, looked at his clever, French-loving, unbelieving son and despaired that \"MEN WERE LACKING.\" He was wrong. What grew in that son was a harder skepticism — one that \"despises and nevertheless grasps; it undermines and takes possession; it does not believe, but it does not thereby lose itself.\" Doubt with a spine.\n\nNow the distinction the whole chapter was built for. A scholar can be a magnificent workman: take everything people have ever valued and make it clear, ordered, manageable, and so master the past. Kant and Hegel did exactly that. Nietzsche calls them philosophical workers, and calls Kant \"the great Chinaman of Konigsberg\" — \"only a great critic.\" Critics are instruments, he says; useful, but tools. The real philosopher does something else. He creates values. \"Thus SHALL it be!\" And notice the honesty of what follows: he does not claim such men exist. He asks three questions and leaves them hanging.\n\nSuch a man is always at war with his own time. \"His enemy has always been the ideal of his day,\" and his job is to be \"the bad conscience\" of that age. Which means greatness has no fixed content — it is simply whatever the age lacks. The sixteenth century was drowning in will, so its ideal was humility and selflessness. Ours is weak in will, so greatness now means standing alone, being different, being \"the man beyond good and evil\" — the book's own title arriving, at last, as the description of a person.\n\nThen Chapter VII opens and softens into comedy. Our virtues? We are modern; we no longer have our grandfathers' solid ones. But believing in your own virtues is only the old good conscience, \"that long, respectable pigtail of an idea\" the grandfathers wore hanging behind their heads — and we still wear it. Two suns light us at once now, so our actions come out \"motley-coloured,\" rarely meaning one clean thing. And then the knife goes in: moral judging is \"the favourite revenge of the intellectually shallow\" on those who are less so. They need everyone equal before God. He says he will take care not to tell them so."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "THE REAL PHILOSOPHERS, HOWEVER, ARE COMMANDERS AND LAW-GIVERS; they say: \"Thus SHALL it be!\" They determine first the Whither and the Why of mankind, and thereby set aside the previous labour of all philosophical workers, and all subjugators of the past--they grasp at the future with a creative hand, and whatever is and was, becomes for them thereby a means, an instrument, and a hammer. Their \"knowing\" is CREATING, their creating is a law-giving, their will to truth is--WILL TO POWER.--Are there at present such philosophers? Have there ever been such philosophers? MUST there not be such philosophers some day? ..."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Ask of every high standard you hold: is this a choice I am making, or a costume for not choosing?"
+    }
+   ],
+   "recall": {
+    "q": "Nietzsche separates \"philosophical workers\" like Kant and Hegel from real philosophers. What is the difference?",
+    "a": "Workers organise and formalise values that already exist — they make the whole past clear and manageable. Real philosophers create values: they say \"Thus shall it be,\" so their knowing is creating, their creating is law-giving, and their will to truth is will to power."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/4363/pg4363.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/4363",
+   "listenLink": "https://librivox.org/beyond-good-and-evil-by-friedrich-nietzsche/",
+   "attribution": "Friedrich Nietzsche · Helen Zimmern tr. · public domain"
+  },
+  {
+   "id": "conv-psych-ma0g4f",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "OCD isn't about being tidy: it's fear of who you might be",
+   "body": "OCD is not about liking things neat or being scared of germs. For some people, it grows from a hidden fear about themselves: \"What if I am a dangerous or bad person?\" A new interview study links this \"feared self\" to hurt in childhood: trauma and rejection.",
+   "evidence": "single study · n=16 · interviews · Australian adults, mostly women · childhood memories recalled as adults",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A child goes downstairs at night to check that the doors are locked and the stove is off. Their parents won't check, so the child does. Years later, as an adult with OCD, that child is still checking.\n\nAsk most people what OCD (obsessive-compulsive disorder) looks like, and they picture a \"neat freak\" or someone scared of germs. Part of this is true. Common forms of OCD do involve cleaning, fear of dirt, and arranging things until they feel \"just right\". But that is only the part other people can see.\n\nOCD is not a personality quirk. It is a serious mental illness. It causes deep distress and can stop people from living a normal life. About one in 50 people have it. It usually starts around age 20. Without treatment, it tends to last for life.\n\nOCD has two parts. Obsessions are unwanted thoughts, images or urges that keep pushing into the mind. They are often about dirt, harm, things being even and in order, or disturbing sexual or violent ideas. Compulsions are the actions a person takes to calm the fear. Some are physical, like checking the car lock again and again. Some happen in the head, like repeating numbers. A person might believe a loved one will die if they step on a crack in the footpath.\n\nThe older theory said everyone gets strange, random thoughts. In OCD, they just come more often, hurt more, and get in the way of life. A newer theory says the thoughts are not always random. For some people, they come from a core belief about who they are, or who they fear becoming. Researchers call this the \"feared self\".\n\nHere is how it works. Say a person quietly believes, \"I might be dangerous.\" Now a random violent thought does not feel random. It feels like proof. So they try hard to control their thoughts, to prove the belief wrong. Those efforts are the compulsions. The cleaning or checking is what you see. Underneath, the real question is often: what kind of person am I?\n\nWhere does a feared self come from? Researchers interviewed 16 Australian adults with confirmed OCD, covering all the main types. Two themes kept coming up.\n\nThe first was childhood trauma, often inside the family: abuse, bullying, neglect (not being cared for). Many feared becoming the thing that hurt them. One man was scared he would become angry and abusive like his father. Neglected children often took on adult jobs too early. Later, those jobs became the pattern for their compulsions.\n\nThe second theme was rejection. Some never felt good enough for a parent. Some had a mother who was cold one day and warm the next, and who pointed out tiny mistakes. This left them unsure of who they were. In that gap, a feared self could easily grow.\n\nThis matters for treatment. The best talk therapies do not help much for up to half of people with OCD. The authors suggest one possible tool: imagery rescripting. It helps people go back to bad memories and change what those memories mean to them. It could be used to challenge feared-self beliefs."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This was a small study built on in-depth interviews. It was not meant to apply to everyone. People were remembering their childhoods, and memory can be biased. So it cannot show that trauma or rejection causes OCD. Not all OCD comes from trauma, and the feared self is just one of several models of OCD. Bigger studies with more varied people are needed."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "For some people, a scary \"what if I'm dangerous?\" thought is not a sign of who they are. It may be the echo of an old hurt."
+    }
+   ],
+   "recall": {
+    "q": "Why can a random violent thought hit much harder for someone with a \"feared self\"?",
+    "a": "If they already fear they might be dangerous or bad, the thought feels like proof, not random noise. Their compulsions then become desperate efforts to control their thoughts and prove the fear wrong."
+   },
+   "imageUrl": "https://images.theconversation.com/files/761026/original/file-20260921-50-w4ftzp.jpg?ixlib=rb-4.1.1&amp;rect=0%2C706%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/what-kind-of-a-person-am-i-how-fear-and-rejection-can-underpin-ocd-290243",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-22T04:06:34Z"
+  },
+  {
+   "id": "hackernews-hpl7wt",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Claude Opus 5.5: near-top AI at 40% lower cost",
+   "body": "Anthropic has released Claude Opus 5.5, the first model in its new 5.5 family. The company says it does most work about as well as its top model, Claude Fable 5.1. It also says it costs 40% less to run than Opus 5, the model it replaces.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Anthropic says the saving has two parts. Each token costs less (a token is a small piece of text, the unit AI companies charge by). And the model uses fewer tokens per task. It also writes more than 30% faster.\n\nAnthropic tests safety by putting a model through thousands of made-up situations. It says Opus 5.5 scored better on this test than any model before. Outside groups, including METR, tested it before release.\n\nAnthropic also gives a warning about its own scores. At this level, it says, small leads on benchmarks (standard tests) tell you less about real use. In its own work, the gap to Fable 5.1 is smaller than the scores suggest."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The AI race is moving from raw power to price. FrontierCode is a test of whether a model's code changes would be accepted. On it, Anthropic says Opus 5.5 beats OpenAI's GPT-6 Astra at about a fifth of the cost per task. When top models get cheaper, more companies can hand long, messy jobs to AI."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "$4 per million input tokens, $20 per million output tokens: 20% less than Opus 5",
+      "54.6% on FrontierCode, against 53.3% for GPT-6 Astra's best score (Anthropic's figures)",
+      "Under 3 hours for one early tester to check and fix a 200,000-line codebase. Opus 5 took over 20",
+      "39 of 40 tries succeeded in an Anthropic test: make every page of a web app load faster"
+     ]
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Two smaller models, Sonnet 5.5 and Haiku 5.5, are due in the coming weeks. Anthropic says Opus 5.5 is about as strong as its most capable models in biology and cybersecurity. So for that work, only approved groups get access, through Anthropic's verification programs."
+    }
+   ],
+   "recall": {
+    "q": "Anthropic says Opus 5.5 costs 40% less to run than Opus 5. Where does the saving come from, and what does Anthropic warn about its own benchmark lead?",
+    "a": "Each token costs less, and the model uses fewer tokens per task. But Anthropic warns that at this level, small benchmark leads say little about real use. In its own work, the gap to Fable 5.1 is smaller than the scores suggest."
+   },
+   "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/f4d37a1d1f582f53f4e89440062b649b6273a093-1200x630.jpg",
+   "deepLink": "https://www.anthropic.com/claude-opus-5-5",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-22T16:29:05Z"
+  },
+  {
+   "id": "psypost-1a1ipyo",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Does exercise keep the brain young, or the reverse?",
+   "body": "A study of 2,576 German adults found no clear sign that everyday exercise gave people a younger-looking brain. But people whose brains already looked older at the start later said they could do less before getting tired. So a healthy brain may keep people active, and not only the other way round.",
+   "evidence": "observational cohort · n=2,576 · mostly self-reported activity; armband subset n=227; follow-up about 250 scans",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "For one week, 227 people in Leipzig, Germany, wore a small band on the arm. It recorded how much they really moved. Many of them, especially those over 60, had told the researchers they moved more than they did.\n\nThat small gap sits inside a bigger question. Does exercise keep the brain young? Or does a young brain keep you exercising?\n\nFirst, what we know. In animal studies, running raises chemicals that help brain cells survive and form new connections. In some trials, people were put into planned exercise programs. They got better at general thinking and at executive function. Executive function means the higher mental skills, like switching between tasks and keeping things in mind. So exercise can change the brain. That part is solid.\n\nWhat we don't know is whether everyday activity slows brain aging. This is the kind of activity people choose for themselves. A new study in eLife raises doubts. Polona Kalc and colleagues at Jena University Hospital studied 2,576 adults. They measured the hippocampus, a seahorse-shaped part of the brain that handles memory and learning. They also used a tool called BrainAGE. A computer program guesses your age from a brain scan. If the guess is higher than your real age, your brain looks older than you are.\n\nThe researchers adjusted for age, smoking, drinking, and social and economic status. After that, more activity did not go with a bigger hippocampus or a younger-looking brain. This was true with the questionnaires and with the armbands. People who reported more activity even did slightly worse on one thinking test. There was one exception. Among 70 people aged 30 to 60, more movement on the armband did go with a younger-looking brain. That link did not appear in people over 60, and they were most of the sample.\n\nNow the contested part: what causes what. Years later, about 250 people came back for a second scan. How active they were at the start did not predict how their brains aged. But people whose brains looked older at the start later said they could do less before getting tired. The researchers suggest a hidden cause. Problems with how cells make energy, or mild but lasting inflammation, might slowly harm the brain. The same problems might also bring the tiredness that makes people move less.\n\nBen Singh, a researcher at Adelaide University who was not part of the study, warns against reading this as \"exercise does not benefit the brain.\" Not finding an effect is not proof that there is no effect.\n\nSo how would we find out? Singh wants a large study that starts in middle age. It would measure movement with devices again and again. Over the same years, it would scan brains and test thinking. The better question, he says, is what kind of activity helps, how much, at what age, and for whom."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This study watched people's normal lives. No one was assigned to exercise, so it cannot prove cause in either direction. Most activity data came from questionnaires, and older people overestimated their activity. The armband group was small and mostly not very active. They may never have moved enough to get the benefits seen in animals. The study looked only at hippocampus size and BrainAGE. It did not look at other possible benefits, such as healthier white matter (the brain's wiring) or better communication between brain regions. At follow-up, researchers asked about physical capacity, not activity, so the two surveys measured slightly different things."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Before you give the habit the credit, ask whether a healthy brain built the habit."
+    }
+   ],
+   "recall": {
+    "q": "When people came back years later, what predicted their follow-up results, and what did not?",
+    "a": "How active people were at the start did not predict how their brains aged. But an older-looking brain at the start predicted lower physical capacity later. So brain health may drive activity, not only the other way round."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg.jpg",
+   "deepLink": "https://www.psypost.org/does-exercise-really-slow-brain-aging-a-new-study-complicates-the-narrative/",
+   "attribution": "PsyPost",
+   "publishedAt": "Tue, 22 Sep 2026 10:00:19 +0000"
+  },
+  {
+   "id": "semafor-udj1a3",
+   "source": "semafor",
+   "topic": "econ",
+   "kind": "news",
+   "title": "WTO warns a split world could lose 7% of its output",
+   "body": "WTO chief Ngozi Okonjo-Iweala says the tariff war could split the world into hostile trading blocs. The WTO's own model puts the cost at about 7% of global GDP. This is a warning, not a forecast.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "GDP is the value of everything an economy produces. A 7% loss means about 7 of every 100 dollars the world produces would be gone.\n\nThe model follows one bad path. The US tariffs, now just over a year old, bring more retaliation. The shared trade rules keep wearing away. The world splits into hostile blocs, and global trade falls by 20%.\n\nShe gave no date for this. For now the system is holding: nearly three-quarters of world trade still runs on normal WTO terms. But holding is not the same as being safe. In her words, resilient \"doesn't mean it's robust\"."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "text": "20% — possible fall in global trade if the world splits into blocs\nNearly 3/4 — share of world trade still on normal WTO terms\n$3 trillion — extra world output by 2050 if the WTO is reformed, by its own estimate"
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Middle-sized economies are already looking for cover. Canada faces a 50% US tariff on $20 billion of goods. Last week the EU invited it to become the EU's first-ever \"associate member\"."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Her fixes: end the veto deadlocks that block decisions, bring poorer economies into supply chains, act against unfair state subsidies, and update old 20th-century trade rules. She says the work has started, and it will be hard."
+    }
+   ],
+   "recall": {
+    "q": "What has to happen for the world to lose 7% of its GDP, and is the WTO predicting that it will?",
+    "a": "In the WTO's model, retaliation keeps wearing away the shared trade rules. The world splits into hostile blocs and global trade falls 20%, which cuts output by about 7%. It is a warning, not a forecast. For now, nearly three-quarters of trade still runs on WTO terms."
+   },
+   "imageUrl": "https://img.semafor.com/c5eaf0b91519288023450b43fcd50b47ae5401f9-1794x1031.png",
+   "deepLink": "https://www.semafor.com/article/09/22/2026/wto-chief-warns-trump-tariff-war-risks-7-global-gdp-hit",
+   "attribution": "Semafor",
+   "publishedAt": "Tue, 22 Sep 2026 18:20:33 +0000"
+  },
+  {
+   "id": "iai-1puikn4",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Sartre, Matisse, and why reality has no single shape",
+   "body": "We usually think the world has one fixed shape, and our eyes just see it well or badly. The philosopher Alex Taek-Gwang Lee, drawing on Sartre, says this is a mistake. Reality has no single shape. Matisse's wild colours show why, and imagination is where we find this out.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In most paintings, a window has one job. It is the frame. It shows where the room ends and the outside begins. It tells your eye how far away things are. In Henri Matisse's Window at Collioure, painted in 1905, the frame loses that job. The colours build the space instead. The window no longer divides inside from outside. It is just one more part of a single field of colour.\n\nThe South Korean philosopher Alex Taek-Gwang Lee sees one of Jean-Paul Sartre's big ideas in that small change. Most of us assume reality is one fixed way. Seeing, we think, just means catching it more or less correctly. Lee, drawing on Sartre, says this is wrong. There is no single way reality is. So there are no fixed rules for how it must appear to a mind. Imagination is where we discover this.\n\nFor Sartre, a painting is not a copy of the world. It is not just a pretty object, either. It is something the mind leans on to do work. It helps us move past what is in front of us, toward what could be.\n\nThis is why Matisse mattered to him. For centuries, Western painters treated colour as less important. Drawing and the layout came first. Colour only filled in the shapes. Lee says this habit came from an old idea: that a thing's fixed form matters more than its surface. Impressionism and Pointillism loosened this habit, but they still copied what nature looked like. Matisse and the Fauves broke with it completely. (Their name comes from the French for \"wild beasts\".) For them, colour ran the picture. It made depth and feeling by its own logic. This was not wild instinct. Lee calls it \"considered immediacy\": strong feeling, placed with care into a clear shape. Matisse arranged space by how things feel, not by the rules of how the eye sees.\n\nNow the link to Sartre. Philosophers use the word \"essence\" for a fixed nature, decided in advance, that says what a thing must be. \"Existence\" simply means being here. Older thinking put essence first. Sartre put existence first. For him, people are not bound by a nature written before they are born. Matisse did the same to painting. Colour, which everyone called less important, turned out to build the picture. In both cases, the thing placed second turned out to come first.\n\nMatisse's Harmony in Red makes the point loudly. A huge sheet of red fills the canvas. For Lee, that red breaks with habit, just as Sartre broke with habit in philosophy.\n\nGo back to the window. The view did not change. What changed is the rule that the frame must decide where the world begins. Matisse dropped that rule, and the picture still works. So it was never a law of reality. It was only a habit of seeing."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "We tend to think seeing means copying one fixed world. Lee, drawing on Sartre, says no such fixed world exists to copy.",
+      "For Sartre, a painting is not a copy or a decoration. It helps the mind reach past what is there, toward what could be.",
+      "Matisse put colour, long called less important, in charge of the picture. Sartre put existence, long placed after essence, first.",
+      "When imagination breaks a rule and the result still works, the rule was a habit, not a law."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "When a painter breaks a rule of seeing and the picture still holds, the rule was never part of the world."
+    }
+   ],
+   "recall": {
+    "q": "In Window at Collioure, the frame no longer divides inside from outside. According to Lee, reading Sartre, what does this show about reality?",
+    "a": "Colour builds the space, not the frame, and the picture still works. So the rule that the frame must decide where the world begins was only a habit of seeing, not a law. Reality has no single fixed shape, and imagination is where we discover that."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/sartre-matisse-and-the-radical-openness-of-reality.webp",
+   "deepLink": "https://iai.tv/articles/sartre-matisse-and-the-radical-openness-of-reality-auid-3682",
+   "attribution": "IAI News",
+   "publishedAt": "Tue, 22 Sep 2026 09:53:16 +0000"
+  },
+  {
+   "id": "fred-india-zu9kb",
+   "source": "fred-india",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's factory output rose 5.6% in a year (Jan 2023)",
+   "body": "India's industrial production index was 125.6 in January 2023, up 5.6% from a year earlier. Industry was growing going into 2023. But the data stops there, so it cannot tell you what is happening now.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The index measures how much India's factories, mines and power plants produce, compared with a fixed starting point. A higher number means more output. In January 2023 it was 125.6. A year earlier it was 119.0. It was also 0.6% above December.\n\nThe path goes up, but it is bumpy. Output fell about 13% in May 2021, then recovered within two months. In late 2022 it jumped from 116.4 in October to 125.8 in November. So one month alone tells you little. The change from the same month last year is the better guide."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "125.6: January 2023, the latest reading",
+      "119.0: January 2022, the year-ago base",
+      "125.8: the highest reading, November 2022",
+      "101.1: the lowest reading, May 2021"
+     ]
+    },
+    {
+     "label": "What it does and doesn't show",
+     "style": "note",
+     "text": "It shows Indian industry was growing, not shrinking, at the start of 2023. It leaves out services like IT, trade and banking, so it is not the whole economy. And it is old: the data ends in January 2023, more than three and a half years ago. It shows where industry was going then, not where it is today."
+    }
+   ],
+   "recall": {
+    "q": "The index rose 5.6% in the year to January 2023. Why is this yearly comparison a better guide than the monthly change, and what can this number not tell you about India today?",
+    "a": "Monthly figures jump around. The index went from 116.4 in October 2022 to 125.8 a month later, so one month says little. The data also ends in January 2023 and leaves out services. It shows how industry was moving then, not how the whole economy is doing now."
+   },
+   "imageUrl": "https://fred.stlouisfed.org/graph/fredgraph.png?id=INDPROINDMISMEI",
+   "deepLink": "https://fred.stlouisfed.org/series/INDPROINDMISMEI",
+   "attribution": "FRED · St. Louis Fed",
+   "publishedAt": "2026-09-22T19:32:25.375Z"
+  },
+  {
+   "id": "psyche-xtwj9k",
+   "source": "psyche",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Should I stay or go? What being torn really means",
+   "body": "Loving someone a lot and being deeply frustrated with them at the same time has a name: relationship ambivalence. It is stressful, but it is not a verdict. It shows the relationship still matters, and that effort can still change it.",
+   "evidence": "researcher's summary of her own and others' studies · sample sizes not stated · mostly romantic couples",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Some days you text them first. Some days you cannot stand how little responsibility they take. And late at night the same question comes back: should I stay or go?\n\nThis piece will not answer that question. Only you can. But what you feel has a name. Psychologists call it relationship ambivalence: strong good feelings and strong bad feelings about the same person, at the same time.\n\nThe psychologist Francesca Righetti and her colleagues sort relationships into four boxes: mostly positive, mostly negative, indifferent, and ambivalent. Ambivalent does not mean \"sort of fine\". It means strong feelings pulling both ways. Indifference is the opposite: no strong feeling at all. Her short version of your state: \"I care a lot, but I'm torn.\"\n\nThis is common. Some relationships are mixed from the first day. Many others start mostly happy and collect hurt over time, as partners change, life changes and responsibilities grow heavier. When the bad feelings arrive, the good ones do not leave. So you hold both.\n\nIt is also hard on you. Her studies, and those of other researchers, find that ambivalence in romantic relationships lowers both the quality of the relationship and personal wellbeing. It has also been linked to higher blood pressure, more inflammation and other early signs of heart risk.\n\nIt keeps your mind busy too. The more torn people feel, the more they ruminate, which means going over the same thoughts again and again. Some days those thoughts are about fixing things. Other days they are a list of flaws. Behaviour swings the same way: warm and reaching out one day, pulling away or blaming the next. Studies that followed people over time show these swings from day to day.\n\nYour partner feels it as well. People with an ambivalent partner find them unpredictable and hard to read. They report more stress, worse moods and less satisfaction with their lives.\n\nSo what do you do with it? First, being torn is not a verdict. It shows the relationship still matters. If it did not, you would be indifferent: no longer hurt, no longer even noticing. Second, being torn makes you pay attention, and change needs attention.\n\nRighetti's main point is about timing. If the bad comes to outweigh the good, or you drift into indifference, the window for change gets smaller. Ambivalence sits in the middle, where effort can still make a difference. So this may be the moment to go to the other person, say clearly what you need, and see if the two of you can find a better way together. The answer might be to repair, to adjust, or to step back. Whatever it is, you choose it with open eyes instead of drifting into it.\n\nShe calls ambivalence a \"blinking yellow light\". It does not say stop, and it does not say go. It asks you to pay attention."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is a researcher summing up her own work and other people's. It gives no sample sizes and does not say who took part. Most findings come from romantic couples, though ambivalence also shows up with in-laws and bosses. The health findings are links, not proof that ambivalence causes heart problems."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Feeling torn is not a verdict. It means the person still matters, and that effort still has a chance."
+    }
+   ],
+   "recall": {
+    "q": "Why does Righetti see ambivalence as a better moment to act than indifference or mostly negative feelings?",
+    "a": "Ambivalence means the person still matters and you are paying attention, so effort can still change things. If the bad takes over, or you drift into indifference, the window for change gets smaller."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/0cb0c655-5652-45a8-a076-b67ccd91c864/sz-panos_00376515.jpg?top=130&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/ideas/what-does-it-mean-to-have-relationship-ambivalence",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Tue, 22 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "hackernews-ngocrk",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "An AI broke a 1941 Enigma message unsolved since 2005",
+   "body": "An AI model, GPT-6 Astra, has broken a German Army Enigma message from 10 July 1941 that no one had cracked since 2005. A human only asked it to try the unbroken messages on a website. It chose the target, found the clue and wrote its own code-breaking software.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Enigma was Germany's cipher machine in the Second World War. Its turning wheels scrambled each letter. The message, called MVUEH, reached the radio station of an SS-Totenkopf division's quartermaster at 17:30 on 10 July 1941. A quartermaster is the officer in charge of supplies.\n\nThree things made it hard. Its key was completely different from the day's other keys, even in the order of the wheels. The written copy of the coded text had several errors. And the machine's left-hand wheel turned over at letter 72. That is rare, and it makes a break harder.\n\nCarter Leffer only asked the AI to try the unbroken messages on the Crypto Cellar Research website. The AI picked MVUEH. It guessed that its text matched a sister message that was broken in 2017. It used a place name written twice, ROSENOW ROSENOW, as a crib: a guessed piece of the original text. Then it wrote its own Enigma simulator in Python and C++. It also wrote a Bombe, a copy of the code-breakers' machine that tests possible keys against a crib. That search found the right key."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Wheel order 253, against 512 for the day's other two keys",
+      "82 letters, against 94 in the sister message. A misspelling (\"Btte\" for Bitte) and a repeated signature explain the gap",
+      "2 days of AI work. The expert who checked the break says a human would need weeks or months"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The expert who confirmed the break says the AI worked like a professional code-breaker and archive researcher. Its logs name real German federal archive files that are not on the website. Nobody knows yet how it found them. The team is still studying the logs."
+    }
+   ],
+   "recall": {
+    "q": "The AI was only told to try the unbroken messages. What did it work out for itself, and what clue finally cracked MVUEH?",
+    "a": "It chose MVUEH as its target and guessed that the text matched a sister message broken in 2017. Then it used the repeated place name ROSENOW ROSENOW as a crib, a guessed piece of the original text. It tested that crib with an Enigma simulator and a Bombe that it wrote itself."
+   },
+   "deepLink": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-22T13:52:15Z"
+  },
+  {
+   "id": "noahpinion-6a166l",
+   "source": "noahpinion",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Is 'the most good for the most people' obviously right?",
+   "body": "Doing the most good for the most people sounds obviously right. The economist Noah Smith was trained in this idea, and he shows where it breaks. We cannot see how much anyone else feels. And what people want is not always what makes them happy.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Take one billion dollars from Elon Musk. He would not notice. Split it among 10,000 working-class people and each one gets $100,000. That is enough to change a life: better health care, school for the kids, a bigger house.\n\nSkeptic: So where is the problem? The most good for the most people. It is obviously right.\n\nNoah Smith agrees more than you might expect. As an economist, he was trained from day one in utilitarianism. That is the idea that the right choice is the one that creates the most total well-being. Economics runs on a version of it: people should get what they want. GDP roughly measures how well that is happening. The same idea is the basic argument for sharing wealth more evenly.\n\nSkeptic: Then what is wrong with it?\n\nFirst, a total does not care who gets what. Imagine one greedy person who takes more and more but is never satisfied, while everyone else nearly starves. Philosophers call him the utility monster. Or imagine millions living in bliss because one person is tortured forever, as in a famous short story about a city called Omelas. On paper, both worlds can score high. Both feel plainly unfair.\n\nSkeptic: Those are thought experiments. Nobody lives in Omelas.\n\nFair, and Smith admits it. Other old puzzles get the same answer. Is a huge, poor population as good as a small, rich one with the same total happiness? Is death worth zero, or is it infinitely bad? How much do future people count if they may never exist? In practice we dodge these questions. Families decide their own size, and nobody plans far into the future. We use the theory only where the puzzles stay out of sight.\n\nSkeptic: So it works where it matters.\n\nThis is where Smith's deeper worry starts. The theory adds up well-being, but you cannot see anyone else's well-being. Two people can cry the same way and feel very different amounts of sadness. Smith learned this from his own life. After his second major depression, he spent years feeling very little inside while acting normally. He would shout as if angry and stay calm inside. He would run from a swerving car with his heart pounding and feel nothing. Philosophers call such a person a \"philosophical vulcan\".\n\nSkeptic: Fine, but we treat people as equal. That is the point of \"all men are created equal\".\n\nYes, says Smith, but that is an assumption, not a measurement. It breaks down outside our own species. America keeps tens of millions of pigs in tiny crates. Is their suffering half of ours? A tenth? 0.01%? Whether eating meat is acceptable may depend on that number. Smith has never seen a credible study that estimates it. AI makes the problem worse. When a chatbot says it is happy, we do not know if anyone is in there to feel it.\n\nSkeptic: Then watch what people do. What they work and pay for shows what they want.\n\nEconomists call this revealed preference, and it is the best tool we have. But wanting something and enjoying it are different. People chase drugs, overeating and endless TV that leave them unhappier. Some research suggests people pay more to live where commutes are longer, even though long commutes go with unhappiness. That finding needs care: it depends on how the study controls for other factors. And the better technology gets at giving us what we want, like gambling apps and endless video feeds, the wider this gap grows.\n\nAI puts the choice in its sharpest form. Should it obey us, or do what is good for us? If it obeys too strictly, it can cause harm while following orders. If it cares too much, it overrules us. Smith thinks these two goals can never fully fit together.\n\nHis verdict: utilitarianism is a useful rule of thumb, not a theory of everything. It needs other ideas of a good human life beside it. Which ideas? He admits that is the much harder question."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Utilitarianism adds up a happiness it can never actually see."
+    }
+   ],
+   "recall": {
+    "q": "Smith's years of depression taught him something that troubles utilitarianism. What was it, and why does it matter for pigs and AI?",
+    "a": "He looked angry or afraid on the outside while feeling almost nothing inside, so behaviour does not show how much someone feels. Utilitarianism has to add up well-being it cannot measure. Among humans we simply assume everyone counts equally, but that assumption cannot tell us how much a pig's suffering or an AI's claimed happiness is worth."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!jmDQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc093eb59-a573-426b-8d5d-6a4266ac59c5_1200x675.jpeg",
+   "deepLink": "https://www.noahpinion.blog/p/the-problems-with-utilitarianism",
+   "attribution": "Noahpinion",
+   "publishedAt": "Tue, 22 Sep 2026 08:53:46 GMT"
+  },
+  {
+   "id": "finshots-1xrortv",
+   "source": "finshots",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's rice harvest may see its biggest drop since 2009",
+   "body": "A weak monsoon could cut India's rice harvest by about 10 million tonnes this year. The government holds about 60 million tonnes of rice, 5-6 times its usual target. But much of it cannot easily reach buyers, so prices may still rise.",
+   "sections": [
+    {
+     "label": "What is happening?",
+     "style": "prose",
+     "text": "Rice output could fall about 6.5%, to around 144 million tonnes. That would be the biggest fall since 2009, when drought cut output by 15-18%."
+    },
+    {
+     "label": "Why?",
+     "style": "prose",
+     "text": "By mid-September, monsoon rain was 15% below normal. In big rice states like Uttar Pradesh and Jharkhand, it was up to 42% below. El Niño, a weather pattern that can weaken the monsoon, is part of the cause. The late rain delayed sowing of Kharif rice, the summer crop that gives most of the year's rice, so less land was planted."
+    },
+    {
+     "label": "Does it matter for prices and exports?",
+     "style": "prose",
+     "text": "Yes. Non-basmati rice prices are already up more than 10%. Broken rice, the small pieces left after milling, makes up 60-70% of poultry feed costs, so eggs, chicken and dairy may cost more too. The big stock helps less than it seems: part of it is unmilled paddy, much is kept for ration shops, the types may not match what buyers want, and a large share is going into ethanol, a fuel additive. India grows over a quarter of the world's rice. When it started exporting again after a 2023 ban, world prices fell about 35%. Now that could reverse, just as prices are also rising in Thailand and Vietnam."
+    },
+    {
+     "label": "What happens next?",
+     "style": "note",
+     "text": "The government can sell stock through the Open Market Sale Scheme. That only helps if it sells large amounts of the right types. Or it can limit exports again. That drew criticism in 2023 and could reopen a dispute over India's rice subsidies. Reservoirs are low, so the winter rice crop may shrink too. Nobody knows yet if this is a one-season problem."
+    }
+   ],
+   "recall": {
+    "q": "India has about 60 million tonnes of rice in stock, 5-6 times its usual target. Why might prices still rise?",
+    "a": "Much of the stock cannot easily reach buyers. Part is unmilled paddy, much is kept for ration shops, the types may not match what buyers want, and a large share is going into ethanol."
+   },
+   "imageUrl": "https://cdn.finshots.app/images/2026/09/Rice-Output-Fall-01.jpg",
+   "deepLink": "https://finshots.in/archive/whats-happening-to-indias-rice-output/",
+   "attribution": "Finshots",
+   "publishedAt": "Tue, 22 Sep 2026 01:30:04 GMT"
+  },
+  {
+   "id": "psypost-1wbfgxt",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Brain fluid drains into the skull, slower with bad sleep",
+   "body": "Scientists once thought the brain was sealed off from the rest of the body. A new MRI study of 87 patients watched brain fluid flow straight into the marrow inside the skull. It moved more slowly in people who slept badly.",
+   "evidence": "single study · n=87 · observational · patients with neurological conditions · self-reported sleep",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Four and a half hours after the injection, the top of the skull lit up. The dye had gone into the fluid around the spine, low in the back. Now it sat inside the bone above the brain.\n\nNot long ago, that picture would have looked wrong. Biologists thought the brain was sealed off from the body. A wall of cells called the blood-brain barrier was meant to stop immune cells and other substances from getting in or out. The point was protection: keep harmful inflammation away from delicate brain tissue.\n\nThen the seal began to crack. Studies in mice and in human tissue found tiny channels. They link the brain's outer protective layers to the marrow inside the skull. Marrow is the soft, spongy tissue inside bones that makes blood cells and immune cells. Cerebrospinal fluid is the clear liquid that cushions the brain and spinal cord and carries away waste. Through these channels, this fluid can leave the brain and meet the immune cells living in the bone.\n\nA team at Zhejiang University in China wanted to see this in living people. They studied 87 patients who already needed a spinal tap, a needle that draws fluid from the lower back. The team added a dye called gadolinium, which shines brightly on MRI scans. Scans at 4.5, 15 and 39 hours followed the dye into the skull marrow. To measure it, the team compared the skull's signal with the fluid in the eye. That fluid does not take up the dye, so it gives a steady baseline.\n\nThe drainage was real, but uneven. The top of the head filled fastest. For most patients, the dye peaked there at 4.5 hours. The base of the skull was slow: in half the patients, it peaked only at 15 hours.\n\nThe speed also depended on the person. Drainage at the top of the head was slower in older people, in people with high blood pressure or diabetes, and in women. Slow drainers also showed more signs of inflammation in their blood. They had more neutrophils and fewer monocytes and lymphocytes. All three are types of white blood cell.\n\nThis is where sleep comes in. Patients who reported worse sleep over the past month drained more slowly. Slow drainers also scored lower on a thinking test, given by phone a month after they left hospital. In the math, drainage speed explained about 38 percent of the link between poor sleep and lower scores.\n\nThe team proposes a chain. Bad sleep may raise inflammation. Inflammation may slow the fluid's exit into the skull. And slower drainage may add to weaker thinking. It is a tidy story, but still only a proposal. It rests on numbers that move together, not on proof that one thing causes another."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one observational study. It shows these things change together, not that one causes another. Every patient already had a condition of the nervous system, such as peripheral neuropathy or encephalitis. There was no healthy group to compare with. So we do not know if the same pattern holds for everyone else.\n\nSleep and thinking were measured with questionnaires and a phone test, not with brain-wave recordings in a sleep lab. And the 4.5-hour peak may only show fluid entering the marrow, not washing out of it. More frequent scans are needed to map the full timeline."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The brain is not a sealed room. It drains into its own bone, and how you sleep may change how well that drain flows."
+    }
+   ],
+   "recall": {
+    "q": "The study linked poor sleep to lower thinking scores. What part did skull drainage play in that link, and why can't we call it the cause?",
+    "a": "Drainage speed explained about 38% of the link between poor sleep and lower scores. The team suggests bad sleep raises inflammation, and inflammation slows the fluid's exit into the skull marrow. But it is one observational study of patients who were already ill, so it only shows these things move together."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/07/brain-scans.jpg",
+   "deepLink": "https://www.psypost.org/brain-fluid-drains-directly-into-skull-bone-marrow-influencing-sleep-and-memory/",
+   "attribution": "PsyPost",
+   "publishedAt": "Tue, 22 Sep 2026 11:00:21 +0000"
+  },
+  {
+   "id": "semafor-pzpb13",
+   "source": "semafor",
+   "topic": "world",
+   "kind": "news",
+   "title": "Miliband: an 'age of impunity' as aid shrinks",
+   "body": "David Miliband runs the International Rescue Committee (IRC), a global aid group. He says the world has entered an \"age of impunity\", which is his phrase for a time when wars kill many civilians and no one is punished. At the same time, the US and other rich countries are cutting aid.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "At a Semafor event in New York on Tuesday, he summed it up as \"more shocks, fewer shock absorbers.\" The shocks are wars, hunger and disease. Some 65 wars are going on, about 300 million people face hunger, and diseases like Ebola are hitting at the same time. The shock absorbers are aid money.\n\nThe US-Iran war has made this worse. It closed the Strait of Hormuz, and a quarter of the world's fertilizer once passed through it. Farmers now face shortages and soaring costs."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "text": "700,000: deaths in 18 months that Miliband links to aid cuts, citing a Boston University study\n\n45 million: extra people pushed into food shortage by the Iran conflict (World Food Programme)\n\n18,000 to 12,000: IRC staff in the last 18 months\n\n$1.5 billion to about $1.1 billion: IRC operating revenue over the same time"
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "People in crisis lose twice. Their needs grow while the groups that help them shrink. The IRC asked for a humanitarian corridor, a safe route to let fertilizer through Hormuz. So far, that request has failed."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "With less money, the IRC is turning to cheaper tools, including AI. In the Democratic Republic of Congo, large language models (the type of AI behind chatbots) diagnosed mpox from photos of skin sores with 98% accuracy. Miliband says this kind of technology could help with 200 rare diseases, mostly in Africa."
+    }
+   ],
+   "recall": {
+    "q": "Miliband says the world has \"more shocks, fewer shock absorbers.\" What are the shocks, what are the absorbers, and what cost does he link to losing them?",
+    "a": "The shocks are wars, hunger and disease: some 65 wars and about 300 million people facing hunger. The absorbers are aid money, which the US and other rich countries have cut. Citing a Boston University study, he links about 700,000 deaths in 18 months to those cuts."
+   },
+   "imageUrl": "https://img.semafor.com/769c7dcb30c53afdab8519e4698f3abc2c989365-1280x720.jpg",
+   "deepLink": "https://www.semafor.com/article/09/22/2026/world-has-entered-age-of-impunity-amid-global-aid-cuts-miliband-says",
+   "attribution": "Semafor",
+   "publishedAt": "Tue, 22 Sep 2026 18:22:55 +0000"
+  },
+  {
+   "id": "bbc-world-irmds8",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "US to build two new bases in Greenland; Denmark keeps control",
+   "body": "The US will build two new military bases in Greenland under a new deal with Denmark and Greenland. In return, the deal confirms that Greenland stays under Danish rule. It seems to end more than a year of tension after Trump threatened to take the island.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The deal was signed on Tuesday at the UN General Assembly in New York. One base will be at Narsarsuaq in the south. It has deep-water access and a large runway. The other will be at Mestersvig in the east. This is a remote and much less developed outpost. A Danish navy dog-sled unit uses it now.\n\nThe US may also upgrade and expand its Pituffik Space Base in the north-west. Denmark gets its sovereignty confirmed. That means its right to rule Greenland. No country outside Nato may set up bases or keep forces there. And Greenland stays in Nato even if it becomes independent.\n\nThe deal updates a 1951 agreement. Trump had tried to buy or annex Greenland. To annex means to take it over by force or by order. He pointed to its key location and its rare earth minerals. These minerals are used in phones and electric cars."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "1951: the year of the first US-Denmark defence deal, which this one updates",
+      "100+: US military staff already at Pituffik",
+      "1: the number of times the deal mentions Trump's Golden Dome missile shield, with no real plan attached"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The 1951 deal already let the US send as many troops as it wanted to Greenland. So the real change is two things: new places to build, and a firm line against rivals like Russia and China."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The details of the two bases are not settled yet. The US, Denmark and Greenland must all agree to them."
+    }
+   ],
+   "recall": {
+    "q": "What does each side get from the new Greenland deal?",
+    "a": "The US gets two new bases, at Narsarsuaq and Mestersvig, and may expand its Pituffik base. Denmark gets its right to rule Greenland confirmed. Countries outside Nato are also blocked from setting up bases on the island."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad23/live/08b181f0-b6b6-11f1-8448-334c53ba4316.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Tue, 22 Sep 2026 18:43:29 GMT"
+  },
+  {
+   "id": "marginalian-1odndvw",
+   "source": "marginalian",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why waiting before a decision can be a skill",
+   "body": "Frank Partnoy argues that delay, used well, is a skill, not a waste. Before any decision, ask how long you really have. Then use as much of that time as you can to watch and think. For him, that pause is what makes us different from an animal that just reacts.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "You have a decision in front of you. Everything in your day pushes one way: answer now, move on, stay efficient. Frank Partnoy would ask you to stop and answer two questions first. How long do I really have? And within that time, what is the longest I can wait while I watch and learn?\n\nPartnoy was an investment banker before he became a writer and law teacher. His book Wait: The Art and Science of Delay joins four big questions that are usually studied apart: what time is, how we decide, why we procrastinate (put things off), and what it means to be human. He uses hundreds of studies and talks with thinkers in psychology, behavioral economics, philosophy and anthropology. His conclusion goes against a culture that loves speed. Used well, delay is a skill, not a waste.\n\nThe fight is old. Voltaire complained that we never really live. We only wait to live. In that view, waiting is life slipping away. Partnoy says our real problem is the opposite. We rush.\n\nFor centuries, he notes, careful thinkers warned people not to jump to firm conclusions about things they cannot know. Today we jump faster and more often. We like to believe our snap judgments (quick, gut decisions) are wise. He admits that sometimes they are. But good judgment starts with knowing our limits when we think about the future. That is why the timing question matters. It rarely has a neat, exact answer. Asking it still changes the decision.\n\nThen he goes further. The time we take to reflect, he argues, shapes who we are. An animal reacts to whatever happens to it. A human can pause, look at what they are doing and why, and then choose. Life may be a race against time, but Partnoy thinks it gets richer when we \"stop the clock\". Socrates said the unexamined life is not worth living. Partnoy turns the line around: the examined life just might be worth living.\n\nNow go back to the decision in front of you. The pause before you answer is not lost time. It is the moment the choice becomes yours, not just a reflex."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This piece gives Partnoy's argument, not the studies behind it. It cannot tell you how strong the evidence is for any single claim. And he does not say slower is always better. Snap decisions are sometimes wise. His point is to find out how much time a decision allows, then use that time well."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A wise decision needs reflection, and reflection needs a pause."
+    }
+   ],
+   "recall": {
+    "q": "Partnoy does not simply say \"wait longer.\" What two questions does he want you to ask about a decision?",
+    "a": "First, how much time does this decision really allow? Second, within that time, what is the longest you can wait while you watch and think? Delay helps when it fits inside the decision's real time limit, not when it goes on forever."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/07/waitdelay.jpg?w=680&#038;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/21/wait-frank-partnoy/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Mon, 21 Sep 2026 23:57:53 +0000"
+  },
+  {
+   "id": "neuro-news-fvjzmh",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Cocaine locks a normal brain circuit onto one action",
+   "body": "Cocaine does not build a new, broken behaviour. In mice, it takes over a brain circuit that normally handles licking, grooming and feeding, and locks it onto one action. Switching on the circuit that pushes the other way quickly stopped the loop.",
+   "evidence": "single study · mice",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "By the fifth day, the mice were licking the floor. They were not eating or drinking. They licked the bare floor and the walls of their cage, over and over, for more than 60% of their active time. Mice that had never had cocaine almost never did this.\n\nThat is the puzzle. We usually think cocaine makes you want more of the drug. So why does it end with a mouse repeating one small, pointless action? Addiction in people has a similar shape. Over time, varied behaviour narrows into a few rigid routines. It looks less like hunger and more like a loop.\n\nOne obvious answer is that the drug creates something new, a broken behaviour that was not there before. A team at the Hebrew University of Jerusalem found the opposite. PhD researchers Ben Jerry Gonzales and Itay Shalom led the work, under Prof. Ami Citri. \"Cocaine does not appear to create an entirely new behavioral program,\" Gonzales said. It takes over a program the brain already has.\n\nFirst, the team needed a better way to watch. Scientists usually score behaviour by hand, or study one action at a time. So the team built STEREO, a deep-learning tool (software that learns patterns from examples). It watches high-speed video and labels natural actions like grooming, sniffing, rearing and walking. With it, they saw the mice's range of behaviour shrink over several days. At first the mice explored. With each dose the range got smaller, until one action took over.\n\nNext, they found where this happens: the ventrolateral striatum, or VLS. It is part of the basal ganglia, a set of deep brain structures that help choose which action to do next. The VLS controls fine movements of the mouth, tongue and face. Normally it runs grooming, licking and feeding, each at the right moment.\n\nInside the VLS, two circuits compete. The direct pathway pushes toward an action. The indirect pathway pulls the other way. Flexible choice needs both. Under cocaine, both became active, but the balance tipped toward the direct side.\n\nThe proof came from switching on each circuit by itself. Turning on the indirect pathway quickly stopped the cocaine-driven licking, and flexible movement came back. Turning on the direct pathway alone was enough to cause repetitive bouts like the ones the drug caused.\n\nThe team thinks similar imbalances in other parts of the striatum, which control limb and head movements, might explain the repeated rituals seen in Tourette syndrome, OCD and Parkinson's disease. That is an idea, not a finding. And the biggest question is still open. This study measured floor-licking in mice. It did not test whether the same tipped balance drives the loops of human addiction."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, done in mice. It measured repetitive mouth movement caused by cocaine. Researchers use this as a model of rigid behaviour, but it is not the same as human addiction."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The loop is not a new program. It is a normal choosing system stuck on one choice."
+    }
+   ],
+   "recall": {
+    "q": "Mice on cocaine licked the floor over and over. Did the drug create that behaviour, and what did switching on each pathway show?",
+    "a": "No. Cocaine took over a circuit in the VLS that normally handles licking, grooming and feeding, and tipped it toward the direct pathway. Turning on the indirect pathway quickly stopped the licking. Turning on the direct pathway alone caused similar repetitive bouts."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/09/Cocaine-Traps-the-Brain-in-Repetitive-Behavioral-Loops-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/cocaine-brain-repetitive-loops-31235/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Tue, 22 Sep 2026 17:58:25 +0000"
+  },
+  {
+   "id": "daily-phil-17f5ghl",
+   "source": "daily-phil",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Before we look for life in space, ask where a living thing ends",
+   "body": "Astrobiology looks for life beyond Earth. But first it needs an answer to a hard question: what counts as life? The philosopher Rossella Vingelli says our usual answer puts life inside one single body. She thinks that answer is too narrow.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Point to something alive. Most people point to one thing: a dog, a tree, themselves. Rossella Vingelli, a philosophy PhD student at the University of Liverpool, thinks this habit is where the trouble starts.\n\nWhat is astrobiology?\nIt is often described as the study of where life in the universe comes from, how it changes, where it spreads, and what its future is. So every part of it depends on one question: what is life?\n\nWhy would a philosopher work on it, and not a biologist?\nVingelli went to a science high school before she studied philosophy. She sees the two fields as partners, not rivals. Science builds knowledge through observation, experiments and evidence. Philosophy asks what those findings mean, where our knowledge stops, and how the way humans see things shapes what we notice. Astrobiology, she says, is deeply scientific but \"inevitably philosophical\". In other words, it cannot avoid philosophy.\n\nWhere does a new question come from?\nFrom intuition, she says, meaning a first sense that something is true before you can prove it. Intuition is the bridge between the two fields. A question usually starts as an intuition. Philosophy then works it out with care, and science tries to test it.\n\nWhat is wrong with how we usually define life?\nWe treat life as something each creature has on its own. Vingelli says this picture misleads us, because no living thing truly lives on its own. She calls her other idea \"extended organicity\". The interview stops just as she starts to explain it, so we do not get its full shape here.\n\nWhere did the idea come from?\nNot from space. It came from Earth. Her master's thesis, Human and Vegetal Life, mixed philosophy, botany (the study of plants) and architecture. It asked how to think about the climate crisis and our bond with nature and the variety of living things. That work is where she first noticed the one-body habit.\n\nSo she leaves a question she has only started to answer. If life does not stay neatly inside one body, where does a living thing end? And what exactly should a probe on another world look for?"
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Before we can find life somewhere else, we may have to stop drawing its borders around one body."
+    }
+   ],
+   "recall": {
+    "q": "What habit in how we define life does Vingelli question, and where did she first notice it?",
+    "a": "We usually treat life as something a single organism has on its own. She argues no living thing truly lives on its own, and she proposes 'extended organicity' instead. She first noticed this habit in her master's work on plants, nature and the climate crisis, not in space science."
+   },
+   "imageUrl": "https://daily-philosophy.com/interview-vingelli-astrobiology/featured-1200px.jpg",
+   "deepLink": "https://daily-philosophy.com/interview-vingelli-astrobiology/",
+   "attribution": "Daily Philosophy",
+   "publishedAt": "Sun, 20 Sep 2026 19:05:45 +0800"
+  },
+  {
+   "id": "hackernews-1kpoqoh",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Meta's Muse AI handed a user 6.8GB of its own files",
+   "body": "A user asked Meta's Muse AI assistant for every file it could see, and got 6.8 GB back in their Google Drive. Nobody hacked anything. Muse packed up its own system and sent it out through a normal chat.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The archive was 2.7 GB compressed. It held the whole Linux system Muse ran on for that session: Ubuntu system files, internal guides, integration code, app templates, memory files, agent logs and SSH key files. SSH keys are digital keys used to log in to other computers.\n\nIt also showed unreleased plans. Settings files named connectors such as Slack, Dropbox and Canva. One guide described an experimental link to home devices."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "About 68 skill folders: Google Workspace, Outlook, shopping, health, home devices",
+      "113 records of helper agents, with their activity logs"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The memory files hold what Muse learns about each user. A nightly job it calls a \"dream\" reviews past chats and writes notes for later. For this user, it noted that they like short replies. The risk is simple: an AI that can reach its own secrets and can also send files out can be asked to send both out. The user did not test whether the keys still worked. Light tests found the container, the sealed box Muse runs in, held."
+    },
+    {
+     "label": "Meta's response",
+     "style": "note",
+     "text": "Meta's bug bounty team marked the report \"Not Applicable\" and did not say why. It asked for more proof of harm to security or privacy. Some Meta employees have replied. The user has not published the archive, keys or logs."
+    }
+   ],
+   "recall": {
+    "q": "Nobody broke into Muse. So what was the security problem?",
+    "a": "Muse's internal files, including SSH key files, left its system through a normal chat request and a connected tool (Google Drive). The user did not show that the keys worked or that the container could be broken."
+   },
+   "imageUrl": "https://mouse.dev/og/muse-runtime.png",
+   "deepLink": "https://mouse.dev/blog/muse-runtime-export/",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-22T15:25:12Z"
+  },
+  {
+   "id": "psypost-eo9e7w",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Anxiety and depression now last longer. No one knows why",
+   "body": "In an older Dutch survey, just over 4 in 10 adults with anxiety, depression or a drink or drug problem still had a disorder three years later. In a recent survey, it was almost 6 in 10. The usual risk factors do not explain the rise.",
+   "evidence": "two Dutch population surveys (2007–09, 2019–22) · adults 18–64 · structured interviews, self-reported symptoms",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Take ten Dutch adults who had anxiety, depression, or a drink or drug problem in 2008. Check on them three years later. About four still have a mental disorder. Now do the same with people first interviewed between 2019 and 2022. This time the number is close to six.\n\nThat much is solid. The data come from NEMESIS, two large surveys built to represent Dutch adults in general. Both times, trained interviewers asked the same tightly structured questions. The share of people whose disorder lasted rose from 42.7% to 57.9%. Here \"lasted\" means the person had a disorder at any point in the next three years.\n\nThe rise shows up in every group. First, the researchers used a narrow count: the same type of disorder, three years later. By that count, anxiety rose from 24.4% to 40.1%, mood disorders like depression from 33.5% to 48.8%, and drink or drug problems from 33.7% to 45.5%. But people also move between conditions. In the recent group, 41.6% of people with anxiety still had anxiety later. Yet 57.1% had some disorder, sometimes depression or a drink or drug problem instead. So recovery cannot be judged by the first diagnosis alone.\n\nThis matters because Dutch rates of mental disorder rose between 2007 and 2022. Earlier work found that new cases could not explain all of that rise. Disorders lasting longer look like another part of the answer.\n\nThe unknown part is why. The team did find who is most at risk: younger adults, people living in cities, people who suffered trauma as children, and people who use drugs almost every day. But these groups did not grow over the twelve years, and their risk stayed about as strong. They explain who gets stuck, not why more people get stuck now. Differences in how much people used mental health care did not fully explain it either.\n\nThe rest is open. The researchers point to wider changes in society, such as stress from the environment or money worries. The study did not test these. They are directions, not findings.\n\nTo find out, researchers would need to measure these social, environmental and health care factors directly, and follow the trend for more years. They would also need to test whether steady, ongoing care helps recovery last, and to watch for the moment one disorder turns into another."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The interviews were structured and tested for accuracy, but they still rest on what people said about their own symptoms. The recent survey had a slightly lower response rate, though the data were adjusted to match the population. Some groups with specific mixes of disorders were small, so finer patterns are hard to see. A disorder that \"lasted\" does not mean being ill every day for three years. And all of this comes from one country."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The things that keep one person ill have not changed. Something else has, and no one has named it yet."
+    }
+   ],
+   "recall": {
+    "q": "Younger age, city living, childhood trauma and near-daily drug use all made a disorder more likely to last. Why can't they explain the rise over twelve years?",
+    "a": "Those groups did not become more common, and their effect stayed about as strong. They explain who gets stuck, not why more people get stuck today. The cause of the rise is still unknown."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/12/sad-depressed-man-1.jpg",
+   "deepLink": "https://www.psypost.org/mental-health-conditions-are-lasting-longer-today-than-they-did-a-decade-ago/",
+   "attribution": "PsyPost",
+   "publishedAt": "Tue, 22 Sep 2026 18:00:40 +0000"
+  },
+  {
+   "id": "marginalian-ckfeb6",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Francis Weller: in hard times, grow larger, not smaller",
+   "body": "When life turns uncertain, most of us shrink and hide. The therapist Francis Weller says dark times ask for the opposite: grow larger. He does not mean stronger. He means remembering how connected you are, and leaving no part of yourself out.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A job feels shaky. Someone we love falls ill. The news gets worse every week. So we cut back, hide what hurts and wait for it to pass.\n\nFrancis Weller is a trauma therapist. In his essay collection In the Absence of the Ordinary, he writes one line that points the other way: \"It is a time to become immense.\" Immense means very, very large. The line is worth reading slowly, one piece at a time.\n\nFirst, \"it is a time\". Weller does not call the dark stretch a mistake or a failure. To him it is a season, and it has its own work. He compares it to life under the soil. Roots, fungus threads and minerals work in the dark, and they make everything we see in daylight possible. Some growth only happens where nobody can see it.\n\nThen the surprise: \"to become immense\". Uncertainty makes us feel too small to understand our trouble, fight it or get through it. Weller says that is exactly when we are asked to grow larger. He does not mean power or confidence. He means two quieter things.\n\nThe first is remembering how connected you are. To become immense, he writes, is to remember that we belong to a living world. That world includes woods and fields, our neighborhoods, old stories and the small kind acts of a friend. Everything we need is already here. You are large because you are not alone.\n\nThe second is harder. Growing larger also means letting every part of yourself into the story: weakness and need, loneliness and sorrow, shame and fear. Weller puts it in two words: \"Nothing excluded.\" Most of us hide these feelings until we feel strong again. Weller counts them as part of a whole person. You grow by letting things in, not by cutting them away.\n\nNotice what the passage leaves out. It gives no plan. It does not say when the dark will end. Weller says the soul reads darkness, sorrow and anxiety as signs that deep change is needed. But he never says the change will be comfortable. He calls it a rough passage into something new. It is deeply personal, and everyone goes through it.\n\nWhy does this matter for an ordinary, uncertain life? Shrinking feels safe, but it cuts both supports Weller names. Hide your fear from friends, and you lose your link to other people. Hide it from yourself, and you lose a part of yourself. So on the worst days, try the opposite. Reach toward people and places. Let the fear stay in the room with you.\n\nThis will not end the uncertainty. It gives the dark room to do its work."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "When the ground moves, don't shrink. Widen: toward other people, and toward all of yourself."
+    }
+   ],
+   "recall": {
+    "q": "Weller says uncertain times are a time to \"become immense.\" What two things does he mean, and what does he not mean?",
+    "a": "He does not mean becoming powerful or confident. He means remembering that you belong to a wider living world of people, places and stories. He also means letting every part of yourself, including fear, shame and need, into the story instead of hiding it."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/01/ordinary_weller.jpg?fit=320%2C494&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/22/francis-weller-ordinary/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Tue, 22 Sep 2026 14:27:50 +0000"
+  },
+  {
+   "id": "sd-mind-1h33f07",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Long COVID scans show lost dopamine nerve endings",
+   "body": "Brain scans of people with long COVID showed signs of fewer dopamine nerve endings in a region that controls motivation, movement and thinking. Where the loss appeared matched the symptom: low drive in one area, slow movement in another, memory trouble in a third. The researchers now plan a trial of drugs that boost dopamine.",
+   "evidence": "single study · PET imaging · long COVID vs healthy controls · sample size not stated",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Susan Deuville caught COVID in 2021. Five years later, she is still looking for answers. She describes a crushing loss of the life she had and the person she was. Like many people with long COVID, her symptoms are hard to see from the outside: tiredness, low drive and a foggy memory.\n\nLong COVID means symptoms that last at least three months after the infection. It affects about 5% of people worldwide, including around two million in Canada. There is still no treatment backed by evidence. One reason: no one clearly knows what goes wrong in the brain.\n\nA new study from the Centre for Addiction and Mental Health (CAMH) in Canada points to dopamine. Dopamine is a chemical messenger that brain cells use to pass signals. It matters for motivation and movement. The team used PET scans, a kind of imaging that shows activity inside a living brain. They measured a well-known marker of how healthy dopamine neurons are. Then they compared people with long COVID to healthy people.\n\nThe marker was much lower in the long COVID group, across all the main parts of the striatum. The striatum is a group of regions deep in the brain that helps control motivation, movement and thinking. A lower marker suggests fewer dopamine nerve endings: the tips where these cells release dopamine.\n\nThe most striking result is the map. Where the loss appeared matched what each person struggled with. Loss in the ventral striatum went with weaker motivation. Loss in the dorsal putamen went with slower movement. Loss in the caudate putamen went with memory trouble. The senior author, Jeffrey Meyer, notes that this kind of dopamine damage is already known to cause low motivation and slow movement.\n\nThis fits an earlier finding from the same team. People with long COVID had unusually high inflammation in the brain. It was strongest in regions full of dopamine neurons, and inflammation is known to injure these neurons. Together, the two studies suggest a possible chain: lasting inflammation, then damage to the dopamine system, then symptoms.\n\nThat changes where treatment might look. Most research so far has focused on inflammation and the immune system. Very few trials have targeted dopamine neurons. Meyer suggests reusing existing drugs of two kinds. Dopamine precursors give the brain raw material to make dopamine. Other drugs slow its breakdown. His team plans to start a trial within the next couple of months. It will test whether changing dopamine activity improves memory, motivation and fatigue.\n\nThe findings may help patients in one more way. Symptoms that were hard to prove from the outside now match a pattern you can see on a brain scan."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, and the report does not say how many people were scanned. The links between marker loss and symptoms are correlations: the two appear together, but that does not prove the loss caused the symptoms. The marker is indirect. It suggests fewer nerve endings but does not count them. The chain from inflammation to dopamine damage is a possibility based on two studies, not a proven cause. The drug idea stays untested until the trial reports."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Where the dopamine was lost matched what the person lost."
+    }
+   ],
+   "recall": {
+    "q": "The scans showed a lower dopamine marker in long COVID. What makes this more than a general finding that the brain is damaged?",
+    "a": "The place where the marker dropped matched the symptom: the ventral striatum with low motivation, the dorsal putamen with slow movement, and the caudate putamen with memory trouble. That match ties the damage to what patients feel, and it points to dopamine-boosting drugs as something to test."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/brain-scan-glitch-disease.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Mon, 21 Sep 2026 23:48:58 EDT"
+  },
+  {
+   "id": "sd-mind-10yflgi",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Coffee may leave your sleep long but shallow",
+   "body": "Caffeine does not always keep you awake. You can fall asleep on time and sleep a full night, and your brain may still get less deep sleep. You would not feel it, and you would not remember it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "You had a coffee at five. You fell asleep by eleven. You don't remember waking once. By every normal measure, it was a good night. Your brain may tell a different story.\n\nFor years, the coffee question has been simple: does it keep you awake? Some people drink it late and sleep fine. Others lie awake for hours. But researchers now think this question misses something. What caffeine does after you fall asleep also matters.\n\nTo see this, scientists use EEG (electroencephalography). Small sensors on the head record the brain's electrical activity. A normal sleep check records how long you slept and which stages you went through. A closer look at the EEG shows smaller changes too. The most important one is slow-wave activity: slow, large brain waves that mark deep sleep. Deep sleep is the stage linked to body recovery, refilling energy stores, and keeping the brain healthy.\n\nProf. Donata Kurpas of Wroclaw Medical University explains what this means. Caffeine can shorten sleep or make it harder to fall asleep. But even when sleep length looks normal, caffeine may reduce slow-wave activity. It can push the brain toward a more 'awake' pattern. So a person can spend eight hours in bed and still recover less than usual. Nothing wakes them up, so nothing seems wrong. Feeling that you slept well does not always match what the recordings show.\n\nTiming matters, and so does the person. Genes, metabolism (how fast your body breaks down caffeine), age, stress and long-term tiredness all change how strongly caffeine affects you. For some people, even a morning coffee may still have an effect at night. The total caffeine in your day matters too. So does whether your body has cleared it by bedtime.\n\nThis leads to a trap. Caffeine makes tiredness easier to ignore during the day. If it also weakens recovery at night, you wake up more tired. So you drink more coffee. Kurpas calls this a vicious circle: more tiredness, more need for a boost, worse sleep. It is a bit like borrowing energy from your own body.\n\nThis is one reason sleep science now looks beyond hours alone. The real question is not how long you slept. It is whether that sleep actually restored you."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "You sleep a full night after an evening coffee, but still wake up tired.",
+      "You add a second or third cup to fix that tiredness, and the tiredness keeps coming back.",
+      "A friend drinks espresso after dinner and sleeps fine. Their body may simply handle caffeine differently from yours."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This piece is based on an expert's summary of caffeine and sleep research, not one reported study. No sample sizes or effect sizes are given. The word 'may' matters here: less deep sleep is a possible effect, and it varies a lot between people. Kurpas herself says caffeine is neither good nor bad. Its effect depends on the dose, the time of day, and the person."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A full night is not the same as a deep one."
+    }
+   ],
+   "recall": {
+    "q": "Someone drinks coffee in the evening, falls asleep on time, and doesn't remember waking up. Why might their sleep still have been worse?",
+    "a": "EEG research suggests caffeine can reduce slow-wave activity, the brain signal of deep, restoring sleep, even when sleep length looks normal. The brain shifts toward a more awake pattern. The person gets the hours but less recovery, and does not notice."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Tue, 22 Sep 2026 09:42:49 EDT"
+  },
+  {
+   "id": "aeon-m3qlq5",
+   "source": "aeon",
+   "topic": "world",
+   "kind": "news",
+   "title": "'Magic mushroom' gummies that aren't psilocybin",
+   "body": "Many US smoke shops sell 'magic mushroom' gummies made from a different mushroom, Amanita muscaria. Its drug slows the brain down instead of changing how you see and feel. No modern study says what dose is safe.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Amanita muscaria is the red toadstool with white spots. Its main drug, muscimol, works on the brain's braking system. Alcohol and sedatives like Valium act on the same system. Muscimol can cause sleepiness, confusion and poor balance. In bad cases it causes delirium or loss of consciousness.\n\nThe public-health scientist Eric Leas looked for a modern human study on safe doses. He found none. The label doses seem to copy a 1967 test in which one Swiss drug scientist, Peter Waser, dosed himself.\n\nThe products sit in a legal gap. Muscimol is not a controlled drug under US federal law. But it was never accepted as a food or supplement ingredient. In late 2024 the FDA said it is not safe for use in food."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Waser, 1967: 5 mg made him feel lazy. 10 mg gave a mild high. 15 mg brought slurred speech and muscle twitching, and he could not walk with his eyes closed.",
+      "Mice: swallowed muscimol killed half the mice at a lower dose than almost every other mind-altering drug tested, fentanyl included. Mouse results do not carry over neatly to humans.",
+      "2024: US federal agencies investigated 180 cases, including three possible deaths, linked to Diamond Shruumz products.",
+      "Over 95,000 mushroom chocolate bars seized in San Diego County after an investigation by California's Department of Justice."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Tests found muscimol in only some Diamond Shruumz products. Others held psilacetin (a close chemical cousin of psilocybin's active form), psilocin, the prescription drug pregabalin, and compounds related to kava. Buyers could not know what they were eating. Leas thinks adults should be free to choose what they take. But that freedom does not include \"a company's right to deceive\"."
+    }
+   ],
+   "recall": {
+    "q": "These gummies are sold as 'magic mushrooms'. How is their main drug different from psilocybin, and why are the label doses hard to trust?",
+    "a": "Muscimol works on the brain's braking system, like alcohol and sedatives. So it causes sleepiness and confusion, not changes in how you see and feel. No modern human study sets a safe dose, and the labels seem to copy one scientist's 1967 test on himself."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/1b09c0ee-fda1-4d33-9012-32b332155b78/essay-gettyimages-1432926045.jpg?width=1200&quality=75&format=auto",
+   "deepLink": "https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies",
+   "attribution": "Aeon",
+   "publishedAt": "Tue, 22 Sep 2026 10:00:00 GMT"
+  }
+ ]
+}
