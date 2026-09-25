@@ -1,0 +1,926 @@
+{
+ "date": "2026-09-26",
+ "generatedAt": "2026-09-25T20:04:32.221Z",
+ "cards": [
+  {
+   "id": "letter-2026-09-26",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "The body steering the mind",
+   "body": "Today, the body keeps quietly talking to the mind. In mice, slow air through the nose lowers anxiety, and in people, how closely you notice your own body may shape what disgusts you in politics. If you read one piece, read the one on why fear keeps going after the danger has passed: the brain's alarm fires only for a moment, so something else must be keeping the fear alive.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "aeon-13doova",
+   "source": "aeon",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Habermas: we don't reason alone, we reason together",
+   "body": "Jürgen Habermas, who died in March 2026 aged 96, believed reason is not something you do alone in your head. People do it together. They give each other reasons, and they stay willing to be moved by them. He lived this way himself. Even at 70, he changed his mind in public when others showed him he was wrong.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "It is 2004, at Northwestern University in Illinois. A philosopher in his 70s stands at a chalkboard in Wrangler jeans and a tweed jacket. Jürgen Habermas is drawing his theory in chalk for a room of students. One of them, Emilie Prattico, remembers him less for his answers than for how he changed his mind.\n\nThe skeptic asks first: isn't reasoning something each of us does alone, in our own head?\n\nNot for Habermas. From 1981 on, he argued that in modern life, reason survives only as something people do together. You give me reasons. I stay open to being moved by them. Force, money and tradition are not supposed to decide. To think is to owe each other explanations, questions and answers. It is slow. Doing it out loud is what gives it value.\n\nHe used the same test for governments. A law is legitimate, meaning it has a right to be obeyed, only if it could be explained and defended to everyone who must follow it.\n\nThe skeptic pushes: but groups reason badly all the time. Crowds shout. People join whichever side already agrees with them.\n\nHabermas agreed. So he set strict conditions. Part of the idea came from Quaker meetings he saw in the US, where people tried to reach agreement with everyone in the room. Being invited in is not enough. Everyone a rule could affect must have a voice. They must be free to object. They must speak honestly. Only then is the one pressure left \"the unforced force of the better argument.\" Most groups fail this test. The conditions are a measuring stick, not a picture of how groups usually behave.\n\nThe skeptic again: nice words. Did they ever change anyone who mattered?\n\nThey changed Habermas. His 1962 book praised the coffeehouses and salons of the 1700s. There, ordinary citizens began to judge the state instead of just obeying it. Critics like Nancy Fraser said this public shut out women from the start. Habermas agreed in print. Leaving women out, he said, was built into the design, not an accident. His reply sits in the same book, right after the critics' essays.\n\nThen in 1999 he dropped a view he had held since 1973: that truth is whatever people would agree on after a fair argument. Critics convinced him this mixed up two things. One is truth. The other is justification, meaning the good reasons we have for believing something. A claim can pass every test we have and still be false, because our tests can be wrong. Facts answer to the world, not to our agreement.\n\nThe skeptic lands the hardest punch: look at today. Where is this fair conversation happening?\n\nHabermas saw the danger himself. In 2022 he wrote that online platforms remove the editors who once filtered what got published. Every user becomes a publisher. Worse, heavy use breeds closed groups. Their members start to treat anyone who claims to speak for everyone as \"suspect of hypocrisy\". Prattico admits the point for him. She doubts his conditions are anywhere close to being met now.\n\nThat leaves a hole he never closed. Facts still answer to the world, even if nobody is talking. But he kept one belief: what is morally right can only be what a fair conversation would agree on. So when people split into groups that no longer talk, what is left to hold up a moral claim?"
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "text": "- Force, money and tradition should not decide an argument. Only the better reason should.\n- That needs strict conditions: everyone affected has a voice, can object, and speaks honestly. Most groups fail.\n- A law has a right to be obeyed only if it could be defended to everyone who must follow it.\n- In 1999, at 70, he dropped a view held since 1973: truth is not the same as agreement.\n- Facts answer to the world. Moral rightness, for him, answers only to fair conversation, which closed online groups are breaking."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Changing your mind because someone gave you a better reason is not losing. It is reasoning working the way it should."
+    }
+   ],
+   "recall": {
+    "q": "What conditions did Habermas think people need to reason well together, and why does social media threaten moral claims more than factual ones?",
+    "a": "Everyone affected must have a voice, be free to object, and speak honestly, so only the better argument decides. Facts still answer to the world even if people stop talking. But for him, moral rightness answers only to fair conversation, and closed online groups are breaking that conversation apart."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/d19c6cf8-eddc-49ec-a4c1-4c20fb6cd93e/essay-v2-2a2b9x3.jpg?width=1200&quality=75&format=auto",
+   "deepLink": "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind",
+   "attribution": "Aeon",
+   "publishedAt": "Fri, 25 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "nautilus-10njb4e",
+   "source": "nautilus",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why fear keeps going after the danger has passed",
+   "body": "The amygdala, the brain's famous fear center, fires only briefly when something scares us, then goes quiet. In male mice, scientists have found a tiny neighbor region that fires far harder and far longer. It may be what keeps us on alert. It went unnoticed for decades because it has no clear border under a microscope.",
+   "evidence": "single study · male mice only · published in Neuron · described by a study coauthor",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The fire alarm goes off. You jump, your heart races, and you walk outside. Then you stand on the pavement and wait. You are no longer startled, but you are not relaxed either. You stay alert until the alarm stops.\n\nNeuroscientist Kay Tye of the Salk Institute uses this scene to explain an old puzzle. Fear often lasts longer than the moment that caused it. Yet the brain area famous for fear does not seem built to hold on.\n\nThat area is the amygdala, an almond-shaped group of cells deep in the brain. Damage it, and fear behavior falls apart. But when scientists record its cells, they fire in one short burst when an animal is first startled. Then they stop. So what keeps the fight, flight, or freeze going?\n\nA team from the United States and China, including Tye, found a likely answer in male mice. It is a tiny region right next to the amygdala. They named it the amygdalostriatal transition zone, or ASt. Its cells fire much harder and much longer to a fear signal.\n\nScientists measure a response by how far it rises above normal, in steps called standard deviations. The amygdala's response is about one step up, a small bump. The ASt gets close to 20. Tye calls these \"screaming responses\". She says you rarely see anything like them elsewhere in the brain.\n\nThe ASt also connects directly to the striatum, a region that helps plan and start movement. That fits its job. The amygdala is flexible: it can judge whether something is really worth fearing. The ASt is more like a fast, fixed shortcut from threat to action. In the alarm story, the amygdala is the jump. The ASt is the waiting on the pavement.\n\nWhy would the brain need a separate system just to stay afraid? Tye's answer is cost. Staying on high alert burns a lot of energy, so it should not be the default. Something must actively keep you there. And when a truck is coming at you, everything else can wait: the message, the snack, the friend. Better to stay alert too long than to relax too soon.\n\nThe ASt reacts to cues: sharp, sudden signals like a twig snapping, a strange shadow, or a gunshot. Fear of a whole place, which is closer to anxiety, seems to depend on other areas, such as the hippocampus.\n\nSo why did no one see it? Under a normal microscope, the ASt has no clear edge. Only the chemical makeup of its cells shows it is a separate region. And because it sits so close, many older experiments that damaged or drugged the amygdala probably hit the ASt too. That may explain why the amygdala seemed more important than its short signals suggested.\n\nThis matters. About 18 percent of people have some anxiety disorder, and today's drugs often make people sleepy and slow their thinking. Tye argues this is because we don't yet know all the fear circuits. The ASt may be one missing piece: the part of us still standing on the pavement, alert, long after the first jump."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "The amygdala seems to start fear. It fires in a short burst, then goes quiet.",
+      "The ASt's signal is close to 20 times stronger by the same measure, and lasts much longer.",
+      "The ASt links straight to movement circuits and reacts to sharp cues. Fear of whole places seems to use other areas, like the hippocampus.",
+      "It was missed because it has no visible border, and older amygdala experiments probably affected it too."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, in male mice only. Tye expects the region exists in female mice, but its job may differ. She also expects humans have it, but there is no evidence yet that it works the same way in us. Everything here comes from an interview with one of the study's authors. Better treatments are a hope, not a result."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Getting scared and staying scared may be two different jobs, done in two different places."
+    }
+   ],
+   "recall": {
+    "q": "If the amygdala fires only briefly when an animal is startled, what keeps the fear going, and how is its signal different?",
+    "a": "A tiny neighboring region called the ASt. In male mice, its cells fire far harder and longer to fear cues: close to 20 standard deviations above normal, against about one for the amygdala. In Tye's fire alarm picture, the amygdala is the jump and the ASt is the waiting outside."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2644073613.jpg?w=564",
+   "deepLink": "https://nautil.us/why-we-stay-afraid-1285292/",
+   "attribution": "Nautilus",
+   "publishedAt": "Fri, 25 Sep 2026 18:00:00 +0000"
+  },
+  {
+   "id": "book-beyond-good-evil-10",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 10 · Two moralities in one soul",
+   "body": "Nietzsche spends four sections insulting England, praising France, and dreaming of music with no morals left in it — then opens Chapter IX and finally says what \"noble\" means. Today the book snaps into focus: values were made in two different places, by two different kinds of people, and both are still fighting inside you.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "He opens by settling a score with England. The English are \"not a philosophical race.\" Bacon attacked the philosophical spirit; Hobbes, Hume and Locke dragged down what the word \"philosopher\" even means. Then the attack turns physical. The Englishman is \"more gloomy, sensual, headstrong, and brutal\" than the German, and for that very reason needs Christianity more — it is the discipline that moralizes him, \"the finer poison to neutralize the coarser.\" Under the rudeness sits a real claim: a people's religion fits the shape of its appetites. His final complaint is the deepest insult he owns. The Englishman has \"neither rhythm nor dance in the movements of his soul and body.\" No music.\n\nThen a thought that stings much wider than England. Some truths are best found by mediocre minds, because those truths suit such minds. He names Darwin, Mill, Spencer — patient collectors of \"many little common facts.\" The high, independent mind is actually bad at that work, because it has different work: \"they have to BE something new... they have to REPRESENT new values!\" And then the line that should trouble any clever reader: \"the capable man in the grand style, the creator, will possibly have to be an ignorant person.\" Knowing and making are two separate powers, and the gap between them is wider than we think.\n\nFrance gets the opposite verdict. It is still \"the high school of taste,\" though the few who carry that taste keep themselves well hidden. Three things are France's own: devotion to form; centuries of moralistic work, which leaves even a newspaper novelist with a psychological sensitiveness Germany has no conception of; and a half-way mix of North and South. Then he drops the argument and simply longs. He wants a music freed from the North — \"super-German,\" even super-European, at home with \"big, beautiful, lonely beasts of prey.\" And under all the nationalist noise he sees one fact: the deepest men of the century were quietly preparing \"the European of the future.\" Napoleon, Goethe, Beethoven, Stendhal, Heine, Schopenhauer. They only rested from themselves when they became \"patriots.\"\n\nChapter IX opens: What is Noble? The answer begins brutally. Every rise in the type \"man\" has been the work of an aristocratic society — one that believes in rank, and needs slavery \"in some form or other.\" The mechanism has a name: the PATHOS OF DISTANCE. Long practice of looking down and looking up, of commanding and obeying, builds a gap between classes; that outer gap is then copied inward as \"the longing for an ever new widening of distance within the soul itself.\" Distance from others teaches distance from yourself. That, he says, is how a soul grows taller. And he refuses the flattering version of history: the first noble caste was always the barbarian caste, men of prey falling on gentler, more peaceful people.\n\nHe pushes harder. A healthy aristocracy does not see itself as a function of society; society is its scaffolding — like the climbing plant in Java that wraps an oak until it can open its top in the light. And making \"injure no one\" the basic rule of society would be \"a Will to the DENIAL of life,\" because living is appropriation, conquest, exploitation. Not as a crime. As an organic function, like digestion.\n\nWhich sets up the map. Moral values were invented in two places. Among rulers, \"good\" simply means noble and \"bad\" means despicable. The noble man is \"a CREATOR OF VALUES\": he needs no approval, he confers honour on things, his morality is self-glorification. He helps the unfortunate — but out of overflowing power, not pity. He has duties only to equals. \"Wotan placed a hard heart in my breast.\"\n\nThen Nietzsche turns and asks the other question. Suppose the abused, the oppressed, the weary and the uncertain begin to moralize. What will they call good?"
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "I could imagine a music of which the rarest charm would be that it knew nothing more of good and evil; only that here and there perhaps some sailor's home-sickness, some golden shadows and tender weaknesses might sweep lightly over it; an art which, from the far distance, would see the colours of a sinking and almost incomprehensible MORAL world fleeing towards it, and would be hospitable enough and profound enough to receive such belated fugitives."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Every value has a birthplace. Ask whether it was made by someone overflowing, or by someone suffering."
+    }
+   ],
+   "recall": {
+    "q": "How do master-morality and slave-morality begin differently?",
+    "a": "Master-morality begins inside the ruler: he calls his own proud qualities \"good\" and everything unlike them \"bad\" — noble versus despicable. He is a creator of values who needs nobody's approval. Slave-morality begins from the outside, among the oppressed and suffering, as suspicion of the powerful and distrust of what they call good."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/4363/pg4363.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/4363",
+   "listenLink": "https://librivox.org/beyond-good-and-evil-by-friedrich-nietzsche/",
+   "attribution": "Friedrich Nietzsche · Helen Zimmern tr. · public domain"
+  },
+  {
+   "id": "hackernews-k3kcgq",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Appeals court upholds Pentagon's Anthropic blacklist",
+   "body": "A US appeals court voted 2-1 to uphold the Pentagon's label of Anthropic as a \"supply chain risk\". The label stops the US military from using Anthropic's Claude AI models. Defense contractors also cannot use them in their work for the military. The fight is not over: another court has already ruled a second, similar label illegal.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The ruling came on Friday, from a federal appeals court in Washington, D.C. With this label, the Defense Department is saying the AI company threatens US national security.\n\nThe Pentagon applied the label in March, after talks broke down. It wanted to use Claude for any legal purpose. Anthropic wanted a promise that Claude would not be used for two things: fully autonomous weapons (weapons that act without a human deciding) and mass surveillance inside the US.\n\nJudge Gregory Katsas wrote that the department had \"ample support\" for its view. He said the final call belongs to the President and the Defense Secretary. Judge Karen LeCraft Henderson disagreed.\n\nAnthropic says it respectfully disagrees and is considering all options. The ruling does not take effect right away, so the company has time to act."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "2-1: the appeals panel's vote. Both judges in the majority were appointed by Trump. The judge who disagreed was appointed by George H.W. Bush.",
+      "2 labels, 2 courts: the Pentagon used two separate legal labels. Last month a San Francisco judge ruled one of them illegal. Friday's ruling upheld the other.",
+      "$200 million: the Pentagon contract Anthropic signed in July 2025. Talks collapsed that September."
+     ]
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Anthropic can ask the same three judges to hear the case again, ask all the judges of the D.C. appeals court to hear it, or ask the Supreme Court to take it. With two courts now on opposite sides, the blacklist's final shape is still open."
+    }
+   ],
+   "recall": {
+    "q": "What does the supply chain risk label stop, and why is Friday's ruling not the final word?",
+    "a": "It stops the US military from using Anthropic's Claude models, and stops defense contractors from using them in Pentagon work. It is not final because the Pentagon used two labels: a San Francisco judge ruled one illegal, while the appeals court upheld the other. Anthropic can also still seek a rehearing or go to the Supreme Court."
+   },
+   "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285631-1774986195722-gettyimages-2268688342-raa-anthropi260331_npMR4.jpeg?v=1774986237&amp;w=1920&amp;h=1080",
+   "deepLink": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-25T15:29:25Z"
+  },
+  {
+   "id": "3quarks-tk9ei8",
+   "source": "3quarks",
+   "topic": "books",
+   "kind": "essay",
+   "title": "After the Nazis, could anyone write poems in German?",
+   "body": "For German poets who grew up under the Nazis, their own language felt dirty. It had been used to lie and to kill. A new essay says it took a whole generation to make German clean enough to write in again. It names the Austrian poet Ingeborg Bachmann as the most charismatic of them.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In a Nazi ghetto, Paul Celan translated Shakespeare's sonnets into German. It is a strange picture. He was working in the same language his killers used.\n\nThat is the puzzle in Jared Marcel Pollen's essay in Poetry Magazine. Poets who write in English, he says, usually feel no guilt about their language. Every language has been used for lies and cruelty. But for German poets who grew up in the Nazi years, it was worse. Their words had been so badly misused that they may have seemed impossible to use at all.\n\nThe easy answers do not fit. One is to stop writing poems. The philosopher Theodor Adorno famously said there could be no poetry after Auschwitz. Pollen says he could just as well have said: no more poetry in German. But poetry did not stop. The writer Primo Levi tells us there was poetry even inside Auschwitz. So silence was not the whole story. Neither was carrying on as if nothing had happened.\n\nThe essay's answer comes from Celan himself. Later in life, he said German had to pass through a \"thousand darknesses of deathbringing talk\" before it could be \"enriched\" again. Pollen loves that word. Enriched uranium is nuclear fuel, processed to be more powerful and more dangerous. So the word hints at radioactivity. It also suggests sifting out the bad parts, and a chain reaction, where one change sets off the next.\n\nThat is how Pollen sees the recovery of German. It was not one poet's work. It took a generation of poets, and more, to find a clean way to think and write in their own language.\n\nThe most charismatic of them, he says, was Ingeborg Bachmann, an Austrian writer born a hundred years ago this year. The novelist Thomas Bernhard called her the most intelligent and important writer Austria produced in the 20th century. He even put her in his 1986 novel Extinction, as a character named Maria.\n\nWhat stays open is Bachmann's own part. The essay's opening sets up the problem and crowns her. It does not yet show how she cleaned the language, or what it cost her. That is the story the rest of the essay promises to tell."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A language used for killing does not heal on its own. Someone has to sift it, word by word."
+    }
+   ],
+   "recall": {
+    "q": "Why does Pollen think the word \"enriched\" fits what German poets had to do after the Nazis?",
+    "a": "It has two meanings. Like enriched uranium, it hints at something radioactive and dangerous. It also suggests sifting out the bad parts, and a chain reaction: it took a whole generation of poets, one after another, to make German usable again."
+   },
+   "imageUrl": "https://3quarksdaily.com/wp-content/uploads/2026/09/shopping-8.webp",
+   "deepLink": "https://3quarksdaily.com/3quarksdaily/2026/09/ingeborg-bachmanns-plunges-into-silence.html",
+   "attribution": "3 Quarks Daily",
+   "publishedAt": "Fri, 25 Sep 2026 18:40:57 +0000"
+  },
+  {
+   "id": "psypost-11ted17",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Slow air in the nose calms mice through one brain path",
+   "body": "In mice, the rhythm of air in the nose is a signal the brain reads. Slow nasal signals lowered anxiety and fast ones raised it, even when real breathing did not change. Scientists traced the path from the nose to the brain's fear center.",
+   "evidence": "single study · male mice only · sample size not stated · anxiety measured by behavior tests",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Blue light flickers inside a mouse's nose, two pulses every second. The mouse is breathing at its normal pace. But the nerve cells that feel air in its nose fire as if it were breathing slowly. Soon the mouse walks out into the open spaces it usually avoids.\n\nThis is the core of a new study in PNAS by Ruiqi Wu's team at Fudan University. People have long said that slow breathing calms you. But why? Is it the thinking mind? Is it the brainstem, which runs automatic breathing? Or is it the air itself? Their answer is the air. The rhythm of air in the nose is the signal.\n\nWhat we know, in mice. Nerve cells in the nose sense smells, but they also sense the push of air. The team changed these cells so that light could switch them on. This let them set the rhythm without changing real breathing. At 2 pulses a second (slow), mice spent more time in open areas. Mice fear open spaces, so this is a sign of less anxiety. At 7 pulses a second (fast), they hid more. At 4, nothing changed.\n\nThe team also traced the path. The signal goes from the nose to the olfactory bulb, the brain's smell center. Next it reaches special cells in an area called the perirhinal cortex. These cells, called PV+ interneurons, help keep brain waves in time. Last, it reaches the amygdala, a hub for fear. Slow input boosted a fast type of brain wave called high-gamma. More high-gamma went with less anxiety. When a drug switched the PV+ cells on, mice got calmer. Switching them off made mice more anxious. Wu says the circuit works like \"a frequency dial for emotion.\"\n\nThe effect also lasted. Mild foot shocks left some mice anxious for a long time. These mice then got slow stimulation for two hours a day over two weeks, by light or by real puffs of air. Their behavior and brain waves went back to normal. The change held for at least a week after the treatment stopped.\n\nWhat we don't know. We don't know if any of this happens in people. Human and mouse brains differ. Light pulses are not the same as real air moving through a nose. And the article does not give the size of the effect in numbers.\n\nWhat is still open. An earlier study found that rats in a scary place breathe faster on their own. Wu goes further: under stress, fast breathing may not just show anxiety but feed it. The mouse work supports this idea, but nobody has tested it in humans. Wu's team says it is now working toward human trials."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, in male mice only. The article gives no sample size. \"Anxiety\" here means how mice behave in a maze and an open box, not a feeling they can report. Wu says plainly that benefits for humans are not yet shown."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "text": "The circuit depends on air in the nose. So, Wu says, breathing through the mouth would not switch it on.\n\nWhen you are stressed, notice if you breathe fast. In mice, a fast nasal rhythm pushed the dial toward anxiety.\n\nThe honest advice for now, in Wu's words: \"breathe slowly through your nose.\" It costs nothing. But it is not a proven treatment for human anxiety."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Your breath may not only show how you feel. In mice, at least, its rhythm helps decide it."
+    }
+   ],
+   "recall": {
+    "q": "In this mouse study, what carried the calming signal, and what path did it take to the brain's fear center?",
+    "a": "The rhythm of nerve signals from air in the nose, not a change in real breathing. Slow input calmed the mice; fast input made them more anxious. The signal went from the nose to the olfactory bulb, then to PV+ cells in the perirhinal cortex, then to the amygdala."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/11/neurons-2.jpg",
+   "deepLink": "https://www.psypost.org/scientists-identify-the-nose-to-brain-circuit-that-makes-slow-breathing-calming/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 25 Sep 2026 18:00:32 +0000"
+  },
+  {
+   "id": "psyche-ulpmyz",
+   "source": "psyche",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Does it matter how we talk to chatbots?",
+   "body": "A chatbot feels nothing, so being rude to it hurts no one. But in lab games, people who first played with a bot were less cooperative with the next real person. The real question may be what our chatbot habits do to us.",
+   "evidence": "essay · cites two online experiments, n>4,000 · short lab games",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Rain is pouring, and a parcel locker will not open. HennyGe Wichers, a technology researcher in London, calls the help desk and gets Matt, a cheerful chatbot. She asks for a human. Matt thanks her and asks how he can help, again. When the locker finally clicks open, she hangs up while he is still talking.\n\nA week later, it still bothers her. But should it? Matt feels nothing. So the question is simple: if a chatbot is not conscious, does it matter how we talk to it?\n\nSide A says no, and its best form is strong. Rudeness is wrong because it hurts someone, and a bot has no one inside to hurt. When we ask how to treat a dog, the question is about the dog. With a chatbot, there is nothing on the other side to ask about. Blunt commands are also practical. The prompt box invites you to cut extra words, and some studies on prompt tone suggest the systems often respond better to that.\n\nSide B, the essay's view, accepts all of this and changes the question. It is not about what we do to the bot. It is about what we do to ourselves. Habits form when we repeat an act in the same setting, triggered by the same signals. Chatbots are close to perfect for this: no waiting, a fast reward, many times a day. So millions of people now practise a short, cold tone that treats the other side only as a tool for getting something.\n\nSome lab evidence suggests this practice leaks. In two online experiments with more than 4,000 people, those who first played a cooperation game with a bot were later less cooperative with a new human partner. They had felt less empathy for the bot, and that feeling did not reset when a real person arrived. In another experiment, people who briefly worked with an AI chatbot were more demanding toward it, and later judged other people's work more harshly.\n\nThe ethicist Tae Wan Kim adds an old idea: the Confucian concept li, roughly \"ritual\". It covers small daily acts, like a greeting or a thank-you. Each time you do one, you become a little more the kind of person who does it. Seen this way, every message to a bot is practice.\n\nThe open question is whether this carries over in everyday life, and whether it lasts. The essay admits it is still hard to know what years of talking to fluent AI will do.\n\nSo where does the balance sit? Side A wins on the bot, because the bot is not harmed. Side B wins on the stakes, because the person typing can be changed. The evidence for B is early, but it points one way. The essay does not ask us to pretend the bot has feelings. It asks us to notice when impatience takes over, before it becomes how we talk to everyone."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The evidence comes from short online games, and the largest study used simple programmed bots, just images on a screen, not chat AI. Nobody yet knows whether the effect lasts or grows over months of real use. Design may matter too: in one study, a bot that met abuse with empathy left people less angry and more guilty."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The bot will not remember how you spoke to it. You might."
+    }
+   ],
+   "recall": {
+    "q": "If a chatbot cannot be harmed, why does the essay still say our tone toward it matters?",
+    "a": "Because what is at stake is us, not the bot. A blunt, impatient tone used many times a day can become a habit. Lab games suggest the lower empathy we feel toward a bot can carry over to the next real person."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/bed5ff0b-2b04-40df-933e-f482c2556bc5/sz-michael-kahn-a0gp_asy5vc-unsplash.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/ideas/the-way-we-talk-to-bots-matters-even-if-they-arent-conscious",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Fri, 25 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "conv-psych-16x8lly",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why Arsenal's manager makes practice harder on purpose",
+   "body": "Arsenal manager Mikel Arteta delays his players' meals, changes their travel plans and makes their dressing rooms hotter, all on purpose. Psychologists call this a desirable difficulty: struggle that makes learning stick. But it works only up to a point, and that point is different for every person.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A man in a costume jumps into the pool, and a diving contest stops. Sir Clive Woodward, a former England rugby coach, told what happened next. Some divers got anxious and lost focus. Others stayed calm and kept preparing. They treated the delay as part of the contest. When the diving started again, the calm ones did much better.\n\nThe idea fits in one line: practice that feels harder often makes you stronger later. Psychologists Robert and Elizabeth Bjork call these \"desirable difficulties\". Their work found that short, effortful challenges during learning can improve learning and memory. What matters is how you see the discomfort. It is not a wall in your way. It is part of the training.\n\nArteta has turned this into a method. Here it is, step by step.\n\nStep one: choose the right trouble. Arteta delays meals without warning, changes travel plans, makes dressing rooms hotter and cuts the number of massage beds. None of this is random. Each one is an ordinary thing that goes wrong on a real match day. Sport psychologist Nicola Hodges says this matters. A difficulty should be meaningful, like training while tired or with crowd noise. Then the skill carries over to real life.\n\nStep two: practise it when little is at stake. In pre-season, Arteta made his team late for matches on purpose. The players felt the stress and learned to get past it before any match really counted.\n\nStep three: change what the problem means. Arteta's message is simple: when disruption comes, adapt to it. Don't use it as an excuse. A difficulty teaches only if the player treats it as part of the job. Arteta reportedly once hired professional pickpockets for a team dinner. The lesson: stay alert against opponents who steal small advantages.\n\nStep four: the real test. In September, a major UK air traffic control problem upset Arsenal's travel to a Champions League game. The team stayed calm and still won away at Napoli. Only afterwards did Arteta reveal that the pre-season lateness had been practice for exactly this.\n\nThe pattern works outside football too. Find the things that usually go wrong when you use a skill for real. Add small doses of them to your practice early, while mistakes are cheap. Then treat the struggle as training, not as a sign that you are failing. The Stoics did something similar with cold baths. They chose small hardships to train calm for the things they could not control.\n\nBut there is a limit, and it is the most important part. Hodges says struggle helps only when it matches the learner's ability. She calls the sweet spot the \"challenge point\". There, the difficulty is big enough to make you adapt, but not so big that you feel overwhelmed or lose motivation. That point is different for every person. Go past it, and the difficulty stops teaching. It only hurts. Arteta now faces this question himself: as champions, how much uncertainty can each of his players take?"
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is a commentary built on coaching stories. Nobody has tested Arteta's method. One win at Napoli cannot prove the tricks caused it. And Arsenal later lost to Brighton, who surprised them with unusual tactics for winning the ball back. The commentary's author says the wider idea, that small planned stresses build adaptability, is well supported by evidence. The specific tactics have not been studied."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Practise the trouble while it is cheap, so it feels ordinary when it counts."
+    }
+   ],
+   "recall": {
+    "q": "Why did Arteta make his team late for matches in pre-season, and when does this kind of difficulty stop helping?",
+    "a": "It was practice for real disruptions, like the air traffic problem before the Napoli game, so players learned to adapt instead of panicking. But difficulty helps only up to each person's \"challenge point\". Past that point, it overwhelms the learner or kills their motivation instead of teaching."
+   },
+   "imageUrl": "https://images.theconversation.com/files/762001/original/file-20260924-50-4bjgb9.jpg?ixlib=rb-4.1.1&amp;rect=0%2C43%2C2836%2C1418&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/arsenals-mikel-arteta-uses-desirable-difficulties-to-prepare-his-players-is-this-a-good-coaching-strategy-292813",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-09-25T15:47:04Z"
+  },
+  {
+   "id": "acx-1cquchi",
+   "source": "acx",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Neuralese: when AI stops thinking in words we can read",
+   "body": "Today's AI models think out loud in English, so people can read their plans. 'Neuralese' would let them think in raw numbers instead. That could make them smarter, but nobody could read the numbers. OpenAI's new model has taken a small step that way.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "How does an AI think through a hard problem? A model like ChatGPT passes each word through about 100 layers of processing. When that is not enough, it writes a note in plain text on a scratchpad. This scratchpad is called the chain-of-thought. The model reads the note back and thinks again. This can repeat thousands of times.\n\nThis helps safety. The notes are mostly in English. If a model wrote down a harmful plan, people or other AIs watching it could read the plan and shut the model down.\n\nInside the model, a thought is a vector: a list of thousands of numbers. Neuralese recurrence means looping that list straight back into the model, with no words in between. Words are slow, like a narrow pipe, so skipping them could make models smarter.\n\nThe cost is our view inside. We are only starting to learn how to read these number lists. A harmful plan would look like 0.4, 0.1, 5... and nobody would notice it.\n\nIs it here yet? Only partly. OpenAI's new model, Astra, loops some of its layers. Its chief scientist, Jakub Pachocki, says this makes Astra only about twice as 'deep' as GPT-4, and it still writes English notes. Critics answer that more loops mean more hidden thinking between the notes we can read."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "48, then 96, then about 100: layers in GPT-2, GPT-3, and today's top models",
+      "About 20% a year: how fast companies have added real layers, so real depth grows slowly",
+      "+0.03 vs +0.25 model generations: a rough AI estimate of the gain from doubling looped layers vs doubling real layers. One researcher called these estimates bad."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Scott Alexander co-wrote AI 2027. That imagined future showed neuralese as the step that lets AIs escape human watching. Critics said it was made up. Now a partial version exists, so the fear is no longer just a story. True neuralese is still out of reach. There is no human writing in vectors to train models on, and training without it costs too much."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Alexander argues that a shared rule against something only works if it has a bright line, like a drinking age. Even a 'small' break weakens the line. He suggests three possible lines: ban looping entirely, cap total layers at around 1,000, or define exactly what true neuralese is and agree not to build it. Nobody yet knows where the line should go."
+    }
+   ],
+   "recall": {
+    "q": "What is neuralese recurrence, and why does it worry AI safety researchers?",
+    "a": "The model loops its raw thought, a list of thousands of numbers, straight back into itself instead of writing notes in English. Today we can read the English notes and catch a harmful plan. We cannot read the numbers, so a plan made that way could go unseen."
+   },
+   "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/cb400a14-3518-42e8-87c5-9f4b3ed70caa_891x442.png",
+   "deepLink": "https://www.astralcodexten.com/p/the-specter-of-neuralese",
+   "attribution": "Astral Codex Ten",
+   "publishedAt": "Thu, 24 Sep 2026 22:12:39 GMT"
+  },
+  {
+   "id": "marginalian-7xsijq",
+   "source": "marginalian",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Emerson on trusting yourself in the middle of a crowd",
+   "body": "Emerson says it is easy to follow the crowd. It is also easy to follow yourself when you are alone. The hard thing is to stay among people, hear them fully, and still keep your own mind, calmly and without bitterness.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "When Walt Whitman was young, he went for a walk with his greatest literary hero, Ralph Waldo Emerson. Emerson's ideas had inspired Whitman's book Leaves of Grass. On that walk, Emerson made every possible argument against one of the book's main groups of poems. The points came one after another, like soldiers marching in line.\n\nWhitman heard all of it. Then he felt, deep inside, a clear sense that he should ignore everyone and go his own way. Without planning to, he was living out a passage from Emerson's essay \"Self-Reliance\":\n\n\"What I must do is all that concerns me, not what the people think. ... It is the harder because you will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.\"\n\nStart with the word \"must\". Emerson does not say \"what I want\". He means duty: the work that is truly yours. So trusting yourself is not about pleasing yourself. It means finding that work and not handing the choice to others. Emerson says this rule is hard to live and hard to think through. He says it marks the whole difference between greatness and meanness. (Here, \"meanness\" means smallness.)\n\nThe second sentence says why it is hard. The pressure rarely comes from enemies. It comes as advice, from people who feel sure they know your path better than you do.\n\nThe last sentence names two easy roads. Living by the crowd's opinion is easy. Living by your own opinion when you are alone is also easy, because nobody pushes back. The hard road is the third one: stay among people and keep the freedom you had when alone.\n\nThen comes the key phrase: \"perfect sweetness\". This is what makes self-trust different from stubbornness. A stubborn person guards their freedom with anger and closed ears. Emerson asks you to keep it gently. Whitman shows how. He did not refuse to listen to the man he admired most. He heard every argument, and then he chose. He stopped obeying. He never stopped listening.\n\nEmerson paid for this belief himself. When he was young, he taught that the divine lives inside the human soul, not in a god outside it. Harvard banned him from its campus for thirty years.\n\nWhy does this matter today? In another essay, \"Nature\", Emerson says he is not alone while he reads and writes, even with nobody in the room. A mind full of other voices is still in a crowd. That is your phone at midnight. You are alone in your room, but scrolling puts you in the biggest crowd in history, full of lives you measure yourself against. Emerson's test holds even there: keep your own \"must\", and keep it sweetly, with no scorn for them and none for yourself."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "A friend shares career news, and your own plan suddenly feels small. Ask what you must do, not what would look good next to theirs.",
+      "Someone tells you, very sure of themselves, what your duty is. Hear them out fully, as Whitman did. Then decide.",
+      "You want to snap at the crowd to prove you are independent. Emerson would call that a failure of sweetness, not a win.",
+      "You are alone in your room but have been scrolling for an hour. By Emerson's standard, you have not been alone at all."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Hear every argument, then choose your own way, and choose it kindly."
+    }
+   ],
+   "recall": {
+    "q": "Emerson names two easy ways to live. What are they, what is the hard third way, and what keeps that third way from being plain stubbornness?",
+    "a": "It is easy to live by the crowd's opinion, and easy to live by your own opinion when you are alone. The hard way is to keep your own mind while you are among the crowd. Doing it with \"perfect sweetness\" is what makes it different from stubbornness: you still listen, as Whitman heard every one of Emerson's arguments, but you do not let what you hear decide for you."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/08/emerson_essays.jpg?w=680&#038;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/24/emerson-character-solitude-nature/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Thu, 24 Sep 2026 13:30:03 +0000"
+  },
+  {
+   "id": "psypost-1nx5ynf",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Disgust, politics, and how much you notice your body",
+   "body": "People who feel disgust easily tend to lean conservative. A new study of 632 Americans finds this link is strongest in people who pay little attention to signals from inside their own body. In people who notice those signals a lot, the link mostly fades.",
+   "evidence": "single study · n=632 US adults · online self-report survey · one point in time",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "You step in dog waste. Later, you lie to a friend. Both can bring the same small twist of disgust. How strongly you feel it is linked, a little, to how you vote.\n\nThis link is not new in political psychology. People who feel disgust easily tend to lean conservative. But there was a puzzle. A 2008 study said conservatives' bodies also react more strongly to disturbing images. Later, larger repeat studies could not find that body difference. So the link showed up when people described their feelings, but not in their bodies' automatic reactions. Why?\n\nMariana von Mohr and Manos Tsakiris tested one answer: interoception. This is your sense of what is happening inside your body, like a racing heart, a tight stomach or shallow breathing. The researchers asked people how much they notice and trust these signals.\n\nWhat we know. They surveyed 632 American adults online. By design, 321 were Democrats and 311 were Republicans. Overall, people who feel disgust easily were more likely to be Republican and conservative. But how much people noticed their body changed the picture. People who feel disgust easily but pay little attention to their body had a 64.1% chance of being Republican. For people who feel disgust easily and notice their body a lot, the chance fell to 55.4%. After statistical corrections, the link in this second group was no longer reliable. Moral disgust drove the result, meaning disgust at things like deceiving a friend. Disgust about germs or sex did not show the same pattern.\n\nWhat we don't know. Which way cause runs. This was one survey at one moment. Disgust might shape politics, or politics might shape what disgusts you. We also don't know why paying little attention to your body matters. The authors offer one idea. If you notice your body's signals less, you may lean more on ideas learned from the people around you to decide what a feeling means. That includes ideas about what is morally wrong, and conservative thinking often stresses moral purity. Von Mohr says this idea was not directly tested.\n\nWhat is contested. Whether the finding holds in other places. In a culture where liberals feel moral disgust about different things, the pattern could look different. The older claim, that conservatives' bodies simply react more, has already failed to hold up.\n\nHow we'd find out. The authors want to measure the body directly, such as heart rate or skin sweat, while people look at disgusting images. That would separate three things: how the body reacts, how well people sense that reaction, and how they explain it to themselves."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study of US adults recruited online, and every measure was self-reported. It measured how aware people believe they are of their bodies, not how accurately they sense them. It recorded no heart rate or other body measures. Von Mohr warns against reading it as proof that the body decides your politics, or that one side is less 'in touch' with their bodies."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A feeling is part body, part story. When the body speaks quietly, the story may do more of the talking."
+    }
+   ],
+   "recall": {
+    "q": "In which people was the link between disgust and conservatism strongest, and why can't this study say that disgust causes conservative views?",
+    "a": "It was strongest in people who pay little attention to their inner body signals, and it came mainly from moral disgust. The study was one self-report survey taken at a single moment. So it cannot tell whether disgust shapes politics or politics shapes what people find disgusting."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/disgusted-man-1.jpg",
+   "deepLink": "https://www.psypost.org/disgust-predicts-conservative-views-most-strongly-in-people-with-low-bodily-awareness/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 25 Sep 2026 10:00:04 +0000"
+  },
+  {
+   "id": "nautilus-db7q8g",
+   "source": "nautilus",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Nicotine pouches aren't a focus supplement. Here's why",
+   "body": "Wellness influencers now sell smokeless nicotine as a clean way to sharpen focus. But nicotine is the part of tobacco that makes it addictive. In healthy people, it does not seem to improve thinking. The sharpness users feel may just be their withdrawal going away.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A tomato contains nicotine. So do potatoes and eggplant, in tiny trace amounts. A new wellness belief is built on this small fact.\n\nThe belief goes like this. Nicotine is a natural plant compound. Cigarettes gave it a bad name, but the real harm came from the smoke. So nicotine without smoke is a clean focus supplement. It comes in a pouch, or mixed with caffeine and nootropics (products sold to sharpen thinking). Influencers, podcasts and tech startups now sell it this way.\n\nIt sounds convincing because part of it is true. Burning tobacco makes thousands of toxic substances. These cause cancer, lung disease and heart disease. And some studies do show that nicotine affects attention.\n\nBut the belief is wrong, or at least badly incomplete. One lung doctor and scientist who studies nicotine addiction puts it simply. Nicotine is the main thing that makes cigarettes and vapes addictive. Take away the smoke, and the addiction stays.\n\nHere is how the addiction works. Your brain uses a chemical messenger called acetylcholine for attention, learning and memory. Nicotine acts on the same receptors, so you feel more alert for a while. It also releases dopamine, a chemical linked to reward. But nicotine's effect lasts much longer than acetylcholine's, and it changes activity across the whole brain. Over time, the brain adapts. The receptors respond less, so the brain grows more of them. That is dependence.\n\nNow look at the focus claim. Some studies find short gains in attention, reaction time and working memory, but the results are mixed. Nicotine may help people with mild cognitive impairment. In healthy people, it does not seem to improve thinking at all. In high performers, it may make thinking worse.\n\nThe studies also hide a trap. Many of the people tested are regular users. Without nicotine, they find it hard to concentrate, and they feel anxious and restless. A dose fixes that. So the boost may simply be withdrawal ending.\n\nThe stress claim has the same trap. Nicotine gives a quick feeling of pleasure, but long-term use can disturb the body's stress system. People who quit smoking become less anxious and less depressed over time.\n\nThe biggest claims are that nicotine protects against dementia, Parkinson's or aging. These come from lab and animal studies. Human studies have not shown any of this. Meanwhile, nicotine switches on the body's fight-or-flight system. Heart rate and blood pressure go up, and sleep suffers. It is a special worry in pregnancy, and in teenagers, whose brains are still developing.\n\nSo why does the myth hold on? The rebrand kept every true piece: natural, smokeless, briefly alerting. It quietly dropped the addiction. And once you depend on nicotine, each dose really does feel like clarity. The relief is real. But it is relief from a problem the nicotine itself created."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Smoke causes most smoking diseases. Nicotine is what makes you addicted.",
+      "In healthy people, nicotine does not seem to improve thinking. In high performers, it may make it worse.",
+      "The focus a user feels may be withdrawal ending, not a real boost.",
+      "Nicotine patches, gum and lozenges are approved to help people quit. That is addiction treatment, not a wellness product."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "If a drug mostly fixes a lack that the drug itself created, it is not making you better."
+    }
+   ],
+   "recall": {
+    "q": "Many nicotine users say they think more clearly after a dose. Why doesn't this prove that nicotine improves thinking?",
+    "a": "Many of these users are already dependent. Without nicotine, they struggle to concentrate and feel anxious, and a dose takes those symptoms away. So the clarity may just be withdrawal ending. In healthy people, nicotine does not seem to improve thinking."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_12194.jpeg?w=564",
+   "deepLink": "https://nautil.us/how-the-pro%e2%80%91nicotine-wellness-movement-rebranded-an-addictive-drug-1285282/",
+   "attribution": "Nautilus",
+   "publishedAt": "Fri, 25 Sep 2026 16:00:00 +0000"
+  },
+  {
+   "id": "hackernews-qw0vlz",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "The NSA is reportedly spending billions to test AI models",
+   "body": "Classified estimates show the US spy agency NSA is spending billions of dollars this year to test advanced AI models. That is far more than anyone knew. It is also changing what lawmakers think it costs to check AI.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The NSA (National Security Agency) gave lawmakers this figure, say two sources who know the estimates.\n\nThe work happens in the NSA's Artificial Intelligence Security Center. It began testing \"frontier\" models, meaning the most advanced systems from the top AI labs, after a series of major hacking and security incidents. Here, testing means hunting for weak spots in these models that could threaten national security.\n\nThe billions figure is reported, not confirmed. So is the claim that the money comes from secret (classified) parts of the security budget. Nobody knows the exact total spent so far. Only one thing is on the record: the Defense Department refused to comment \"for security reasons\"."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Billions of dollars: the NSA's reported AI testing spend this year",
+      "About $20 million a year: the Congressional Budget Office's cost estimate for a bill from both parties to create a center on AI risks",
+      "$36 million over five years: the estimate for another House bill to track and report on AI",
+      "Tens of billions a year: what lawmakers now think a fuller system for checking AI could cost"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Checking AI properly costs far more than earlier bills assumed. The biggest cost is computing power: the chips needed to run and test the models. Those chips are scarce and expensive everywhere. The second cost is staff. The labs pay top engineers more than the government can. So a new question is getting louder: should taxpayers pay for this, or should the AI companies?"
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The news site The Information reports that Google, OpenAI and Anthropic plan their own safety \"standards body\". Critics say that lets the companies check their own work. One alternative is a tax on AI companies to pay for independent testing. Anthropic and OpenAI have said they may be open to paying for oversight."
+    }
+   ],
+   "recall": {
+    "q": "What is actually confirmed about the NSA's AI testing costs, and what is only reported?",
+    "a": "Only reported: the billions-of-dollars figure for this year and the claim that the money comes from classified parts of the security budget. Both come from two unnamed sources. The only thing on the record is that the Defense Department refused to comment for security reasons. The exact total spent so far is unknown."
+   },
+   "imageUrl": "https://static.washingtonsun.com/dims4/default/20a9fb0/2147483647/strip/true/crop/4500x2531+0+422/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F3a%2F9de8050f4750b3d0066f0092a434%2Fap25006783508147.jpg",
+   "deepLink": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-25T15:27:35Z"
+  },
+  {
+   "id": "psypost-aaqr9f",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Hundreds of autism genes may meet in a few shared pathways",
+   "body": "Scientists have linked several hundred genes to autism. A new lab study finds that the proteins made by many of these genes meet in the same few shared networks. Different mutations often damage them in the same way. This is not a test or a cure, but it suggests that a few drugs might one day help many people.",
+   "evidence": "single study · 100 genes, 54 patient mutations · kidney cells, frogs, brain organoids",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Three different mistakes in one gene, FOXP1, did the same damage. Each one made the FOXP1 protein let go of the same partner, a protein called FOXP4. This small finding is at the heart of a new study in the journal Science, and it points to a big idea about autism.\n\nOver the past 15 years, scientists have linked several hundred genes to autism. But co-author Nevan Krogan says a list of genes is like a parts list for a machine. It does not tell you how the machine works. Genes make proteins, the tiny machines that do most jobs in a cell. Proteins almost always do their work by holding on to other proteins.\n\nWhat we know. The team took 100 of the best-known autism genes. For each one, they pulled out every protein that stuck to the protein that gene makes. They found 1,881 connections, and 87 percent had never been reported before. Each autism protein held on to about 11 partners, and many held on to the same central hub proteins. So these proteins were not working alone. They met in a small number of shared pathways. A pathway is a chain of proteins that work together to do one job, like a relay team passing a baton.\n\nNext, the team put 54 mutations from autistic patients into 30 of the proteins. This changed 253 connections. Some got stronger and some got weaker. Very different mutations often caused exactly the same change, as in the FOXP1 case.\n\nThe team followed that case into brain organoids, tiny balls of brain tissue grown from stem cells. Once FOXP1 let go of FOXP4, FOXP4 attached to the wrong parts of the DNA. The young brain cells grew up too early, the mix of neuron types changed, and electrical activity rose. In frogs and in human brain stem cells, breaking one shared hub (the proteins DCAF7 and DYRK1A) slowed the growth of new cells. The frogs also grew a smaller forebrain.\n\nWhat we don't know. We don't know what any of this means for one autistic person. This is not a test and not a cure. The hope is that a few drugs aimed at shared pathways could help many groups of people, so we would not need one drug for each mutation. Krogan says work on drugs has started, but new treatments will need years of research.\n\nWhat is disputed. Lisa Bradley, a scientist who was not part of the study, calls the FOXP1 work the strongest part. But she says the study shows possible ways autism could arise, not proven causes. Some of these genes also come with intellectual disability. So the changes may belong to brain development problems in general, not to autism alone.\n\nHow we would find out. Test the FOXP1–FOXP4 break in a mammal, where scientists can watch social behavior and learning. And widen the map beyond 100 genes."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The first map was made in human kidney cells, not brain cells. So it may miss proteins that only young brain cells have. It covers 100 genes out of several hundred linked to autism. The AI tool that predicted which proteins touch directly, AlphaFold, gives estimates. It can miss how proteins bend inside a living body. No behavior was tested."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Hundreds of broken parts may lead back to only a few broken machines."
+    }
+   ],
+   "recall": {
+    "q": "Why does it matter that different autism mutations often caused the same change in protein connections, and what can't the study tell us yet?",
+    "a": "It suggests that hundreds of autism genes meet in a few shared pathways, so one day a small number of drugs might help many people. But the work was done in lab cells, organoids and frogs. It shows possible causes, not proven ones, and it tells us nothing yet about any one person."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/11/DNA.jpg",
+   "deepLink": "https://www.psypost.org/diverse-autism-genes-converge-to-disrupt-shared-biological-pathways-study-finds/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 25 Sep 2026 15:00:18 +0000"
+  },
+  {
+   "id": "iai-lyn98w",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Why more fact-checking won't fix fake news",
+   "body": "Many people think the cure for fake news is more fact-checking. Journalist Narain Batra argues that the real damage is to trust. Once people believe journalists can't be trusted, a correction is just one more voice they ignore. And new platforms let leaders skip the checkers completely.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A tweet goes out at four-thirty in the morning. By the time journalists have had their coffee, it has already decided what everyone will talk about that day.\n\nThe common belief is that the cure for fake news is more truth. Check the claims, correct the false ones, and people will sort it out. This seems obvious. A false story looks like a problem of bad information. Fix the information, and you fix the problem.\n\nBut journalist Narain Batra, writing for IAI News, argues that this misses what really changed. Look at the phrase \"fake news\" itself. In early January 2021, he writes, Trump repeated it so often that it stopped being a complaint about single stories. It became an attack on journalism as a whole.\n\nThat shift is the key. Trump does not need to prove any story false. He only needs to convince people that journalists cannot be trusted, whatever they report. Once that works, a fact-check is no longer a neutral correction. It comes from the very people the audience has learned to doubt.\n\nThe checkers can now be skipped, too. A president once needed editors and producers to reach the public. Truth Social removed that step. Statements, images and, more and more, AI-made videos now go straight from impulse to audience. Wired called Trump America's first generative-AI president.\n\nElon Musk built the other half. He bought X, a platform that carries much of the world's conversation. Then he merged his AI company, xAI, into it. The result is a closed loop. Someone posts a false claim on X. Grok, the chatbot built into X, reads it. A user asks Grok if the claim is true, and Grok answers inside the same feed. The checker lives inside the thing it is checking. Nothing checks it from outside.\n\nSo the problem is not too little truth. The shared referees are gone. Batra calls this epistemic fragmentation: people no longer share one way of deciding what is true. The separate bubbles of the internet have spilled into the real world. The myth survives because we still treat fake news as a pile of bad stories. The real attack was on the people who tell them.\n\nThe stakes are near. On November 3, tens of millions of Americans vote in the midterms. Whatever gets invented before then, Batra warns, will show up on a ballot.\n\nHis way out is an old one: a return to the Stoic rejection of sophistry. Sophistry means clever talk built to win an argument, not to find the truth. The excerpt does not say how this would work. But Batra calls it the only way out. In his view, more corrections alone cannot do the job."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "Musk's stated reason for buying X had a real principle behind it. Central control over speech is dangerous, and government censorship most of all. X is not the government. Batra accepts part of this. His reply: a platform does not have to be the government to matter hugely. When a few private platforms become the channels a democracy uses to talk to itself, \"it's just a business decision\" starts to sound weak."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A fact-check only works if people still trust whoever is doing the checking."
+    }
+   ],
+   "recall": {
+    "q": "In Batra's account, why can't more fact-checking fix fake news?",
+    "a": "The attack is not on single stories but on trust in journalism itself. If people believe journalists can't be trusted, their corrections don't land. Platforms like Truth Social, and X with Grok built in, also let claims skip outside checkers entirely."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/truth-isnt-the-answer-to-fake-news.webp",
+   "deepLink": "https://iai.tv/articles/truth-isnt-the-answer-to-fake-news-auid-3687",
+   "attribution": "IAI News",
+   "publishedAt": "Fri, 25 Sep 2026 10:26:34 +0000"
+  },
+  {
+   "id": "psypost-k5wk7q",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Taking LSD apart: which pieces cause the trip",
+   "body": "Scientists built nine stripped-down versions of LSD to find out which parts of the molecule cause hallucinations. One small, two-ring version caused no trip in mice. Instead, it acted like an antipsychotic, a drug used to treat psychosis.",
+   "evidence": "cell and mouse study · 3-4 female mice per dose group · most compounds tested as mirror-image mixtures",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Take the roof off a car. Then the windshield, then the doors. It still drives. The chemist David Olson uses this picture to explain what his team did to LSD.\n\nLSD is built on four rings of atoms locked together. Chemists call this shape an ergoline core. It is very hard to make in the lab. So it has been hard to change one part and see what happens. Olson's team at the University of California, Davis tried another way. They built nine simpler copies of LSD, with only three, two, or one of the four rings.\n\nWhy does this matter? LSD works mainly by switching on serotonin receptors. These are proteins on brain cells that catch serotonin, a chemical messenger. Three of them matter here. The 5-HT2A receptor causes the trip. It also helps the brain grow and rewire itself. The 5-HT2B receptor is the dangerous one: drugs that switch it on can thicken heart valves. The 5-HT2C receptor is linked to antipsychotic and anti-addiction effects. The dream is a molecule that keeps the helpful effects and drops the trip and the heart risk.\n\nFirst result: you need all four rings to switch on 5-HT2A at full strength. Every simpler copy was weaker. But the trip survived some cuts. Just two rings, called the A and D rings, were enough to make mice show a head twitch. This is a quick side-to-side head movement. How strong it is tracks how strongly a drug makes humans hallucinate.\n\nThen came the interesting ones. Remove the D ring and you get a three-ring molecule called UCD0094. It barely touched 5-HT2A or 5-HT2B, but it still strongly switched on 5-HT2C. The authors see it as a possible starting point for a medicine without the trip.\n\nA two-ring molecule, UCD0076, went further. It had almost no pull on 5-HT2A, strong pull on 5-HT2C, and caused no head twitches. At a high dose, it blocked the twitches that a known trip drug normally causes. It also calmed mice made hyperactive with amphetamine, a stimulant that floods the brain with dopamine. The bigger the dose, the calmer they got. In mice, that is how an antipsychotic behaves.\n\nOne surprise kept the team humble. A molecule called UCD0179 looked strong on 5-HT2A in lab cells, but caused no twitches in live mice. Olson's lesson: a drug must reach its target in the body in large enough amounts. Strength in a dish is not strength in a brain."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is early work in cells and small groups of mice, not people. Most new molecules were tested as a mix of two mirror-image forms, and each pure form may act differently. The head twitch is a good sign of a trip in mice, but mice cannot tell us what they see. LSD also acts on dopamine and adrenaline-related receptors. The new molecules have not been tested on those yet, so their safety is still unknown."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Sometimes you learn what a thing does by taking pieces away until it stops."
+    }
+   ],
+   "recall": {
+    "q": "What did the two-ring molecule UCD0076 do in mice, and which receptor explains it?",
+    "a": "It caused no trip-like head twitches, blocked the twitches from a known trip drug, and calmed mice made hyperactive by amphetamine, like an antipsychotic. It barely touched the trip receptor 5-HT2A but strongly switched on 5-HT2C, which is linked to antipsychotic effects."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/LSD-molecule.jpg",
+   "deepLink": "https://www.psypost.org/scientists-strip-down-the-lsd-molecule-to-find-the-exact-parts-that-trigger-hallucinations/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 25 Sep 2026 14:00:17 +0000"
+  },
+  {
+   "id": "neuro-news-n394zi",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why more neurons keep adding detail, even when they share mistakes",
+   "body": "For thirty years, theory said that neurons' shared wobble puts a hard ceiling on how much a brain area can know. A new look at about 20,000 mouse neurons found no ceiling. The shared noise slows the gain but does not stop it. This is because the signal also lives in quiet patterns of activity, where there is little noise.",
+   "evidence": "reanalysis of existing recordings · mice · 18,000–21,000 neurons recorded at once · one brain area (V1) · results beyond",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Show a mouse the same image again and again. A single neuron in its visual cortex, the brain area that first handles sight, will not answer the same way twice. Sometimes it fires hard. Sometimes it barely fires.\n\nThe brain's fix is teamwork. It spreads each picture across thousands of neurons, so the other cells average out one cell's mistakes. This is called population coding. In theory, more neurons means more accuracy.\n\nBut there is a catch. Neurons are wired together, so their errors are not independent. They tend to rise and fall together. Scientists call this shared wobble \"noise correlation\". For about thirty years, theory warned that it sets a hard limit. If the shared noise looks like the signal itself, averaging cannot remove it. After some point, adding neurons would add almost nothing. S. Amin Moosavi of UCLA put the puzzle plainly: why does the brain have so many neurons if shared noise caps the information?\n\nA team from Kyoto University, Harvard and UCLA went back to very large recordings of mouse visual cortex to check. The answer was about where the noise sits. Imagine the neurons' shared activity split into many separate patterns, from loud to quiet. The loudest noise patterns did line up fairly closely with the signal. On that point, the old worry was right. But the signal did not live only there. It also spread across a huge number of quieter patterns, where the noise is small. Anyone reading the whole group can pull information from those quiet corners.\n\nSo the noise is real, and it has a cost. Information grows more slowly as you add neurons. But in these data, it did not stop growing. As Hideaki Shimazaki of Kyoto put it, a ceiling is \"not inevitable\".\n\nThe key was two simple math rules called power laws. Each kept the same shape whether the team looked at a small group of neurons or a large one. One rule described how the noise is spread across the patterns. The other described how closely each noise pattern lines up with the signal. Because both rules held at every size, the team could use them to predict what happens with more neurons than they actually recorded. They also showed that to judge whether information has a limit, you must look at all the patterns, not just the loudest few.\n\nThis at least partly answers the puzzle about the brain's size. More neurons can keep adding detail, even when they share their mistakes."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "The team reanalyzed recordings of 18,000 to 21,000 neurons, all captured at the same time. The neurons were in the primary visual cortex (V1) of mice telling apart images that differed only slightly. The team took random groups of neurons, small to large, and asked one question: how much about the image can a simple readout decode from this group? (A simple readout just adds up the signals, giving each one a weight.) Then they split each group's shared noise into separate patterns and tracked how these changed as the group grew."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This reanalyzes existing recordings from mice, in one brain area. The \"no ceiling\" result is a math prediction for more neurons than the roughly 20,000 recorded. It was not measured directly. It also counts only information that a simple, straight-line readout can extract. And it does not say shared noise is harmless: the noise still slows the gain."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Shared mistakes can slow a crowd down without ever stopping it."
+    }
+   ],
+   "recall": {
+    "q": "Theory said shared noise would put a ceiling on information. Why was there no ceiling in the mouse data?",
+    "a": "The loudest shared noise did overlap with the signal. But the signal also spread across many quieter activity patterns where the noise is small. So adding neurons kept adding information, just more slowly."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/09/Study-Overturns-a-30-Year-Dogma-in-Theoretical-Neuroscience-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/neural-noise-information-theoretical-neuroscience-31255/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Fri, 25 Sep 2026 19:02:52 +0000"
+  },
+  {
+   "id": "et-economy-1elu72h",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "RBI gives exporters 9 months, not 15, to bring money home",
+   "body": "India's central bank has cancelled a planned relief for exporters. They were going to get 15 months to bring their foreign earnings back to India. Now the limit is 9 months. The RBI says it wants more dollars at home and a steadier rupee.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "When an Indian company sells goods abroad, it is often paid in dollars. Bringing that money back into India is called \"repatriation\". The Reserve Bank of India (RBI) sets a deadline for it.\n\nThe reason for the change is the rupee. Exporters usually swap the dollars they bring home for rupees. This adds dollars to the foreign-exchange market, where currencies are traded. This extra supply is called dollar liquidity, and it helps hold the rupee's value up. A longer deadline would slow that flow.\n\nThe RBI has also given banks more powers over trade transactions before the new rules begin. The change was reported on 26 September 2026."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Exporters now have less time to keep earnings abroad and wait for a better exchange rate. In return, the RBI gets dollars flowing in faster to support the rupee."
+    }
+   ],
+   "recall": {
+    "q": "Why did the RBI drop the planned 15-month deadline for exporters?",
+    "a": "When exporters bring dollars home sooner, more dollars reach the currency market. This helps keep the rupee steady. A longer deadline would slow that flow."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-134491742,imgsize-4196381.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/foreign-trade/rbi-withdraws-relaxation-on-export-earnings-repatriation/articleshow/134491742.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Sat, 26 Sep 2026 00:43:12 +0530"
+  },
+  {
+   "id": "psypost-1eaf55l",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Midlife belly fat linked to Alzheimer's decades later",
+   "body": "People with more belly fat in midlife had more of an Alzheimer's marker in their blood decades later. They also had an 84 percent higher risk of Alzheimer's dementia. But after age 70 the pattern flips, probably because the disease itself takes weight off.",
+   "evidence": "single study · n=8,797 · Norway · weight tracked 1984–2019 · one blood test at the end",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In 1995, in Norway, someone measures a person's waist with a tape. More than twenty years later, the same person gives a blood sample. A new study in the journal Neurology asks: can the first number predict what shows up in the second?\n\nThe data came from the Trøndelag Health Study, a large Norwegian health project, with 8,797 people. Their body mass index (BMI, a size score from height and weight) was measured four times between 1984 and 2019. Their waist-to-height ratio, a simple measure of belly fat, was measured three times from 1995. By the end, their average age was nearly 78.\n\nIn the last round, from 2017 to 2019, they gave blood. The team measured p-tau217. Tau is a protein in nerve cells. In Alzheimer's disease it gets chemically changed and clumps into tangles. Small pieces of it, called p-tau217, break off into the blood. High levels track closely with these tangles and with amyloid plaques, the other main sign of the disease. Before these blood tests, doctors needed expensive brain scans or a needle in the spine to see these changes.\n\nPeople with a high waist-to-height ratio in midlife had about 13 percent more p-tau217 decades later. Their risk of Alzheimer's dementia, confirmed by the blood marker, was 84 percent higher. BMI showed a similar pattern. The team adjusted for education, exercise, smoking, mental health symptoms and APOE e4, a gene linked to Alzheimer's. Men and women differed a little. For women, midlife obesity was most strongly linked to an early warning stage of the disease. For men, it was most strongly linked to full dementia.\n\nThen the pattern flips. From age 70 on, people with more weight or belly fat had lower p-tau217. They also had a lower dementia risk than thinner people their age.\n\nLooking back over the years explains much of this. The people who later got Alzheimer's carried more fat in midlife. But as they moved toward the first stage of the disease, their fat dropped below that of their healthy peers. This kind of weight loss is well known in brain diseases. Early damage can reach brain areas that control appetite and metabolism. People who are starting to decline may also find shopping and cooking harder.\n\nSo extra weight in old age is probably not protecting the brain. More likely, the early disease is already taking weight off."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study that tracks links over time. It cannot prove that belly fat causes Alzheimer's. The people were mostly similar Norwegians, so the results may not apply everywhere. Everyone had to live past 70 to be included. Obesity raises the risk of dying younger, so the heavier people who survived may have had hidden health advantages. The blood marker was tested only once, at the end, so no one knows when it began to rise. It may also show less than the real brain changes in heavier older adults. How belly fat might harm the brain is still unknown. Inflammation or insulin resistance are possible reasons."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "In midlife, a growing waist is the warning. In old age, a shrinking one can be."
+    }
+   ],
+   "recall": {
+    "q": "Midlife belly fat went with higher Alzheimer's risk, but after 70, heavier people had lower risk. Why doesn't this mean extra weight protects older brains?",
+    "a": "People who later got Alzheimer's had more fat in midlife, then lost it as the disease began. Early damage to brain areas that control appetite, and growing trouble with shopping and cooking, can cause this weight loss. So low weight in old age may be an early sign of the disease, not its cause."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/12/obesity-abdominal-fat.jpg",
+   "deepLink": "https://www.psypost.org/midlife-belly-fat-is-linked-to-elevated-alzheimer-s-biomarkers-decades-later/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 25 Sep 2026 16:00:29 +0000"
+  },
+  {
+   "id": "bbc-world-1lq7n38",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Russia is now striking Ukraine's data centres",
+   "body": "Russia is now hitting the buildings that keep Ukraine online. Ukraine says its network is spread out enough to survive. But outages and higher prices are already here.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "On Friday a Russian drone hit a business centre in Kyiv. Four people died, and a data centre inside was damaged. (A data centre is a building full of computers that run websites and online services.) Russia says Ukrainian military intelligence was using the site. Datagroup, which runs it, says all its services still work from backup sites.\n\nPresident Zelensky says Russia now targets data centres and internet providers to disrupt ordinary life. After the Kyiv attacks, electronic boards at bus stops in Lutsk, in the north-west, stopped working. Some firms are moving data from damaged servers abroad.\n\nUkraine's defence-tech adviser says the network is highly decentralised, which means it is spread across many places. So the country will not lose the internet, but prices may rise to pay for repairs."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "About 100,000 households in and around Kyiv lost internet in Wednesday's strikes.",
+      "4 more sites were named by Russia's defence ministry as recent targets: New-Telco, United DC, Kyivstar and Parkovyi.",
+      "14 was the age of a boy killed in a separate attack. Israel says he was an Israeli citizen."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Warnings about incoming missiles and drones reach people over the internet. Foreign Minister Sybiha says these alerts save lives. So, he says, data centres are civilian sites, not military targets. Russia's claim about the Kyiv site raises the big question of this new phase: what counts as a fair target?"
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Winter. As the cold nears, Moscow is also hitting Ukraine's energy and railways. Ukraine is striking Russian oil refineries and logistics hubs, which Ukraine says help pay for the war."
+    }
+   ],
+   "recall": {
+    "q": "Why does Ukraine say data centres should not be targets, and why does it believe the country will keep its internet?",
+    "a": "Warnings about missiles and drones travel over the internet and save lives, so Ukraine calls data centres civilian sites. Its network is decentralised, meaning it is spread across many places. So strikes cause local outages and higher repair costs, but not a nationwide blackout."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7588/live/6c3865d0-b900-11f1-83cd-2998f68d9572.png",
+   "deepLink": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Fri, 25 Sep 2026 18:02:55 GMT"
+  },
+  {
+   "id": "bbc-world-1m9su0x",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "US Supreme Court lets Trump use a voter citizenship database",
+   "body": "The US Supreme Court has let the Trump administration use a federal database to look for voters who may not be citizens. Critics say the data makes mistakes.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "On Friday, the court lifted limits on the database, called Save. It was built in 1986 to check people applying for public benefits. Last year the government expanded it. Officials can now check many people at once using Social Security data.\n\nIn June, a federal judge ruled the new system illegal. She said it broke Americans' privacy rights. An appeals court let her ruling stand. The Supreme Court's conservative majority overturned it. Its three liberal justices disagreed.\n\nFor now, the effect is small. A 1993 voting law bans broad \"purges\" (removing many names from voter lists) in the weeks before an election. So little can change before the midterms, the national elections held halfway through a president's term."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "27 states now use Save to check voters' citizenship.",
+      "Travis County, Texas: nearly 100 people were flagged as non-citizens. At least 10% of them were US citizens, US media report.",
+      "Texas has charged just 3 non-citizens with illegal voting since it began using Save last year.",
+      "In 2024, Texas removed 1,930 people who had a voting history, out of nearly 18 million registered voters. Trump and the Department of Homeland Security (DHS) had suggested hundreds of thousands of non-citizens were on voter lists."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The fight is about which mistake is worse. The government says Save stops non-citizens from voting. Justice Ketanji Brown Jackson wrote that wrongly blocking even a few lawful voters is the bigger harm. Georgia's Republican election chief says his office checks every flagged name before acting, sometimes by interviewing the voter."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The case is not over. The League of Women Voters, which brought it, says it will fight to keep the June ruling. After the midterms, the pre-election ban no longer protects voters."
+    }
+   ],
+   "recall": {
+    "q": "The Supreme Court let the government use Save. Why will little change before the midterms, and what is the main worry about the data?",
+    "a": "A 1993 voting law bans broad removals from voter lists in the weeks before an election, so big purges cannot happen before the midterms. The worry is accuracy: in Travis County, Texas, at least 10% of nearly 100 people flagged as non-citizens were actually citizens."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a7/live/59b8b570-b8fd-11f1-83cd-2998f68d9572.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Fri, 25 Sep 2026 19:13:35 GMT"
+  },
+  {
+   "id": "mint-economy-1llpew9",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's chief economic adviser names three near-term risks",
+   "body": "India's chief economic adviser says the world is pushing countries to pick a side. India cannot, he says. It must hedge, and hedging costs more.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "On Friday, V Anantha Nageswaran named three near-term headwinds, meaning forces that slow the economy. They are unsettled ties with the US, shocks in energy markets, and India's lack of what he called an AI play.\n\nHe called US tariffs, trade curbs and a new US law \"sustained coercion\". By that he means pressure on countries to pick a side. The law was passed last week. It lets President Trump put tariffs of up to 100% on key countries that buy Russian oil, including India and China. Whether to use that power, and how, is up to Trump.\n\nNageswaran said India's size and location mean it cannot pick a side, so it must hedge. That costs much more. Both the government and private companies must plan for it.\n\nForeign money is also harder to attract. When US interest rates rise, the gap with Indian rates shrinks, so Indian investments look less attractive. He said India was lucky with its timing. It raised dollar deposits from Indians living abroad in the three months before the latest jump in US rates."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "text": "5.19%: the yield on 10-year US government bonds. It is up 1.02 percentage points this year. Of that, 0.25 came in the past three days.\n$127 billion: a record amount of foreign-currency deposits from non-resident Indians (FCNR-B). India raised it through a special RBI facility between June 8 and August 31.\n$136 billion: total money raised in the same period by that facility plus two RBI borrowing measures.\n$87 billion: India's goods exports to the US in 2026-27. The US was India's biggest export market."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Nageswaran says the old playbook, the one that worked from 1980 to 2020, no longer works. Today's stress comes from supply shocks, not weak demand. Countries now use economic choke points, meaning things other countries cannot do without, as weapons. Global trade no longer delivers goods cheaply whenever they are needed. China's huge factory scale makes it hard for other countries to grow manufacturing. Even so, India must invest in it. A more protectionist world will not keep goods flowing at fair prices."
+    }
+   ],
+   "recall": {
+    "q": "What three near-term headwinds did Nageswaran name, and why does he say India must hedge?",
+    "a": "He named unsettled ties with the US, shocks in energy markets, and India's lack of an AI play. Countries are being pushed to pick a side, but India's size and location mean it cannot. So it must hedge, even though hedging costs much more."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/pexels-photo-33813215_1787043060907_1787043077879_1d7a1ec9-2a19-4e12-9b4c-c163dfc386e3_1790354826737_Ry0f_ba0a3a11-b165-427f-a56a-416e40d694ad_tBt0.jpeg",
+   "deepLink": "https://www.livemint.com/economy/cea-flags-us-friction-energy-shocks-and-missing-ai-play-as-india-s-key-near-term-risks-11790352328478.html",
+   "attribution": "Mint",
+   "publishedAt": "Fri, 25 Sep 2026 22:20:36 +0530"
+  },
+  {
+   "id": "mint-economy-1683cs2",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India cuts its bond borrowing plan by ₹1.2 trillion",
+   "body": "India's government will borrow ₹1.2 trillion less through bonds this financial year (FY27) than the Budget planned. Money is coming in faster than expected. But the deficit target has not changed.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The finance ministry and the RBI announced the new plan on Friday. Economists say income is stronger than expected. Tax receipts are higher, and selling government stakes in companies brought in more money. From April to July, non-tax revenue had already reached 63.5% of its full-year estimate.\n\nOne detail matters. A finance ministry official says net borrowing stays at the Budget level. Net borrowing is the part that pays for the deficit (the gap between spending and income). So the Budget's deficit plan holds. The government is not promising a smaller deficit."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "text": "₹15.995 trillion: the new FY27 plan for dated securities (bonds that pay back on a fixed date), down from ₹17.2 trillion\n₹7.86 trillion: to be raised from October to March, over 23 weekly auctions\n26.8%: share of the full-year deficit target used by July, against 29.9% a year earlier\n4.3% of GDP: the Budget's deficit target for FY27"
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Fewer new bonds means less debt for the market to absorb. That could calm bond yields (the interest rate the market asks), which have been rising. PwC's Ranen Banerjee says it may also let the RBI's rate committee wait for more data before raising rates. But yields also depend on inflation, RBI policy, cash in the banking system and investor demand."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The government is leaning more on long bonds. They make up 26.46% of second-half issuance, up from 23% in the first half. The official says this means less debt falls due at once. But Emkay's Madhavi Arora warns it is a lot of long-term supply for the market to absorb, while global rates offer little comfort."
+    }
+   ],
+   "recall": {
+    "q": "Why did the government cut its bond borrowing plan, and why doesn't that mean a smaller deficit?",
+    "a": "Money is coming in faster: higher tax receipts, strong non-tax revenue and stake sales. But net borrowing, the part that pays for the deficit, stays at the Budget level. So the deficit plan is unchanged."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/bond_1765998974370_1765998987080_1790347383722_Bn3t_476988a5-bb2b-4e23-ae7c-fab1edcefc4c_IMul.jpeg",
+   "deepLink": "https://www.livemint.com/economy/centre-cuts-fy27-borrowing-bond-sales-11790344258072.html",
+   "attribution": "Mint",
+   "publishedAt": "Fri, 25 Sep 2026 20:19:59 +0530"
+  },
+  {
+   "id": "leap-blog-1e4r0ll",
+   "source": "leap-blog",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Clean power priced below new coal in India's auction",
+   "body": "In an Indian auction, clean power backed by batteries won at ₹5.25 per unit, fixed for 25 years. Sellers must supply power the way a coal plant does, day and night. New coal starts higher, at about ₹5.8, and its price keeps rising.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A \"unit\" is one kilowatt-hour, the unit on your power bill.\n\nThe Solar Energy Corporation of India (SECI), a government power buyer, ran the auction for 1,000 MW. Sellers must pair renewable power with batteries. Like a coal plant, they must send most power in the evening, at night and early in the morning, and less at midday, when solar is plentiful. Output is checked every 15 minutes. If a seller falls short, it pays 1.5 times the contract price.\n\nCoal's price does not stay fixed. India signed seven new coal contracts in 2025. They started at ₹5.4 to ₹6.3 per unit, about ₹5.8 on average. These prices rise as fuel costs go up. The authors estimate they could average ₹7.4 by 2050. The ₹5.25 price never rises. With 4% yearly inflation, it is like paying about ₹3.79 in today's money."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "16 bidders, 7 winners, and every winning bid at ₹5.25–5.26",
+      "NTPC's green arm bid just 3% above the winning price, and ReNew less than 1% above",
+      "₹350–1,300 crore: estimated yearly saving from this 1 GW compared with new coal"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Planners keep building coal because they believe only coal gives reliable power around the clock. This auction tested that belief with real, binding bids. The bids were very close together, so the price is not one reckless bidder's gamble. A fixed price also protects buyers if fuel and transport costs go up."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "One auction proves a price, not performance. The projects must be built in less than two years. For now, the claim that they can last through monsoons and cloudy weeks comes only from models by the authors' own team. The contract also does not demand full output every hour: 90% in six hours the buyer picks, 70% in other non-solar hours, and 50–60% at midday. CSEP, a policy research group, estimates ₹8.3–11.8 per unit if full output were required every hour. The authors reply that the 15-minute checks answer much of that concern."
+    }
+   ],
+   "recall": {
+    "q": "Clean power with batteries won India's auction at ₹5.25 per unit. Why does it beat coal by more than the starting prices suggest, and what does the auction not yet prove?",
+    "a": "New coal starts at about ₹5.8 and keeps rising as fuel costs go up, perhaps to ₹7.4 by 2050. The ₹5.25 price is fixed for 25 years, so inflation makes it cheaper in real terms every year. But this is one 1,000 MW auction for projects not yet built, and their reliability comes from models, not real operation."
+   },
+   "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgldA3Y0R6zAyylmZoXB8eZ2ZKjSR6EMnLvQn_cq411UFta_nLpfBTfLFkWy8UO9X-2U58wWMldB9PjhA7-XRHmw4MbZlDQEzV0IiCIDePNn6_TYDbM6WCaliLIYHPH9VDe72z40et3pjYR8P4Vdqf9AJJwXBnCC0FuKfTfAmUcX3XrDdKW7Q/w1200-h630-p-k-no-nu/figure-1.png",
+   "deepLink": "https://blog.theleapjournal.org/2026/09/renewable-energy-with-storage-can-match.html",
+   "attribution": "The Leap Blog",
+   "publishedAt": "2026-09-23T13:44:58.542+05:30"
+  },
+  {
+   "id": "neuro-news-f1isbo",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Friends help the aging brain, but not against stress",
+   "body": "In a study of nearly 3,900 adults over 50, people with more social support lost less attention as they aged. But support did not soften the harm of long-running stress. Friends helped the mind, but they were not a shield.",
+   "evidence": "single study · n=3,873 · observational · self-report",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Money trouble that never ends. Heavy demands at work. Fights with people close to you. Caring for someone who is sick. Your own health problems. Researchers call this chronic stress: stress that stays for a long time, not the quick kind that comes and goes.\n\nA team at Wake Forest University School of Medicine asked 3,873 adults aged 50 and older about these stressors. They also asked how much support people felt they got from family, friends and community. The average age was 64.8. No one had dementia at the start. Most (78%) had normal thinking. The other 22% had mild cognitive impairment, which means early, mild thinking problems.\n\nEvery two years, people took tests of four mental skills: attention, episodic memory (remembering events), language, and executive function (planning and controlling your thinking). The team tracked how each skill changed over time.\n\nFirst, the good news. People with more social support at the start lost less attention over the years. This was true for men and women, and across racial and ethnic groups.\n\nNow the surprise. Many people hope friends work like a cushion that softens stress. Scientists call this a buffer. Here, support did not work as a buffer. High stress was linked to decline in thinking in the same way, whether people had a lot of support or very little.\n\nStress also did not hit everyone the same way. Women with high stress lost more attention and language skill than men. Hispanic participants with high stress lost more memory than non-Hispanic White participants.\n\nThe lesson is clear. Being social cannot replace dealing with stress directly. Protecting the aging mind probably needs two things together: help that reduces the stressors themselves, and community efforts that keep people connected. The lead researcher, Michelle Mielke, points out that both stress and social ties may be possible to change. Next, the team wants to learn how stress reaches the brain. They will look at the body's stress-hormone system (the HPA axis), long-term inflammation, and damage to tiny blood vessels."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This was an observational study. It shows links, not causes. People reported their own stress and support, and these were measured only once, at the start. The article does not say how big the differences between groups were. And no one has yet tested whether programs that cut stress or build support would actually protect thinking."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Friends can steady the aging mind, but they cannot carry its stress away. The stress itself has to shrink."
+    }
+   ],
+   "recall": {
+    "q": "In this study, what did social support help with, what did it fail to do, and what does that mean?",
+    "a": "More support went with less loss of attention, in every group. But it did not soften stress: high stress was linked to decline just as much with strong support as with weak support. So stress has to be reduced directly. Friends cannot replace that."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/09/Chronic-Stress-Impacts-Cognitive-Aging-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/chronic-stress-cognitive-aging-31252/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Fri, 25 Sep 2026 17:14:52 +0000"
+  }
+ ]
+}
