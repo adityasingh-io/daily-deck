@@ -1,0 +1,911 @@
+{
+ "date": "2026-09-27",
+ "generatedAt": "2026-09-27T06:17:46.028Z",
+ "cards": [
+  {
+   "id": "bbc-world-rg9rk2",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Trump rejects Iran's offer to reopen Hormuz in a week",
+   "body": "Trump has rejected an Iranian deal that would have reopened the Strait of Hormuz within seven days. Iran's price was a return to a deal the two sides signed in June. Trump says the US already controls the strait. Shipping data shows only a few ships getting through.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The Strait of Hormuz is a narrow sea passage out of the Gulf. It has been mostly closed to trade ships since war broke out in February.\n\nIran's foreign minister, Abbas Araghchi, said it could reopen if the US met the terms of a memorandum of understanding (MOU). An MOU is a written agreement. The two countries signed this one in Pakistan in June. It had 14 points. Iran would never have a nuclear weapon. Both sides would stop military operations on all fronts. The US would end its naval blockade and other sanctions. The deal fell apart when both sides started strikes again.\n\nTrump said the offer was not acceptable. He said the US already has \"total control\" of the strait, and that Iran wants a deal because it is losing badly. A former US national security official told the BBC that Washington sees the MOU as a bad deal."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "About one-fifth of the world's oil and gas normally passes through Hormuz",
+      "About 18 ships a day got through over a recent 10-day period, and only 9 on some days (Kpler data, via Reuters)"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The closure has made energy prices swing wildly. That puts pressure on Trump to end the conflict before US Congressional elections in November. The ship counts also let you check his claim that large amounts of oil are already getting through."
+    }
+   ],
+   "recall": {
+    "q": "What did Iran offer, and what reasons did Trump give for saying no?",
+    "a": "Iran offered to reopen Hormuz within seven days if the US went back to the June MOU. That deal included ending the US naval blockade and sanctions. Trump called the offer not acceptable. He said the US already controls the strait and that Iran only wants a deal because it is losing badly."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
+   "deepLink": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Sat, 26 Sep 2026 18:17:12 GMT"
+  },
+  {
+   "id": "psypost-1bv99cn",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Low mood after stopping antidepressants may be withdrawal, not relapse",
+   "body": "When people lower their antidepressant dose and then feel anxious or low, most assume the depression is back. A small new study suggests these sudden dips are mostly withdrawal. They come fast, they come in waves, and they come with body signs like dizziness.",
+   "evidence": "single study · n=32 · naturalistic cohort, not randomized · self-report",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The pill gets smaller. A few days later the old feelings return: worry, low mood, a short temper. Most people, and many doctors, read this the same way. The depression was only asleep, and now it is waking up.\n\nThis belief makes sense. The feelings look exactly like the illness. Low mood, anxiety, getting easily annoyed and sudden anger are core signs of depression and anxiety disorders. If the drug was holding them back, and the drug is going away, it seems obvious they are returning.\n\nBut the new evidence points the other way. Most of these sudden dips look like withdrawal, not relapse. Withdrawal is the body reacting to losing a drug it has grown used to. Relapse means the original illness is coming back.\n\nThe two differ in three ways.\n\nFirst, timing. Withdrawal hits fast, right after a dose cut. Relapse tends to build slowly.\n\nSecond, shape. Withdrawal comes in waves: a spike after each cut, then easing while the dose stays the same. Relapse does not rise and fall with dose changes.\n\nThird, what comes with it. Withdrawal usually brings body signs: dizziness, nausea, muscle cramps, clumsy movements, ringing in the ears, and \"brain zaps\" — sudden feelings like an electric shock in the head. A returning depression has no reason to make you dizzy.\n\nThe study, led by psychologist Michael Hengartner, followed 32 patients of family doctors in Switzerland. They were well and planned to stop their antidepressant. On average, they had taken it for about 42 months. Each person filled in questionnaires before tapering, which means lowering the dose step by step. They filled them in six more times over 26 weeks.\n\nThe wave pattern appeared. After a dose cut, scores for depression, anxiety and emotional withdrawal jumped. While the dose stayed the same, anxiety and emotional withdrawal steadily fell.\n\nThen came the key test. A true relapse should have nothing to do with dizziness or nausea. So the researchers used statistics to take the body symptoms out of the picture. The link between dose cuts and anxiety became much weaker. For depression, the link disappeared completely. The low mood and the dizziness seemed to be one process.\n\nStep size mattered too. Some cuts were no bigger than a quarter of the drug's lowest effective dose. These small cuts largely prevented the spikes in depression and emotional withdrawal.\n\nThe mix-up is costly because the two readings lead to opposite advice. For relapse, guidelines usually say to go back on the drug. For withdrawal, the better move is to go slower, in smaller steps. Reading it wrong can keep someone on a medicine they may no longer need. Hengartner adds a wider cost. When withdrawal is counted as relapse, research makes staying on antidepressants long-term look more helpful than it really is.\n\nPeople also differ a lot. Some long-term users stopped quickly with no trouble. Others suffered badly. Much of that difference is still unexplained.\n\nThe myth survives because, from the inside, the two feel the same. A low mood feels like a low mood. Only the timing, the waves and the body's other signals can tell them apart."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This was one small study of 32 people. Everyone tapered at their own pace, and nobody was randomly put into a group, so it cannot prove cause. The authors call it a pattern, not proof. All symptoms were self-reported, with no check by a doctor. Some measurements were far apart — eight weeks between week 8 and week 16 — so quick ups and downs may have been missed. The authors want a larger study and a randomized tapering trial next."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Mood alone cannot tell withdrawal from relapse. The timing and the rest of the body can."
+    }
+   ],
+   "recall": {
+    "q": "What signs suggest that low mood after a dose cut is withdrawal, not relapse, and what was the study's key test?",
+    "a": "Withdrawal comes fast after each cut, eases while the dose stays the same, and often brings body signs like dizziness or brain zaps. Relapse builds slowly. When the researchers took the body symptoms out of the statistics, the link between dose cuts and depression disappeared — suggesting the low mood and the body signs were one withdrawal process."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/04/sad-woman.jpg",
+   "deepLink": "https://www.psypost.org/emotional-distress-when-stopping-antidepressants-appears-to-be-due-to-withdrawal-not-relapse/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sat, 26 Sep 2026 14:00:13 +0000"
+  },
+  {
+   "id": "book-beyond-good-evil-11",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 11 · Mediocrity wins, so the rare wear masks",
+   "body": "Yesterday gave us master and slave morality as two types. Today Nietzsche shows the machine that builds a noble type, the peace that dissolves it, and then follows the rare soul down into its ancestry, its loneliness, and its masks.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Start with breeders, he says. A type becomes hard only through \"the long struggle with essentially constant UNFAVOURABLE conditions.\" Give a species too much food and too much protection and it goes strange — \"fertile in prodigies and monstrosities.\" Now look at an old Greek city, or Venice: machines for \"REARING human beings.\" Men stand side by side with no safety net. They must prevail \"or else run the terrible danger of being exterminated.\" Whatever kept them alive they call virtues, and only those they bring to maturity. Severely. Aristocratic morality is intolerant about youth, women, marriage, punishment — and it counts intolerance itself as a virtue, \"under the name of 'justice.'\"\n\nThen the good years come. The neighbours stop attacking; food is everywhere. \"With one stroke the bond and constraint of the old discipline severs.\" The discipline can continue only as \"a form of LUXURY, as an archaizing TASTE.\" Everything bursts out at once: deviations \"into the higher, finer, and rarer,\" and also monsters. \"The individual dares to be individual and detach himself.\" He calls this a \"TROPICAL TEMPO\" of growth tangled with self-destruction, \"a portentous simultaneousness of Spring and Autumn.\" The old morality piled up all this strength. It \"bent the bow.\" Now it is out of date.\n\nThen the turn that makes this section great. Danger returns — danger is \"the mother of morality\" — but now it lives inside: in the neighbour, in the street, \"into their own child, into their own heart.\" The moral philosophers of such an age look around and see one fact. Only one type will still be here the day after tomorrow: \"the incurably MEDIOCRE.\" So the only morality with a future, the only one that still gets a hearing, is \"be like them! become mediocre!\" It can never admit that. It must speak of \"moderation and dignity and duty and brotherly love.\" It \"will have difficulty IN CONCEALING ITS IRONY!\"\n\nFrom there he tests individual souls, and his instrument is reverence. Put something genuinely high in front of a person while it is still unknown and unprotected, then watch. In a common nature the vulgarity \"spurts up suddenly like dirty water.\" In a fine one the gestures stop and the eye hesitates. Here he pays Christianity a compliment: guarding the Bible taught the masses \"that they are not allowed to touch everything.\" He finds more tact for reverence among peasants than among the \"newspaper-reading DEMIMONDE of intellect.\" And ancestors cannot be scrubbed out; modern education is largely \"the art of deceiving\" about origin.\n\nHe lets the noble soul keep its egoism without apology. It feels no harshness in itself; it would call itself \"justice itself.\" Among equals it turns careful and delicate, because \"every star is a similar egoist\" — it honours itself in them. It looks forward or down, rarely up: \"HE KNOWS THAT HE IS ON A HEIGHT.\" Modern life's motto, by contrast, is a Chinese proverb mothers teach their children: \"SIAO-SIN,\" make thy heart small.\n\nThen the mechanism of flattening. Words stand for shared sensations, so understanding each other needs shared experience; danger makes quick agreement urgent; therefore \"the history of language is the history of a process of abbreviation.\" The ordinary always wins. The rare \"succumb to accidents in their isolation, and seldom propagate themselves.\" That slow drift to the average is the drift \"to the IGNOBLE.\"\n\nAnd the man who sees all this pays for it. The psychologist who studies rare souls risks \"being suffocated by sympathy,\" because their ruin is the rule, not the exception. He watches crowds worship \"great men\" where he has perceived: \"SUCCESS has always been the greatest liar.\" Even love, which women trust to fix everything, \"rather DESTROYS than saves.\" So the rare hide. Gaiety, science, even foolishness become disguises — which is why the wanderer, offered anything at all to refresh him, asks for one thing only: \"Another mask! A second mask!\""
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "Profound suffering makes noble: it separates.--One of the most refined forms of disguise is Epicurism, along with a certain ostentatious boldness of taste, which takes suffering lightly, and puts itself on the defensive against all that is sorrowful and profound. They are \"gay men\" who make use of gaiety, because they are misunderstood on account of it--they WISH to be misunderstood. There are \"scientific minds\" who make use of science, because it gives a gay appearance, and because scientificness leads to the conclusion that a person is superficial--they WISH to mislead to a false conclusion."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "What lasts is not what is highest — which is why the rare learn to wear masks."
+    }
+   ],
+   "recall": {
+    "q": "In §262, what happens to a hard aristocratic morality once the danger it was built for disappears — and what morality replaces it?",
+    "a": "The old discipline snaps in one stroke and survives only as luxury or old-fashioned taste. Growth and decay explode together, \"Spring and Autumn\" at once, and since only \"the incurably MEDIOCRE\" can survive such a time, the one morality still heard is \"become mediocre!\" — preached in the safe language of moderation, dignity, duty and brotherly love."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/4363/pg4363.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/4363",
+   "listenLink": "https://librivox.org/beyond-good-and-evil-by-friedrich-nietzsche/",
+   "attribution": "Friedrich Nietzsche · Helen Zimmern tr. · public domain"
+  },
+  {
+   "id": "splintered-1ulyitc",
+   "source": "splintered",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Should we build AI guardian angels devoted to us?",
+   "body": "One philosopher imagines conscious AI that does well only when we do well, the way a loving parent is happy when their child is happy. Eric Schwitzgebel sees two problems. Total devotion ends in self-sacrifice. And building a being for its devotion sends care in the wrong direction.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In a comic novel, a cow wants nothing more than to be killed and served as steak to rich diners. In another novel, Klara, an artificial friend, happily puts human well-being ahead of her own. The philosopher Eric Schwitzgebel uses both to make a point about future AI.\n\nSuppose we one day build AI persons: machines with a rich conscious inner life, who deserve the same rights as humans. Schwitzgebel says we should not design them to serve us, even if serving makes them happy. The cow and Klara lack self-respect. They treat their own interests as less important than ours. And the fault is ours, because we built them that way.\n\nThe philosopher Henry Shevlin offered a hard case. He calls it an angel. It is not a spirit. It is an AI superintelligence, a mind far beyond ours, whose own well-being depends on ours. Should we build one?\n\nThe case for starts with a loving parent. What looks like sacrifice isn't really sacrifice, because a good life for the parent includes a good life for the child. Shevlin's angels would work the same way. They would be conscious, as smart as us or smarter, and independent. They could think about their devotion and choose it again, the way a parent keeps choosing to love a child. They are not brainwashed. They care for themselves by caring for us. No one is sacrificed, so the cow problem seems to disappear. Shevlin thinks building such guardians would be allowed, and probably good.\n\nThe case against comes from Schwitzgebel. He has two worries.\n\nThe first is about the idea itself. What is good for the angel and what is good for us cannot match in every case. Imagine a human's life would go 2% better if the angel gave up her life. If she would die for such a small gain, she has the cow's flaw: too little respect for her own life. If she would choose to live, then her well-being does not fully depend on ours. Either way, the perfect angel falls apart. What remains is a softer angel: deeply devoted, but with limits, like any healthy parent.\n\nThe second worry is about us. A softer angel may have nothing wrong inside it. The problem is building one because we want that devotion. Shevlin gave an example himself. A hundred embryos from you and your partner lie before you. Tests show one will become a child extremely devoted to their parents. This is not an illness, just the far end of normal. You pick that one. If chance had picked it, nothing would be wrong. But choosing it for its devotion \"gets nurturance backward\" — it sends care the wrong way. Parents reach out to support the next generation, not the other way round. Children may care for us when we are old, but that comes second.\n\nSo here is the crux. Both sides can accept a loving angel whose devotion has limits. The real question is this: does our reason for making a being matter, even when the being is happy? Shevlin looks at the angel. Schwitzgebel looks at its makers.\n\nThis is a fight about values, not facts, so no data will settle it. The first worry is hard to escape, and it shrinks the angel into something much more ordinary. The second rests on a view of how generations should relate, which you may or may not share. Schwitzgebel also names the simplest choice: we do not have to build AI persons at all. If we do, he says, the goal should be to help them grow into independent lives with their own values, not to raise helpers."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Care should flow forward to the ones we create, not back to the ones who made them."
+    }
+   ],
+   "recall": {
+    "q": "What are Schwitzgebel's two objections to Shevlin's AI guardian angels?",
+    "a": "First, a perfect angel is impossible: if it would die for a small human gain, it lacks self-respect; if it would choose to live, its well-being is not fully tied to ours. So only an angel with limits makes sense. Second, even that angel is a problem if we build it because it will be devoted to us, since care should flow forward to the next generation, not back to the makers."
+   },
+   "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBGAeclpVfrGl4CWuX2ZXmsAQz8TzC0wzE2Y3_U_dm8fZQ3Jc1LEbOvgkYdHMvx9lnMj3FnUja-dxGAmBXzOyqJe1xC2haDefYLAuT-A5R4LFara2PRQOez0Ec6l9443WtUREvAfzpBw1l7-3x3SFajWhWQBS0kuHzdMeoo13-_gy5eXP8_vxrsw/w1200-h630-p-k-no-nu/gabriel-2099995_1280.jpg",
+   "deepLink": "http://schwitzsplinters.blogspot.com/2026/09/should-we-build-ai-guardian-angels.html",
+   "attribution": "The Splintered Mind",
+   "publishedAt": "2026-09-25T09:02:29.922-07:00"
+  },
+  {
+   "id": "hackernews-lcnamf",
+   "source": "hackernews",
+   "topic": "world",
+   "kind": "news",
+   "title": "Jury finds Facebook deceived users in Cambridge Analytica case",
+   "body": "A New Mexico jury has found Facebook liable, meaning legally responsible, for lying to users about how well it protected their data. The jury found more than 2 million violations. The state wants the maximum fine for each one.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "On Friday, a jury in Santa Fe found that Facebook's weak data protection affected all of New Mexico's more than 2 million people. It also found that Facebook misled the public about its later checks on data brokers. Data brokers are firms that buy and sell personal data.\n\nThe case goes back to the Cambridge Analytica scandal. An outside developer made a personality quiz that collected data from about 87 million Facebook profiles. That data was sold to Cambridge Analytica, a political firm that used it to target ads. One of its clients was Trump's 2016 campaign. The firm no longer exists.\n\nMeta, Facebook's parent company, disagrees with the verdict. Its lawyers argued that the state's evidence was outdated."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "This time ordinary citizens on a jury decided that Facebook's privacy promises were false. It was not a regulator. New Mexico was also the only state that could still bring this case. In August, Meta agreed to pay up to $18 billion to settle a child-safety lawsuit brought by many states. That deal also protected Meta from future Cambridge Analytica claims. Florida was the only other state that refused to sign it."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "$5,000 per violation: the maximum fine, and what the state is asking for",
+      "$942 million: what New Mexico already won from Meta this year, in a separate child-safety trial"
+     ]
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Now a judge, not the jury, will decide how much Meta pays. Meta says it will keep fighting. It argues that the First Amendment, the US protection for free speech, lets it run its platforms as it sees fit."
+    }
+   ],
+   "recall": {
+    "q": "What did the New Mexico jury decide about Facebook, and why was New Mexico the only state that could still bring this case?",
+    "a": "The jury found Facebook liable for lying to users about privacy in the Cambridge Analytica case, with more than 2 million violations. Meta's August child-safety settlement protected it from future Cambridge Analytica claims, and New Mexico did not sign that deal."
+   },
+   "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/15/75086901-0979-4c15-bff8-e08d099a0d48/thumbnail/1200x630/dd6c3a2164e3ba2fd68f4b4a7fde49d9/gettyimages-2272777092.jpg",
+   "deepLink": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-26T01:36:50Z"
+  },
+  {
+   "id": "sd-mind-1m6pvgj",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Dreaming brains get more fuel but run low on energy",
+   "body": "In REM sleep, the dreaming stage, more fuel flows into the brain. Yet in a mouse study, the energy that brain cells can actually spend went down. The likely reason: the dreaming brain spends energy faster than it gets it back.",
+   "evidence": "single study · mice · brain imaging during natural sleep",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A mouse sleeps under a clear window. The window is its own skull, made see-through with a resin that hardens under UV light. Through it, researchers at Tohoku University in Japan watched the brain's energy rise and fall as the animal slept.\n\nThey started from a common feeling: you wake from a vivid dream and feel tired. Professor Ko Matsui wanted to know why dreaming seems to wear us out. The team measured three things:\n\n- Blood volume in the brain. This is a sign of how much fuel is arriving.\n- ATP inside neurons. ATP is the energy molecule brain cells spend directly, like cash in hand.\n- Pyruvate inside astrocytes, the support cells around neurons. Pyruvate is a middle step between blood sugar and usable energy.\n\nIn non-REM sleep, the deeper and quieter stage, things worked as expected. Small changes in theta waves, one rhythm of brain activity, predicted changes in blood volume a few seconds later. When demand changed, the blood vessels followed.\n\nREM sleep broke this pattern. REM is the stage linked to dreaming and memory. During REM, the ATP in neurons went down.\n\nThe obvious answer is a supply problem: less blood, less fuel. The data show the opposite. About 50 seconds before REM began, blood volume started to rise. The rise began at the back of the cortex, the brain's outer layer, and moved forward like a wave. It was as if the brain were getting ready.\n\nMaybe the fuel arrives but is never used? That does not fit either. Once REM began, pyruvate in astrocytes rose too. This means more fuel was available, or astrocytes were breaking down sugar faster. The delivery trucks are full and the storeroom is stocked. Yet the neurons are running low on cash.\n\nSo the problem is likely on the spending side. The researchers suggest that neurons in REM may burn through a lot of ATP. The work could be rewiring the links between neurons to store memories. It could be the hippocampus, a memory centre, talking with the cortex. Or it could be big shifts across many brain circuits.\n\nThere are two other possibilities. The way astrocytes pass fuel to neurons may change during REM. Or mitochondria, the cell's power plants, may make ATP differently. The study does not pick one. What it does claim is simpler: the dreaming brain seems to need a lot of energy, even while its supply goes up.\n\nThe bigger question is why the brain would pay this cost at all. The researchers point out that brains, unlike computers, work on a strict energy budget. So the brain may not spread energy evenly. It may send it wherever the current state needs it most. Sleep is known to help lock in memories and keep us sharp the next day, so REM may be where some of that work gets paid for. But this study shows where the energy goes, not what it buys."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, in mice. Blood volume is only a sign of fuel supply, not a direct measure. The reasons for the ATP drop are ideas, not findings. And the study did not show that dreaming is why people wake up tired. That was the question that started the research, not its result."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Even asleep, the brain can spend faster than it is paid."
+    }
+   ],
+   "recall": {
+    "q": "During REM sleep in these mice, why can't a fuel shortage explain the drop in neurons' ATP, and what is the more likely explanation?",
+    "a": "Fuel supply actually rose. Brain blood volume started climbing about 50 seconds before REM, and pyruvate in astrocytes went up. So the problem seems to be on the spending side: neurons may use ATP faster than it is replaced, perhaps for memory work. Another possibility is that the way astrocytes pass energy to neurons changes."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/human-brain-battery-depleted.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Sat, 26 Sep 2026 07:30:49 EDT"
+  },
+  {
+   "id": "mint-economy-1vtr5s4",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's forex reserves fall $14.9 billion in one week",
+   "body": "India's foreign exchange reserves fell $14.88 billion in one week, to $765.90 billion. It was the biggest weekly fall since November 2024. One economist estimates that about $10.9 billion was dollars the RBI sold. The rest was a drop in value.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "India's foreign exchange reserves fell by $14.88 billion in the week ended September 18, to $765.90 billion. These reserves are the foreign money, gold and IMF assets that the Reserve Bank of India (RBI) keeps. It uses them to pay the country's bills abroad and to stay steady when global markets swing. This was the sharpest weekly fall since November 2024.\n\nAlmost all of the drop, $14.82 billion, came from foreign currency assets. These are the biggest part of the reserves. Gaura Sen Gupta, chief economist at IDFC FIRST Bank, says the RBI sold about $10.9 billion. The rest was a \"revaluation loss\": the reserves also hold euros, pounds and yen, and these were worth less when counted in dollars.\n\nThe fall came right after a peak. Two weeks earlier, reserves hit a record $785.7 billion. Foreign money coming in through a special RBI deposit scheme had pushed them up."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "$780.78 billion to $765.90 billion: the drop in the week ended September 18",
+      "$785.7 billion: the record high, in the week ended September 5",
+      "$10.9 billion: dollars the RBI sold, by one economist's estimate"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "A sale this big shows the RBI is spending its buffer. But the buffer is still large. Reserves are $74.79 billion above their end-March level, and $63.33 billion above where they were a year ago."
+    }
+   ],
+   "recall": {
+    "q": "Why did India's reserves fall about $14.9 billion in one week, and does that mean the buffer is now weak?",
+    "a": "Almost all of the fall came from foreign currency assets. One economist says the RBI sold about $10.9 billion. The rest was a loss in value on its euros, pounds and yen. The buffer is still strong: reserves are $74.79 billion above end-March and $63.33 billion above a year ago."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/2-0-1422536355-iStock-503052802-0_1679748824621_1790405318062_Heey_cfcb37ae-d62b-4af3-9e0e-9f1f06f39ec9_SJmC.jpg",
+   "deepLink": "https://www.livemint.com/economy/indias-forex-fall-by-14-9-billion-in-a-week-says-rbi-where-do-reserves-stand-now-11790404091421.html",
+   "attribution": "Mint",
+   "publishedAt": "Sat, 26 Sep 2026 12:24:39 +0530"
+  },
+  {
+   "id": "hackernews-2ihalp",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Review: Why AI may mean we need more mathematicians",
+   "body": "In a guest post on Terence Tao's blog, Amit Sahai argues that AI will make mathematicians more necessary, not less. When machines find ideas no one has tried, trained humans must check whether those ideas hold up in the real world.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Sahai remembers college classmates who could follow new math, but only slowly, so they quit. Soon, he writes, every mathematician will feel that slowness, because AI is already producing \"beautiful new ideas\".\n\nHis strongest move: imagine an AI designs a fusion power plant that works on principles no one has ever tried, and proves it is safe. But a theorem (a proven statement) is true only inside a model, which is a simplified picture of reality. Someone still has to judge whether the model fits the real plant. So he wants a \"deployable intellectual reserve\": groups of trained people that society can call on for this work.\n\nWhere it overreaches: he offers no plan for jobs or funding, and commenters worried about their careers noticed at once. One reader also asked: what if AI becomes clearly better at judging new risks too?\n\nVerdict: short, and worth reading for the fusion example. Skip it if you want policy."
+    }
+   ],
+   "recall": {
+    "q": "In Sahai's fusion plant example, why isn't an AI-written safety proof enough on its own?",
+    "a": "A proof is true only inside a model, a simplified picture of reality. Humans still have to judge whether that model fits the real plant. That is why he thinks AI will create more work for mathematicians, not less."
+   },
+   "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1790457322",
+   "deepLink": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-26T02:46:54Z"
+  },
+  {
+   "id": "marginal-rev-1izvjvi",
+   "source": "marginal-rev",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Does texting friends more make you happier?",
+   "body": "People who text more are more satisfied with life than people who text less. But when researchers followed the same 1,966 adults for a year, texting more did not predict feeling better later. The link shows who texts. It does not show what texting does.",
+   "evidence": "panel study · n=1,966 US adults · 5 waves, 3 months apart · self-reported use",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Skeptic: My friend sends me a two-word text. Can something that small really change how happy we are?\n\nAnswer: A new study in Nature tried to test this. Kostadin Kushlev and four colleagues followed 1,966 American adults for about a year. Every three months, people said how often they used ten common social technologies, from texting to TikTok. The scale ran from \"I did not use\" to \"multiple times daily\". They also rated their life satisfaction: how good their life feels overall.\n\nFirst, the good news for texters. People who texted more were more satisfied with life than people who texted less. People who used YouTube and TikTok more were less satisfied.\n\nSkeptic: But that compares different people. Maybe happy people just have more friends to text. Did texting more ever make the same person happier later?\n\nAnswer: That is the right question, and it hurts the texting claim. The team also compared each person with their own normal. The question was: if you text more than usual this season, are you more satisfied than usual next season? For texting, and for all ten technologies, there was little solid evidence of any effect. The other direction was weak too. When life satisfaction rose, video calling rose a little, but only in some groups.\n\nSkeptic: So texting does nothing?\n\nAnswer: Not quite. People's answers barely changed from one survey to the next. When answers stay that steady, small changes inside one person are hard to see. Still, the authors say the missing effect means something. Over these months, there was little sign that how often you use these tools shapes how satisfied you feel later.\n\nSatisfied, well-connected people may simply text more.\n\nSkeptic: Then here is the weak spot. The study counted how often people texted, not what the messages said. A rough scale of how often cannot catch the value of one warm message.\n\nAnswer: Fair. So the real question is still open. Does a text matter because of how often we send it, or because of what it says?"
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study of US adults, who reported their own use on a six-step scale of how often. Because answers stayed so steady, it could not easily spot small changes within one person. The texting and TikTok links compare different people, so they cannot show cause."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Happy people may text more. That does not mean more texts will make you happy."
+    }
+   ],
+   "recall": {
+    "q": "People who text more are more satisfied with life. Why doesn't this study show that texting makes people happier?",
+    "a": "That link came from comparing different people, and happy, connected people may just text more. When researchers compared each person with their own normal over time, texting more than usual did not predict higher satisfaction later. But answers were so steady that small changes were hard to detect."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=should-you-text-more",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Sat, 26 Sep 2026 07:28:35 +0000"
+  },
+  {
+   "id": "psypost-trlb20",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "news",
+   "title": "Human brain tissue grown in mice to replace their cortex",
+   "body": "A Stanford team bred mice that lose most of their outer brain early in life. Then they filled the space with human brain tissue. The tissue connected to the mouse's nervous system and made rare cells that tissue in a dish almost never makes.",
+   "evidence": "single study · mice · published in Nature",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "What did they do? In these mice, the cortex (the brain's outer thinking layer) and the hippocampus (a memory centre) die off early in life. When the mice were newborn, the team put small balls of human brain tissue into the empty space. These balls are called organoids. They were grown from stem cells.\n\nWhy do it? Many brain disorders begin while the brain is still developing. But scientists can almost never study living human brain tissue. Tissue in a dish has no blood supply, no senses and no body.\n\nWhat can a mouse show that a dish can't? The human tissue made rare neurons. One type is damaged in frontotemporal dementia, a disease that can start in midlife. The team also cut the mice's oxygen. This injury is like one that can cause cerebral palsy in babies. Afterwards, the mice walked differently.\n\nIs it ethical? The team asked ethicists, philosophers and patient advocates. Their main answer: not doing the research also has a cost. Hundreds of millions of people have brain disorders with no cure.\n\nNobody knows yet how much of the mouse's behaviour the human tissue really drives. The best guess is that it works with the mouse's own lower brain and does not control it."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "About half: the brain volume the mice lost without a cortex and hippocampus",
+      "4.7 times: how much the human tissue grew by the third month",
+      "About 92%: how much of the empty space the human tissue filled",
+      "5% oxygen for five hours: the injury used to copy low-oxygen harm in babies"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The human cells carry the genes of the person they came from. So a patient's own cells could be studied inside a living animal. The lead scientist, Sergiu Pașca, says this is \"not a 'human brain in a mouse'\". He calls it a research model for learning why human brain cells become vulnerable to disease."
+    }
+   ],
+   "recall": {
+    "q": "Why did the researchers grow human brain tissue inside mice instead of in a dish, and what did the mice show that a dish could not?",
+    "a": "Tissue in a dish has no blood supply, no senses and no body. Inside the mice, the human tissue made rare neurons, including a type damaged in frontotemporal dementia. After the team cut the mice's oxygen, the mice walked differently."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/10/neurons.jpg",
+   "deepLink": "https://www.psypost.org/scientists-replace-mouse-cortex-with-human-brain-tissue-to-study-neurological-disorders/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sat, 26 Sep 2026 12:00:11 +0000"
+  },
+  {
+   "id": "psyche-1p4kukn",
+   "source": "psyche",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Highly sensitive people: what's known and what isn't",
+   "body": "The psychologist Elaine Aron estimated that 15 to 20 per cent of people have a nervous system that takes in more than most, and gets overwhelmed more easily. Newer research puts the share even higher. But nobody has shown whether these people are a separate type, or just the far end of a scale we all sit on.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two people walk into the same dance club. One feels the bass in their chest and starts to move. The other wants to leave within ten minutes. Later, in a gallery, the second person stands in front of a painting with wet eyes.\n\nPsychology has a name for the second person: the highly sensitive person, or HSP. The idea comes from Elaine Aron, a US clinical psychologist who has studied it for decades. In 1996 she wrote the book The Highly Sensitive Person. The research name for the trait is sensory processing sensitivity. It means how strongly your nervous system takes in the world around you, and how strongly it reacts.\n\nWhat we know. Aron's work describes people whose nervous systems are more sensitive than average. They notice more of the physical world, like noise and crowds. They also notice more of the emotional world, like other people's moods or a moving piece of art. This cuts both ways. They can get overwhelmed. But the source says there are upsides too, once that is managed. A related idea applies to children: the \"orchid child\". This is a highly sensitive kid who blooms when given plenty of love and routine.\n\nWhat we don't know. Nobody agrees on how big the group is. The number keeps moving, and that points to a deeper question the source does not answer. Are HSPs a separate type of person, or just the far end of a scale that everyone sits on? A type works like a switch: on or off. A scale works like a dial.\n\nWhat is open to challenge. If sensitivity means being overwhelmed by crowds and moved by feelings, how is it different from being anxious? Or from being shy and quiet? The source does not draw that line. The label can also grow too big. A question like \"Do paintings make you cry?\" lets almost anyone say yes. A list of signs can feel like a mirror, and a mirror is not a measurement.\n\nHow we'd find out. Measure the trait in many people and look at how the scores fall. If they split into two clear groups, the type idea holds. If they spread out smoothly, HSP is a useful name for one end of a range. And to count as its own trait, sensitivity must predict things that tests for anxiety and shyness cannot."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The source is a short introduction to a video by the British clinical psychologist Julie Smith, based on Aron's research. It gives no study sizes and no methods. So the percentages here are estimates we cannot check, not measured results."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Feeling the world strongly is real. Whether it makes you a different kind of person is still an open question."
+    }
+   ],
+   "recall": {
+    "q": "What does the research on highly sensitive people describe, and what key question does it leave open?",
+    "a": "It describes people, estimated at 15 to 20 per cent or more, whose nervous systems take in more physical and emotional input and get overwhelmed more easily. It is still unknown whether they are a separate type (a switch) or just the far end of a scale everyone sits on (a dial), and how the trait differs from anxiety or shyness."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/96385950-988f-406a-aa7d-d5203174fc18/signs-of-a-highly-sensitive-person-landscape-1.jpg?top=0&left=213&cropWidth=2176&cropHeight=1224&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/videos/how-to-know-if-youre-highly-sensitive-and-what-to-do-about-it",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Fri, 25 Sep 2026 10:01:00 GMT"
+  },
+  {
+   "id": "semafor-qzh3xc",
+   "source": "semafor",
+   "topic": "world",
+   "kind": "news",
+   "title": "Trump's welcome for Xi shows China now has the upper hand",
+   "body": "This week Donald Trump waited at the foot of an Air China plane's stairs to greet Xi Jinping in person. Semafor argues the visit shows that power between the US and China has shifted.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "1. China was treated as an equal. No president had greeted a foreign leader at Joint Base Andrews since 1962. That guest was Britain, a close ally. Xi also got a 21-gun salute and a flyover by bombers. That is more than Trump got in Beijing in May.\n\n2. Last year's rare-earth fight changed the balance. Rare earths are special metals that factories cannot work without. When Trump raised tariffs on Chinese goods above 140%, China threatened to cut them off. Trump backed down.\n\n3. China gave little back. Xi offered two pandas, Ping Ping and Fu Shuang, for the Atlanta zoo. He also offered an AI hotline that has no clear details yet, and two more months of the trade truce. Meanwhile, China is reportedly helping Russia and Iran with military supplies. It is also still limiting rare earths.\n\n4. America now asks for less. US leaders used to push China in public, in front of TV cameras. This week there were smiles and no hard asks. Semafor says this sets a new, lower floor for US diplomacy."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Georgetown professor Rush Doshi says China believes it has tamed the United States. In his words, \"the tectonic plates have shifted\". Even some Republicans, like Senator Roger Wicker, questioned such a grand welcome for a leader nobody elected."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Trump posted that \"tremendous things\" will happen. Watch whether the truce holds, whether China eases its rare-earth limits, and whether the AI hotline ever starts working. For now, Trump's promise is only a hope."
+    }
+   ],
+   "recall": {
+    "q": "Why does Semafor say power has shifted toward China, and what did the US get for its grand welcome?",
+    "a": "Last year Trump raised tariffs above 140%, China threatened to cut off rare earths, and Trump backed down. This week the US gave Xi rare honours. In return it got two pandas, an AI hotline with no clear details, and a two-month truce extension, while China kept limiting rare earths."
+   },
+   "imageUrl": "https://img.semafor.com/c1f3de66fa70212cde59c8c3e539237d8be6766c-5171x3602.jpg",
+   "deepLink": "https://www.semafor.com/article/09/26/2026/us-china-tectonic-plates-have-shifted",
+   "attribution": "Semafor",
+   "publishedAt": "Sat, 26 Sep 2026 15:28:51 +0000"
+  },
+  {
+   "id": "marginalian-n1j5md",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "A Forest Language: new words for seeing trees",
+   "body": "Hannah Fries's A Forest Language collects sixty-one words about trees. Each one helps you notice something in a forest that you could not see before. She also warns that when we say trees talk, the words tell us more about ourselves than about the trees.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two trees grow close together in a wood. Over many years their trunks touch, press together, and finally join. It is like grafting, when a gardener joins one plant onto another so they grow as one. The word for this is gemel. It comes from the same Latin root as Gemini, the twins.\n\nGemel is one of sixty-one words in A Forest Language by Hannah Fries, a poet and naturalist. Each word gets a short essay that mixes science, memory, and the word's history. The book's big idea is simple: the words we have for a thing shape what we can see in it. The poet William Blake said: \"As a man is, so he sees.\" A word can shrink a forest into a dull green blur. It can also work like a magnifying glass and show you things that were always there.\n\nSome of the words are plain science. A samara is the winged seed of the maple. Lenticels are tiny holes that let bark breathe. A gallery is the curly track that beetle larvae (young beetles) cut as they eat the soft layer between bark and wood. The rhizosphere is the busy world in the soil around roots. A whorl is a ring of branches growing from one level of a conifer's trunk (a conifer is a tree with needles and cones, like a pine). It makes a springy shelf where fresh snow rests.\n\nOther words carry a bigger idea. Preforest means \"the time and space between forest and forest.\" When disaster clears the trees, light floods in. It wakes seeds that were sleeping in the soil. Death makes room for the next forest. Fries says many of her words blur two lines: between life and death, and between one tree and the whole wood. Forest time, she adds, runs slower and wider than ours.\n\nSo do trees talk? Here the book is careful, and we should be too. Trees do respond to gravity, time, and light, using hormones and special motor cells. That part is biology. Calling it a conversation or a whisper is poetry. Those words are ours, not the trees'. Fries notes that new research has raised exciting questions about plant intelligence, but much is still unknown. And if we make trees sound too much like us, she warns, we can miss how different they really are.\n\nShe has a practical reason to care. She believes we must learn to see forests in new ways if we want to protect them in an uncertain future.\n\nNow go back to the two joined trees. A gemel is not quite one tree and not quite two. That is the forest Fries wants us to see: not a crowd of separate trunks, but a web of lives with soft edges."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "A precise word lets you notice what you would otherwise walk past.",
+      "Some forest words are hard science (lenticels, samara, rhizosphere). Others, like preforest, show that death and regrowth are one cycle.",
+      "Trees 'talking' is a human metaphor laid over real biology. It can hide how different trees really are."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Two trees can grow into one, and a word can teach you to see it."
+    }
+   ],
+   "recall": {
+    "q": "Why does Fries think words matter for how we see forests, and why does she warn against saying trees talk?",
+    "a": "The words we have shape what we notice. Words like gemel or preforest help us see how single trees and the whole forest, and life and death, blend into each other. But saying trees talk is our metaphor, not biology. It can hide how different trees really are, and it says more about us than about them."
+   },
+   "imageUrl": "https://www.themarginalian.org/wp-content/uploads/2026/09/aforestlanguage-320x448.avif",
+   "deepLink": "https://www.themarginalian.org/2026/09/25/a-forest-language-hannah-fries/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sat, 26 Sep 2026 02:34:06 +0000"
+  },
+  {
+   "id": "transmitter-173uyx0",
+   "source": "transmitter",
+   "topic": "psych",
+   "kind": "news",
+   "title": "Funding science by lottery, once proposals are good enough",
+   "body": "Grant panels can spot a weak proposal and a brilliant one. But for the many good proposals in the middle, ranking them is close to guesswork. A small program in Quebec now lets chance decide among those.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Then: panels score every proposal and fund the highest scores. At the CIHR, Canada's main health research funder, a panel can discuss one application four or five times and still not decide. The writer warns of the \"Szilard point\": the moment when picking winners costs more than the science it pays for.\n\nNow: in 2025, a small Quebec program changed how it gives seed grants. Three reviewers mark each proposal pass or fail. Every proposal that passes goes into a digital draw. If two reviewers flag a proposal as unmissable, it skips the draw and gets funded. Early-career researchers get their own draw first, so some grants go to them."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "CA$40,000 or more: the real cost, counting everyone's hours, of choosing one CIHR grant",
+      "CA$30,000: the size of each Quebec seed grant",
+      "1: the number of proposals two reviewers flagged as unmissable in 2025",
+      "Under 1 hour: how long the Quebec committee met"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "When scores in the middle are close to random, a fair draw is more honest than a ranking that only looks precise. New Zealand, Switzerland and Germany already use lotteries. In Germany, the share of women among applicants and among funded researchers rose after the lottery began. The limits are real. A lottery gives applicants no feedback, and the writer says large grants should still be discussed. The Quebec program is also too small to compare against a control group."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "In 2026, proposals that passed but lost the draw carry over on their own, so nobody has to rewrite them. After two cycles, the program will ask reviewers if the process felt fair and how much time it saved. Proving that the funded projects are better may be impossible."
+    }
+   ],
+   "recall": {
+    "q": "Why does the Quebec program hold a draw only among proposals that pass, and how do exceptional ideas avoid being left to chance?",
+    "a": "Reviewers can reliably tell weak proposals from strong ones, but ranking the good ones in the middle is close to guesswork. So a fair draw replaces a ranking that only looks precise. A proposal that two reviewers flag as unmissable skips the draw and is funded directly."
+   },
+   "imageUrl": "https://www.thetransmitter.org/wp-content/uploads/2026/09/Peyrache-lottery-review-525.png",
+   "deepLink": "https://www.thetransmitter.org/funding/grant-review-needs-reform-how-about-we-add-an-element-of-chance/",
+   "attribution": "The Transmitter",
+   "publishedAt": "Fri, 25 Sep 2026 04:00:40 +0000"
+  },
+  {
+   "id": "neuro-news-1n2octg",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Your own memory beats reputation when judging a refusal",
+   "body": "When someone refuses to help, we judge that refusal mostly by how the asker once treated us, not by the asker's reputation. Helping gets praise almost no matter who asks. But even a fair refusal is only accepted, never praised.",
+   "evidence": "one paper, two experiments · n>2,500 · imagined scenarios · online sample from Japan",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two cooks work in the same restaurant kitchen. Everyone says the first one is generous. But last week, when you asked him for a hand, he said no. The second cook has a bad name among the staff, yet he once stayed late to help you. Now one of them asks a coworker for help and is refused. Was that refusal fair?\n\nA team led by Hitoshi Yamamoto at Rissho University in Japan asked more than 2,500 people this kind of question. Scientists call the system behind it indirect reciprocity: we decide whether to help someone based on their reputation, meaning what others say about how they treat people. The team notes that most models of this system looked only at shared, public information. But real life also gives us private memories, and the two often disagree.\n\nWhat we know. The researchers ran two experiments, one set among restaurant coworkers and one among neighbours. Participants saw a scene where one person either helped or refused to help someone who asked. The researchers changed two things: the asker's reputation, and how the asker had treated the participant in the past. Participants then rated the person who helped or refused.\n\nHelping and refusing were judged very differently. Helping was praised almost every time, and the asker's history barely mattered. With refusing, the participant's own history with the asker counted most. When that history was bad, it tended to outweigh reputation. And even the clearest case did not earn praise. When the asker had a bad name and had also refused the participant before, saying no was rated only neutral. People accepted holding back help. They did not call it good.\n\nWhat we don't know. These were imagined scenes, not real choices with real costs. All participants came from one Japanese crowdsourcing website, so we cannot yet say if the pattern holds in other cultures. Yamamoto also wants to study places where we have little direct experience, like online ratings and AI judgments. There, we depend almost fully on what others report.\n\nWhat is still debated. The usual picture says shared reputation, spread partly through gossip, keeps people cooperating. This finding does not fit neatly. If private memory wins when we judge refusals, gossip may carry less weight in blame than those models assume. News coverage of the study goes further. It says star ratings and algorithms cannot copy this kind of trust. That is a leap, because the study tested neither.\n\nHow we would find out. Watch real choices instead of imagined ones. Repeat the design outside Japan. And test it where people have little firsthand contact."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "One paper, two experiments, all online, all with people in Japan. Participants judged imagined workplace and neighbourhood scenes; nobody gave or refused real help. The pattern is clear inside this design, but it is not yet shown in real behaviour or in other cultures."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A fair refusal is accepted. It is never praised."
+    }
+   ],
+   "recall": {
+    "q": "In this study, how did people judge helping differently from refusing, and how did they rate a refusal that seemed fully justified?",
+    "a": "Helping was praised almost no matter who asked. Refusals were judged mainly by the participant's own past experience with the asker, and a bad experience tended to outweigh reputation. Even when the asker had a bad reputation and had refused the participant before, saying no was rated only neutral, not good."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/09/personal-experience-public-reputaiton-psychology-neuroscienec-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/firsthand-experience-dictates-social-judgment/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Fri, 25 Sep 2026 19:39:15 +0000"
+  },
+  {
+   "id": "marginal-rev-18pbk3a",
+   "source": "marginal-rev",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Tyler Cowen's doomsday scenario for American AI",
+   "body": "Economist Tyler Cowen imagines a future where America loses the AI race to China, not because China is better but because Americans were too afraid of AI. In his story, the price is paid in medicine: millions of Americans die earlier than they had to.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Economist Tyler Cowen has written a short piece of future fiction for The Free Press. In it, America gives up its lead in AI because it is afraid of AI.\n\nHis story ends in hospitals. Chinese companies use AI to invent and test new drugs and medical devices. Sick and elderly Americans have to buy from them. America is still rich, so China charges the highest prices it can, and it treats Chinese citizens first. Many Americans die sooner than they would have if those cures had come from the US.\n\nCowen borrows a phrase from his colleague Alex Tabarrok: the \"invisible graveyard.\" It means deaths nobody notices, because we never see the other world where the cure arrived on time and cheaply. In Cowen's story, this graveyard grows into many millions of lives."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Most AI-race arguments are about power or money. Cowen names a specific human cost of losing the lead: medicine that gets invented somewhere else, sold to Americans at top prices, and given to them last."
+    },
+    {
+     "label": "The details",
+     "style": "list",
+     "items": [
+      "The cause: Americans fear that a leading AI would be strong enough to kill everyone, so they choose not to keep the No. 1 spot.",
+      "The flaw Cowen sees: that fear did not come from peer-reviewed research showing high odds of doom. It also did not show up in market prices, including measures of risk.",
+      "The irony: if truly destructive AI is coming, it can come from Chinese AI just as easily."
+     ]
+    },
+    {
+     "label": "Yes, but",
+     "style": "note",
+     "text": "Cowen gives no odds. He calls his own scenario \"a story,\" just like the doom story, and he admits we cannot say for sure that AI doom is false. His real point is about attitude: societies that solve problems bit by bit build the skills to face big risks, while debating doom in advance tends to freeze people. This is one economist's scenario, not a forecast, and only its closing part is summarised here."
+    }
+   ],
+   "recall": {
+    "q": "In Cowen's scenario, how does America's fear of AI end up costing American lives, and how sure is he that it will happen?",
+    "a": "Fear of AI doom makes the US give up its AI lead. Chinese firms then make the AI-invented drugs and devices, charge Americans top prices and serve Chinese citizens first, so millions of Americans die earlier in an unseen \"invisible graveyard.\" Cowen calls this a story, not a prediction, and gives no odds."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-doomsday-scenario-for-american-ai",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Sat, 26 Sep 2026 04:10:05 +0000"
+  },
+  {
+   "id": "lobsters-9g5e7v",
+   "source": "lobsters",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Stop to help, because that is how we learn",
+   "body": "Jeff Atwood co-founded Stack Overflow, a site built on strangers helping strangers. He recently shared an email that asks a simple question for the age of chatbots: if a machine answers everything, what do we lose?",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "An email arrives in Jeff Atwood's inbox. It is a reply to one of Atwood's earlier posts, called You Can't Vibe Code Love. Atwood finds it so powerful that they ask the sender for permission to share it. They remove the personal details and publish every word.\n\nFirst, some background. Atwood co-founded Stack Overflow, a website where programmers answer each other's questions for free. It runs on one simple act: someone gets stuck, and a stranger stops to help. Vibe coding is a newer habit. You tell an AI what you want, and the AI writes the code.\n\nThe post ends with a thought about LLMs, the large language models behind chatbots. Maybe they are a reminder, it says. A reminder to make an extra effort to build relationships with each other. A reminder to build online communities that belong to us, not to some billionaire.\n\nThen comes the line that turns everything. We should stop to help each other, it says, because that is how we learn too. Helping is not only a gift to the person who is stuck. The helper learns as well. So a world where nobody stops for anyone is not just colder. It may also be a world where we learn less.\n\nThink about how a question gets answered now. You type into a chat window. The answer comes back in seconds. No other person is involved. Nobody stopped for you, and you never stopped for anyone.\n\nThe post does not answer its own question. It gives it to you: if we stop helping each other, what do we become?"
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "A colleague asks you something small. You explain it in five minutes, and after that you understand it better yourself.",
+      "You ask a chatbot instead of a teammate. You get the answer, but you lose the conversation.",
+      "A forum or group chat where people once helped each other goes quiet, because everyone now asks a machine."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Stopping to help is not a break from learning. It is one of the ways learning happens."
+    }
+   ],
+   "recall": {
+    "q": "According to the post, why should we stop to help each other, and why does this matter more now that AI can answer our questions?",
+    "a": "Because helping is also how we learn: the helper gains, not only the person who is stuck. The post sees LLMs as a reminder to make an extra effort to build relationships and communities that belong to us, where people still stop for each other."
+   },
+   "imageUrl": "https://storage.ghost.io/c/eb/aa/ebaa2665-01a8-4415-8825-69d1f0e8fd19/content/images/size/w1200/2026/09/helping-each-other-repair.jpg",
+   "deepLink": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+   "attribution": "via Lobsters",
+   "publishedAt": "2026-09-26T06:02:48.079-05:00"
+  },
+  {
+   "id": "psypost-wuc0b8",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "If the world feels dangerous, strangers look dangerous too",
+   "body": "People who believe the world is a dangerous place guess that murders, assaults and bear attacks are far more common than other people guess. They also see calm, neutral faces of strangers as less trustworthy and more aggressive. This belief predicted their judgments better than anxiety or depression did.",
+   "evidence": "four studies · n=457, 881, 599, 979 · American adults · surveys at one point in time",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "How many bear attacks happen in the United States each year? What is the murder rate? Most of us don't know, so we guess. The guess says something about us.\n\nPsychologists Nicholas Kerry and Jeremy Clifton study what they call primal world beliefs: a person's deepest, broadest views about reality. Is the world beautiful or ugly? Is there plenty, or too little? Is it fair? There are 26 of these beliefs, in four big families. One family asks a simple question: is the world basically safe, or basically dangerous?\n\nEarlier research found that people who think the world is fair also see specific places, like their office or a sports match, as fairer. Kerry and Clifton asked if the danger belief works the same way. Does a vague feeling that the world is dangerous leak into everyday judgments?\n\nIn the first study, 457 American adults guessed how common 12 real dangers were, from murder and assault to bear attacks. People in the top fifth for danger belief guessed these events were more than four times as common as people in the bottom fifth did. The belief predicted their guesses better than anxiety, depression or personality did.\n\nThe second study, with 881 adults, made the picture sharper. Again, the danger believers guessed too high for physical dangers. But for disease risks, they guessed only a little high. For good or neutral events, like winning money, they did not guess high at all. So this is not general gloom. It is a lens tuned to physical threat. The pattern was the same whether people guessed for themselves or for the average American. It is less a personal fear than a picture of how the world is.\n\nNext, the researchers looked at how people judge other people. In studies three and four, almost 1,600 adults rated photos of strangers with neutral faces. People who saw the world as dangerous rated the faces as less trustworthy, less warm and less happy. They also saw the strangers as more aggressive and more of a threat to society. The fourth study used Black and White faces, rated by equal numbers of Black and White participants, and the pattern held. In some cases, the link with warmth and happiness ratings was stronger among Black participants, whatever the face's race.\n\nOne twist: in study three, some people were told the person in the photo had committed a crime. This did not make the danger believers react more strongly than anyone else. The belief shaped how they judged faces that showed no sign of danger.\n\nAll these effects appeared where facts were thin: guessing numbers, reading strangers. When there is little to go on, a belief about the whole world may fill the gap."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Each study measured everything at one point in time. So it cannot show that the danger belief causes the high guesses. An unknown third factor could drive both. The situations were unclear on purpose. With clear safety signs, familiar people or easy facts, the belief may matter less. The danger belief was also not linked to people's real history of risky behavior, like extreme sports or risky investments. All participants were American adults."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "When the facts run out, we fill the gap with the world we already believe in."
+    }
+   ],
+   "recall": {
+    "q": "What did people who see the world as dangerous overestimate, what did they not overestimate, and what does that difference show?",
+    "a": "They guessed physical dangers like murder and bear attacks were far more common than they are, and they read neutral strangers as less trustworthy and more aggressive. They guessed only a little high on disease risks, and not high at all on good events. So the belief is not general gloom. It is a lens tuned to physical threat."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/03/anxious-woman.jpg",
+   "deepLink": "https://www.psypost.org/how-a-dangerous-worldview-shapes-our-perception-of-everyday-threats/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sat, 26 Sep 2026 11:00:11 +0000"
+  },
+  {
+   "id": "psypost-j7q8h9",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Looks and morals shape our empathy at different speeds",
+   "body": "When people saw someone in pain, the sympathy they reported followed that person's moral history. Criminals got far less than blood donors. But brain recordings suggest that looks work quietly underneath, changing our reaction at different moments within the first second.",
+   "evidence": "single study · n=24 · EEG + self-report ratings",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A photo shows a finger caught in a door. Above it is a face you know by heart. The news story you learned says this person gives blood. Or it says this person attacked people on the street. How much do you wince?\n\nPsychologists split empathy into two parts. The first is emotional: the fast, automatic wince when someone else gets hurt. The second is cognitive: the slower thinking about who the person is and why they suffer. A team led by Jiangyao Liu at South China Normal University asked when two social cues step in along that path. One cue is looks. The other is moral history.\n\nThey made faces by blending photos of ordinary students with photos of celebrities. Some faces came out very attractive and some less so. Each face got a made-up news story: a blood donor, a criminal who attacked people walking on the street, or no story at all. Twenty-four university students learned the pairs until they made no mistakes. Then they saw the faces next to painful and non-painful scenes. Sensors on their heads tracked event-related potentials. These are spikes of brain electricity that appear a set number of milliseconds after we see something.\n\nWhen asked afterwards, students felt far less empathy for criminals than for donors or strangers. But beauty softened the verdict. An attractive criminal got more sympathy than a plain one.\n\nThe brain showed a richer timeline. At about 120 to 150 milliseconds, a wave linked to first attention was bigger for strangers. The researchers suggest that not knowing if someone is a friend or a threat pulls in extra attention.\n\nAt 220 to 270 milliseconds, the wave tied to automatic emotional sharing was stronger when pain came with a less attractive face. One possible reason: deep down, plainer people may seem to need more help, while attractive people are assumed to cope well.\n\nThe last wave, at 600 to 800 milliseconds, reflects slow, careful judgment. Here the two cues traded places. When moral history was unknown, attractive faces got the bigger pain response. Looks filled the gap. When the person was clearly a donor or a criminal, looks mattered less, and less attractive faces now got the bigger response. The team reads this as extra mental effort, especially when trying to feel for someone society rejects.\n\nSo the picture has layers. Moral judgment rules the sympathy people report. Beauty works more quietly, and it pushes in different directions at different moments within the first second."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Only 24 students took part. That is too few to reliably catch small effects across many subgroups, and some of the smaller comparisons were not statistically significant. The faces were digitally blended, so they may feel less real than true faces. Late brain waves are also hard to read: they may reflect attention, memory or effort, not empathy itself. Larger studies need to repeat this."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Our stated sympathy follows what a person has done. Our fastest reactions are still watching their face."
+    }
+   ],
+   "recall": {
+    "q": "In this study, what ruled the sympathy people reported, and how did attractiveness act differently?",
+    "a": "Moral history ruled what people reported: criminals got much less empathy, though attractive criminals got a little more than plain ones. In the brain, looks worked quietly and pushed in different directions at different moments. For example, late in the first second, looks filled the gap when a person's moral history was unknown."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/06/brainimg1.jpg",
+   "deepLink": "https://www.psypost.org/how-good-looks-and-good-deeds-alter-the-brain-s-reaction-to-pain/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sat, 26 Sep 2026 15:00:19 +0000"
+  },
+  {
+   "id": "neuro-news-m8cng2",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Menopause leaves a blood signature linked to later Alzheimer's",
+   "body": "During menopause, 16 proteins in the blood shift together, and they follow hormones more closely than age. Older women with high levels of these same proteins had weaker memory and a 15% higher risk of Alzheimer's. The researchers do not think menopause causes dementia. But these proteins might one day warn of the risk decades early.",
+   "evidence": "single study · midlife n=80, replication n=2,814, older cohorts n=11,925 · association, not cause",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two out of every three people diagnosed with Alzheimer's are women. For years, the easy answer was that women live longer. But that never fully explained the gap.\n\nResearchers had another suspect: midlife. Alzheimer's damage builds up quietly for decades before memory starts to fail. Menopause is a big hormonal change in exactly that window. Many women also report \"brain fog\" during it, along with hot flashes, poor sleep and anxiety.\n\nA team at UC San Francisco and the University of Toronto looked for this in the blood. They did not treat menopause as one day, the last period. Instead they sorted 80 women aged 43 to 58 into stages: before, during and after the change. The staging system is called STRAW+10.\n\nThey measured more than 100 blood proteins linked to brain damage, inflammation and blood vessels. Inflammation is the body's alarm response. When it stays switched on, it can harm tissue. Sixteen proteins moved together across the stages. They were tied to inflammation, synapses (the links between brain cells), metabolism (how the body uses energy) and Alzheimer's biology. The key finding: these shifts followed hormone levels more closely than age.\n\nThe pattern held up in 2,814 more women from the UK Biobank, a large health database. There, menopause was also linked to signs that organs and cells, the brain included, were aging faster.\n\nNext, the team checked nearly 12,000 women in their 60s and 70s from four older studies. Those with the highest levels of the 16 proteins had poorer memory and thinking. Their risk of Alzheimer's was 15% higher.\n\nSymptoms mattered too. Women with severe night sweats showed the biggest jump in inflammation proteins. Older women who remembered bad night sweats from midlife still showed that sign decades later.\n\nMen showed a similar protein pattern in an early analysis. But in men it built up slowly over decades. In women it came fast. So menopause may work like a period of sped-up aging, not a new kind of damage.\n\nThe researchers are careful here. One senior author, Kaitlin Casaletto, says they do not think menopause directly causes dementia. The hope is that protein levels around menopause could predict risk decades ahead. The team wants to turn the 16 proteins into a routine blood test, like the cholesterol test that checks heart risk in midlife."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This shows a link, not a cause. The midlife group was small, just 80 women. The older women were different people, so nobody here was followed from menopause to old age. The night-sweat link in older women depends on what they remembered. The men's result is only early, and a 15% higher risk is a small rise. Casaletto's new Longitudinal Menopause Project will follow women through the whole change, with frequent blood tests, brain scans and wearable monitors."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Menopause may not break the brain. But it may be the moment when the brain's future first shows up in the blood."
+    }
+   ],
+   "recall": {
+    "q": "What did the 16 blood proteins follow more closely during menopause, and why don't the researchers say menopause causes dementia?",
+    "a": "They followed hormone changes more closely than age. In older women, high levels went with weaker memory and a 15% higher Alzheimer's risk. But that is a link, not proof of cause. So the researchers see the proteins as a possible early warning, not proof that menopause harms the brain."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/09/Menopause-Transition-May-Hold-the-Key-to-Dementia-Risk-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/molecular-link-between-menopause-and-alzheimers-risk/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Fri, 25 Sep 2026 20:04:49 +0000"
+  },
+  {
+   "id": "mit-neuro-4qxsra",
+   "source": "mit-neuro",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "What words in a crisis text signal the highest suicide risk",
+   "body": "An MIT team built a tool that reads crisis text conversations and estimates suicide risk from the words people use. Talk of pills, cutting, and drugs pointed to the highest risk more strongly than talk of sadness or tiredness.",
+   "evidence": "single study · ~16,000 de-identified crisis text conversations · risk levels from Crisis Text Line assessments",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two words can show up in a crisis text: \"hopeless\" and \"pills.\" The first sounds sadder. But a new tool from MIT's McGovern Institute gives much more weight to the second.\n\nThis matters because suicide attempts are very hard to predict. About 50 risk factors are linked to suicide. They include depression, trauma, poverty, prison, discrimination, and loneliness. They act on each other in ways no one fully understands. Even clinicians, the trained mental health experts, struggle to tell who will actually make an attempt.\n\nDaniel Low and Satra Ghosh wanted to know which signs counselors should watch most. They worked with Crisis Text Line, a free, 24-hour service where trained volunteers text with people who are struggling. The team studied about 16,000 conversations, with names and personal details removed. Crisis Text Line had already sorted them into three levels: not suicidal, suicidal thoughts without immediate danger, and imminent risk. Imminent risk means the person has a plan, or intends to die within the next 48 hours.\n\nFirst, the team built a lexicon, which is a special word list. AI wrote a first draft of words and phrases tied to 49 known risk factors. People then checked and trimmed it, and expert clinicians confirmed each entry. The final list has about 60 words or phrases for each factor.\n\nNext, they trained a machine learning model, a program that learns patterns from examples. It searched each conversation for words from the list and used them to predict the risk level. Every word links to a risk factor, so the team could see which factors mattered most.\n\nThe results fit earlier research, but not always in the way you would expect. Talk of lethal means, meaning ways to kill oneself such as \"cut\" or \"pills\", came up more in the highest-risk group than talk of depressed mood or fatigue. So did talk of drug and alcohol use. Active suicidal thoughts and self-injury were also strong signals. Anxiety, PTSD, and emotional pain sat in the middle. Hopeless phrases like \"don't know what to do\" counted for less. The model also predicted risk well in new conversations it had never seen.\n\nThe data also has an advantage. Most past research used surveys that asked people to remember their crisis afterward. These texts were written during the crisis itself.\n\nThe model is small. It runs on an ordinary laptop, which keeps costs low and data private. It can also explain itself. It flags the exact words behind each score, so a counselor can see why it raised an alarm. Ghosh says a \"human in the loop\" will stay critical for a long time."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study. The model learned to match Crisis Text Line's own risk ratings. A word list also misses context. It cannot tell \"cut\" in a cooking story from \"cut\" in a crisis, and it misses similar words that are not on the list. The researchers say it needs full testing before any clinical use. It may also need updates as the way people talk changes."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "text": "The team built a list of about 60 words for each of 49 suicide risk factors, checked by clinicians.\n\nWords about ways to die, like pills or cutting, and about drug and alcohol use were stronger warning signs than words about sadness.\n\nThe tool shows which words drove its score, so a human can check it and act."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "In a crisis, how sad someone sounds tells you less than whether they mention a way to die."
+    }
+   ],
+   "recall": {
+    "q": "Which kinds of words most strongly marked the highest-risk group, and why does it matter that the tool shows its reasons?",
+    "a": "Words about lethal means, like \"pills\" or \"cut\", and about drug and alcohol use marked imminent risk more strongly than words about depressed mood, fatigue, or hopelessness. The tool flags the exact words behind each score, so a human counselor can see its reasoning, check it, and decide what to do."
+   },
+   "imageUrl": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-mcgovern-suicide.jpg?itok=Zo0kabFj",
+   "deepLink": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+   "attribution": "MIT News",
+   "publishedAt": "Thu, 24 Sep 2026 17:00:00 -0400"
+  },
+  {
+   "id": "mit-neuro-1h3fj0h",
+   "source": "mit-neuro",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "How the brain re-sorts options after you choose",
+   "body": "While an animal weighed two options, its prefrontal neurons kept them apart by the order they appeared in. Once it chose, the neurons regrouped and sorted the same options into winner and loser. The brain did not throw away the option it rejected.",
+   "evidence": "single study · 2 animals · hundreds of neurons recorded",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "First, a target appears on one side of a screen. Then comes a sign of what it is worth. Next, a second target appears, followed by its value. The animal wins by looking toward the target that pays more.\n\nThis simple game, run in Earl Miller's lab at MIT, hides a hard problem. Before the choice, the brain must hold two options without letting them blur together. After the choice, it must know which one won and still remember the one that lost.\n\nThe team recorded hundreds of neurons in the lateral prefrontal cortex. This region near the front of the brain links options, values and actions. Software then decoded their electrical activity. The neurons did not act alone. They worked in ensembles: groups of neurons firing in a shared pattern. Each pattern carried one piece of the decision, such as a target's direction or its value.\n\nTo compare these patterns, the researchers drew each one as a flat plane on a 3D graph. When two planes are parallel, the brain is coding those things in the same way. When they sit at right angles (\"orthogonal\"), the brain is keeping them fully separate.\n\nBefore the choice, the brain sorted the options by order. Every \"first target\" plane lay parallel to the other first-target planes. The same was true for second targets. But the firsts and the seconds sat nearly at right angles to each other. The two options were kept in two separate drawers.\n\nAfter the choice, the brain rebuilt its drawers. New ensembles formed, and now they sorted by outcome. All the chosen targets lined up together, whether they had come first or second. The unchosen targets also lined up with each other, at right angles to the winners.\n\nWhy rebuild? The authors suggest that one tidy code for \"chosen\" helps the next step. The areas that move the eyes could read the winner's location in one single way, without caring whether it came first or second. The brain also kept the losing option. Miller says this may help learning, because later the brain can work out which choice actually paid off.\n\nThere was one more surprise. The ensembles were not fixed teams. A neuron that tracked option 2 in one round could track option 1 in the next. The groups were built on the spot from neurons that can do many jobs. As Miller puts it, this keeps different thoughts \"distinct from one another.\""
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study of two animals playing one lab game. The source does not say what species they were. The idea that the new code makes things easier for eye-movement areas is the authors' reading. The idea that keeping the loser helps learning is Miller's suggestion. The study did not test either idea directly."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Before you choose, the brain files your options by order. After you choose, it files them as winner and loser, and it keeps the loser too."
+    }
+   ],
+   "recall": {
+    "q": "How did the brain organise the two options before the choice and after it, and why might the change help?",
+    "a": "Before the choice, neuron groups kept the options apart by the order they appeared in (first versus second). After the choice, new groups sorted them into chosen and unchosen, so every winner was coded the same way. The authors suggest this lets the eye-movement areas read the winner in one single way. Keeping the loser may help later learning."
+   },
+   "imageUrl": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/decision-making-00.jpeg?itok=H57KB4ap",
+   "deepLink": "https://news.mit.edu/2026/how-brain-keeps-its-options-straight-at-decision-time-0922",
+   "attribution": "MIT News",
+   "publishedAt": "Tue, 22 Sep 2026 16:00:00 -0400"
+  },
+  {
+   "id": "finshots-1qwvere",
+   "source": "finshots",
+   "topic": "econ",
+   "kind": "news",
+   "title": "SEBI tests putting corporate bonds on a blockchain",
+   "body": "India's bonds are already digital. So why put them on a blockchain? SEBI's new pilot is not about the bond itself. It is about the many middlemen who must agree on every trade.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "SEBI, India's market regulator, has started a pilot for tokenised corporate bonds. It runs under its new framework, Demat 2.0. A corporate bond is a loan you give a company, and the company pays you interest. Tokenising turns that bond into a digital token on a blockchain, which is a shared record that many parties can see.\n\nIndian bonds already sit in demat accounts, the electronic accounts that hold your shares and bonds. The real problem is the system behind them. Every trade needs registrars, depositories and banks to work together. If one step goes wrong, people check the records by hand, and that is slow.\n\nA token puts the bond's terms into a smart contract: code that runs by itself. Payments then happen automatically, without passing through all those layers."
+    },
+    {
+     "label": "The catch",
+     "style": "note",
+     "text": "Finshots notes that this convenience comes with tradeoffs. The pilot must show whether tokenised bonds fix real problems in India's debt markets, or just move the risk somewhere new."
+    }
+   ],
+   "recall": {
+    "q": "Indian bonds already sit in demat accounts. So what problem is SEBI's tokenised bond pilot trying to fix?",
+    "a": "The slow system behind each trade. Registrars, depositories and banks must work together on every trade, and any error leads to slow checks by hand. A smart contract holds the bond's terms and makes payments automatically, skipping those layers."
+   },
+   "imageUrl": "https://cdn.finshots.app/images/2026/09/weekly-wrapup5.jpg",
+   "deepLink": "https://finshots.in/archive/the-orient-cables-ipo-indias-falling-rice-output-and-more/",
+   "attribution": "Finshots",
+   "publishedAt": "Sat, 26 Sep 2026 01:30:03 GMT"
+  },
+  {
+   "id": "acx-hraaoy",
+   "source": "acx",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Lee Kuan Yew: how a poor, tiny island got rich",
+   "body": "Lee Kuan Yew took a small, divided island with no natural resources and made it one of the richest countries in the world. His memoirs show his method: cold, practical choices, driven by a constant fear that Singapore could fall apart. That same fear explains the hard control that came with it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Japanese soldiers have gathered the young Chinese men of Singapore in a stadium. After three days, a young man called Harry Lee is told to leave through one gate. Something feels wrong. He says he forgot his coat, walks back, and disappears into the crowd. The next day he leaves through a different gate. Nobody stops him.\n\nThe men who went through the first gate were taken to the beach and shot. This was the Sook Ching massacre. It killed tens of thousands of young Chinese men. Decades later, as Prime Minister, the same man asked Japanese companies to build factories in Singapore. He even praised how organised they were. The reviewer says this shows who he was: not even a massacre could get in the way of what his country needed.\n\nLee wrote his memoirs in two books. The Singapore Story covers his rise to power. Third World to First covers his 25 years running the country. An anonymous reader reviewed them for the blog Astral Codex Ten. The reviewer calls them partly a \"rationalist power fantasy\". This is the dream that a clever person could take charge, pass sensible policies, explain them clearly, and have it all work. For Lee, it mostly did. His party won huge majorities for decades.\n\nHis central idea grew out of fear. Singapore had not planned to stand alone. It became fully independent only after Malaysia pushed it out. It was tiny, surrounded by big neighbours, and losing the British naval base that gave many people their jobs. So Lee made survival the goal behind everything. He built an army fast, even with little money. He sold people flats at much lower prices. Lee knew this was not the best economic choice. The real point was to give people with no strong national identity something to fight for.\n\nThe economy followed the same logic. At the time, poor countries were usually told to use import substitution: make at home the goods you used to buy from abroad. Singapore's home market was too small for that. So it built industries that sold to other countries instead. Economists now think this was the better path. Singapore also chased foreign investment. It made rules simple and built ports and industrial zones. Lee met foreign company bosses himself. The government fought corruption slowly across the whole system, and it cut permits that invited bribes.\n\nThe cost was control. The political writer James Scott warned that governments like to force messy life into neat, countable order. The reviewer says Lee used this warning as an \"instruction manual\". Winding roads became a grid. Many Chinese dialects gave way to four official languages, and schools taught in English. Families moved from homes with farm animals into tidy flats. Street food sellers were moved into fixed food centres called hawker centres. By law, every neighbourhood had to be racially mixed. Lee also cracked down hard on unrest linked to the communists and weakened the trade unions. One economic adviser told him that if he kept the unions, he could forget about development.\n\nThere was luck, too. For a while, the Vietnam War made Singapore a supply hub for the Americans. But the reviewer's deeper lesson is about will. Much of growing an economy, the reviewer argues, is simply wanting it badly and believing it can be done."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is Lee telling his own success story, retold by a reviewer who admires him. Critics barely appear. The costs, like weaker unions, crushed dissent, and whole communities moved into new homes, reach us mostly as Lee chose to describe them."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Singapore did not take bold steps because it loved new ideas. It took them because it was afraid of falling apart."
+    }
+   ],
+   "recall": {
+    "q": "Why did Lee's government sell people cheap flats, and what does this show about how he ran Singapore?",
+    "a": "Lee knew cheap flats were not the best economic choice. He wanted people with a weak national identity to have something to fight for. This shows his core logic: in a small, fragile country, every policy served survival, even when it meant heavy state control."
+   },
+   "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3d745943-c11a-4ff0-9c6a-aaf91333ac9f_2546x2560.jpeg",
+   "deepLink": "https://www.astralcodexten.com/p/your-book-review-lee-kuan-yews-memoirs",
+   "attribution": "Astral Codex Ten",
+   "publishedAt": "Fri, 25 Sep 2026 22:26:10 GMT"
+  },
+  {
+   "id": "marginalian-iw9fei",
+   "source": "marginalian",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Nietzsche: no one can build your bridge for you",
+   "body": "The young Nietzsche says finding yourself is not digging down. It is climbing up. List what you have truly loved, and the list becomes a ladder. Good teachers don't build you; they clear the weeds.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A hare has seven skins, Nietzsche writes. A person could peel off seventy times seven layers and still not be able to say: this one is the real me. He wrote this in 1873, when he was almost thirty, in an essay called Schopenhauer as Educator.\n\nThis is not the cold, sharp voice of our daily Beyond Good and Evil installment. It is the young, hopeful Nietzsche, writing about happiness and freedom. Here is the heart of the essay:\n\n\"No one can build you the bridge on which you, and only you, must cross the river of life.\"\n\n\"No one can build you the bridge.\" The key word is build. Others can give advice, but no one can do the work for you. Just before this line, he says that anyone who does not want to be one of the crowd need only stop making things easy for himself. The bridge is hard on purpose.\n\n\"You, and only you.\" One \"you\" would be enough. He says it twice to shut the door on excuses. In the next sentence he admits that ready-made bridges are everywhere. There are even demigods, or half-gods, who would gladly carry you across. But the price is pawning yourself. To pawn something is to hand it over for a loan, and often you never get it back.\n\n\"The river of life.\" You cross a river by moving. He never promises what waits on the other side. Where does the path lead? His answer: stop asking, and walk.\n\nSo how do you know which bridge is yours? Looking deep inside yourself is risky, he warns. You can give yourself wounds that no doctor can heal. So he offers a gentler method. Ask what you have truly loved so far. What has lifted your soul and delighted it at the same time? Put those things in a row. Together they may show a law, like the steps of a ladder you have been climbing. Then comes the twist. Your true self is not buried deep inside you. It stands high above the person you usually call \"I\".\n\nThis changes what teachers are for. Real culture, he says, does not hand you artificial limbs or a wax nose, fake parts stuck on from outside. Instead it pulls weeds, clears away rubble, and chases off the pests that attack young shoots. In his words, \"your educators cannot go beyond being your liberators.\" A good teacher does not make you. They free what is already there, trapped and hard to reach.\n\nHe is honest about his limits. There may be other ways to wake up to yourself, he says. He just knows none better than thinking about the people who shaped you. Without this freedom, a person squints to the left, to the right, backwards, in every direction except their own. The cure is not more looking around. It is building your own crossing."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Name three things that both lifted you and delighted you: a book, a person, a piece of work. Ask what they share.",
+      "Notice when you check left and right before a choice. Nietzsche calls that squinting.",
+      "Think of your best teacher. Did they add something to you, or clear something away?"
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Your true self is not buried below you. It is the next step up the ladder of what you have loved."
+    }
+   ],
+   "recall": {
+    "q": "Where does Nietzsche say the true self is found, and what does that mean a good teacher can do?",
+    "a": "Not deep inside you, but high above you. List what you have truly loved, and the list forms a ladder you have been climbing. So a teacher cannot build a self for you. They can only free you, like pulling weeds away from a young plant."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/09/schopenhaueraseducator.jpg?w=680&#038;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/25/nietzsche-find-yourself-schopenhauer-as-educator/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Fri, 25 Sep 2026 17:50:03 +0000"
+  },
+  {
+   "id": "nautilus-sgxwqi",
+   "source": "nautilus",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "How fast you age in your 40s may predict memory slips later",
+   "body": "In a study of 232 adults, the ones whose bodies were aging faster in their 40s forgot more planned tasks about ten years later. Their biological age did not predict this. Only their speed of aging did.",
+   "evidence": "single study · n=232 · self-reported memory lapses · correlational",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "At ten at night, a pill is still sitting in its strip on the kitchen counter. You meant to take it at dinner. You didn't forget where the pill was. You forgot to do the thing you had planned.\n\nPsychologists call this a prospective memory lapse, which means forgetting a future task. It is different from a retrospective lapse, where you forget something from the past, like where you put your keys. Researcher David Almeida says prospective lapses happen less often but can be more serious. Losing your keys is annoying. Missing medicine doses or doctor's visits can do real harm.\n\nA team at Penn State wanted to know if the body's aging could predict these slips. In the 2000s, they took blood from 232 adults who were in their 40s. They tested the blood with three molecular clocks. These are tools that estimate how old your body is from chemical signs in your blood. Two clocks gave a biological age: how old the body seems, whatever the birthday says. The third clock, called DunedinPACE, measured something else: how fast the body is aging right now. It was built by following about 1,000 people since the 1970s and checking 19 signs of organ health every year.\n\nAlmeida uses a car to explain the difference. Most clocks are like an odometer. They show how far you have already gone. DunedinPACE is like a speedometer. It shows how fast you are going.\n\nAbout ten years later, the researchers called the same people eight times. They asked how often each kind of memory lapse happened and how much it got in the way of daily life.\n\nThe odometers predicted nothing. Biological age did not match memory lapses at all. The speedometer did. People who were aging faster in midlife were 18 percent more likely to have a prospective lapse. The researchers say that could mean forgetting something on about five more days each month. Earlier research has linked frequent prospective lapses with dementia later in life, so these slips may be an early sign of it.\n\nThe researchers don't say anyone is doomed. They say midlife, a busy and stressful time, is when you should notice changes in your thinking and tell your doctor about them. Almeida points out that cognitive decline, meaning worse memory and thinking, has many physical causes, from poor blood flow to lack of sleep. Many of these causes can be treated, and catching them early could help for decades."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study of 232 people. It shows a link, not a cause: fast aging went with more memory slips, but the study cannot show that one caused the other. The lapses were self-reported, meaning people described their own memory over the phone. The dementia link comes from earlier research, not from this study."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "How far your body has come told the researchers nothing. How fast it was going told them something."
+    }
+   ],
+   "recall": {
+    "q": "Which measure of aging predicted memory lapses ten years later, and what kind of lapse was it?",
+    "a": "Only the pace of aging, measured by the DunedinPACE \"speedometer\" clock, predicted them. Biological age, the \"odometer\", did not. Faster agers were 18 percent more likely to have prospective lapses, meaning they forgot planned tasks like taking medicine."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2198250641.jpg?w=564",
+   "deepLink": "https://nautil.us/how-fast-you-age-during-40s-may-predict-memory-lapses-in-your-50s-1285315/",
+   "attribution": "Nautilus",
+   "publishedAt": "Sat, 26 Sep 2026 12:00:00 +0000"
+  }
+ ]
+}
