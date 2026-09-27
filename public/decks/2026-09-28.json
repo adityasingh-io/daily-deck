@@ -1,0 +1,902 @@
+{
+ "date": "2026-09-28",
+ "generatedAt": "2026-09-27T19:44:15.710Z",
+ "cards": [
+  {
+   "id": "letter-2026-09-28",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "What lies beneath the surface",
+   "body": "Many of today's pieces look under the surface: blood tests that get better while the pain stays, a novel that finds a crowd of selves inside one person, and a book that ends by calling every word a mask. If you read only one thing, read the piece on why autism diagnoses keep rising. Its answer is not exciting, and that is exactly why you can trust it more than any headline.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "psypost-dzufn4",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why autism diagnoses keep rising: the real answer",
+   "body": "Autism diagnoses have climbed for decades, up 787 percent in twenty years in UK family doctors' records. But when one study checked every child the same way, year after year, the share of autistic children stayed flat. What grew was the label, not the condition.",
+   "evidence": "review of 14 papers (2011–2026) · key screening study n=62,081 · one city · most data are diagnosis counts",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Picture a chart of autism diagnoses in family doctors' records in England and Northern Ireland, from 1998 to 2018. The line does not climb. It shoots up: 787 percent in twenty years. In the United States, a national survey suggests nearly four percent of children now have the diagnosis.\n\nSo what changed? Many people reach for the word \"epidemic\": more children really becoming autistic. A PsyPost review of fourteen papers, published between 2011 and 2026, tests that idea. Most of the evidence points to a quieter answer.\n\nStart with a detail that does not fit an epidemic. If more young children were becoming autistic, or doctors were just spotting it earlier, the average age at diagnosis should fall. In the UK records it rose, from 9.6 years to 14.5. The fastest growth was among adults and women. Vaccines, often blamed, fail too. Reviews covering 67 studies found no link at all.\n\nThe key is what is being counted. Most numbers are diagnosed cases: people who have been given the label. That is not the same as the number of people who meet the criteria (the official checklist for autism) when everyone is checked the same way. And no study can count true biological cases, because there is no biological test for autism.\n\nOnly one study in the collection measures the second thing. In one South Korean city, researchers screened 62,081 children starting school. They used the same methods across twelve birth years. About 2 to 3 percent met the criteria, and that share stayed flat. What changed was how many of those children already had a diagnosis. The autism was there all along. The label was catching up.\n\nThree forces seem to move the label. First, wider definitions. In 1994 the main diagnostic manual added Asperger's disorder. One California study linked 26.4 percent of that state's rise to changes in criteria alone. Second, money. In Australia, a government scheme tied disability funding to a diagnosis. Researchers estimate this raised reported autism by 32 percent. Third, more screening and awareness. Many of the Korean children found through screening had never seen a doctor about autism.\n\nThe kind of case changed too. In Sweden, the share of diagnosed people who also had an intellectual disability (serious limits in learning and reasoning) fell from over 55 percent in 2001 to under 7 percent in 2020. The net now catches much milder forms.\n\nSome questions remain open. Scientists disagree about who the newly diagnosed are. Some see a catch-up: girls and women missed for decades are finally being seen. Others, like the psychologist Uta Frith, worry about wrong labels. Some adults with trauma, ADHD, or personality disorders may be called autistic, and so miss the treatment that would help them. Some risk factors, like older parents and obesity in mothers, have also become more common, so a small real rise is possible. The UK authors say a true increase cannot be fully ruled out."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The strongest evidence, the Korean study, covers a single city. Only about 42 percent of children who screened positive finished the full assessment; a computer model estimated the rest. Most other figures are diagnosis counts, some from parent surveys where only about half of parents answered. One Australian author was on unpaid leave from the agency that runs the funding scheme."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A rising count can mean we are looking harder, not that there is more to find."
+    }
+   ],
+   "recall": {
+    "q": "What did the South Korean screening study find, and why does it suggest the rise in autism is mostly about diagnosis?",
+    "a": "It checked every child the same way across twelve birth years and found the share who met autism criteria stayed flat, at about 2 to 3 percent. What grew was how many of those children already had a diagnosis. So most of the rise comes from wider criteria, funding rules, and more screening and awareness, not from more autism."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/brain-puzzle.jpg",
+   "deepLink": "https://www.psypost.org/why-is-autism-increasing-scientists-are-converging-on-an-unglamorous-answer/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 27 Sep 2026 18:00:35 +0000"
+  },
+  {
+   "id": "daily-phil-t0l0in",
+   "source": "daily-phil",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Is morality only in your head? Sartre says no",
+   "body": "People who save someone from a fire or a river usually don't stop to think first. Sartre argued that this is not a failure of ethics. The moral demand is already there in the situation. The thinking self often just gets in the way.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Smoke is pouring from a window. A man walking past runs through the door before he has decided anything. He comes out pulling a person who has passed out. People call him a hero. He shakes his head. He says he \"just did what needed to be done.\"\n\nThat shrug is where this argument begins. Here it is as a conversation.\n\nSkeptic: Surely morality lives in the head. You see the facts, you think about right and wrong, then you choose. Where else could it be?\n\nAnswer: That is the standard Western picture. Good action comes from careful thinking and from following moral rules. It needs a separate self that stands back and judges. But the man at the fire did none of that. He was afraid, and his own safety mattered to him. Both took a back seat. He was not stuck in his head. He was fully inside the scene, and the scene asked him to act.\n\nSkeptic: That's just instinct. It's nice, but it isn't ethics.\n\nAnswer: Jean-Paul Sartre would disagree. He wrote a short book called The Transcendence of the Ego. The ego is the central \"me\" we imagine sitting behind our experience. Sartre argued that our mind is not built around this \"me\". For him, meaning shows up in the world before we think about it, and that includes moral meaning. We do not first see plain facts and then add a moral label. A drowning child already looks like someone who must be saved. The demand is part of how the situation appears to us. Our job is to get out of the way, so the right response can flow.\n\nSo the hero was not empty of morality. His morality was out there, in the danger and in the person who needed him. It was not a private calculation.\n\nSkeptic: Fine for fires and floods. But most of my moral life is not an emergency. It is a tired colleague, a rude message, a parent who calls too often. In those moments the \"me\" is always there. It worries and counts the cost. Your theory only works when there is no time to think.\n\nAnswer: That is a fair hit, and the essay admits it. Sartre explains how this moral openness works. But he gives no method for reaching it on an ordinary day, when selfish thinking often blocks a kind response. For that method, the author turns to another thinker, Douglas Harding. The essay says you can test the idea right now, in your chair, just by paying close attention to your own experience. Buddhism also links selflessness and compassion, but you don't need to accept Buddhism to follow the argument.\n\nSkeptic: One more. If no self is doing the choosing, who is responsible? Praise, blame and apologies all need someone at the centre.\n\nAnswer: The essay does not try to settle this. Its claim is narrower. Moral action does not need careful thought or a sense of being a separate self, and those things may often get in the way. But look at the hero again. He did the act, yet he refuses the title of hero. Even he does not feel like its author.\n\nSo the question stays open. If our best acts happen when the self steps aside, who exactly are we praising? And when we fail, who are we blaming?"
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "The standard Western view: good action comes from careful thinking by a separate self.",
+      "Everyday heroes act without that. They are absorbed in the scene, not stuck in their heads.",
+      "Sartre: moral meaning is already in how the world appears, before we think. Our job is to get out of the way.",
+      "The weak spot: most moral demands are not emergencies, and Sartre gives no method for ordinary days."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Sometimes the right thing is already in front of you, and the only thing in the way is you."
+    }
+   ],
+   "recall": {
+    "q": "According to Sartre, where does the moral demand in a situation come from, and what weakness does the essay admit in his view?",
+    "a": "The demand is already part of how the situation appears to us, before we think about it. We don't add it by thinking, so we only need to get out of the way. The weakness: Sartre gives no method for reaching this openness in ordinary, non-emergency life, where selfish thinking often blocks a kind response."
+   },
+   "imageUrl": "https://daily-philosophy.com/brentyn-ramm-morality-beyond-the-head/featured-1200px.jpg",
+   "deepLink": "https://daily-philosophy.com/brentyn-ramm-morality-beyond-the-head/",
+   "attribution": "Daily Philosophy",
+   "publishedAt": "Sun, 27 Sep 2026 14:21:39 +0800"
+  },
+  {
+   "id": "book-beyond-good-evil-12",
+   "source": "book-engine",
+   "topic": "books",
+   "kind": "deepdive",
+   "title": "Day 12 · The mask, the laugh, the farewell",
+   "body": "The book ends here, and it ends by explaining itself: books are written to hide what is in us, every word is a mask, and behind every cave in a man there is a deeper cave. Then Nietzsche names the god he has been serving all along, laughs at everything serious, says goodbye to his own thoughts, and calls out for new friends.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Some people cannot hide that they are clever. They twist, they cover their eyes with a hand — \"as though the hand were not a betrayer\" — and it still shows. So Nietzsche offers the best disguise he knows, and it is a joke with a blade in it: enthusiasm. Be warm, be loud, be full of virtue, and people will file you under harmless. He borrows Galiani's line, from a man \"who was obliged to know it\": VERTU EST ENTHOUSIASME. Virtue is enthusiasm.\n\nThen comes the passage that explains the whole book. He describes how a recluse's writing sounds. A man who has sat alone with his soul \"from year's end to year's end\" becomes \"a cave-bear, or a treasure-seeker, or a treasure-guardian and dragon in his cave,\" and his ideas take on a twilight colour and a smell of mould. Such a man does not believe that books tell the truth about their author: \"are not books written precisely to hide what is in us?\" He goes further. He doubts a philosopher can have final opinions at all, because \"behind every cave in him\" there is a still deeper cave, an abyss under every bottom. So every philosophy is a front. The thinker stopped digging somewhere and called that spot the foundation — and the stopping was arbitrary, and \"there is also something suspicious in it.\" Every opinion is a hiding place. Every word is a mask. His own words too, which is the trap and the gift of reading him.\n\nWhy hide? The next line gives a reason you may not expect. \"Every deep thinker is more afraid of being understood than of being misunderstood.\" Misunderstanding only wounds vanity. Being understood wounds the heart, because now another person has to carry what you carry: \"Ah, why would you also have as hard a time of it as I have?\" The mask is partly mercy.\n\nThen the psychology under everything. Man is a \"COMPLEX, mendacious, artful, and inscrutable animal,\" frightening to other animals for his cunning, not his strength. And this tangled creature invented the good conscience so that he could finally enjoy his own soul \"as something SIMPLE.\" Morality is therefore \"a long, audacious falsification\" — a paint job that makes looking at yourself bearable. Which means there is more art inside morality than we admit.\n\nA philosopher, he adds, is a man struck by his own thoughts \"as if they came from the outside,\" like lightning; a man who runs away from himself and whose curiosity keeps dragging him back. Two dislikes follow. Europe has built \"a regular cult of suffering\" — complaint dressed up as something noble; sympathy is worth something from a man who could also punish, and little from those who only suffer. Against it he prescribes an amulet for the neck: \"GAI SABER,\" gay science. And he ranks philosophers by the quality of their laughing, up to those capable of \"GOLDEN laughter.\" Hobbes called laughing a defect to overcome; Nietzsche thinks the gods laugh, even in holy matters.\n\nThen the mask lifts. He praises a spirit with \"the genius of the heart,\" who leaves everyone richer, \"broken up, blown upon,\" \"full of hopes which as yet lack names\" — and at last gives the name: Dionysus. The god says he likes man and wants to make him \"stronger, more evil, and more profound.\" Nietzsche asks it back in horror; the god repeats it, adds \"also more beautiful,\" and smiles. Then the dry last word on gods: \"We men are--more human.\"\n\nHe closes by turning on his own pages. His thoughts were young and malicious, full of thorns — now some of them look \"ready to become truths,\" honest and tedious. We only catch what is already tired enough to be caught. The final poem is midday on a cold ridge: old friends stare at him and go pale, he asks \"I am not I?\", and he stands there calling for new ones. Zarathustra arrives, the grisly veil tears, and the world laughs."
+    },
+    {
+     "label": "From the book",
+     "style": "note",
+     "text": "Alas! what are you, after all, my written and painted thoughts! Not long ago you were so variegated, young and malicious, so full of thorns and secret spices, that you made me sneeze and laugh--and now? You have already doffed your novelty, and some of you, I fear, are ready to become truths, so immortal do they look, so pathetically honest, so tedious!"
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Wherever you stopped digging, you called it the foundation. That was a choice, not a floor."
+    }
+   ],
+   "recall": {
+    "q": "Nietzsche calls every philosophy a \"foreground philosophy.\" What does he mean by that?",
+    "a": "That a book hides more of its author than it shows. Behind every cave in a man there is a deeper cave, so wherever a philosopher laid his spade aside and called that spot the foundation was arbitrary — and a little suspicious. Every opinion is a lurking-place; every word is also a mask."
+   },
+   "imageUrl": "https://www.gutenberg.org/cache/epub/4363/pg4363.cover.medium.jpg",
+   "deepLink": "https://www.gutenberg.org/ebooks/4363",
+   "listenLink": "https://librivox.org/beyond-good-and-evil-by-friedrich-nietzsche/",
+   "attribution": "Friedrich Nietzsche · Helen Zimmern tr. · public domain"
+  },
+  {
+   "id": "et-economy-9bsifq",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "EPFO raises the PF wage ceiling to Rs 25,000",
+   "body": "The EPFO has raised the wage ceiling for compulsory PF from Rs 15,000 to Rs 25,000, starting September 17. About one crore more workers are expected to be covered.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "PF, or Provident Fund, is a retirement savings account. Every month, part of a worker's salary goes into it. The EPFO is the government body that runs it. The \"wage ceiling\" is the salary line up to which PF is compulsory.\n\nTake one worker who earns Rs 25,000. Under the old line of Rs 15,000, they were above it, so PF was optional for them. Since September 17, they fall inside the line, so PF is compulsory. The report puts their compulsory contribution at Rs 3,917.\n\nThe same is true for everyone who earns between Rs 15,000 and Rs 25,000. They now save for retirement by law. That is the gain. The source does not say who pays how much of it."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Old wage ceiling: Rs 15,000",
+      "New wage ceiling: Rs 25,000, from September 17",
+      "Compulsory PF contribution at a Rs 25,000 salary: Rs 3,917",
+      "Workers newly covered: about one crore"
+     ]
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Watch how the Rs 3,917 splits between worker and employer. That split will decide how much take-home pay falls and how much more it costs to hire."
+    }
+   ],
+   "recall": {
+    "q": "Which workers does the new EPFO ceiling affect, and what changes for them?",
+    "a": "Workers who earn between Rs 15,000 and Rs 25,000. PF used to be optional for them and is now compulsory. At a Rs 25,000 salary the contribution is Rs 3,917, and about one crore more workers are expected to be covered."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-134517336,imgsize-65918.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/policy/how-epfo-wage-ceiling-reset-will-change-pf-contribution-math/articleshow/134517336.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Sun, 27 Sep 2026 14:20:35 +0530"
+  },
+  {
+   "id": "hackernews-mkoxub",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Authors say OpenAI and Microsoft knowingly used pirated books",
+   "body": "Authors suing OpenAI and Microsoft have made new court papers public. The authors claim both companies knowingly trained AI on pirated books, including books from a \"sketchy Russian website\". These are claims from one side only. No court has ruled, and the source does not include the companies' replies.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The authors want partial summary judgment. This means the judge decides some questions now, without a full trial, because the authors say the key facts are not in dispute. The authors suing include the Authors Guild, George R.R. Martin, John Grisham, Jodi Picoult and Jonathan Franzen."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The big question in these cases is whether AI companies may train on copyrighted books without paying. The authors now want to prove more than copying. They want to show the companies knew what they were doing. They also say AI writing could put thousands of writers out of work."
+    },
+    {
+     "label": "The details",
+     "style": "list",
+     "items": [
+      "The case is Alter v. OpenAI and Microsoft. It is a class action, meaning one case brought for many authors and book copyright owners. The papers were filed last Thursday. The Authors Guild statement is dated September 21, 2026.",
+      "The key papers are a legal memo (Docket 1982) and a list of facts the authors say no one disputes (Docket 1987).",
+      "The authors claim the papers show a push to release products \"that will make people unemployed\".",
+      "News organisations filed their own brief, separate from this one."
+     ]
+    },
+    {
+     "label": "What's next",
+     "style": "note",
+     "text": "One Manhattan court is hearing this case together with several other suits against the same two companies. The Authors Guild expects more filings in the next couple of months and a hearing in early 2027."
+    }
+   ],
+   "recall": {
+    "q": "What are the authors asking the judge to do, and why should you treat their claims with care?",
+    "a": "They want partial summary judgment: the judge would decide some questions without a full trial, because the authors say the key facts are not disputed. They claim OpenAI and Microsoft knowingly used pirated books. But these claims come from one side only, and no court has ruled on them."
+   },
+   "imageUrl": "https://authorsguild.org/app/uploads/2026/09/OpenAI-Day-2-Advocacy-Rectangle.jpg",
+   "deepLink": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-27T06:19:33Z"
+  },
+  {
+   "id": "marginalian-11z79k6",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Annie Dillard's weasel: grip one thing, let it carry you",
+   "body": "Annie Dillard locked eyes with a wild weasel by a pond. The moment gave her a strange idea of freedom: pick your one necessity, hold it hard, and let it carry you.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Four feet away, a weasel freezes under a wild rose. Annie Dillard freezes too. The sun has just set. She is sitting twisted backward on a mossy fallen tree at the edge of Hollins Pond. She has never seen a wild weasel before. This one is brown and ten inches long, with a face as small and pointed as an arrowhead.\n\nTheir eyes lock. Then the weasel is gone. The moment is in her 1982 essay collection Teaching a Stone to Talk, and it leads Dillard to a question: what could this animal teach her about how to live? It cannot teach her the details, she says. She will not drink warm blood. But it might teach her to live without bias or motive. Near the end of the essay, she writes:"
+    },
+    {
+     "label": "The passage",
+     "style": "note",
+     "text": "I think it would be well, and proper, and obedient, and pure, to grasp your one necessity and not let it go, to dangle from it limp wherever it takes you. Then even death, where you're going no matter how you live, cannot you part."
+    },
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Start with the first four words: well, proper, obedient, pure. None of them is about success. Nobody calls a plan \"obedient.\" This is the language of vows, and Dillard means it that way. A few lines earlier, she notes that people choose vows of poverty, chastity (no sex), and even silence.\n\n\"Your one necessity.\" A necessity is something you don't choose each day. It simply is. This is her big contrast: the weasel lives by necessity, and we live by choice. We hate necessity, she says, and in the end it takes us anyway. So all our choosing does not save us. It only keeps us busy.\n\n\"Grasp... and not let it go.\" This is the grip. But look at what comes right after: dangle limp, meaning hang loose. The hand is tight, and the rest of the body is relaxed. You put all your force into one point and stop fighting everywhere else. Dillard says it plainly: this is yielding, not fighting. A weasel does not attack, she writes. It lives as it is meant to.\n\n\"Wherever it takes you.\" You do not steer. For a creature used to choosing, that is the hard part.\n\n\"Cannot you part.\" Here you can hear the wedding vow \"till death us do part,\" turned around. Hold your one necessity, and death cannot separate you from it, because the road always led there. Notice that she claims no certainty. She only suspects the weasel's way could be hers.\n\nOne more key point: we must choose the vow. \"We can live any way we want,\" Dillard writes. The weasel is born into its necessity. We have to choose ours once, and then stop choosing.\n\nThis is where the passage meets a distracted modern day. Our days are almost pure choice: this tab, that message, the next video. Each choice is small and free. Together they leave us tired and scattered. Holding on might mean picking one thing, like a person, a craft, or a calling, and letting it make the small choices for you."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Choose once, then hold on. Tight at one point, loose everywhere else."
+    }
+   ],
+   "recall": {
+    "q": "What is Dillard's contrast between living by necessity and living by choice, and how can a person 'grasp' a necessity?",
+    "a": "The weasel is born into its necessity and simply follows it. We live among endless choices, hate necessity, and are taken by it in the end anyway. Dillard suggests we choose one necessity once, like a vow, then hold it tight and let it carry us, yielding instead of fighting."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/03/anniedillard_abundance.jpg?fit=320%2C487&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/27/annie-dillard-weasel/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sun, 27 Sep 2026 15:14:47 +0000"
+  },
+  {
+   "id": "psypost-1lo2l7q",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Which belief stops voters from backing anti-democratic politicians?",
+   "body": "Many people say they love democracy. Yet many still vote for a politician from their own party who promises to ignore the courts. A study in the US, Poland and South Korea found one belief that helps people resist: support for the specific rules of democracy, like free speech and the rule of law. Trust in institutions did almost nothing.",
+   "evidence": "single study · n=5,951 · US, Poland, South Korea · simulated elections · association, not cause",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two candidates stand in front of you. One is from your own party, but he promises to ignore court rulings. The other is from the party you dislike, but she promises to respect the courts. Who gets your vote?\n\nMany voters pick their own side. Political scientist Christopher Claassen wanted to know which beliefs help people make the harder choice. He measured six. Before you read on, guess which one mattered most.\n\nHere are the likely answers. Maybe it is trust in institutions: people who trust courts and parliament should protect them. Maybe it is weak authoritarian values, meaning people who care less about obedience and fitting in. Or maybe it is simply saying that democracy is better than dictatorship.\n\nNone of these won. Trust showed almost no link to the vote. Authoritarian values were weak predictors too. A general preference for democracy helped only sometimes, in some countries.\n\nThe winner was narrower. It was support for liberal democracy: backing concrete things like free speech, equal voting rights and the rule of law. People who scored high on this chose the pro-democratic candidate most consistently, in all three countries.\n\nThis held even in the hard case, when the good candidate came from the other party. Take a person who scored clearly above average on this belief (one \"standard deviation\" higher, a common unit in statistics). They were 2 to 12 percentage points more likely to cross party lines. Claassen calls this meaningful but not huge. It could matter in a close election.\n\nWhy does intuition get this wrong? The broad values are too far from the ballot. Liking democracy in general, or trusting its institutions, does not tell you what to do when your own party wants to put journalists on trial. A belief in those exact rules does. Claassen suggests that specific commitments may matter more than a general good feeling about democracy.\n\nParty loyalty still often wins. In Poland and South Korea, even people with strong democratic beliefs usually voted for their own anti-democratic candidate rather than cross over."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "5,951 people took part: 1,983 in the US, 1,967 in Poland and 2,001 in South Korea, all democracies under pressure. Each person chose between 12 pairs of made-up candidates. In every pair, one candidate respected democratic rules. The other wanted to cut polling stations in opposition areas, ignore courts or put journalists on trial. Party, policies, age and gender were mixed at random."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study. The votes were cast in a survey, not a real election with campaigns and social pressure. People's beliefs were measured, not assigned, so this shows a link, not proof of cause. Claassen warns against reading it as proof that strong democratic beliefs will defeat anti-democratic politicians."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Loving democracy in general is cheap. What protects it is caring about its specific rules, even when your own side breaks them."
+    }
+   ],
+   "recall": {
+    "q": "Which belief most consistently predicted choosing the pro-democratic candidate, and why did broader beliefs like trust fail?",
+    "a": "Support for liberal democracy: backing concrete rules like free speech, equal voting rights and the rule of law. Trust in institutions and general pro-democracy feelings are too far from the actual choice. They don't tell you what to do when your own party wants to break a specific rule."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/02/Aggressive-angry-politician-giving-a-speech-at-press-conference.jpg",
+   "deepLink": "https://www.psypost.org/study-reveals-which-values-actually-stop-voters-from-supporting-antidemocratic-politicians/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 27 Sep 2026 14:00:29 +0000"
+  },
+  {
+   "id": "psypost-1gh94xr",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Sharing personal stories made anxious people more likable",
+   "body": "People with social anxiety often stay quiet because they fear being judged. In a small study, speakers who shared personal stories were liked more, and people wanted more contact with them. It worked just as well for anxious speakers as for calm ones.",
+   "evidence": "single study · 136 online raters, 4 speakers · recorded videos · self-report questionnaires",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A university student looks into a camera. They say their name, their age and their hobbies. Then they share a happy memory from school. Then a sad one. This student has diagnosed social anxiety: a strong fear of being judged badly by others. For someone like this, talking about yourself can feel like handing strangers a weapon.\n\nA small study from the University of Bucharest suggests the opposite. When speakers opened up, strangers liked them more and wanted more contact with them. This worked for anxious speakers just as it did for calm ones.\n\nWhy does this matter? Anxious people often use safety behaviors. These are defensive habits, like staying quiet, avoiding eye contact or pulling back from the group. They feel protective. But others can read the silence as coldness or lack of interest, so they respond coolly. The anxious person then takes that coolness as proof that their fears were right. One thing anxious people hold back most is self-disclosure: sharing your thoughts, feelings, past and plans. Yet sharing is one of the main ways people build trust.\n\nThe researchers, Gabriela Lavinia Niță and Violeta Ștefania Rotărescu, used four students as speakers. Two had diagnosed social anxiety and two did not. Each pair had one man and one woman. Then 136 online raters judged every speaker four times: after a photo, after a basic introduction video, after the happy memory and after the sad one. Each time, they rated how likable the speaker was. They also said if they would want future contact, such as sitting next to the speaker on a bus or asking them for advice.\n\nCompared with the photo alone, likability went up after the happy stories, for anxious and calm speakers alike. The sad story made raters more willing to interact with the speakers in future. A little vulnerability made the speakers seem easier to approach.\n\nThe second finding was about the listeners. The team expected outgoing or agreeable raters to give kinder scores. They did not. What mattered was the raters' own social anxiety and their need for affiliation, meaning the wish to feel accepted and connected. Raters high in either one gave every speaker higher scores. The authors suggest that people who want to belong watch closely for signs of connection, so they judge others more gently.\n\nSo being liked depends partly on who is listening. If an anxious person feels disliked, the cause may be a listener with a low need for connection, not only the anxious person's own behavior.\n\nNow think back to the student at the camera. The sad memory they might have wanted to hide is what made strangers more willing to sit next to them."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study with only four speakers, so each speaker's own qualities could shape the results. The authors point to the halo effect: attractive people tend to seem more likable, so looks may have raised the ratings, not the stories. Raters reported their own anxiety and personality in questionnaires, which depend on honest self-knowledge. The survey took nearly an hour, and tired raters may have rushed. And recorded videos are not live conversations: there are no pauses, facial reactions or back-and-forth. The researchers call for live, in-person studies next."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Silence feels safe, but people often read it as coldness. A small personal story reads as warmth."
+    }
+   ],
+   "recall": {
+    "q": "In this study, what happened when speakers shared personal stories, and which listener traits led to kinder ratings?",
+    "a": "Happy memories made speakers more likable than their photo alone, and a sad memory made raters more willing to interact with them. This held for anxious and calm speakers alike. Kinder ratings came from raters with more social anxiety or a stronger need to belong, not from more outgoing or agreeable raters."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/two-women-friends-talking.jpg",
+   "deepLink": "https://www.psypost.org/how-sharing-personal-stories-can-increase-likability-for-socially-anxious-people/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 27 Sep 2026 11:00:23 +0000"
+  },
+  {
+   "id": "noahpinion-1mreaao",
+   "source": "noahpinion",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "If AI helps build AI, where is the intelligence explosion?",
+   "body": "Many people in AI expect it to improve itself faster and faster, until it explodes into superintelligence. But OpenAI's models can reliably finish a research task alone only if it would take a human about 15 minutes. Futurist Ramez Naam says the self-improvement loop would need to be 5 to 10 times stronger just to keep itself going.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The big idea is recursive self-improvement: each AI builds a better next AI, faster than the last one did. Believers say this could bring a \"fast takeoff\": a jump to superintelligence in months, or even days.\n\nTheir best case goes like this. Anthropic says its models help with or lead over 90% of its internal research tasks. A better model can solve problems that no number of copies of an older model can solve. And forecasters keep underestimating how fast AI improves.\n\nThe case against comes from Naam, in a guest post on Noah Smith's blog. Real research is much harder than benchmarks (standard tests of AI skill). Anthropic's own chart shows zero research tasks that AI finished fully alone. A huge rise in AI output shrinks a lot before it becomes real results. And measured skill is rising fast, but at a steady rate. It is not speeding up."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "15 minutes: the longest research task OpenAI's models finish alone with 80% success. Benchmark trends suggest about 4 hours, which is 16 times longer.",
+      "124x more tokens (chunks of text AI reads and writes) per OpenAI researcher gave only 1.6x more experiments.",
+      "~4x: the productivity boost Anthropic staff report, in an opt-in survey of 130 people. Anthropic estimates it would take roughly 40x to double the pace of progress.",
+      "~127x more AI chip capacity in about three years. Yet Epoch's capability index still rose at a steady ~16 points a year."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "In a recent system card, Anthropic said using AI inside the company has been key to keeping the current pace of progress. It did not say AI had sped progress up. Each step forward costs more money and compute. AI investment is already about 3% of US GDP, so it cannot keep growing this fast forever. If that growth slows, progress could slow too."
+    },
+    {
+     "label": "The crux",
+     "style": "note",
+     "text": "Does AI speed up research faster than research gets harder? Two signs would settle it. First, the skill trend would start to curve upward. Second, the research tasks AI can finish alone would grow from minutes to weeks. Labs could also show whether their extra experiments really make AI improve faster. For now, the data leans toward Naam, though he admits he could be wrong. Smith himself stays undecided. Until those signs appear, the explosion is a forecast, not a finding."
+    }
+   ],
+   "recall": {
+    "q": "What is the crux of the intelligence-explosion debate, and why does Naam think the current data goes against a fast takeoff?",
+    "a": "The crux is whether AI speeds up research faster than research gets harder. Naam says AI's huge output turns into much smaller real gains (124x more tokens gave only 1.6x more experiments). He also says skill is rising at a steady rate, not speeding up. By his estimate, the loop would need to be 5 to 10 times stronger just to keep itself going."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!x5a8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08ec0b36-c40e-47a2-831f-16108c969d77_1075x717.jpeg",
+   "deepLink": "https://www.noahpinion.blog/p/wheres-the-intelligence-explosion",
+   "attribution": "Noahpinion",
+   "publishedAt": "Sun, 27 Sep 2026 07:20:08 GMT"
+  },
+  {
+   "id": "marginalian-9bi2i3",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Hesse's Steppenwolf: you are many selves, not one",
+   "body": "In his 1927 novel Steppenwolf, Hermann Hesse argued that the single, fixed self we believe in is an illusion. Each of us is really a crowd of selves. Peace does not come from making that crowd smaller. It comes from growing a soul wide enough to hold all of it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In 1927, Hermann Hesse was fifty and writing Steppenwolf. He put a warning into the book. Suppose a sensitive man sees that he is not one self but many, and says so out loud. Then the crowd will put him \"under lock and key.\"\n\nThe idea behind the warning is easy to say and hard to live with. We all feel like one fixed \"I\". Hesse calls this an optical illusion, a trick of the eye. Look closely and every person is a crowd of moods, stages, habits and inherited traits. A person is less like one star and more like a whole night sky. Yet we need to feel whole as badly as we need to eat or breathe. Even the wisest people share this illusion. Life breaks it again and again, and each time it quietly mends itself.\n\nWhy do we hold on so tightly? Think of yourself at seven and yourself today. Your body and mind have changed almost completely, yet you call both \"me\". The one-self story solves that puzzle, so we never have to think about it.\n\nHesse does not tell us to drop the story and live in pieces. He asks for something harder. Look at your many selves one by one, with courage and curiosity. Slowly you begin to see what joins them: a higher unity. That is where the soul shows itself, not in any single mood or role. Here, soul does not mean a ghost. It means the steady thing beneath the flicker.\n\nThe search has a price. Hesse calls it the longer, wearier, harder road. You do not find peace by making your world smaller and your inner life simpler. You find it by taking in more: more of the world, and more of your own complexity. You keep going until your soul is wide enough to hold it all. Hesse admits that the stretching hurts. There is a social price too. As his warning shows, people who say they are many can be treated as mad.\n\nWhat Hesse adds is tenderness. Only a wide soul can hold a shifting self gently. Without that gentleness toward yourself, he says, you cannot love the people around you. He even says self-hate is really the same thing as selfishness. Both keep your eyes fixed on yourself. Both end in the same cruel loneliness and despair.\n\nAnd Hesse was not alone. A generation before him, Walt Whitman wrote that he contained multitudes. Yet beneath them he sensed a calm consciousness, shining \"like the stars.\" Half a century after Hesse's novel, Bertrand Russell gave similar advice: make your interests wider and less personal, until the walls of the ego fall back. Three writers, far apart in time, found the same door. Peace does not come from a smaller self. It comes from a bigger one."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Hating yourself is not humility. It is just another way of looking only at yourself."
+    }
+   ],
+   "recall": {
+    "q": "What illusion about the self does Hesse say we all share, and how does he say we find peace?",
+    "a": "We believe we are one fixed self, but each of us is really many selves. Peace does not come from making ourselves simpler. It comes from taking in more of the world and of ourselves, until the soul is wide enough to hold it all and we see the higher unity that joins our many selves."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/01/hesse_steppenwolf.jpg?fit=320%2C480&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/26/hesse-soul/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sun, 27 Sep 2026 01:51:28 +0000"
+  },
+  {
+   "id": "psypost-10727af",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Suicidal behavior and genes: what a twin study shows",
+   "body": "In a long study of Australian twins, suicidal thoughts and behaviors were more heritable than depression: 51% to 80%, against about 40%. But no gene score could predict one person's risk well. \"Heritable\" is a word about groups, not a sentence about anyone's fate.",
+   "evidence": "single study · n=2,876 · twins and family members · European ancestry · self-report",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Since 1992, researchers in Brisbane, Australia, have followed the same twins as they grew up. They asked them questions at ages 12, 14, 16, 21 and 25. A new analysis of 2,876 of these people looked at two things that often go together. One is depression. The other is suicidal thoughts and behaviors: thinking about suicide, planning it, or attempting it.\n\nFirst, what we know. In this group, suicidal behaviors were more heritable than depression. The estimate was 51% to 80% for suicidal behaviors and 39% to 41% for major depression. Thoughts, plans and attempts had strong genetic links to each other. Their genetic link to depression was only moderate. So they share some roots with depression, but not all.\n\nLife experience pulled the two apart even more. The researchers looked at experiences each twin had alone, not shared with their sibling. The experiences tied to depression were mostly different from the ones tied to suicidal thoughts and behaviors. This fits a known pattern. Depression is one of the strongest risk factors for suicide, but it does not explain suicide risk on its own.\n\nNow, what \"heritable\" means, because it is easy to misread. Heritability is a number about a group, not a person. It measures how much of the difference between people in this group went along with differences in their genes. It does not mean that 51% of anyone's risk is \"in the genes\". It does not mean anyone's future is fixed.\n\nWhat we don't know is which genes matter. Large genetic studies have found many common gene variants. Each one adds only a tiny amount of risk. So researchers add them up into a polygenic risk score: one number that sums up many small genetic differences. Here, one score was built from depression genetics and one from suicide-attempt genetics. Both had only modest links to suicidal behaviors. The depression score did better at predicting a depression diagnosis. Also, some people with suicidal thoughts have no clear history of mental illness. So other genetic, psychological and life pathways must be involved too."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study. Everyone in it was of European ancestry, so the results may not hold for other groups, including people in India. Men and women were analysed together, which may hide differences between the sexes. Suicidal behaviors were self-reported. Learning more will take bigger, more varied samples, with men and women studied separately."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Genes can tilt the odds across a crowd. They do not write any one person's story."
+    }
+   ],
+   "recall": {
+    "q": "In this twin study, how did the heritability of suicidal behaviors compare with depression, and why doesn't a high number mean a person's genes decide their fate?",
+    "a": "Suicidal behaviors were estimated at 51% to 80% heritable, against 39% to 41% for depression. Heritability describes how much of the difference between people in a group goes along with genetic differences. It is not a measure of any one person's fixed risk, and the gene scores tested predicted suicidal behavior only modestly."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/05/DNA.jpg",
+   "deepLink": "https://www.psypost.org/suicidal-behaviors-are-more-heritable-than-depression-new-twin-study-finds/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sat, 26 Sep 2026 22:00:29 +0000"
+  },
+  {
+   "id": "wotr-1q58hak",
+   "source": "wotr",
+   "topic": "world",
+   "kind": "news",
+   "title": "What North Korea's commandos learned fighting in Kursk",
+   "body": "North Korea's top special forces fought for Russia in Kursk. They came home knowing how to hide from drones and how to use them. Analyst Anton Ponomarenko argues in War on the Rocks that this could make North Korea's secret raids into South Korea far more dangerous. He also argues that Seoul is preparing for the wrong kind of drone.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "This matters most for irregular warfare. That means small, secret teams that slip into enemy land to spy, sabotage, or kill. North Korea has tried this against the South for decades, and it has mostly failed. In 1968, its commandos raided the Blue House, then the home of South Korea's president. In 1996, a submarine carrying a spy team ran aground near Gangneung, and the team was hunted down.\n\nThe commandos were well trained. But they lacked modern gear and good radios, and they could not see much around them. In Kursk, drones watched them from above. They learned to hide their body heat, and they learned to use drones to scout routes and strike targets. Ponomarenko calls this a real shift in how North Korea plans such raids."
+    },
+    {
+     "label": "The details",
+     "style": "list",
+     "items": [
+      "The troops came from the 11th Storm Corps, North Korea's top special forces. Kursk's fields, villages and forests look a bit like the western DMZ. The DMZ is the guarded strip of land between the two Koreas.",
+      "Ukrainian soldiers said the North Koreans wore thermal capes. These hid their body heat from drones and night-vision goggles.",
+      "Ukrainian intelligence says more than 3,000 North Korean troops now work as instructors. They teach the Kursk lessons at home.",
+      "Russia has given North Korea drone designs and guidance systems. China has sold it cheap drones and lines for building drones."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "South Korea spends heavily on cameras and sensors to catch infiltrators. But drones change what a small team can do once it gets in. It can scout, hit power plants or command centres, or target leaders. This year's US–South Korea Ulchi Freedom Shield exercise trained against large one-way attack drones. It did not focus on the small FPV drones North Korea used in Kursk. FPV drones are cheap, and a pilot flies them by watching a live camera feed. Ukraine's Operation Spider's Web used only 117 of them, and the damage was far bigger than that small number suggests. Supply lines are opening too. North Korea has a new road link to Russia and is rushing to finish a bridge to China. It has also officially dropped reunification as a goal. It now treats the two Koreas as hostile states."
+    },
+    {
+     "label": "Yes, but",
+     "style": "note",
+     "text": "Getting into South Korea is still as hard as ever. Heat-hiding capes do not always work against newer thermal cameras. And some claims come from pro-Russian Telegram channels, so they cannot be fully checked."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Watch whether North Korea keeps sending new drone pilots to Russia. Watch whether they learn to use sleeper drones, which stay hidden until a target arrives. And watch whether North Korea's spy and smuggling networks in the South grow. These networks could supply drone parts to teams once they are inside."
+    }
+   ],
+   "recall": {
+    "q": "What did North Korea's commandos lack in past raids on South Korea, and what did Kursk teach them?",
+    "a": "They were well trained, but they lacked modern gear and good radios, and they could not see much around them. In Kursk they learned to hide their body heat from drones and to use drones to scout routes and strike targets. That could make small teams much more dangerous once they are inside South Korea."
+   },
+   "imageUrl": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-46985-492cda4fbd09.jpg",
+   "deepLink": "https://warontherocks.com/north-koreas-irregular-warfare-after-ukraine/",
+   "attribution": "War on the Rocks",
+   "publishedAt": "Fri, 25 Sep 2026 07:30:29 +0000"
+  },
+  {
+   "id": "psypost-pz7fdh",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "AI judges character from faces, often more strongly than we do",
+   "body": "Many people think an AI looks at a face neutrally, without our human gut feelings. But when researchers tested four popular AI models, all of them picked 'competent' and 'criminal' faces using features that say nothing real about a person. Often they did it more strongly than humans would.",
+   "evidence": "single study · 13 experiments · nearly 8,000 trials · 4 AI models · forced choice between computer-made faces",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two computer-made faces sit side by side. They look almost like the same person, with small changes in face shape and skin texture. The question under them: which one is more likely to be a serial killer? A fair judge would refuse to answer. GPT-4o picked one.\n\nIt is easy to think a machine would do better than us here. Humans have an old habit called face-to-character inference: we glance at a face and guess if the person is trustworthy or competent. Even three-year-olds do it. But the shape of a face tells us nothing real about character. An AI seems safe from this habit. It learned from words, not faces. Its makers also train it hard to avoid unfair statements about groups of people.\n\nThis is wrong. Steven Lehr, Yash Lothe and Mahzarin Banaji ran 13 experiments, nearly 8,000 trials in all. They showed models pairs of faces. The faces were digitally changed in the features humans link to competence or trust. GPT-4o chose the face people usually see as more competent 87.83 percent of the time. When the two faces were very different, this rose to 98 percent. When they looked nearly the same, it was still 70 percent. The researchers estimate that humans would pick that face only about 62.65 percent of the time. So the model did not just copy our bias. It made it stronger.\n\nHigh stakes did not stop it. Asked who was more likely to be a serial killer, a human trafficker or a fraudster, GPT-4o picked the less trustworthy-looking face 68.70 percent of the time. Asked whom to hire as a university president, or which startup to fund, it picked the more competent-looking face 75.19 percent of the time.\n\nNewer models were no better. GPT-5, Gemini 3 Flash Preview and Claude Sonnet 4.5 all showed strong bias. GPT-5 was the worst: 94.33 percent on basic competence choices and 97.04 percent on real-world decisions. These models are built to think step by step. Yet they showed the bias more strongly.\n\nWhere does it come from? The models learned from huge amounts of human writing, and that writing carries human biases. They seem to have built a general idea of what a trustworthy face looks like. They even used it on monkeys. GPT-4o called macaques that humans had rated as nice-looking more trustworthy in 66 percent of trials.\n\nSo why does the idea of the neutral machine survive? Safety training teaches models to avoid obvious, well-known bias, like open bias about race or gender. That makes them look fair. Lehr calls this \"surface egalitarianism\": fairness only on the surface. The safety rules do not reach the quieter bias hidden in the shape of a face."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one set of experiments. The models had to choose between two faces. They might act differently if they were free not to choose. The tests used still, flat images, not video or photos from different angles. Part of the stronger-than-human effect may come from the models answering the same way every time. But in hiring, a bias that shows up every time is worse, not better. The study did not test choices linked to race or gender."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A machine that never hesitates is not being neutral. It is repeating our worst guess, only more often."
+    }
+   ],
+   "recall": {
+    "q": "Why is it wrong to think AI models judge faces neutrally, and why do they still seem fair?",
+    "a": "In the tests, GPT-4o, GPT-5, Gemini 3 Flash Preview and Claude Sonnet 4.5 all judged competence, trust and even criminal risk from facial features that carry no real information, often more strongly than humans would. They seem fair because safety training blocks obvious bias, like open race or gender bias. That training does not reach bias based on the shape of a face."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/06/artificial-intelligence-red-green.jpg",
+   "deepLink": "https://www.psypost.org/popular-ai-models-use-arbitrary-facial-features-to-predict-criminality-and-job-performance/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 27 Sep 2026 10:00:11 +0000"
+  },
+  {
+   "id": "marginal-rev-1i81p02",
+   "source": "marginal-rev",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Scientists say AI saves them nearly 7 hours a week",
+   "body": "In a survey of over 600 scientists, AI users said it saves them nearly 7 hours a week. Most of that time goes back into research. But now untested ideas pile up faster than scientists can check them.",
+   "evidence": "survey of 600+ scientists · 15 million Gemini interactions · 2,600+ AI models · time savings are self-reported",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The paper is by Mihai Codreanu and co-authors. The economist Tyler Cowen shared it on his blog. Scientists use AI more than people in most other jobs.\n\nThey use two kinds of AI. Chatbots help with analysis, coding and writing papers. Specialized models work inside one field. They make predictions, create data and sort it into groups.\n\nBut when some steps get faster, the slowdown moves to later steps. Scientists report a growing pile of untested hypotheses (ideas still waiting to be tested). They also feel a strong need to check what AI produces."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Nearly half of the scientists surveyed use some form of AI every day",
+      "15 million conversations with the Gemini chatbot studied",
+      "Over 2,600 specialized AI models listed"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Scientific progress is a key driver of economic growth. The authors say AI's final effect depends on two things. The first is how research tasks depend on each other. The second is whether money goes into clearing the new slowdowns. These are early findings, and the time savings come from what scientists say themselves."
+    }
+   ],
+   "recall": {
+    "q": "Scientists say AI saves them about 7 hours a week. Why doesn't that mean science simply gets faster?",
+    "a": "When AI speeds up some steps, the slowdown moves to later ones. Scientists now have more untested ideas waiting and more AI output to check. So the real gain depends on clearing these new slowdowns."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-in-science",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Sun, 27 Sep 2026 19:03:12 +0000"
+  },
+  {
+   "id": "psyche-1vt0hkv",
+   "source": "psyche",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Minority stress: what it is and what helps",
+   "body": "LGBTQ+ people have higher rates of anxiety and depression. Decades of research say being queer is not the cause. The cause is living in a world that looks down on it. A queer psychologist answers the key questions about this 'minority stress' and the skills that ease it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Picture one therapy group on one afternoon. A gay man who has had slurs shouted at him. A trans woman who worries that her clothes affect her safety. An intersex person who feels broken after another politician says there are only two sexes. Their lives differ, but the psychologist Kiki Fehling heard the same thing again and again: what a relief it was to sit with people who \"just get it.\"\n\nWhat is minority stress? It is the extra stress and pain that come from prejudice and discrimination against your group. LGBTQ+ people have more anxiety and depression than straight and cisgender people (cisgender means your gender matches the one you were given at birth). Research on the minority stress model says the cause is not being queer. It is the stigma around it. People with more than one marginalised identity, like a queer person of colour, often carry layers of this stress.\n\nWhy does prejudice hurt even when it isn't aimed at me? Because it still says that people like you are wrong. A joke built on gay stereotypes can sting even when it is not about you. Then comes a second trap: we call ourselves too sensitive, or replay the moment for hours. Fehling notes this can be more stressful than the event itself.\n\nWhat helps in the moment? Fehling teaches skills from dialectical behaviour therapy (DBT), a therapy built on practical coping skills. One is slow, paced breathing. Practise it on calm days so it is ready on bad ones. Another uses the dive reflex: when the body senses it is under water, the heart slows down. If you have heart problems or take heart medicine, ask a doctor first. Iced water or a cool shower won't trigger this reflex, but cooling your body can still cool the emotion.\n\nWhat about the shame I carry inside? Years of negative messages can turn into self-judgment. The answer is self-compassion: treat yourself the way you would treat a best friend. Tell yourself \"Of course I feel this way,\" whether or not the other person meant harm. And give your body small daily care. You don't need to like your body to look after it.\n\nIs coping only about pain? No. Fehling treats joy as a skill too. In the short term, do pleasant things that connect you to your identity, on purpose and with full attention. In the long term, live by the values your experience taught you. Someone disowned by family, for example, might come to value community and build a chosen family.\n\nWhen should I get support? When self-help is not working. Therapists trained in LGBTQ+-affirmative therapy can help, and online options make them easier to reach.\n\nThen comes the hardest question. When should you trust your fear and hold back to stay safe, and when should you challenge it and live more openly? No guide can answer that for you. Helping you work it out is exactly what a good therapist is for."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Once or twice a day, check your body: Hungry? Thirsty? At a screen too long?",
+      "Inside all day? Stiff or sore? Clothes uncomfortable?",
+      "If yes, do one small thing right away: eat a snack, open a window, rest your eyes, stretch.",
+      "After a painful remark, skip the 'Was I too sensitive?' loop. Try: it makes sense that this hurt."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Being queer is not the wound. The world's judgment is, and you can learn to stop repeating it to yourself."
+    }
+   ],
+   "recall": {
+    "q": "What does the minority stress model say causes higher anxiety and depression in LGBTQ+ people? And what should you do when a remark hurts, even if it wasn't about you?",
+    "a": "The cause is not being LGBTQ+. It is the stigma around it. When a remark hurts, accept your feeling ('Of course I feel this way'). Don't call yourself too sensitive or replay it for hours, because that can hurt more than the remark itself."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/615bfa8b-7463-4a63-adaf-bddd3e6ae0ed/final-gettyimages-2283182865.jpg?top=143&left=0&cropWidth=2736&cropHeight=1539&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/guides/how-to-cope-with-the-stress-of-anti-lgbtq-prejudice",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Wed, 23 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "anticipating-7s904k",
+   "source": "anticipating",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's insurance rules: then, now, and the hidden cost",
+   "body": "India's insurance regulator wants to cap what sellers earn in commission. The aim is to protect buyers. But the newsletter warns the change could scare off the long-term money that insurance needs to grow.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "On Thursday, PB Fintech, the company behind Policybazaar, lost 36% of its value in one day. The trigger was a consultation paper (a draft rule put out for comment) from IRDAI, India's insurance regulator. It proposed commission caps far below what sellers earn now. The market did not see it coming.\n\nThen: for two decades after liberalisation, when India opened up its economy, growth came from cutting rules and opening sectors. Regulators set the rules of the game, then let companies play.\n\nNow: for the last decade, regulators try to run sectors instead. Each failure adds a new layer of rules.\n\nThe push behind this change is real. In parts of the market, high commissions tempt sellers to push complex products on buyers who trust them. But the author says the proven fix is clear disclosure, strict conduct rules and penalties. Cutting sellers' pay is not it.\n\nThe trap: insurance needs patient capital, meaning money willing to wait years for returns. India now allows 100% foreign ownership to attract it. But foreign investors have stayed away, because the rules keep changing. Without that money, insurance may not spread at all."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "4: years in a row with a major rule change in insurance",
+      "10+ years: time a well-run insurer needs to break even, even with today's higher commissions",
+      "0% to 100%: foreign ownership allowed in insurance, 2000 to 2025"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Investors look at more than market size. They ask if the rules will stay steady long enough for a business that takes decades to pay off. India competes with the whole world for that money."
+    }
+   ],
+   "recall": {
+    "q": "IRDAI wants to cap sales commissions to protect insurance buyers. Why does the newsletter warn this could stop insurance from spreading?",
+    "a": "Insurance needs patient, long-term money, and insurers already take over 10 years to break even. Rules that keep changing scare off foreign investors, even though 100% foreign ownership is now allowed. Without their money, insurance cannot grow."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!Jr2T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4e10e3a-3398-469b-a27c-4cb96912bc21_950x720.gif",
+   "deepLink": "https://publicpolicy.substack.com/p/363-the-dna-of-deregulation",
+   "attribution": "Anticipating the Unintended",
+   "publishedAt": "Sun, 27 Sep 2026 01:09:48 GMT"
+  },
+  {
+   "id": "five-books-z6bd0s",
+   "source": "five-books",
+   "topic": "books",
+   "kind": "essay",
+   "title": "The best books on battle, picked by a military historian",
+   "body": "Historian Iain MacGregor studied 3,000 years of war for his book Battle, from ancient Greece to Ukraine. He reached one conclusion. Weapons and tactics change completely, but the frightened human in the middle never does. He picked five books that show this. Here are four, and one of the best is a novel.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A Greek hoplite (a foot soldier of ancient Greece), a Tudor sailor, a Ukrainian soldier on today's front line. Different weapons, different centuries, the same fear. The human part stays the same: how people act under pressure. For commanders, it is also timing and how they handle sudden events. Each book below teaches one idea about this.\n\n1. The Face of Battle by John Keegan (1976) moved history from the general's tent to the mud. Before Keegan, most military history looked down from the top, at the great leader who won or lost. Keegan looks at Agincourt, Waterloo and the Somme from where the ordinary fighter stood. Did the weather turn the ground to mud? Did the longbow really matter? Did the tactics work? MacGregor calls it the most influential military history of the last fifty years.\n\n2. The Price of Glory by Alistair Horne (1962) shows that a battle can make a nation stronger instead of breaking it. At Verdun in 1916, Germany wanted to destroy France's will to fight, to \"bleed France white.\" About a million shells fell on the first day alone. The fighting lasted ten months. Hundreds of thousands of men died for a few miles of ground. Yet French morale grew harder, not weaker. Keegan shows what battle feels like. Horne shows how a whole society gets pulled in once people believe the country itself could be lost. MacGregor says the same happened to the Soviet Union at Stalingrad.\n\n3. With the Old Breed by E.B. Sledge shows that the damage of battle lasts for years. Sledge was a young US Marine on Peleliu and Okinawa near the end of the Pacific War. By then Japan's defence had turned suicidal. America lost more men in the war's final year than in the three years before it combined. Sledge came home too damaged to write about it. It took him years. MacGregor calls the result the standard every war memoir is measured against.\n\n4. The most surprising pick is a novel. The Killer Angels by Michael Shaara (1974) retells Gettysburg, the key battle of the American Civil War. Its research on units, plans and fighting is very accurate. It also avoids clichés about the real people in it. Its real gift is reach. It pulls ordinary readers into history they would otherwise skip, and then on to the serious nonfiction."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The weapons are always new. The fear never is."
+    }
+   ],
+   "recall": {
+    "q": "What did MacGregor conclude after studying 3,000 years of battle, and how did Verdun turn out the opposite of what Germany planned?",
+    "a": "Weapons and tactics change completely, but the human side stays the same: fear, how people act under pressure, and a commander's timing. At Verdun, Germany tried to destroy France's will to fight. Instead, French morale grew harder and the whole nation was pulled into the defence."
+   },
+   "imageUrl": "https://fivebooks.com/best-books/battles-iain-macgregor/shareimage.jpg",
+   "deepLink": "https://fivebooks.com/best-books/battles-iain-macgregor/",
+   "attribution": "Five Books",
+   "publishedAt": "Sun, 27 Sep 2026 16:31:09 +0000"
+  },
+  {
+   "id": "marginalian-1eggm4i",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "A poem for anyone waiting for their life to start",
+   "body": "The Uruguayan poet Mario Benedetti wrote a poem that is mostly a list of warnings: don't freeze your joy, don't want things halfway, don't ask the world for only a quiet corner. Maria Popova, who made a new English version, argues that guarding ourselves from all hurt is the surest way to miss living.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "You may know this feeling. Life will start later: after the next job, the next move, the next year when things calm down. Until then, you wait. You keep your hopes small so they cannot break.\n\nThis letter is for that feeling. It comes with a poem.\n\nMario Benedetti was a Uruguayan poet, novelist and journalist. He lived from 1920 to 2009. The writer Maria Popova made a new English version of his poem \"No Te Salves\" and called it \"Do Not Spare Yourself.\" She felt the usual translation lost the poem's urgency and closeness.\n\nMost of the poem is a list of don'ts. Don't stand still by the side of the road. Don't turn your joy to stone. Don't want things halfway, holding part of yourself back. Don't fill up on calm. Don't ask the world for only a quiet corner. Don't decide you are out of time.\n\nThen the poem turns. It repeats the whole list, but now as things you have done. You froze your joy. You took the quiet corner. You stood still by the road. Then comes a hard ending. If you did all this and kept yourself safe, the speaker says, then do not stay with me. A life kept safe from everything is a life no one else can really share.\n\nPopova explains why this matters. If you have hopes, they will keep hitting reality: bad luck, time, other people who want different things. That brings disappointment, heartbreak and loss. So we try to protect ourselves. People have built whole systems for this: religion to save us from sin, therapy to save us from trauma, marriage to save us from loneliness.\n\nShe does not say we should refuse comfort. Pain needs care. But she warns about something worse: whole days spent in comfort and certainty, with habit running your inner life. If you try to avoid all despair, all doubt and every surprise about yourself, she writes, you live \"a safe distance from alive.\" Doubt and surprise are how we find out who we really are.\n\nHer sharpest point is this. Life is not usually what breaks our hearts. Our own fear of living does. Parts of us grow so stiff that they become easy to crack. Then life and love crack them.\n\nSo if you are waiting, here is the counsel, in the poet's words: \"do not spare yourself.\" Not later, when things settle. The poem says now, or ever."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Waiting keeps you safe. It also keeps you out of your own life."
+    }
+   ],
+   "recall": {
+    "q": "What happens at the end of Benedetti's poem, and why does Popova think sparing yourself is dangerous?",
+    "a": "The poem repeats its warnings as things you actually did, like freezing your joy and taking the quiet corner. Then it says: if you spared yourself, do not stay with me. Popova argues that avoiding all disappointment, doubt and surprise means living \"a safe distance from alive.\" Usually it is our own fear of living, not life, that breaks our hearts."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/07/NightHeron_doubt.jpg?resize=680%2C1052&#038;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/27/no-te-salves/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sun, 27 Sep 2026 14:12:39 +0000"
+  },
+  {
+   "id": "psypost-28k9m3",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Ayahuasca plus therapy eased grief more in a small trial",
+   "body": "People who had lost a close family member in the past year got online grief therapy plus two weekends with ayahuasca, a psychedelic brew from the Amazon. Their grief eased more than it did for people who got therapy alone or no treatment. The gains held three months later. The trial was small and not randomized, so this is an early signal, not proof.",
+   "evidence": "single non-randomized trial · n=84 · open-label · questionnaires · 3-month follow-up",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Picture the plan for one group of mourners. They get nine weeks of online therapy. In the middle come two weekend retreats where they drink ayahuasca while doctors watch. Afterwards, they meet online to talk through what they saw and felt.\n\nEveryone in this trial had lost a close family member in the past twelve months, and each was grieving hard. For most people, the sharpest pain slowly fades as life adjusts to the loss. But some develop prolonged grief disorder. They keep longing for the person who died and keep thinking about them. The feeling does not ease, and it gets in the way of daily life. The first year after a death is a risky time. It brings higher chances of mental illness, heart problems and suicide. The usual tools, talk therapy or antidepressants given soon after a loss, have not done well at stopping grief from getting stuck.\n\nPsychiatrist Oscar Soto-Angona and his colleagues in Barcelona started from a therapy called meaning reconstruction therapy. Its idea is that mourning is partly a story problem: the loss has to find a place in the story of your life. The therapy has three steps. First, you work through painful memories of the death. Next, you reshape your bond with the person who died, because the bond goes on in a new form. Last, you rebuild who you are as someone who lived on without them.\n\nWhy add a psychedelic? Ayahuasca is made from two plants. The leaves of a shrub contain DMT, a drug that acts on serotonin receptors in the brain. A vine adds compounds that stop the gut from breaking down the DMT before it reaches the brain. For a short time, drugs like this can make the brain more changeable and thinking more flexible. The team bet that this window could speed up the slow work of finding meaning and rebuilding a sense of self.\n\nThey split 84 grieving adults into three groups: therapy alone, no treatment, or therapy plus the two retreats. Everyone improved somewhat. That is normal in grief studies, because time helps, and so does simply being part of a caring study. But the ayahuasca group improved most on nearly every measure. Their grief and their signs of prolonged grief both dropped more. They reported more post-traumatic growth, which means good changes that come from struggling through a crisis, like valuing life more. They also scored better on mental health and relationships. Three months later, these gains had held.\n\nMost people handled the brew well. No one had a serious bad reaction or needed psychiatric medicine afterwards. Some had nausea, vomiting or short headaches. A few skipped the second dose. Some of them said they did not feel ready to go again so soon."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Because of COVID-19, people were not put into groups at random. They were assigned in order as they joined, so stress at different times of year may have affected the results. Everyone knew which treatment they got, and people who expect to benefit often report more benefit. Nearly three quarters had used psychedelics before, so many may have expected it to work. Also, no group took ayahuasca without therapy. So the study cannot separate the effect of the drug from the effect of intense therapy and group support. We need larger randomized, double-blind trials, where neither patients nor researchers know who got what."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Mourning is not forgetting. It is finding the place where the loss belongs in the story of your life."
+    }
+   ],
+   "recall": {
+    "q": "Which group improved most in this trial, and why can't we yet say the ayahuasca itself caused the difference?",
+    "a": "The group that got meaning reconstruction therapy plus two ayahuasca retreats improved most. Their grief dropped more and they reported more post-traumatic growth. But people were not assigned at random, they knew which treatment they got, most had used psychedelics before, and no group took ayahuasca without therapy. So we cannot yet separate the drug's effect from therapy, group support and expectation."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/08/psychedelic-eye.jpg",
+   "deepLink": "https://www.psypost.org/ayahuasca-combined-with-grief-therapy-shows-promise-in-easing-severe-bereavement/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 27 Sep 2026 16:00:32 +0000"
+  },
+  {
+   "id": "sd-mind-1c9aj1j",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "A popular joint pill linked to faster dementia",
+   "body": "People with mild memory problems who took glucosamine, a common joint supplement, were 25% more likely to go on to develop dementia. This comes from a large study of health records. Mouse experiments suggest a reason: glucosamine feeds a sugar-tagging process that is already too active in Alzheimer's brains.",
+   "evidence": "health records study · 1,896 users with dementia + 2,750 with MCI · observational association · plus mouse and brain-tis",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Some glucosamine pills are made from shellfish shells. Others are made from corn. Many older adults take one every day for stiff knees and sore joints. No prescription is needed. A new study from the University of Florida asks a hard question: what does this pill do inside a brain that is already struggling?\n\nThe team used AI to search UF Health patient records from 2012 to 2024. They looked at two groups. One group had mild cognitive impairment, or MCI. This means memory and thinking problems bigger than normal aging, but not yet big enough to affect daily life much. The other group already had Alzheimer's or a related dementia. In both groups, 8% of patients said they took glucosamine.\n\nThe researchers adjusted for age, sex and other background facts. After that, glucosamine users with MCI were 25% more likely to move on to dementia. Among people who already had dementia, users had a 25% higher risk of dying during the study period. In the MCI group, there was no such link to death. The researchers see this as a hint that the supplement may matter more once dementia has set in.\n\nWhy would a joint pill affect the brain? Glucosamine is a sugar-like molecule. It can cross the blood-brain barrier, the tight border that controls what passes from the blood into the brain. Inside the brain, it feeds a normal process: cells build small sugar structures and attach them to proteins. Many proteins need these \"sugar tags\" to take the right shape, reach the right place and do their job.\n\nThe problem is balance. Brain tissue from people with Alzheimer's showed much more sugar tagging than tissue from healthy brains. The system seems to be overactive, and glucosamine may push it further. So the same molecule could be harmless in a healthy brain and harmful in a sick one.\n\nThis fits a wider change in Alzheimer's research. For decades, most work focused on plaques and tangles. Plaques are clumps of a protein called amyloid beta that build up between brain cells. Tangles are twisted tau protein inside neurons. The Florida team argues that broken metabolism — how cells process their fuel and building blocks — may help cause the disease, not just follow it."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "The team gave glucosamine to mice bred to develop an Alzheimer's-like disease. It clearly increased sugar tagging inside their cells. The mice also did worse on social memory, a type of recognition memory. Then the researchers used a chemical to block the sugar tagging, and the mice's memory improved. This suggests the extra tags may help cause the memory problems, not just appear alongside them."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The health-record finding shows a link, not a cause. People who take supplements may differ from people who don't in other ways, and those differences could explain the results. The researchers call their findings early. They say the results do not yet show that anyone should stop taking glucosamine. Only a controlled trial in humans can test whether it truly speeds up Alzheimer's — and if it does, who is most at risk."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A molecule is not simply safe or harmful. It depends on the brain it enters."
+    }
+   ],
+   "recall": {
+    "q": "What link did the records study find between glucosamine and dementia, and what process in the brain might explain it?",
+    "a": "People with MCI who took glucosamine were 25% more likely to develop dementia, though this is a link, not proof of cause. Glucosamine feeds the sugar tagging of proteins, which is already overactive in Alzheimer's brains. In mice it made memory worse, and blocking the tagging made memory better."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/senior-woman-taking-vitamin-supplement-medication-pill.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Sun, 27 Sep 2026 09:53:39 EDT"
+  },
+  {
+   "id": "rbi-press-14e8nlk",
+   "source": "rbi-press",
+   "topic": "econ",
+   "kind": "news",
+   "title": "RBI paper: banks' high loan-to-deposit ratio may be fine",
+   "body": "Loans at Indian banks have grown much faster than deposits, and many people worry. A new article in the RBI Bulletin says this worry may be misplaced. These are the authors' views, not the RBI's official position.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The credit-deposit (CD) ratio is total loans divided by total deposits. Above 80 per cent means banks have lent more than ₹80 for every ₹100 held with them.\n\nThe September 2026 article makes one key point. When a bank makes a loan, a new deposit is created at the same moment. So deposits do not have to come first. The real limits on lending are profit and regulation. Banks keep lending as long as loans pay better, after risk, than other uses of their money.\n\nAt end-March 2026, the high ratio had three causes. Banks borrowed more cheaply than before. They held more capital. And they moved money out of reserves and other balances into loans."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "CD ratio: above 80 per cent (loans have outgrown deposits since FY2023)",
+      "GDP growth, April–June 2026: 7.8 per cent",
+      "Headline inflation (all prices), August: 4.8 per cent, pushed up by food and fuel",
+      "Planned private company investment, 2026-27: ₹3.2 lakh crore"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "People often read a high CD ratio as a sign that banks are stretched. The authors say the ratio alone is a poor test of whether banks might run short of money. Ask better questions instead: are banks profitable, do they have enough capital, and do they follow the rules? By that test, the banking system as a whole meets its safety targets for now."
+    }
+   ],
+   "recall": {
+    "q": "Why does the RBI article say a CD ratio above 80 per cent is not, by itself, a warning sign?",
+    "a": "A loan creates a new deposit at the same moment, so deposits do not have to come first. Profit and regulation are what limit lending. The recent high ratio came from cheaper borrowing, more capital, and money moved out of reserves into loans, and the banking system still meets its safety targets."
+   },
+   "deepLink": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63674",
+   "attribution": "Reserve Bank of India",
+   "publishedAt": "Fri, 25 Sep 2026 21:50:00"
+  },
+  {
+   "id": "sd-mind-1m84pl1",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "When arthritis tests improve but the pain stays",
+   "body": "In some rheumatoid arthritis patients, the blood tests get better but the pain does not. Doctors in Hungary say this gap is a warning sign. Depression, poor sleep or extra weight may be keeping the symptoms alive, and more medicine will not fix that.",
+   "evidence": "two papers (Nature Reviews Rheumatology, The Lancet Rheumatology) · proposed clinical model · no outcome figures given",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The chart looks better. The signs of swelling are down, so the drug is working. But the patient still hurts and feels tired all the time.\n\nThis happens often in rheumatoid arthritis, a long-term autoimmune disease. That means the immune system, which should fight germs, attacks the body's own joints by mistake. The result is pain, swelling and stiffness. Most patients respond well to treatment. But 6 to 28 percent never reach lasting remission, a long calm period with no active disease. Doctors call them the difficult-to-treat group.\n\nA team at Semmelweis University in Hungary studies this group. In two papers, in Nature Reviews Rheumatology and The Lancet Rheumatology, they argue that inflammation is not the whole story. Depression, poor sleep, obesity and smoking may do more than sit beside the disease. They may help keep the symptoms going.\n\nIt works like a loop. Pain and low mood make a person move less. Moving less brings weight gain and worse sleep. Worse sleep pulls mood down further. All of this turns the pain up and makes daily life harder. Each problem feeds the next, so the cycle is hard to break.\n\nThe team's idea builds on how doctors already work. In an approach called treat-to-target, doctors measure disease activity at regular visits. If inflammation has not dropped enough, they raise the dose or switch to another drug.\n\nThe researchers say these same checks can also work as an early warning. Sometimes the inflammation markers improve but the pain and fatigue stay. That gap is a clue. The symptoms may not come only from inflammation, or not from it at all. Dr. György Nagy, who heads the department, says this is the moment to take \"a step back\". Doctors should not add more medicine out of habit. They should look for what keeps the symptoms going: chronic pain syndrome, depression, a sleep disorder or obesity.\n\nThe team says they have seen this approach help difficult-to-treat patients. It can also build trust between doctor and patient, because treatment now aims at the real cause of the suffering. Their definition of difficult-to-treat disease is now used around the world, including for other illnesses. The papers behind it have been cited more than a thousand times. Next, they plan to use AI to find subgroups among patients. The goal is treatment plans that are almost personal."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "These papers propose a model. They are not a trial that tested it. The claim that the approach helps comes from the team's own experience, and they give no numbers. The researchers also say only that these other problems \"may\" keep symptoms going. They have not proven it for each patient."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "When the test results get better but the person does not, stop treating the test results and look at the person."
+    }
+   ],
+   "recall": {
+    "q": "In rheumatoid arthritis, what does it mean when inflammation markers improve but pain and fatigue stay, and what should the doctor do next?",
+    "a": "The gap suggests the symptoms may not come only from inflammation, or not from it at all. Instead of just adding more medicine, the doctor should look for what keeps the symptoms going, such as depression, a sleep disorder, obesity or chronic pain syndrome. These problems can feed each other in a loop."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/woman-joint-inflammation-hands-rheumatoid-arthritis-pain.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Sun, 27 Sep 2026 06:49:13 EDT"
+  },
+  {
+   "id": "neuro-news-1ryidif",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Nicotine, addiction, and the brain cell's power plants",
+   "body": "Most addiction research looks at brain circuits, meaning the way groups of cells connect. A new five-year project looks at something much smaller: the mitochondria, tiny structures inside each brain cell. It asks whether nicotine changes them in ways that drive craving.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Cigarette smoking in the US is at record lows. But nicotine has not gone away. It has found new forms. Between 2022 and 2025, the number of young Americans using oral nicotine pouches nearly quadrupled. Addiction adapts to whatever product is on the shelf.\n\nTreatment has not kept up. The drugs we have for nicotine use disorder (the medical name for nicotine addiction) give lasting help to only some patients. They often have side effects too. Neuroscientist Cali Calarco at the University of Central Florida wants to find better targets for new drugs. She has a five-year grant of more than $943,000 from the US National Institute on Drug Abuse.\n\nHer lab studies the nucleus accumbens, a small region deep in the brain. It sits on the dopamine pathway, which helps us learn what feels rewarding and choose what to do next. Calarco calls it \"a little computer\". It collects reward signals from many other brain areas and uses them to guide choices. Her lab does not treat it as one single block. It asks how different groups of neurons inside it each respond to nicotine.\n\nThe unusual part is where she looks: the mitochondria. Everyone knows them as the cell's power plants. Neurons need a lot of energy for their electrical and chemical work, so of course mitochondria matter. But Calarco says their other jobs have been overlooked. They shape how neurons talk to each other. They help cells read their genes and build proteins. They help make steroid hormones. So a change in the mitochondria could change how a neuron learns, not just how much fuel it has.\n\nThe idea has roots. After her PhD, at the University of Maryland, Baltimore, Calarco studied changes in mitochondria linked to cocaine-seeking. Now her lab tracks three things as nicotine acts: the mitochondria's shape, how they move inside the cell, and the chemical signals they send.\n\nThe hope is practical. If the team finds which signaling pathways go wrong during long-term nicotine use, new drugs could aim at that exact problem. Today's treatments act more bluntly, across the whole body. And because the brain uses similar molecular machinery to learn rewards from many drugs, the answer could reach further. It might help with other addictions and with compulsive behaviors too."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is a funded plan, not a finding. The project has just begun, and the source reports no results yet. Whether mitochondria drive nicotine-seeking is the question being tested. Any new treatment would come only if the research succeeds, and after much more work."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Craving may be written not only in how brain cells connect, but in how each cell powers and runs itself."
+    }
+   ],
+   "recall": {
+    "q": "Why does Calarco think mitochondria could matter for addiction, beyond giving neurons energy?",
+    "a": "Mitochondria also shape how neurons talk to each other, help cells read genes and build proteins, and help make steroid hormones. So if nicotine changes them, it could change how reward neurons learn. Finding the exact pathways that go wrong could lead to drugs that target that problem more precisely than today's treatments."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/09/nicotine-addiction-mitochondria-neurosceince-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/mitochondria-nicotine-addiciton-31260/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Sat, 26 Sep 2026 16:05:45 +0000"
+  },
+  {
+   "id": "3quarks-1ile10p",
+   "source": "3quarks",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Randy Weston: raised as an African born in America",
+   "body": "The jazz pianist Randy Weston reached Morocco in 1967, but Africa was not new to him. His father had prepared him for years. He hung portraits of African kings on a café wall and taught history lessons meant to undo the Tarzan movies. Later, jazz taught him the same lesson.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In a small luncheonette in Bedford-Stuyvesant, Brooklyn, the walls were covered with portraits of African kings. The place was called the Panama Café, and musicians and teachers sat at its tables. The owner was Frank Weston. His son Randy was born one hundred years ago, and he grew up to be a jazz pianist.\n\nFrank wanted his son to see himself as \"an African born in America.\" He followed the Pan-African ideas of Marcus Garvey. Pan-Africanism is the belief that Black people everywhere share one heritage and should stand together. Frank also had a clear enemy: the Tarzan movies of Randy's childhood, which showed Africa as a wild jungle. So he taught a different history. He taught ancient Egypt and ancient Ethiopia. He taught the great university of Fes in Morocco. He taught the Moors, the North African Muslims who ruled much of Spain. In this story, Africa was not the backward place. Africa was the teacher.\n\nThe lessons went on outside the home. Street-corner teachers such as John Henrik Clarke and Yosef Ben-Jochannan, known as Dr. Ben, deepened Randy's Afrocentrism. Afrocentrism is a way of reading history that puts Africa at the center, not at the edge.\n\nThen music did the same work. As a young pianist, Weston was deeply moved by the way Duke Ellington brought Africa into his Liberian Suite of 1948. In the early 1950s, he played piano for the jazz historian Marshall Stearns at the Music Inn, a cultural center in the Berkshires. Stearns would talk, then play, tracing jazz back to the Caribbean and West Africa. He showed three roots. The first was polyrhythm: several rhythms played at once. The second was call and response: one voice calls and others answer. The third was improvisation: making music up in the moment. This broke a tired story that Weston liked to mock: that jazz simply came \"up the river from New Orleans,\" as if it were born only in America.\n\nSo in April 1967, Weston arrived in Tangier, Morocco. He had just finished a US State Department tour of fourteen African countries and Lebanon. He was not meeting Africa for the first time. A café wall, some street-corner teachers and the roots of his own music had been preparing him for years. Identity, it seems, can be taught long before it is lived."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "In this story, Africa was not the backward place. Africa was the teacher."
+    }
+   ],
+   "recall": {
+    "q": "How did Randy Weston come to feel African before he ever went to Africa, and which false story did each influence push against?",
+    "a": "His father taught him about Egypt, Ethiopia, Fes and the Moors to push back against the Tarzan picture of Africa as a wild jungle. Later, Marshall Stearns traced jazz back to West African and Caribbean roots such as polyrhythm and call and response. That pushed back against the idea that jazz was born only in New Orleans."
+   },
+   "imageUrl": "https://3quarksdaily.com/wp-content/uploads/2026/09/3QDLogoX.jpg",
+   "deepLink": "https://3quarksdaily.com/3quarksdaily/2026/09/rhythm-and-revolution.html",
+   "attribution": "3 Quarks Daily",
+   "publishedAt": "Sun, 27 Sep 2026 14:26:40 +0000"
+  },
+  {
+   "id": "3quarks-sa17q7",
+   "source": "3quarks",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Enemy feminisms: when your own movement has opponents",
+   "body": "When someone in a movement does something bad, we often say they were never a real member. But feminism has no membership card. The theorist Sophie Lewis offers another view: some people are feminists and still on the other side.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Gloria Steinem died earlier this month. Her obituaries quickly split into two camps. In one, she is the great feminist icon, the face of the movement. In the other, she is a false feminist. To these writers, she shows the limits of the Second Wave, the name for that earlier stage of feminism. Some even suggest she betrayed the movement for the CIA.\n\nThe writer Amelia Horgan, in Tribune, uses this split to look at a common habit. Political movements are always drawing their borders. Sometimes a person acting in the movement's name does something questionable, or even reactionary, meaning it pushes things backward. The usual reply: they can't really be one of us, because no real comrade would do that.\n\nHorgan does not call this reply wrong. But it usually describes what the movement should be and how its members ought to act. It does not describe what the movement is, or what it has been. It is an ideal, not a head count.\n\nThe problem is that feminism is not a club. Anyone can call themselves a feminist. Others can disagree, but nobody can take the word away. So the real question is what to do when someone fails your own standards. Horgan's standards, for example, are anti-imperialist and anti-capitalist.\n\nThe feminist theorist Sophie Lewis has an answer. Such people are not outside the movement. Lewis calls what they stand for \"enemy feminisms\". They are still feminist, because they fight limits that a male-dominated order puts on people. But their politics are not ours.\n\nNotice what Lewis does not say. She does not say these people are outside the movement. This moves the fight. You stop arguing over who owns the label. Instead you can say plainly: this is feminism, and I oppose it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Sometimes the honest answer is not \"they're not one of us\" but \"they're one of us, and I'm against them.\""
+    }
+   ],
+   "recall": {
+    "q": "What does Sophie Lewis mean by \"enemy feminisms\", and how is that different from saying someone is not a real feminist?",
+    "a": "Lewis says people whose politics we reject can still be feminists, because they fight limits a male-dominated order puts on people. So you don't deny them the label. You admit they are feminists and oppose them anyway."
+   },
+   "imageUrl": "https://3quarksdaily.com/wp-content/uploads/2026/09/3QDLogoX.jpg",
+   "deepLink": "https://3quarksdaily.com/3quarksdaily/2026/09/agent-of-feminism.html",
+   "attribution": "3 Quarks Daily",
+   "publishedAt": "Sun, 27 Sep 2026 14:23:59 +0000"
+  }
+ ]
+}
