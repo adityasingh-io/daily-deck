@@ -1,0 +1,872 @@
+{
+ "date": "2026-09-30",
+ "generatedAt": "2026-09-29T20:25:12.300Z",
+ "cards": [
+  {
+   "id": "letter-2026-09-30",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "Signals we trust too quickly",
+   "body": "Today's pieces share a quiet warning: some signals feel more certain than they really are. A confident posture, a star you love, even the word 'cancer' can mean less, or something different, than it seems. If you read only one piece, read the opener on moral disgust. It explains what that strong feeling in your gut is really telling you, and what it is not.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "psyche-1jtlvil",
+   "source": "psyche",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Moral disgust: is the feeling proof something is wrong?",
+   "body": "Philosopher Brandon Yip argues that moral disgust is an alarm. It goes off when someone's behaviour threatens to wear away the moral rules you live by. So it is worth hearing but not worth obeying, because it guards bad rules as fiercely as good ones.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In 2025, the writer David Brooks watched Donald Trump clash with Ukraine's president, Volodymyr Zelenskyy, at a press conference. He did not say he was angry. He said he felt \"nauseated, just nauseated\". He felt sick in his stomach, as if his body had judged the scene before his mind did.\n\nThat feeling has a name: moral disgust. Ordinary disgust is about dirt. The smell of urine on a train makes you step back and want to wash. Moral disgust feels like dirt of a moral kind. Betrayal and exploitation set it off, and it pushes us to shut the person out.\n\nSkeptic: So if something disgusts me morally, isn't that proof it's wrong? My gut is telling me.\n\nAnswer: Not proof, says Yip, but not noise either. Some scholars are harsh on the feeling. Daniel Kelly says disgust is an old alarm, built to keep us away from poison and parasites (tiny creatures that live off the body). It has a \"hair trigger\": it goes off very easily, so it gives many false alarms. Moral disgust, he says, has the same flaw. Yip pushes back a little. Emotions can learn. Even ordinary disgust reads the situation: a lover's saliva feels very different from a stranger's.\n\nTo judge the feeling, Yip says, first ask what it actually detects. Two other answers fail. One says it reacts to bad behaviour that could spread. But stealing office supplies could spread, and almost no one finds it disgusting. Another says it reacts to broken trust. But incest between consenting adults breaks no trust, and people still recoil.\n\nYip's answer: moral disgust reacts to behaviour that is \"socially corrosive\". Such behaviour slowly eats away at moral rules you feel bound by. Picture a soccer game where players keep picking up the ball and throwing it. They are not just breaking a rule. They are destroying the game. A corrupt leader does the same to the rule of law. The danger is not only more corruption. It is that the rules stop holding at all. These rules can hold you without you noticing: someone who leaves Islam may still feel the pull of the ban on pork.\n\nSkeptic: Then here is the problem. Disgust also fires at harmless things that are only unfamiliar. Premarital sex and homosexuality once disgusted many people. Today most people accept them. So the feeling just defends whatever rules I grew up with, good or bad.\n\nAnswer: Yip agrees. The rules we feel bound by are mixed. Some lean towards justice. Some are the uglier parts of our culture. Leon Kass argued that our disgust at human cloning was a warning, because cloning would confuse what mother, father and sibling mean. Yip agrees cloning could reshape family rules. But the family order Kass defends may itself be unjust and patriarchal, built around men's power.\n\nSkeptic: Then why listen at all?\n\nAnswer: Because sometimes disgust sees what reasoning cannot. Some people who took part in the Holocaust felt deeply sick at what they were doing. They pushed the feeling down with Nazi ideology, the regime's official beliefs. And before \"sexual harassment\" had a name, many women felt disgust at men's advances but had no words to explain why. Their gut was defending equal respect before language caught up.\n\nSo Yip's advice is this: do not dismiss the feeling as primitive, and do not treat it as a judge. Pause. Name the order your disgust is guarding. Then ask if you have good reasons to value it.\n\nYip admits there is no simple formula for the hard part. When your stomach turns, is it conscience breaking through ideology, or old prejudice defending itself? The feeling alone cannot tell you."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Disgust tells you a way of life is under threat. It cannot tell you whether that way of life deserves to survive."
+    }
+   ],
+   "recall": {
+    "q": "According to Yip, what does moral disgust actually detect, and why is that not enough to prove something is wrong?",
+    "a": "It detects socially corrosive behaviour: actions that threaten to wear away the moral rules you feel bound by. But those rules can be unjust as easily as just (premarital sex once disgusted many people). So you still have to ask whether the order your disgust protects is worth keeping."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/b492c86e-a58a-44e2-b7bc-e5d002b01225/sz-panos_00374310.jpg?top=130&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/ideas/when-you-feel-moral-disgust-whats-the-emotion-telling-you",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Tue, 29 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "psypost-l8n284",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Your brain grows from two separate sources, not one",
+   "body": "For about 70 years, the leading model said the whole brain grows from one shared pool of early cells. A new study in mouse embryos and human stem cells suggests that two separate groups build it instead. One group makes the front and middle of the brain. The other makes the back.",
+   "evidence": "single study · mouse embryos + human stem cells in dishes · cell groups also checked in 4 other species",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Think of a phone. The screen, the chip and the battery come from different factories, but you hold one device. A Stanford team says the brain may be built the same way.\n\nThat goes against the textbook. In 1952 the Dutch scientist Pieter Nieuwkoop proposed that every brain region grows from one shared pool of progenitors. A progenitor is an early cell that has not specialized yet. It divides and makes more specialized cells. His idea became the field's main model.\n\nOlder maps did show some early cells heading to certain regions. But they could not answer the real question. Were those cells truly committed? Or were they just following the chemical signals around them, ready to change if the signals changed? Where a cell ends up does not prove what it could have become.\n\nThe team, led by Rayyan Jokhai, Carolyn Dundes and Kyle Loh, tested both.\n\nFirst, in mouse embryos, they put a glowing tag on a group of early brain cells that carried a gene called Gbx2. They did this just as gastrulation ended. Gastrulation is the early stage when the basic body plan takes shape. Right up to just before birth, the descendants of these cells landed almost only in the hindbrain. That is the back part of the brain, the brainstem, which runs breathing, swallowing and sleep. The tagged cells were nearly absent from the forebrain and midbrain.\n\nNext came a test of stubbornness, using human stem cells in lab dishes. With two different chemical recipes, the team turned the stem cells into two kinds of early brain tissue in two days. One kind builds the forebrain and midbrain. The other builds the hindbrain. Then the team gave each kind the opposite signals. Mostly, the cells refused to switch. They kept their identity even when both kinds were mixed in one dish.\n\nThe reason was in their chromatin, the way DNA is packed inside the cell. In the front-brain cells, front-brain genes were open and ready to use. Hindbrain genes were locked away. So the two groups are not waiting for orders. They are already different.\n\nThe team found similar front and back groups in macaques, chickens, zebrafish and acorn worms. Acorn worms are small seafloor worms, distant relatives of animals with backbones. This suggests the two-source plan is about 550 million years old.\n\nWhy it began is still an open question. Loh has a guess. Jellyfish have two separate nerve rings at opposite ends of the body. Maybe early animals had two nervous systems, and evolution later pushed them together into what looks like one brain. He stresses that this is only an idea. How the two groups split apart in the first place is also still unknown."
+    },
+    {
+     "label": "Why it matters beyond theory",
+     "style": "note",
+     "text": "Using this map, the team grew working human hindbrain motor neurons in a dish. These nerve cells control the muscles for swallowing and speech. ALS and spinal muscular atrophy kill them. Doctors cannot take these cells from a living patient's brainstem, so a dish version gives a new way to study these diseases. An outside expert warns that it is a research tool, and nowhere near a stem cell therapy."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study. Cells in a plastic dish do not fully copy a growing embryo, so they may behave differently inside a body. Some untested chemical mix might still force the cells to switch. Testing this in living mammals is hard, because it means placing tagged cells in the wrong spot of an embryo. And two sources do not mean two organs. The heart also comes from two sources, and its four chambers still work as one."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "One organ does not have to mean one origin. The brain may be two old plans that learned to work as one."
+    }
+   ],
+   "recall": {
+    "q": "How did the researchers show that the two groups of early brain cells are truly committed, and not just following local signals?",
+    "a": "They gave lab-grown front-brain and back-brain cells the opposite chemical signals. The cells mostly refused to switch, even when both kinds were mixed in one dish. The way their DNA was packed explained why: the genes for the other region were already locked away."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/06/neurons-2.jpg",
+   "deepLink": "https://www.psypost.org/the-brain-is-built-from-two-separate-sources-not-one-new-research-suggests/",
+   "attribution": "PsyPost",
+   "publishedAt": "Tue, 29 Sep 2026 10:00:48 +0000"
+  },
+  {
+   "id": "bbc-world-bfdnsk",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Morocco names its first female prime minister",
+   "body": "Fatima Zahra El Mansouri, 50, is Morocco's first female prime minister. Her party won the most seats in last week's election. But in Morocco, most power stays with the king who chose her.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Fatima Zahra El Mansouri, 50, is a lawyer, a long-time mayor of Marrakesh and a former housing minister. Now she is Morocco's first female prime minister. She is only the second woman to lead a government in the Arab world, after Tunisia's Najla Bouden.\n\nHer centrist party, the Authenticity and Modernity Party (Pam), came first in last week's election. But 97 seats is far from a majority. So she must build a coalition, a group of parties that govern together. Pam has fallen out with its old partner, the RNI. The Islamist PJD came second, and it says it will stay in opposition.\n\nHow much power does her job have? Morocco has an elected parliament, but most power stays with King Mohammed VI. The constitution says the king picks the head of government from the party that comes first."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "97: seats won by Pam, the largest party",
+      "198 of 395: seats needed for a majority in parliament",
+      "54: seats for the Islamist PJD, up from 13 last time"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "In the past, the king's pick was mostly a formality, because each party had one clear leader. But since February 2024, a group of leaders has run Pam. So the king made a real choice: El Mansouri or Fouzi Lekjaa, Morocco's football chief and another top Pam politician. El Mansouri herself said the decision was up to the king."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Which parties join her coalition. Also watch whether she speaks on women's rights. She has rarely done so in public, even as Morocco debates banning polygamy (having more than one wife) and giving men and women equal inheritance."
+    }
+   ],
+   "recall": {
+    "q": "How did El Mansouri become prime minister, and why is her power limited?",
+    "a": "Her party, Pam, came first in the election, and the constitution lets the king pick the head of government from that party. King Mohammed VI chose her over another Pam leader. Most power in Morocco still stays with the king. She also needs a coalition, because Pam won only 97 seats, far short of the 198 needed for a majority."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89e1/live/1f6a3b30-b8f5-11f1-bd4a-e9ce4be469f6.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Tue, 29 Sep 2026 17:14:10 GMT"
+  },
+  {
+   "id": "psypost-1l53ryj",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Resilience may soften abuse's mark on a child's brain",
+   "body": "In a study of 92 children in rural China, abuse was linked to brain patterns tied to depression and anxiety, but only in children with low resilience. Resilience did not seem to protect against neglect.",
+   "evidence": "single study · n=92 · self-report questionnaires + brain scans · 6-month follow-up",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In rural China, many parents work far away in the cities. Their children stay behind in the villages. People call them \"left behind\" children. A team led by Yuanyuan Li of Beijing Normal University studied 94 of them. They were 10 to 14 years old and went to schools in poor villages.\n\nFirst, what we already know. A hard childhood shapes mental health in many ways. Abuse can keep a child on high alert, so normal moments start to feel dangerous. Stress can also change how the brain's systems for emotion, attention and body feelings work together. And abuse and neglect are different wounds. Abuse brings threat and fear. Neglect is something missing: care, attention, basic needs.\n\nNow the new part. The children answered questions about abuse, neglect, resilience, mood and body complaints. Resilience means the ability to adapt and keep going when life is hard. It is not fixed. It can grow with support. Then each child lay still in a brain scanner. The scan measured how closely different brain systems rise and fall together. Scientists often read this as how strongly those systems talk to each other. Six months later, the children reported their mood again.\n\nAcross the 92 children in the final analysis, abuse alone was not linked to the brain measures. The link appeared only when resilience was counted in. In children with low resilience, more abuse went with stronger links between the emotion network and two others. One handles body feelings. The other, called the salience network, notices important or threatening things. These patterns helped explain more headaches, stomachaches and tiredness, more depression, and more anxiety six months later. In children with average or high resilience, the patterns did not appear.\n\nThe surprise was neglect. Resilience did not seem to protect against it. Neglect had no link to the brain measures. But children who reported more neglect also reported more depression, both times. The authors think neglect was so common and so long-lasting in this group that inner strength alone could not balance it. Their advice: reduce the lack itself, with more material help and more caring, responsive adults.\n\nNow, what we don't know. The big question is whether resilience actually causes this protection. Hard experiences and brain activity were measured at the same time. So the study shows links, not causes. Resilience also came from the children's own answers, like whether they feel able to handle whatever comes. Nobody watched how they actually coped.\n\nThe authors say resilience \"specifically shields\" children against abuse. Their data are less sure than that. To settle it, we need bigger groups, followed for longer."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one small study of 92 children, all from one poor rural region, so the results may not hold elsewhere. Children reported their own past abuse and neglect, and memory can be wrong. Sexual abuse was not asked about. The link to later anxiety disappeared when the researchers used a stricter rule to remove children who moved during the scan."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Resilience may help a child carry fear, but it cannot replace the care that never came."
+    }
+   ],
+   "recall": {
+    "q": "In which children did abuse go with brain patterns linked to depression and anxiety, and what did resilience fail to protect against?",
+    "a": "Only in children with low resilience; the patterns did not appear in children with average or high resilience. Resilience did not seem to protect against neglect, which the authors think needs real material help and better caregiving."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/07/brain-scan.jpg",
+   "deepLink": "https://www.psypost.org/psychological-resilience-may-buffer-childrens-brains-against-some-effects-of-abuse/",
+   "attribution": "PsyPost",
+   "publishedAt": "Tue, 29 Sep 2026 15:00:54 +0000"
+  },
+  {
+   "id": "marginalian-3fejf8",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "C.S. Lewis's daily routine and the art of receiving",
+   "body": "C.S. Lewis built his days around strict hours, walks alone and almost no mail. The point was not to get more done. All of it protected one skill: taking in the world before trying to make anything from it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "By two in the afternoon at the latest, C.S. Lewis was out walking. Most days, alone. Before that came breakfast at exactly eight, the desk from nine to one, and lunch at one sharp. After the walk came tea by a quarter past four, work from five to seven, then talk or light reading, and bed by eleven.\n\nHe describes this in his memoir Surprised by Joy. He is looking back on a very creative time, the years when the Narnia books began to grow in him. The Marginalian, which wrote about this routine, argues that every part of it served one goal: training the imagination to receive. Lewis put the heart of it in three short sentences about how to meet the outdoors:\n\n\"Total surrender is the first step… Shut your mouth; open your eyes and ears. Take in what is there and give no thought to what might have been there or what is somewhere else.\"\n\nTake it one piece at a time.\n\n\"Total surrender is the first step.\" Look at the order. Surrender comes before making anything. Most of us start a work session by producing: open the file, start typing. Lewis says the first act is passive. You let go of control before anything arrives. The Marginalian says the same about wonder: you cannot plan it or force it. It happens to you.\n\n\"Shut your mouth; open your eyes and ears.\" Closing one channel opens the others. This is why he walked alone. Walking and talking, he wrote, are both great pleasures, but they mix badly. Our own noise drowns out the sounds and silences around us. The only good walking friend is one whose taste is so close to yours that a glance or a nudge is enough. \"Mouth\" here means more than speech. It is any output that fills the space where input should go.\n\n\"Give no thought to what might have been there or what is somewhere else.\" This is the hardest part, and the most modern. \"Somewhere else\" is exactly where a phone lives. A notification is a message that something is happening elsewhere. Lewis guarded against his own version of this. He got and answered only two letters a week: one from his father, one from his close friend Arthur. Having almost no mail, he said, is essential to a happy life.\n\nNow picture a knowledge worker's day, meaning someone paid to think, like a developer. It is built the other way around. Messages arrive all day, and every open tab is a somewhere else. At meals, Lewis read what he called a gossipy, formless book, one you could open at any page. The Marginalian notes that the whole internet may be that kind of book for us. The difference: he kept his at the dinner table, far from his desk.\n\nThe lesson is not to copy his hours. The Marginalian says no schedule is perfect or right for everyone. The lesson is the order. Structure comes first, so that receiving can happen. Receiving comes first, so that creating has something to work with. The Marginalian calls creative work a translation of what life signals to us. You cannot translate a signal you never heard."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "The first ten minutes of a work block: do you open messages (somewhere else) or the problem in front of you (what is there)?",
+      "A walk with earphones or a call is a walk with your mouth open. Try one walk a week with nothing playing.",
+      "Lewis had two letters a week. Try checking chat and email at two fixed times a day, not whenever they arrive."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Before you can make something, you have to take something in. And you can only take in what is actually in front of you."
+    }
+   ],
+   "recall": {
+    "q": "What was all of Lewis's routine really for, and what does 'somewhere else' mean for us today?",
+    "a": "The strict hours, solo walks and tiny amount of mail all protected his ability to receive: to take in the world before trying to create. Today, 'somewhere else' is mostly our phones and open tabs, which keep pulling attention away from what is in front of us."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/09/cslewis_surprisedbyjoy.jpg?fit=320%2C482&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/29/c-s-lewis-schedule/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Tue, 29 Sep 2026 14:36:49 +0000"
+  },
+  {
+   "id": "hackernews-6hvzlc",
+   "source": "hackernews",
+   "topic": "econ",
+   "kind": "news",
+   "title": "How Delhi cut its power losses from 50% to about 5%",
+   "body": "In 2002, Delhi lost more than half of its electricity to theft and old, leaky wires. Today it loses only 5 to 6 percent, about the same as France and Belgium.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "'Electricity loss' means power that is sent out but never paid for. Some leaks away as heat in old wires. The rest is stolen through illegal hookups. In 2002, Delhi's utilities were paid for less than half their power, so they had no money to fix the grid.\n\nThat year, the state-run Delhi Vidyut Board was broken up. Two private companies, Tata Power and BSES, took over. A year later, India's Electricity Act, 2003 gave new ways to take power thieves to court.\n\nThe companies attacked every cause at once. A central digital control system showed where power went missing. New equipment cut the extra current that heats wires. Insulated cables were hard to tap. Digital meters replaced old ones that were easy to cheat. 24-hour kiosks and an app made bills easy to pay. In poor areas where losses hit 83 percent, Tata paid local women to collect bills from their neighbours."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Grid reliability: about 70% in 2002, above 99.9% now",
+      "Tata Power's area: 53.1% lost in 2002, 6.3% in 2023",
+      "Transformers broken at any time: 11% in 2002, under 1% now"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Himachal Pradesh, Madhya Pradesh, Maharashtra and Telangana still lose about 17 to 23 percent, under the same 2003 law. The reasons: long lines to remote villages, less digital equipment and weak bill collection. Delhi's lesson is that smart meters and AI help, but only with trained, accountable workers, enforced laws and collected bills. As one BSES chief put it, it \"cannot happen through technology alone.\""
+    }
+   ],
+   "recall": {
+    "q": "What does 'electricity loss' count, and why did Delhi's losses fall from over 50% to about 5%?",
+    "a": "It counts power that is sent out but never paid for, either lost as heat in old wires or stolen. Losses fell because private companies replaced the state board in 2002 and fixed everything together: better equipment, meters that are hard to cheat, easy bill payment, and real action against theft."
+   },
+   "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=67793961&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+   "deepLink": "https://spectrum.ieee.org/delhi-electricity-loss",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-29T12:43:29Z"
+  },
+  {
+   "id": "tinybuddha-15074qb",
+   "source": "tinybuddha",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Burnout's hidden danger: you feel fine when you're not",
+   "body": "Burnout does not always stop you. It can let you keep working while your judgment slowly gets worse. And the tired mind is the same one checking if you are okay. One security expert learned this after losing about $3 million.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "If you are reading this at the end of a long week and still getting things done, this one is for you.\n\nJoe White worked in technology for more than 25 years. Much of that time was in information security: finding weak spots before someone else does. Judging risk was his job. Then, while badly burned out, he put his retirement savings into an offshore cryptocurrency lending platform. He lost about $3 million. He says the risk was not what he was told, and he has spent three years trying to hold someone responsible. But burnout, he writes, helps explain why he did not question those claims harder. He was not thinking normally. The frightening part is that he thought he was.\n\nThis is the danger no one warns you about. We picture burnout as collapse: someone who cannot get out of bed. White could still work, solve hard problems and handle difficult conversations. Each time he pushed through the tiredness, he took it as proof that he was fine. Slowly, poor sleep, brain fog and trouble focusing all felt normal. There was no morning when he woke up and knew his judgment was damaged. In his words, \"being able to function is not the same as functioning normally.\"\n\nThe deeper trap is a loop. He was using his brain to check if that same brain was working. In security terms, he had built a system with a single point of failure: one part that brings everything down if it breaks. That part was him.\n\nSo his advice is the rule he used at work. When a mistake would be serious, you do not trust one person just because they are experienced. You slow down and add a second pair of eyes. When you are tired and facing a decision you cannot undo, ask someone you trust to look at it. They do not need to be smarter than you. They just need to not be tired in the way you are. He warns that capable, independent people are most at risk. The longer you have solved problems alone, the more sure you are that you will notice when something is wrong. You may not.\n\nSo when you feel tired, overwhelmed or quicker than usual to act on sudden urges, the answer may not be to try harder. It may be to make fewer decisions. That is not weakness. It is good risk management."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Focusing is getting harder, and you just work around it.",
+      "Being exhausted has become your normal, everyday state.",
+      "You no longer enjoy things you used to care about.",
+      "When your work slips, your only answer is longer hours."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Being able to function is not the same as functioning normally."
+    }
+   ],
+   "recall": {
+    "q": "According to White, why is burnout so hard to notice in yourself, and what should you do before a big decision?",
+    "a": "Burnout can let you keep working while your judgment slowly gets worse, and you are using that same tired mind to check if you are okay. Before a decision you cannot undo, slow down, make fewer decisions and ask someone you trust to look at it, because they are not tired in the way you are."
+   },
+   "imageUrl": "https://cdn.tinybuddha.com/wp-content/uploads/2022/04/Burnt-out.jpg",
+   "deepLink": "https://tinybuddha.com/blog/the-hidden-danger-of-burnout-no-one-warns-you-about/",
+   "attribution": "Tiny Buddha",
+   "publishedAt": "Mon, 28 Sep 2026 14:44:55 +0000"
+  },
+  {
+   "id": "hackernews-1otx9za",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Report: DraftKings uses AI to target gamblers who lose",
+   "body": "DraftKings, a US sports betting company, uses AI to find customers likely to lose bets. It then pulls them back with promotions. This is an allegation, reported by The New York Times.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "According to the report, DraftKings trains a machine learning model on its customers' betting records. A machine learning model is software that learns patterns from past data. The model picks out the people who are likely to lose. DraftKings then sends them personal offers to get them betting again.\n\nLosing gamblers are the customers who make the company money. So \"problem gamblers\" are the most likely targets. These are people who keep betting even when it hurts their money and their relationships.\n\nThe story reached us through the Electronic Frontier Foundation (EFF), a digital rights group. EFF says DraftKings profits from these people's weakness instead of lowering their risk. EFF's post includes no reply from DraftKings."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "DraftKings seems to use only its own customers' data. It does not appear to buy data from others. So laws that only stop companies from selling or sharing data would not stop this. EFF wants to ban all behavioural advertising, meaning ads picked for you based on data collected about you."
+    }
+   ],
+   "recall": {
+    "q": "What is DraftKings reported to be doing with AI, and why are problem gamblers most at risk?",
+    "a": "The New York Times reports that DraftKings trains a model on betting records to find customers likely to lose, then sends them offers to bring them back. Losing gamblers make the company money, so problem gamblers, who keep betting even when it harms them, are the most likely targets."
+   },
+   "imageUrl": "https://www.eff.org/files/banner_library/mobile-privacy.png",
+   "deepLink": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-29T16:30:48Z"
+  },
+  {
+   "id": "daily-phil-1qjzeke",
+   "source": "daily-phil",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "How Hinduism thinks about love, in five ideas",
+   "body": "In English, one small word does a lot of work. \"Love\" must cover a parent's tenderness, a lover's passion, a friend's loyalty and a saint's devotion. Sanskrit, the old language of Hindu texts, never had this problem. Here are five ideas from a guide to how Hinduism thinks about love.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "1. Different loves get different words. Sanskrit has a separate word for each of these feelings, and several more. The Hindu traditions did not stop at names. They built a separate philosophy around each kind of love.\n\n2. There is no single Hindu view of love, because there is no single Hinduism. The word covers three thousand years of texts, dozens of schools and many gods. They disagree about love, just as they disagree about everything else.\n\n3. Desire is not a sin, but it points inward. Kāma means desire, especially sensual and sexual desire, and also pleasure in general. It appears as a god who shoots arrows made of flowers. In the oldest texts, it is also a force at work in the whole universe. Hinduism counts it as one of the proper aims of a human life. Its limit is its direction: kāma wants to satisfy the person who feels it.\n\n4. The highest love points outward. Prema is the other end. It is tender, selfless love that wants what is good for the one you love. In devotional thought, prema is the highest love of God, a love that has \"burned away\" every wish for your own pleasure. Then there is bhakti, usually translated as devotion. The word comes from a root meaning to share, to take part in, to belong to. Bhakti is the relationship with God. Prema is the feeling of that relationship at its fullest.\n\n5. The surest way to God is to love God like a person. From around the seventh century, bhakti became the main strand of Hindu religious life, and it has shaped that life ever since. Its central claim is not about calm or distance. It says the highest love, and the surest road to God, uses the same feelings you have for a human being: longing, tenderness, jealousy, grief and joy. The messy feelings of human love are not left behind. They become the road."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "In bhakti, you do not rise above human love to reach God. You bring all of it, even the jealousy."
+    }
+   ],
+   "recall": {
+    "q": "What is bhakti's central claim about how to reach God, and how is prema different from kāma?",
+    "a": "Bhakti says the surest way to God is to love God as you love a person, with longing, tenderness, jealousy, grief and joy. Kāma is desire that wants your own satisfaction. Prema is selfless love that wants the good of the one you love."
+   },
+   "imageUrl": "https://daily-philosophy.com/philopedia-love-in-hinduism/featured-1200px.jpg",
+   "deepLink": "https://daily-philosophy.com/philopedia-love-in-hinduism/",
+   "attribution": "Daily Philosophy",
+   "publishedAt": "Mon, 28 Sep 2026 10:00:00 +0800"
+  },
+  {
+   "id": "et-economy-no1std",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's rains fall 12% short; drought hits Maharashtra",
+   "body": "India's rain this season came in 12% below normal. Maharashtra has declared drought across large parts of the state, and Karnataka faces similar conditions. Prices of several pulses are already rising.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A 12% deficit means rainfall fell 12% below the normal level. The damage is not the same everywhere. Maharashtra and Karnataka are hit hardest.\n\nThe effect is already showing in commodity markets, where crops like grains and pulses are bought and sold in bulk. Prices of several pulses (lentils, chickpeas and similar crops) have gone up."
+    },
+    {
+     "label": "What is pushing prices",
+     "style": "list",
+     "items": [
+      "Worry that harvests will be weaker",
+      "Extra buying for the festival season"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Pulses are a daily protein for most Indian households. When rain fails in big farming states, crop worries soon turn into higher prices. But festival demand is pushing prices up at the same time. So the rain is only part of the story."
+    }
+   ],
+   "recall": {
+    "q": "How short was the rain, and what two things are pushing pulse prices up?",
+    "a": "Rain was 12% below normal, with drought declared across large parts of Maharashtra and similar conditions in Karnataka. Pulse prices are rising because of worry about weaker harvests and extra festival-season buying."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-134573520,imgsize-666548.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/agriculture/12-deficit-rain-report-gives-a-dry-reading/articleshow/134573520.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Wed, 30 Sep 2026 01:03:05 +0530"
+  },
+  {
+   "id": "psypost-293n2a",
+   "source": "psypost",
+   "topic": "world",
+   "kind": "news",
+   "title": "US opinion moved left under Trump. Did the parties get closer?",
+   "body": "Between 2016 and 2020, Americans moved left on many issues. Most people would guess the two parties grew closer. They grew further apart.",
+   "evidence": "panel surveys (ANES and GSS) · same people tracked 2016–2020 · self-report · association, not cause",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "More people backed welfare spending, more government services and more immigration. But almost all of this shift came from Democrats and Independents. Republicans mostly stayed where they were. On a few topics, like scientific research and alternative energy, they moved slightly right. So the average moved left while the parties moved apart. An average can hide the fact that only one side moved.\n\nFeelings split too. Experts call this affective polarization: you don't just disagree with the other side, you dislike it. People rated each party on a 0-to-100 'feeling thermometer'. Higher means warmer."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Republicans: over 10 degrees warmer toward their own party and about 8 degrees colder toward Democrats. The gap between the two grew by nearly 19 degrees.",
+      "Democrats: no change toward their own party, about 4 degrees colder toward Republicans. Their gap grew by about 3 degrees.",
+      "The data: the same people answered 32 questions (ANES survey) and 40 questions (GSS survey) in both 2016 and 2020."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "People whose dislike of the other party grew were more likely to take their own party's side on immigration, the environment and racial justice. But the study shows a link, not a cause. Dislike may change views, or disagreement may create dislike. Probably both happen. The period was also unusual: it included the start of COVID-19."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The authors, Alan Yang and Robert Y. Shapiro of Columbia University, plan to run the same test on 2020–2024 data. It will show whether the split lasted after Trump's first term."
+    }
+   ],
+   "recall": {
+    "q": "American opinion moved left during Trump's first term. Why did the gap between the parties still grow?",
+    "a": "Almost all the shift came from Democrats and Independents. Republicans mostly stayed put or moved slightly right, so the average moved left while the parties moved apart. Dislike of the other party also grew, most of all among Republicans."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/10/donald-trump-shrug.jpg",
+   "deepLink": "https://www.psypost.org/as-america-shifted-left-under-trump-emotional-hostility-widened-the-partisan-gap/",
+   "attribution": "PsyPost",
+   "publishedAt": "Tue, 29 Sep 2026 13:00:51 +0000"
+  },
+  {
+   "id": "iai-1qj4bjv",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Why democracies see the threat only when it's too late",
+   "body": "Movements that attack democracy are easiest to stop early, while they are small and hide their aims. But that is exactly when no one is sure they are a threat. By the time the danger is clear, the best tools for stopping it can no longer be used.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The rules said any party could stand for election, print its own paper and hold a rally. In the 1930s, totalitarian parties (parties that wanted total control of the state) used exactly those freedoms. They took the rights that democracy gave them and used them to take it apart.\n\nGiovanni Capoccia, a politics professor at Oxford, says the same pattern is back. A liberal democracy is more than free elections. It also limits power, through independent courts, a free press and the right to protest. Capoccia calls movements that win votes but dislike those limits \"illiberal.\" He argues they have won power through elections in several countries. He names the United States, Turkey, India, Hungary and Poland, among others. In those places, he says, checks on the government weakened, courts lost independence, and the media and public protest faced new limits.\n\nThe usual answer is to fix what makes people angry enough to back extremists: jobs, inequality, education. Capoccia agrees these matter. But they take years to work. Over the last two decades, illiberal forces rose too fast for such policies alone to stop them. Democrats failed mainly in the short term, he says. They did not buy themselves time.\n\nThe trap he describes is about timing.\n\nEarly on, defenders have many tools. If a new government starts cutting checks on its power, the opposition can block bills in parliament, go to court and fill the streets. If a new extremist party appears, citizens can hold counter-protests and boycotts. The state can also use \"militant democracy\": the idea that a democracy may limit groups working to destroy it.\n\nBut early on, nobody is sure. The new movement looks like just another party. Its leaders hide what they really want. Propaganda and small, slow steps make each change look normal. So democrats wait.\n\nLater, the danger is clear. But by then, Capoccia says, most of those tools are gone. Using them has become politically impossible. The moment you can finally see the threat is the moment you can no longer act on it.\n\nThis leads to a hard paradox. Some early tools are themselves limits on freedom, such as restrictions on a party. So defending democracy early can mean acting in undemocratic ways, against people who have not yet clearly done harm. Act too soon, and you may look like the danger yourself. Act too late, and little may be left to defend.\n\nCapoccia offers no single fix. He says democrats must prepare for a long \"war of position\" and use every means they have.\n\nThe lesson belongs to no single side or country. A slow threat rarely announces itself. So every citizen faces the same hard question: how much evidence is enough to act? And it must be answered while the evidence is still thin."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Early on, defenders have the most tools: parliament, courts, protests, boycotts and legal limits on parties.",
+      "Early on, they are also least sure, because these movements hide their aims and change things in small steps.",
+      "Some early tools limit freedom themselves, so defending democracy can mean acting undemocratically.",
+      "Fixing jobs, inequality and education still matters, but it works too slowly to stop a fast rise on its own."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A threat is easiest to stop when it is hardest to see."
+    }
+   ],
+   "recall": {
+    "q": "What is the timing trap Capoccia describes in defending democracy?",
+    "a": "Early on, democrats have many tools to stop an illiberal movement, but they are unsure it is a threat because it hides its aims and changes things in small steps. By the time the threat is clear, most of those tools have become politically impossible to use."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/the-paradox-of-democracys-self-defense.webp",
+   "deepLink": "https://iai.tv/articles/the-paradox-of-democracys-self-defense-auid-3689",
+   "attribution": "IAI News",
+   "publishedAt": "Tue, 29 Sep 2026 10:45:24 +0000"
+  },
+  {
+   "id": "hackernews-wmbkh0",
+   "source": "hackernews",
+   "topic": "world",
+   "kind": "news",
+   "title": "US sanctions push Dutch government away from Microsoft",
+   "body": "The US put sanctions on the International Criminal Court in The Hague, and the court's chief prosecutor lost access to Microsoft email. The Dutch government saw the risk. It is now building its own work system so that no foreign country can switch off its computers.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The project is called DAWO. The name is short, in Dutch, for Digital Autonomous Work Environment for Government. It covers operating systems, office software and cloud services. The goal is to depend less on software made or based in the United States.\n\nDAWO is built on NixOS, an operating system (the base software that runs a computer). NixOS keeps each program in its own locked, signed folder. This lets one exact setup be copied onto many computers. NixOS also runs on older machines that Windows 11 often refuses.\n\nThree government IT providers are building it: SSC-ICT, DICTU and DUO-ICT. The Ministry of the Interior and Kingdom Relations is in charge."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "8 Dutch municipalities (local governments) are testing it now",
+      "End of 2027: first stable version expected",
+      "Up to 90% of a setup can be reused from one install to the next, by one estimate"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Relying on foreign tech is now a sovereignty risk. That means a risk to a country's control over its own affairs. The Dutch are not alone. Germany has already moved away from Microsoft-based systems, and Denmark and France are rethinking theirs."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Leaving Microsoft is slow and hard. The real test is whether the town trials hold up and the stable version comes by the end of 2027."
+    }
+   ],
+   "recall": {
+    "q": "What pushed the Dutch government to move away from US software, and what is it building instead?",
+    "a": "US sanctions on the International Criminal Court cut its chief prosecutor off from Microsoft email. This showed that a foreign government could switch off important tools. So the Dutch government started DAWO, its own work system built on NixOS. A stable version is expected by the end of 2027."
+   },
+   "imageUrl": "https://cdn.mos.cms.futurecdn.net/iPvfpzYoJfo4RCLhXPfRAb-2000-80.jpg",
+   "deepLink": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-09-29T11:44:25Z"
+  },
+  {
+   "id": "marginalian-1fc74p8",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Eric Berne: why real intimacy is so rare and scary",
+   "body": "Eric Berne, the psychiatrist behind 'Games People Play', believed each of us has three inner voices: a Child, a Parent and an Adult. In his last book he argued that real intimacy happens only between two Child selves, with no games. The hard part is keeping the other two voices quiet long enough to truly see someone.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In the last year of his life, a famous psychiatrist was playing with a swear word. Eric Berne took the best-known rude word for sex and moved its letters around to make \"cuff\". He thought his word was better. He said it started as a child's word, so it carried the whole feeling of sex, even its smell. It looks like a joke. For Berne, it was a small rebellion against the grown-up parts of the mind.\n\nSix years earlier, Berne (1910–1970) had changed how people think about relationships with his book Games People Play. His idea: each of us holds three \"ego states\", or three voices inside one person. The Child is the natural, playful, easily hurt part. The Parent copies how our own parents reacted when we were small. The Adult is the calm part that makes sensible choices. He argued that much of the hurt between people comes when these voices talk past each other.\n\nIn his final book, Sex in Human Loving, he asked what real intimacy needs. His answer: two Child selves meeting openly, with no games and no using each other. The Adult sets this up first. It makes sure both people understand their promises and limits, often without a word. Then it steps back, but stays close as a guard. Its main job is to stop the Parent from rushing in with warnings and guilt. Better still, the Parent gives its blessing, so the Child can relax without fear.\n\nWhy must the Child be set free? Because the Parent and the Adult are always naming, sorting and judging. Those labels stand between us and the person in front of us. Berne put it plainly: \"Most human beings never really see another person after they are five years old.\" In intimacy, two people go back to that early way of seeing. They open their private worlds to each other. They ask for nothing except the joy of doing it without fear.\n\nBerne's ideas arrived in a gap in his time. His Child is close to old Eastern ideas about meeting the world before we split it into \"me\" and \"things out there\". But those ideas had not yet reached mainstream Western culture, so he had no such words to use. He also admitted how strong the fear is. People are so afraid of open intimacy, he wrote, that they have invented many ways to use their bodies for hidden aims and false relationships.\n\nHis most beautiful image came near the end. Each person lives alone in their own inner space. The other person's inner light is a star: far away, very bright, and hard to reach without courage and honesty. \"Intimacy is outer space.\" And out there, he added, going back to his word game, you do not swear at a star.\n\nThis explains our social scripts. Roles and games feel safe because they keep the Parent and the Adult in charge. Dropping them means letting someone see the unguarded Child, and that feels terrifying. So most of us go deep only briefly, then rush back to the surface. For Berne, intimacy is the courage to stay there a little longer."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Early in a relationship, notice the three voices: one eager to rush in, one pointing at warning signs, one quietly asking if this person is right.",
+      "When a conversation feels scripted, with the same polite moves every time, it is often a game keeping you both safe on the surface.",
+      "The moments when you forget to label or judge someone, and simply notice them, are closest to what Berne meant by the Child seeing."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Intimacy is not finding the right person. It is letting both your Child selves stay in the open a little longer than feels safe."
+    }
+   ],
+   "recall": {
+    "q": "According to Berne, between which ego states does real intimacy happen, and what jobs do the other two ego states have?",
+    "a": "Between two Child selves, meeting openly with no games. The Adult sets up the shared promises, then steps back to guard them and keeps the judging Parent out. Ideally the Parent gives its blessing, so the Child can relax without guilt."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/08/sexinhumanloving_berne.jpg?fit=290%2C476&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/09/28/eric-berne-intimacy/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Mon, 28 Sep 2026 19:16:05 +0000"
+  },
+  {
+   "id": "psypost-1l4xryr",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "news",
+   "title": "Taylor Swift fans may shrink their climate worry to defend her",
+   "body": "Gen Z is known for strong climate worry. But in one US study, strong Taylor Swift fans who read about her private jet pollution made excuses for her. The more excuses they made, the less they worried about climate.",
+   "evidence": "single study · about 1,000 US undergraduates recruited, aged 18-29 · self-report surveys",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The principle is cognitive dissonance: the discomfort of holding two ideas that clash. To ease it, we may bend one of them. Here, that meant bending a value to protect a hero.\n\nStep 1, the belief. Some students saw themselves as true Swift fans. That means more than liking her music. It means belonging to her fan community. These strong fans also cared more about climate.\n\nStep 2, the news. Each student read one fake news article, chosen at random. One was about celebrity carbon emissions in general. One was the same story, but it named Swift and gave data on her private jet. One was on an unrelated topic.\n\nStep 3, the clash. Strong fans who read the Swift version made the most excuses. They agreed with lines like \"not as bad as some other things celebrities do.\" This is called rationalization: telling yourself a wrong is not really so bad.\n\nStep 4, the cost. More excuses went with less concern about carbon emissions. They also went with weaker plans to cut their own.\n\nThe limit: across the whole group, the news alone changed nothing. The effect showed up only in strong fans."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "2022: flight-tracking data named Swift the biggest celebrity emitter of carbon dioxide",
+      "About 1,185 times: her jet pollution, compared with one average person's yearly carbon pollution",
+      "About 1,000 students, aged 18-29, from two US public universities"
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study. Most people in it were white, college-going, heterosexual women who leaned Democratic. It looked only at Swift fans. It did not check who already knew about her jet use. The link between excuses and lower concern is a correlation, measured once. No one knows yet if the drop lasts."
+    }
+   ],
+   "recall": {
+    "q": "What did strong Swift fans do after reading about her jet pollution, and what did that go with?",
+    "a": "They made the most excuses for her (rationalization). More excuses went with less concern about carbon emissions and weaker plans to cut their own. Protecting the star seemed to weaken their own climate values."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/08/taylor-swift.jpg",
+   "deepLink": "https://www.psypost.org/taylor-swift-fans-lower-climate-concerns-to-justify-star-s-carbon-footprint/",
+   "attribution": "PsyPost",
+   "publishedAt": "Tue, 29 Sep 2026 11:00:49 +0000"
+  },
+  {
+   "id": "psypost-13t6ill",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Power posing fell. What a new desk study says survives",
+   "body": "Power posing once promised that standing tall would make you bolder. Then large repeat studies could not find the effect. A new study changed people's posture without telling them, just by moving the table. People who sat upright took slightly more risks. That is a small effect, not a comeback.",
+   "evidence": "single study · n=198 (+113 controls from another project) · mostly young women · behavioural task + self-report",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The table sits almost at knee height. To see the tablet on it, you must bend your neck and hunch. In the other setup, the table is raised and the screen sits just above your eyes, so you sit tall. Nobody tells you how to sit. The furniture does it for you.\n\nThis small trick is the newest chapter in a long fight over \"power posing\". The idea comes from embodied emotion: put your body in the shape of a feeling, and you may start to feel it. A power pose is open and upright. It is the body language of someone in charge. A \"contractive\" pose is hunched and small, the body language of someone giving way. A widely cited 2010 study claimed that holding a power pose on purpose made people feel more in charge and take more risks.\n\nThen the idea fell. In 2015, a well-known team repeated the experiment and found no change in risk-taking. A 2017 study found that posing on purpose did nothing for risk-taking in real-world situations. Critics also asked a sharp question. Did the first results appear only because people guessed what the researchers wanted?\n\nBut the body did not drop out of the story. In a 2021 study, researchers guided people into postures without telling them how to pose. Their mood and thinking still changed.\n\nThe new study comes from Soren Wainio-Theberge and Jorge Armony at McGill University. They used the table trick on 198 people, mostly young women. Everyone played a balloon game. Each pump adds virtual money, but if the balloon pops, the money for that round is lost. A video camera measured each person's neck angle. Most people never realised their posture was being shaped. As the game went on, the upright group pumped more. They earned a little more, 701 virtual dollars against 645, and did not pop more balloons. A more upright neck also predicted more pride after the game.\n\nOne detail matters. The researchers also compared both groups with 113 people at a normal desk. The hunched group behaved just like them. The whole effect came from sitting tall.\n\nSo two claims need to be kept apart. The big one, that you can pose on purpose and become bolder, has failed its tests. A smaller one is still alive: when your body is shaped without you noticing, your mood and choices may shift a little. This one study supports the small claim. It does not bring back the big one."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is a single study. Most people in it were young female university students from one Western country. The results may not hold for older adults, men, or other cultures. The normal-desk group came from a different project. And the hunched group did not all hunch the same way. Some dropped their heads; others leaned forward from the hips. So it is unclear which movement actually matters."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A pose you strike on purpose may do nothing. A room that shapes you without your noticing might do a little."
+    }
+   ],
+   "recall": {
+    "q": "Why doesn't the new desk study rescue the original power-posing claim, and what smaller idea does it support?",
+    "a": "The original claim was about posing on purpose, and repeat studies found no effect on risk-taking. The new study shaped posture without people knowing. It found a small rise in risk-taking and pride, only in the upright group. That supports a modest link between body and mood, from just one study."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/03/Businessman-Using-Business-Computer-In-Office.jpg",
+   "deepLink": "https://www.psypost.org/desk-setups-that-encourage-an-expansive-posture-may-boost-risk-taking/",
+   "attribution": "PsyPost",
+   "publishedAt": "Tue, 29 Sep 2026 18:00:01 +0000"
+  },
+  {
+   "id": "exp-history-1tdkghn",
+   "source": "exp-history",
+   "topic": "books",
+   "kind": "news",
+   "title": "Mastroianni's new book: why discovery is so slow",
+   "body": "Adam Mastroianni's The Strangest Idea in the World asks why people took so long to discover and invent things. His answer: humans did not evolve to do science, so every breakthrough pushes the mind to do something it was never built for.",
+   "sections": [
+    {
+     "label": "Strongest move",
+     "style": "prose",
+     "text": "He starts with a concrete puzzle. The first randomized controlled trial was run only in 1948. That is a test where chance splits people into groups, so you can see what really works. The idea is \"younger than my grandparents,\" he notes. Suddenly, slow progress feels real."
+    },
+    {
+     "label": "Where he overreaches",
+     "style": "prose",
+     "text": "He says the data shows we are getting worse at discovery: more money and people go in, but fewer breakthroughs come out. The post shows none of that data. He promises five steps to discovery but never names them. He also calls this the world's first choose-your-own-adventure nonfiction book. Then a footnote admits some official Choose-Your-Own-Adventure books already cover nonfiction topics."
+    },
+    {
+     "label": "Verdict",
+     "style": "note",
+     "text": "This is a preorder note, not the argument. He worries that many nonfiction books should have been blog posts. So this one uses paper in ways a screen cannot, with secret pages and several endings. Read it if slow progress puzzles you. Judge the five steps when you can see them."
+    }
+   ],
+   "recall": {
+    "q": "What is the book's central claim about discovery, and what is the main weakness in how this post supports it?",
+    "a": "Humans did not evolve to do science, so breakthroughs force the mind to do something unnatural. The post gives one vivid example: the first randomized trial came only in 1948. But it shows no data for 'we're getting worse' and never names the five steps."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!nijU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffe4ed28-554b-478e-bd0f-efddc6c5d5d5_1000x1500.png",
+   "deepLink": "https://www.experimental-history.com/p/the-strangest-idea-in-the-world",
+   "attribution": "Experimental History",
+   "publishedAt": "Tue, 29 Sep 2026 14:29:26 GMT"
+  },
+  {
+   "id": "aeon-3fjm21",
+   "source": "aeon",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "A cancer doctor asks: should some tumours stop being called 'cancer'?",
+   "body": "Cancer doctor Matthew Cooperberg says the word 'cancer' now does harm of its own. Many tumours found by screening will never spread or kill. But once patients hear the word, fear often pushes them into treatment they do not need.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "William was 53, healthy and busy, with a job and two teenagers. He went for his first check-up in years. A few weeks later a doctor told him: \"You have cancer.\" Soon one hospital had booked him for surgery and another was pushing radiation. He was on medical leave. He was smoking again for the first time in decades.\n\nMatthew Cooperberg is a urologist at the University of California, San Francisco. That is a doctor for the urinary system and the prostate. William came to him for a third opinion. Cooperberg thinks one word sits at the centre of this story. For many patients, he argues, 'cancer' is the wrong label, and the label itself does damage.\n\nHere is the puzzle. William's tumour was grade group 1, the lowest grade of prostate cancer. It has few of the molecular signs of cancer. It cannot spread or kill any time soon. So why did one word turn a harmless finding into a crisis?\n\nPart of the answer is history. For thousands of years, cancer meant a lump you could see or feel, and it nearly always killed. Then came screening: testing healthy people for early disease. Pap smears came in the 1950s, mammograms in the 1960s, and the PSA blood test for prostate cancer in the 1990s. Screening has saved millions of lives. But it also brought overdiagnosis: finding growths that would never have caused symptoms or death. Overdiagnosis leads to overtreatment, and its side effects can be permanent. The label also raises insurance costs. It is linked to more depression, and even suicide.\n\nThe deeper answer is biology. Every day, billions of your cells divide, and some copying mistakes slip through. Small groups of faulty cells appear all the time, and the immune system kills most of them. Only a rare few learn to grow without limit, travel through the body and hide from the immune system. Those deserve the old terror. The rest do not. Grade group 1 cells turn up in about half of men who die in their 70s or 80s of other causes. They appear in about 20 per cent of men in their 30s. Cooperberg suggests they may simply be part of normal male ageing.\n\nSo why not keep the word and explain it better? Doctors try. They add gentle words like 'low-grade' and 'slow-growing'. But the word 'cancer' still wins. Patients understand it through culture, not biology, and many just find another doctor who will treat them. Stopping screening fails too. In 2012 a US panel advised against routine PSA testing. Overdiagnosis fell, but prostate cancer deaths rose again, especially among Black men.\n\nCooperberg's answer has two parts. First, a high PSA result should lead to more blood, urine or imaging tests. A biopsy should follow only if those point to dangerous cancer. When low-grade disease is found, the right path is active surveillance: watch it closely, and treat only if it grows. Second, change the names. Pathologists, the doctors who study tissue under a microscope, have already done this. Some thyroid growths once called carcinoma are now called NIFTP. Some small bladder growths are now described as having low potential to become dangerous.\n\nSome questions stay open. No one can yet say when a cancer truly begins, or when it first becomes a threat. And in the US, money, law and culture still push doctors toward treatment."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The other side has real suffering too. Surgeons and cancer specialists see patients whose cancer was found too late, including some who asked for a test and were refused. Prostate cancer usually causes symptoms only when it is too late to cure, so skipping early detection has a price. Cooperberg agrees. That is why he wants better tests after screening, not less screening."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A cell that wants to grow is not an enemy until it learns to travel."
+    }
+   ],
+   "recall": {
+    "q": "Why does Cooperberg think 'cancer' is the wrong word for tumours like William's, and why don't gentle words like 'low-grade' fix the problem?",
+    "a": "Grade group 1 prostate tumours are very common, even in healthy men, and cannot spread or kill any time soon. They may simply be part of normal ageing. Gentle words don't help because patients hear 'cancer' through its frightening cultural history. That fear pushes many into treatment they don't need."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/bb13393b-9cc9-458f-b788-d5a0dc4acb03/essay-final-c0508866-prostate_hyperplasia_lm.jpg?width=1200&quality=75&format=auto",
+   "deepLink": "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
+   "attribution": "Aeon",
+   "publishedAt": "Tue, 29 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "id": "3quarks-jcguar",
+   "source": "3quarks",
+   "topic": "books",
+   "kind": "news",
+   "title": "Karan Mahajan's 'The Complex': a Delhi family saga",
+   "body": "Karan Mahajan's third novel starts with a murder inside a Delhi family, 25 years in the past. Then it goes back through the decades that led to it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Brij killed his uncle Laxman, the crude but charming head of the Chopras, a once-respected Punjabi family. Now Brij is about to leave jail. Some relatives think he is too dangerous, or too shameful, to come home. His son Mohit decides they will live together anyway.\n\nThis book covers more ground than Mahajan's first two novels, Family Planning and The Association of Small Bombs. Its short chapters move between family members, from Delhi to Indian villages, the American Midwest and London.\n\nJames Smart, in The Guardian, calls it excellent. At first you admire Mahajan's close portraits of people. Soon you are \"waist-deep\" in frustration, corruption and betrayal. The story takes in politics, faith, migration, affairs and business. He has no real complaint. His only warning: the story gets very dark."
+    },
+    {
+     "label": "Verdict",
+     "style": "note",
+     "text": "Read it if you like long family novels where the past slowly explains the present. A reader in India gets a quieter pleasure too. Here Delhi is not just background. It is the home this family keeps leaving and coming back to."
+    }
+   ],
+   "recall": {
+    "q": "What event is The Complex built around, and what does the reviewer say happens to the reader as the book goes on?",
+    "a": "Brij's murder of his uncle Laxman, head of the Chopra family. The book goes back through the decades that led to it. The reviewer says you start by admiring the character portraits and soon end up \"waist-deep\" in the family's corruption and betrayal."
+   },
+   "imageUrl": "https://3quarksdaily.com/wp-content/uploads/2026/09/3610-360x288.png",
+   "deepLink": "https://3quarksdaily.com/3quarksdaily/2026/09/review-of-the-complex-by-karan-mahajan-a-superb-family-saga-set-in-delhi.html",
+   "attribution": "3 Quarks Daily",
+   "publishedAt": "Tue, 29 Sep 2026 18:45:12 +0000"
+  },
+  {
+   "id": "neuro-news-cuwo64",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Removing neck lymph nodes may block the brain's drain",
+   "body": "Your brain sends its waste down into lymph nodes in your neck. A new study suggests that when surgeons remove those nodes to fight cancer, the drain can back up. Within two years, up to a quarter of the patients studied had memory or thinking problems.",
+   "evidence": "retrospective records · n=1,035 · plus MRI cohort n=59 · plus mouse and rat experiments",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The operation works. A surgeon removes the lymph nodes in a patient's neck, so cancer in the head or neck has nowhere to spread. This surgery is called a cervical lymphadenectomy (cervical means neck). It is standard, and it saves lives. Doctors know it can cause swelling in the neck. They have thought much less about what it does to the brain.\n\nThat question exists because of a discovery from the past ten years: the brain has its own cleaning system. Cerebrospinal fluid, the clear liquid around the brain, carries waste out of the skull. It flows down through small vessels into the deep lymph nodes of the neck. So those nodes are not only cancer checkpoints. They are part of the brain's drain.\n\nA team led by Weill Cornell Medicine tested what happens when the drain is cut. First, they looked back at the records of 1,035 patients who had this surgery at Montefiore Einstein. They chose only patients who had no radiotherapy or chemotherapy, because those treatments can harm the brain on their own. Within two years, up to 25% had thinking problems, from mild to severe.\n\nNext, they looked for physical change. In Munich, 59 patients had brain scans before and after surgery. After surgery, the temporal horns grew faster. These are fluid-filled spaces inside the brain. When they grow, it usually means the brain tissue around them is shrinking. The change was strongest in people who lost nodes on both sides of the neck.\n\nTo find out why, the team used mice and rats and blocked their drainage suddenly. Fluid built up. This caused oxidative stress, a kind of chemical damage inside cells, and more inflammation. In the hippocampus, a key memory area, a protein called synapsin was damaged. Synapsin helps nerve cells send their signals. The damaged protein formed small clumps. These clumps were not the amyloid plaques or tau tangles of Alzheimer's disease. That hints at a separate path to brain damage.\n\nOne detail stands out. When drainage was reduced slowly, none of this harm appeared. The damage came from the sudden cut, not from weak drainage itself.\n\nSurgeons are now exploring repairs. One idea is to move a lymph node from another part of the body into the neck. Another is to connect lymph vessels directly to veins, so the trapped fluid has a new way out."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The patient data came from old records, studied after the fact. They show a link, not proof that the surgery caused the decline. The step-by-step mechanism comes from mice and rats, not people. The team is now starting new studies that will test patients' thinking and fluid markers before and after surgery. Nobody should skip cancer surgery because of this. The operation still saves lives."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The brain is not sealed off from the body. It drains through the neck, and a cut drain can matter as much as a damaged organ."
+    }
+   ],
+   "recall": {
+    "q": "Why might removing lymph nodes in the neck affect the brain, and what did the animal experiments show about how fast drainage is cut?",
+    "a": "The brain drains its fluid and waste into the neck's lymph nodes, so removing them can make fluid back up. This causes inflammation and damage to proteins. In the animals, harm appeared only when drainage was cut suddenly, not when it was reduced slowly."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/09/Could-removing-neck-lymph-nodes-impact-brain-health-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/lymph-node-removal-cognition-31270/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Tue, 29 Sep 2026 17:40:15 +0000"
+  },
+  {
+   "id": "daily-phil-f8nsvh",
+   "source": "daily-phil",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Buddhism isn't against love. It split love in two",
+   "body": "In an old story, the Buddha tells a grieving grandmother that a hundred loved ones bring a hundred sorrows. Yet the same scriptures ask us to love every living thing the way a mother loves her only child. Buddhism solves this puzzle by drawing a line through the middle of love.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Her hair was still wet. It was midday in the city of Sāvatthī. Visākhā had come straight from her granddaughter's funeral to see the Buddha. She was rich, and she was his greatest supporter outside the monks. She had many children and even more grandchildren. She had loved this girl dearly.\n\nThe Buddha asked her a strange question. Would she like as many children and grandchildren as there were people in the city? Yes, she said. How many people die in the city each day? Some days ten, some days one, she said. The city is never free of death. Then would your hair and clothes ever be dry? No, she admitted.\n\nThen came the lesson. Those with a hundred dear ones have a hundred sorrows. Those with one dear one have one sorrow. Those with none have no sorrow.\n\nThe story comes from the Udāna, one of the oldest parts of the Pali canon, the early Buddhist scriptures. On its own, it sounds like Buddhism is against love. Love brings grief. Grief is suffering. And the whole Buddhist path aims to end suffering.\n\nBut the same scriptures contain the Mettā Sutta. In it, the Buddha tells his monks to cherish every living thing the way a mother cherishes her only child. Their love should have no limit and fill the whole world: above, below and all around. Later, the Mahāyāna branch of Buddhism gave us the bodhisattva. This is a being who promises to stay in the world of birth and death for as long as space lasts, until every being is free. One writer calls it the most extreme ideal of love in the history of religion.\n\nSo how can both be true? Buddhism cut what other traditions call love into two halves. One half went on the side of the problem. The other half went on the side of the cure.\n\nYou can see this line in Buddhist words. There is no single word for love, and that is on purpose. The words keep two things apart: wishing someone well, and wanting them. The central word is mettā. It comes from mitta, meaning \"friend.\"\n\nNow read Visākhā's story again. The Buddha's warning is about wanting, where every loved person is one more loss waiting to happen. The Mettā Sutta is about the other half. It asks for a friend's goodwill that reaches every living thing."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "The Visākhā story (Udāna 8.8) ties each loved one to a future sorrow.",
+      "The Mettā Sutta and the bodhisattva ideal ask for love with no limit.",
+      "Wanting a person is the problem. Wishing them well is the cure.",
+      "Mettā, the central word, comes from mitta, meaning \"friend.\""
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Wanting counts what it can lose. Wishing well has nothing to lose."
+    }
+   ],
+   "recall": {
+    "q": "The Buddha tells Visākhā that a hundred dear ones bring a hundred sorrows, yet he also teaches love with no limit. How does Buddhism hold both views?",
+    "a": "It splits love in two. Wanting and holding on to particular people is part of the problem, because it brings grief. Mettā, a friend's goodwill toward all beings, is part of the cure."
+   },
+   "imageUrl": "https://daily-philosophy.com/philopedia-love-in-buddhism/featured-1200px.jpg",
+   "deepLink": "https://daily-philosophy.com/philopedia-love-in-buddhism/",
+   "attribution": "Daily Philosophy",
+   "publishedAt": "Mon, 28 Sep 2026 10:00:00 +0800"
+  },
+  {
+   "id": "marginal-rev-16bgn78",
+   "source": "marginal-rev",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Why some countries are richer: the answer shifts",
+   "body": "Why does a worker in one country produce far more than a worker in another? A new review says inputs, mostly people's skills and education, explain 55–70% of the gap. Twenty years ago, the classic answer was about 30%.",
+   "evidence": "literature review · NBER working paper",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The method is called development accounting. It splits the gap in output per worker into two parts. One part is inputs: workers, machines and buildings (physical capital), and skills and education (human capital). The other part is total factor productivity, or TFP. This is the leftover that inputs cannot explain.\n\nIn a new NBER working paper, David Lagakos and Todd Schoellman review 20 years of work since Francesco Caselli's influential 2005 study. Better ways to measure inputs have raised their share of the explanation. Most of the rise comes from human capital.\n\nThe field has also moved past Cobb-Douglas, the standard formula for how inputs combine. It now measures things like management quality, which used to hide inside TFP."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The rich-poor gap is now less of a mystery. Skills and management can be measured, and they can be improved. The authors name one limit: this method finds the nearby causes of income gaps, not the deeper ones."
+    }
+   ],
+   "recall": {
+    "q": "How much of the income gap between countries do inputs explain now, compared with the classic estimate, and what drove the change?",
+    "a": "The new estimate is 55–70%, up from about 30%. The rise comes mostly from better measures of human capital, meaning people's skills and education."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/accounting-for-cross-country-income-differences-revisited.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=accounting-for-cross-country-income-differences-revisited",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Tue, 29 Sep 2026 06:53:35 +0000"
+  },
+  {
+   "id": "marginal-rev-1v7c0bo",
+   "source": "marginal-rev",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Stock markets expect AI to make coders 32.6% more productive",
+   "body": "A new economics paper uses stock prices to read what investors expect from AI. By the end of 2025, markets expected software engineers to become 32.6% more productive, for good. By mid-2026, that expected effect had more than doubled.",
+   "evidence": "single working paper · stock-market data, Nov 2022–Dec 2025 · model-based estimate",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The source is an NBER working paper. That means an early draft from a major US economics research group.\n\nFirst, the authors check how closely each company's stock moves with an index of AI stocks. Then they ask if that link is stronger at firms that spend more of their payroll on software engineers. A model turns this pattern into one number: the productivity gain investors expect."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Nov 2022 to Dec 2025: the period behind the 32.6% figure",
+      "3.6%: how much bigger GDP (the economy's total output) would get",
+      "6.5%: the GDP gain if better software also speeds up research",
+      "More than 2x: how much both effects grew by mid-2026, as coding agents (AI tools that write code with little human help) quickly got better"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Official productivity data comes slowly. Stock prices change every day. So this method gives an early reading of AI's effect on the economy. But remember: these are what investors expect, not gains anyone has measured."
+    }
+   ],
+   "recall": {
+    "q": "How did the paper estimate AI's effect on software engineers, and what did markets expect by the end of 2025?",
+    "a": "It checked whether a firm's stock moved more closely with an AI stock index when the firm spent more of its payroll on software engineers. A model turned this into a number: markets expected a permanent 32.6% rise in software engineer productivity. That would make GDP 3.6% to 6.5% bigger."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/09/the-macroeconomic-effect-of-ai-through-software-engineering.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-macroeconomic-effect-of-ai-through-software-engineering",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Tue, 29 Sep 2026 04:50:01 +0000"
+  },
+  {
+   "id": "finshots-yhvzim",
+   "source": "finshots",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Why India's used-battery powder keeps going abroad",
+   "body": "Shredded old batteries leave a dark powder called black mass. It is rich in lithium, nickel and cobalt. India banned its export to keep these minerals at home. Some recyclers still send it abroad under wrong labels, because foreign buyers pay more and pay faster.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Black mass also holds manganese, copper and graphite. It must be refined before anyone can use it again. Last year India banned its export for a while, to build its own recycling industry. Some shredding companies kept exporting it under wrong labels.\n\nThe reason is money. India has too few plants to refine all its black mass. Refiners in China and South Korea work at huge scale. They often pay more, and pay faster. So Indian refiners like Rubamin and Attero get too little, and may have to import it at a higher price. India sells the powder, then buys it back for more."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "60,000+ tonnes: batteries India can recycle each year, giving about 30,000 tonnes of black mass",
+      "40-50%: black mass's share of an EV battery's weight",
+      "₹1,500 crore: government scheme until FY31. It pays 20% of plant and machinery costs, but only for plants that actually extract minerals",
+      "85%+: China's share of India's permanent magnet imports, FY23-FY25"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Last year China tightened exports of rare earths and battery technology. India needs these minerals to reach 500 GW of non-fossil power by 2030. Experts suggest two fixes. First, customs, DGFT and CPCB should all use one definition of black mass, so it cannot leave under another name. Second, the ₹1,500 crore scheme can cut refiners' costs, so they can pay more than foreign buyers."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Refined minerals also need buyers in India. From FY28, EV batteries must use 5% recycled material, rising to 20% from FY31. But at the end of 2025, India could make only about 1 gigawatt-hour of battery cells. About 75% of the batteries in its EVs came from China. The government promises a \"very substantial\" scheme for processing lithium and nickel. It has shared no details yet."
+    }
+   ],
+   "recall": {
+    "q": "Why does India's black mass keep going abroad, even with an export ban?",
+    "a": "India cannot yet refine all of it, and refiners in China and South Korea often pay more and pay faster. So some recyclers export it under wrong labels. Indian refiners are then short of supply and may have to import it at a higher price."
+   },
+   "imageUrl": "https://cdn.finshots.app/images/2026/09/Black-Mass.jpg",
+   "deepLink": "https://finshots.in/archive/indias-black-powder-problem-with-battery-recycling/",
+   "attribution": "Finshots",
+   "publishedAt": "Tue, 29 Sep 2026 01:30:32 GMT"
+  }
+ ]
+}
