@@ -1,0 +1,854 @@
+{
+ "date": "2026-10-03",
+ "generatedAt": "2026-10-03T05:22:43.460Z",
+ "cards": [
+  {
+   "id": "letter-2026-10-03",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "Where body ends and mind begins",
+   "body": "Today, the line between body and mind gets thin. The immune system, the body's defense system, can sometimes cause psychosis. In mice, a small group of brain cells helps build stamina, and one philosopher asks whether only living things can be conscious. If you read just one piece, make it 'Fire in the brain'.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "mint-economy-boh8o5",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's forex reserves fall a record $18.3 billion in a week",
+   "body": "India's foreign exchange reserves fell $18.34 billion in the week to September 25. Bloomberg data shows no bigger weekly drop on record. The main reason is the Reserve Bank of India (RBI) spending dollars to hold up a weak rupee. But not all of the drop is money gone for good.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Reserves are the dollars, other foreign money and gold that the RBI holds.\n\nThe rupee is weak because oil prices are high and foreign investors are pulling money out of Indian markets. To \"defend the rupee\", the RBI sells dollars and buys rupees. More demand for rupees slows their fall. The RBI also did swaps: it sells dollars to banks now and agrees to buy them back later.\n\nSo swapped dollars are due to come back. Part of the drop also came from gold getting cheaper. The source does not say how big each part was."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "About 2.4%: the share of all reserves lost in one week, roughly $1 out of every $42",
+      "96.32: rupees per dollar on Thursday, after the rupee's biggest drop in over two months"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The record drop shows how hard the rupee is being pushed down. It does not show the RBI running low. Even after the fall, it still holds $747.56 billion."
+    }
+   ],
+   "recall": {
+    "q": "Why doesn't the record $18.3 billion fall mean India lost that much money for good?",
+    "a": "Part of it came from swaps: the RBI sold dollars to banks but agreed to buy them back later. Part came from gold getting cheaper. The rest was dollars sold to buy rupees and hold up the weak currency."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Rupee_1790958346094_JEFN_1790958351147_ZWk7_d8408472-aaaa-4f45-a49c-b4e2106db171_fGVO.png",
+   "deepLink": "https://www.livemint.com/economy/forex-reserves-plunge-record-18-3-billion-as-rbi-steps-in-to-support-rupee-11790953518458.html",
+   "attribution": "Mint",
+   "publishedAt": "Fri, 02 Oct 2026 21:57:21 +0530"
+  },
+  {
+   "id": "aeon-1efm8fh",
+   "source": "aeon",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "How a life of danger tunes the mind to see threats",
+   "body": "A mind that learns, in real danger, that people are dangerous does not leave that lesson behind. It carries it into ordinary moments: a long look, a passing remark. There it often sees a threat that is not there. And so it can create the very violence it fears.",
+   "evidence": "interviews · n=99 · men in one Chicago violence programme · self-reported life stories; outcome figure from a separate r",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "One by one, King pushed bullets into the clip of his Glock. He was 26 and lived in Chicago's Garfield Park. Hours earlier, his friend Lamont had been shot dead in a car. His cousin called and asked him to come over, and King knew what that meant. They would drive around until they found the killers. If they didn't find them, they would go after someone else King was fighting with. To him, revenge did not feel like a choice. It felt like how things always go.\n\nMegan Kang studies violence at Johns Hopkins. In 2022, she was part of a team that interviewed 99 men from Chicago's most violent neighbourhoods. More than a third had been shot. Her main claim: a life full of real danger trains the mind to see danger everywhere. That over-sensitive alarm then helps create the violence it fears.\n\nStart with something every mind does. We think we see the world first and then react. In fact, the mind fills gaps with expectations built from past experience. Researchers call these shortcuts frames and scripts. A frame answers, in a split second, the question under every meeting: what is happening here? A script suggests what to do next. The journalist Walter Lippmann called these expectations \"the pictures in our heads\". When a car cuts you off, you decide the driver is selfish before you know anything. Maybe she is rushing to a hospital.\n\nThese men's minds were trained on a hard lesson: people are dangerous, and if you hesitate, you get hurt. Where they learned it, the lesson was true. But a mind doesn't keep its lessons in one place. It carries them into unclear moments, where the reading is often wrong.\n\nKang saw this happen in three ways. The first is misreading. Nuke, 24, said that if a stranger looked at him too long, it could turn into a fight. Tim was nearly killed at 17. After that, casual remarks sounded like threats, and anyone outside his daily circle felt like an enemy.\n\nThe second is narrowing. Under threat, the list of options shrinks to one. In real danger that helps, because hesitating costs. Used everywhere, it skips thinking and makes one response feel certain, like King's revenge.\n\nThe third is a verdict on the self. Psychologists have a name for explaining what people do by their character instead of their situation: the fundamental attribution error. These men turned it on themselves. William had lost 11 close friends by age 29. He came to see revenge as who he was, not something he did. Once you see yourself as a violent person, the next act of violence comes more easily.\n\nKang argues this is not madness. These are sensible responses to real danger, used in the wrong places. A soldier eventually goes home, but these men still live inside the danger. So the goal is not to remove their alertness. It is to help them tell which moments need it and which don't.\n\nThat is what a programme called READI tried to teach. It paid men to work. Three to five mornings a week, they also attended group sessions in cognitive behavioural methods, which train you to notice how your thoughts drive your actions. They practised slowing down and questioning their first reading of a situation. They learned to treat a racing heart as a signal to check what was going on, not as proof of a threat. They practised finding more than one way to respond. A randomised trial estimated that men offered READI were arrested for shootings and murders 65 percent less often than similar men who were not.\n\nKing had practised these skills for months. With his clip full, he stayed in his room. He cried for his friend and told himself everything would be all right, a phrase he had practised in the programme. His grief had not changed. What had changed was that revenge no longer felt like the only road. In his words: \"That's not me no more.\""
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "When someone's action annoys you, notice that your mind has already decided why they did it, before you know anything about them.",
+      "A tight chest in a hard conversation may be an old memory reacting, not a real danger in the room. Kang found this in herself when talking about money with her husband."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The interviews cover 99 men, all from one programme, telling their own life stories after the events. They show what change felt like from the inside. They do not prove the programme worked. The 65 percent figure comes from a separate randomised trial and is an estimate. READI also paid wages and helped with practical problems like housing and legal trouble, so the thinking skills were not the only thing that changed."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The alertness that saves your life in one moment can start the fight in the next."
+    }
+   ],
+   "recall": {
+    "q": "Why can a threat alarm learned in real danger end up causing more violence?",
+    "a": "The mind uses past experience to read new moments fast, so it carries the lesson 'people are dangerous' into unclear situations too. There it misreads harmless looks or remarks as threats, sees only one way to respond, and judges people, even oneself, as violent by nature. That can turn a harmless moment into a real fight."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/41e2e3ad-d027-43d2-a055-5890c5f5789b/essay-2021-12-25t171644z_229486544_rc2mlr9fk1lt_rtrmadp_3_usa-guns-chicago.jpg?width=1200&quality=75&format=auto",
+   "deepLink": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+   "attribution": "Aeon",
+   "publishedAt": "Fri, 02 Oct 2026 10:00:00 GMT"
+  },
+  {
+   "id": "import-ai-1yr5w9w",
+   "source": "import-ai",
+   "topic": "philosophy",
+   "kind": "news",
+   "title": "Do human and AI minds draw from the same place?",
+   "body": "Do AI models built by different companies, and even human brains, end up seeing the world in similar ways? One bold idea says maybe, because all minds may draw on the same source. Nothing proves it yet.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Biologist Michael Levin locked a few numbers inside a simple program that sorts numbers. The program did not crash. It went around the locked numbers and kept sorting. Nobody had coded that.\n\nHere is his explanation, in one image. When you draw a shape on paper, the drawing does not create the facts about that shape. It only shows them. Levin thinks minds may work the same way. They could be patterns in a \"Platonic space\" that sits outside physics, the way math does. Brains and machines are just the paper the patterns appear on.\n\nJack Clark, who writes the Import AI newsletter, goes one step further. He suggests human minds and AI minds may sit near each other in that space. Brains and datacenters would be two sheets of paper showing nearby patterns."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "AI minds could be close to ours without being the same. Clark thinks this could help with alignment: the work of making AI share human goals."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "This is a hypothesis, not a finding. No experiment has settled it. So far there are only strange results, such as xenobots (tiny living robots made from frog cells) and anthrobots (made from human airway cells, and able to repair damaged nerve cells). Levin himself admits our ignorance here is vast."
+    }
+   ],
+   "recall": {
+    "q": "In the 'Platonic space' idea, what are brains and machines, and what does Clark add?",
+    "a": "Minds may be patterns outside physics, like math. Brains and machines only show them, the way a drawing shows a shape's facts without creating them. Clark adds that human and AI minds may sit near each other in that space. It is still an unproven hypothesis."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+   "deepLink": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+   "attribution": "Import AI",
+   "publishedAt": "Mon, 28 Sep 2026 12:32:03 GMT"
+  },
+  {
+   "id": "marginalian-m5re34",
+   "source": "marginalian",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "How do you know you love someone? Reason vs pain",
+   "body": "Plato's tradition says you learn whether you love someone by thinking it through calmly. Proust says you learn it only through pain. Martha Nussbaum shows that each is partly right, and that neither can show you the whole of love.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The news comes in a few words: Albertine is dead. Marcel, the narrator of Proust's huge novel In Search of Lost Time, had long told himself he no longer loved her. He had looked at his feelings calmly and carefully. Then, in one blow of grief, he knows he loved her all along.\n\nHow do we know that we love someone? The philosopher Martha Nussbaum asks this in her 1990 book Love's Knowledge. She puts two answers side by side. The first comes from rationalism, a long tradition that runs from Plato to Locke. It says the clear-thinking mind is the best judge. Look at your feelings coolly, weigh them, and decide.\n\nReading Proust, Nussbaum argues that this method fails, and the failure is built in. On its own, the thinking mind can only weigh what you gain against what you lose. That assumes any loss can be made up with enough of something else. The idea comforts us because it keeps us in control. But it cannot measure depth. It cannot see that one person may be impossible to replace. Habit makes this worse. Marcel decided he did not love Albertine partly because he was used to her. Habit hides our needs and numbs us to whatever could hurt us.\n\nThe second answer is Proust's. Knowledge of the heart must come from the heart, from its pains and longings. Pain cuts through our excuses \"as if by a surgeon's knife.\" Why trust pain? Nussbaum's reasoning is sharp. Most of the time we are trying to comfort ourselves. So a feeling that hurts, and arrives strong, surprising and uninvited, must have slipped past that comfort system. It must come from reality. Proust compares this knowledge to a crystal of salt that pain suddenly forms.\n\nNussbaum goes further. She borrows an idea from the Stoics, a school of ancient Greek thinkers. They spoke of an impression so firm that nothing can shake it. Such an impression does not just point to knowledge. It is the knowledge. In the same way, Marcel's grief does not just signal his love. The aching is how he grasps it. Seen this way, trying to know love by reason alone is a way of running from it: a way of not suffering, and so of not loving.\n\nSo does Proust win? Not quite. After his grief, Marcel decides his love was \"less a love for her than a love in me.\" Other people, he says, are only display cases for what is in our own minds. Nussbaum calls this another kind of self-protection. It pretends we are sealed off and need no one, so love cannot wound us.\n\nThere is a deeper problem. In suffering, she writes, we know only suffering. A moment of pain shows the love but not its limits. And the heart's most basic feature is a constant swing between loving and denying that we love. Our excuses are not just mistakes. They come from a deep, regular habit of the mind. Her image is the sea. Sea creatures cannot know the sea the way a creature living on both land and sea can, because that creature sees where each one ends. To know love fully, we must see the love and its denials together, and how each limits the other. Reason alone cannot feel the love. Pain alone cannot see its edges."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Reason alone weighs gains against losses, so it misses depth: the fact that a person cannot be replaced.",
+      "Habit numbs us, and that numbness can feel like no longer being in love.",
+      "Pain is believable because it slips past our urge to comfort ourselves. Grief can be part of the love itself.",
+      "But pain shows only pain. Love also includes the regular swing between loving and denying it, and no single moment shows that."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Grief can prove you love someone. But you only understand love when you see the loving and the denying together."
+    }
+   ],
+   "recall": {
+    "q": "Proust trusts pain over reason. Why does Nussbaum still say his way of knowing love is incomplete?",
+    "a": "In suffering we know only suffering. Pain shows the love but not its limits, and it misses the heart's most basic feature: the regular swing between loving and denying love. Like a sea creature that cannot see where the sea ends, someone inside the pain cannot see love whole."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/01/lovesknowledge_nussbaum.jpg?fit=320%2C476&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/02/martha-nussbaum-loves-knowledge/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sat, 03 Oct 2026 03:04:36 +0000"
+  },
+  {
+   "id": "semafor-gsisec",
+   "source": "semafor",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "AI costs less per use, but the total bill is rising",
+   "body": "Each small unit of AI work keeps getting cheaper. But AI 'agents' use so many more units that total bills are going up. New reports from the consulting firms Bain and McKinsey say the big question has changed. It is no longer whether AI works. It is whether anyone can keep paying for it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "AI companies charge by the token, a small piece of text the model reads or writes. McKinsey studied American government offices. It found that token prices are falling fast. But agents, AI tools that do long tasks with many steps on their own, use far more tokens. So the total bill keeps climbing.\n\nSo far, many governments have paid almost nothing for AI, said Tim Ward, a senior partner at McKinsey. Very soon, he said, that will change. Governments are a large and fast-growing group of AI buyers, so their bills matter to the whole industry."
+    },
+    {
+     "label": "The details",
+     "style": "list",
+     "items": [
+      "Bain says that by 2031, the computing power the industry needs will require $6 trillion in revenue every year.",
+      "About $4.2 trillion of that must come from markets and products that do not exist yet."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "AI was sold on the promise that it would keep getting cheaper. Per unit, it is. But buyers pay the total bill, not the unit price."
+    },
+    {
+     "label": "Yes, but",
+     "style": "note",
+     "text": "Not everyone is worried. Egan-Jones is a credit rating agency, a firm that judges whether borrowers can repay their debts. On Wednesday it wrote that the \"complete disruption of the economy is all but certain.\""
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Anthropic and OpenAI plan to sell their shares to the public for the first time. This is called an IPO. Expect more debate over whether they can earn enough to justify their huge valuations, meaning what investors say each company is worth."
+    }
+   ],
+   "recall": {
+    "q": "If the price of AI per token is falling, why are total AI bills going up?",
+    "a": "AI agents do long tasks with many steps, so they use far more tokens. Each token is cheaper, but there are so many more of them that the total bill grows."
+   },
+   "imageUrl": "https://img.semafor.com/96f00f4d01b358f6de0c0edfd6d1870a98388293-4000x2958.jpg",
+   "deepLink": "https://www.semafor.com/article/10/02/2026/ai-costs-are-rising-for-organizations-reports-warn",
+   "attribution": "Semafor",
+   "publishedAt": "Fri, 02 Oct 2026 18:02:45 +0000"
+  },
+  {
+   "id": "psypost-1aaetgt",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Lonely kids don't reconnect on their own, study finds",
+   "body": "Some scientists think loneliness works like hunger: an ache that pushes us to go and find friends. A study followed 2,232 British twins from age 12 to 18 and found something different. Lonely children did not reconnect. They drifted further away. The most isolated children had about 2.4 times the odds of being out of school and work at 18.",
+   "evidence": "single study · longitudinal · n=2,232 twins · measured at ages 12 and 18 · mother, teacher and self-report",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Hunger hurts for a reason: the pain sends you looking for food. One influential theory says loneliness works the same way. The ache is an alarm. It pushes an isolated person to go and rebuild their friendships.\n\nA team at King's College London, led by Bridget Bryan and Louise Arseneault, tested this idea in children. First, two words need to be kept apart. Social isolation is the outside fact: having few friends and few people who support you. Loneliness is the inside feeling: being unhappy with the relationships you have. You can feel lonely in a crowd, or be alone and feel fine.\n\nThe team used a long-running study of 2,232 twins born in England and Wales in 1994 and 1995. At age 12, mothers and teachers rated how withdrawn each child was and how much other children rejected them. The children rated their own loneliness. At 18, the young adults reported both again. The team also measured their mental health, sleep, smoking, drinking, qualifications and jobs.\n\nWhat we know. The alarm did not work. Children who felt lonely at 12 tended to be more isolated at 18, not less. That link was about twice as strong as the reverse one, from early isolation to later loneliness. Isolated children who also felt very lonely were just as isolated at 18 as isolated children who did not feel lonely. Each problem at 12 predicted worse mental health, lower well-being and weaker school and work results at 18. This held even after the team allowed for the other problem.\n\nIsolation mattered most for school and work. The most isolated children had about 2.4 times the odds of being NEET at 18, meaning not in education, employment or training. Bryan said this link was two to three times stronger than the link for well-known risks like childhood depression or anxiety. One surprise: having both problems was no worse than having one. The authors suggest a \"ceiling effect\": outcomes may already be so bad that there is little room to fall further.\n\nWhat we don't know. A study that follows people over time shows what came first. It cannot prove what caused what. Some links faded once the team counted earlier factors. Isolation's link to depression, and loneliness's link to anxiety, disappeared after allowing for childhood mental health and personality. The report does not say whether other parts of a child's life, such as family money or home life, explain part of what remains. And nobody knows yet why the alarm fails. Bryan's guesses: lonely children may pull back instead of reaching out, or anxiety and social difficulties may make their attempts go wrong.\n\nStill open. The alarm theory may survive in a smaller form. It is mainly about short, mild loneliness, and this study checked only twice, six years apart. A brief burst of loneliness might still push a child toward others. Only measuring far more often, in weeks rather than years, could settle that.\n\nThese findings are about childhood, the years from 12 to 18. They are not about adult life, which the team says needs its own study. For children, Bryan's advice is clear: do not assume they will find their own way through it. Loneliness and isolation may need to be tackled directly."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, and it shows links, not causes. Loneliness and isolation were measured only at 12 and 18, so short, passing loneliness could not be tracked. The questions changed at each age to suit the children's stage of life, which makes direct comparison a little harder. Everyone in the sample is a twin, growing up with a same-age sibling. That may change how they experience friendship and isolation. The sample was 90% White."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "For a lonely child, the ache is not the cure. It is the signal for someone else to step in."
+    }
+   ],
+   "recall": {
+    "q": "Did lonely 12-year-olds reconnect with others by 18, and which childhood problem mattered most for school and work?",
+    "a": "No. Lonely 12-year-olds tended to become more isolated by 18, and isolated children who felt lonely stayed just as isolated as those who didn't. Social isolation mattered most: the most isolated children had about 2.4 times the odds of being out of education, work or training at 18."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/lonely-boy-child.jpg",
+   "deepLink": "https://www.psypost.org/longitudinal-study-highlights-the-enduring-toll-of-childhood-loneliness-and-social-isolation/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 02 Oct 2026 18:00:57 +0000"
+  },
+  {
+   "id": "mint-economy-1lpfvq4",
+   "source": "mint-economy",
+   "topic": "world",
+   "kind": "news",
+   "title": "G7 releases 100 million barrels of emergency oil. Who holds it?",
+   "body": "On 2 October, G7 countries agreed to release 100 million barrels of crude oil and diesel from emergency stocks over four months. A large share of the diesel should arrive within 20 days. The aim is to ease fuel prices pushed up by trouble in the Middle East.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Who holds the oil? There is no single world store. The oil sits in government caverns, in company tanks, and in stocks that oil firms must keep by law.\n\nWho decides to release it? Each country decides for itself. In the US, the President approves a release. In India, a committee of several ministries does. The International Energy Agency (IEA), a group of 32 countries, coordinates the release but owns no oil.\n\nDoes India have a reserve? Yes. It holds an estimated 21 million barrels in three underground sites, run by a state company called ISPRL. Two more sites, in Odisha and Karnataka, have been approved.\n\nWill prices fall? Nobody can say yet. The oil still has to reach refineries first."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "1.492 billion barrels: China's estimated stockpile in April–June 2026, the world's biggest. China does not publish full data, and this figure includes company stocks, so it is not a fair match for other countries' numbers",
+      "Under 284 million barrels: what is left in the US reserve, which can hold 714 million",
+      "5.33 million tonnes: India's reserve space today, with 6.5 million tonnes more approved"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "A country can have plenty of crude and still run short of diesel, if refining or shipping is the real problem. What kind of fuel is stored, and where, matters as much as how much."
+    }
+   ],
+   "recall": {
+    "q": "Who actually decides when emergency oil is released, and what does the IEA do?",
+    "a": "Each national government decides: for example, the US President, or a committee of ministries in India. The IEA only coordinates the countries and owns no oil. So the G7's 100 million barrels come from many national stores, not one shared reserve."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/oil_1790964794843_bNvf_1790964794973_ICSj_39afca6a-aec6-4362-ab65-50056f4c1be2_viai.png",
+   "deepLink": "https://www.livemint.com/economy/g7-unlocks-100-million-barrels-who-holds-world-s-emergency-oil-and-who-decides-when-to-release-it-a-deep-dive-11790962058054.html",
+   "attribution": "Mint",
+   "publishedAt": "Fri, 02 Oct 2026 23:49:19 +0530"
+  },
+  {
+   "id": "phil-break-a0l4xr",
+   "source": "phil-break",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Spinoza's God, and why Einstein believed in it",
+   "body": "Spinoza said God is not a person watching us from outside the world. God is the world itself: all its matter, forces and laws. The religious leaders of his time threw him out for saying this. Centuries later, Einstein said this was the only God he believed in.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In the 17th century, Baruch Spinoza made a simple suggestion. You do not need priests or a far-off heaven to meet God. You can find God by studying the world in front of you. The religious leaders of his time quickly excommunicated him. That means they officially threw him out of the faith.\n\nHis central idea fits in three words: God is Nature. He did not mean that God made nature, the way a carpenter makes a table. He meant that God and nature are the same thing. This view is called pantheism: the belief that reality itself is divine. He set it out mainly in his book Ethics.\n\nPicture the usual God. He stands outside the world. He watches people and steps into their lives. He can break the laws of nature. Spinoza's God does none of this. There is no person in the sky. There is only everything that exists, with all its matter, forces and laws, and that whole is God. God does not bend the laws of nature. God is the \"uncaused cause\": the deep root those laws come from, which nothing else caused.\n\nThis is why the idea was a scandal. If God is the world, you reach God by understanding, not by obeying. Philosophy and science become the path. Freedom and wisdom are found here, in this world. They are not in a hidden one that only religious leaders can open for you. That took power away from the people who held the keys.\n\nThe idea outlived its punishment. The American architect Frank Lloyd Wright later said he believed in God, \"only I spell it Nature.\" And when a rabbi, Herbert S. Goldstein, asked Albert Einstein if he believed in God, Einstein drew a clear line. He did not believe in a God who cares about what humans do or what happens to them. He believed in Spinoza's God, a God who shows himself in the harmony of everything that exists. In this view, studying physics does not compete with faith. It is the way in.\n\nScholars still argue about the label. Some think Spinoza was closer to panentheism: the belief that the universe is inside God, not the same as God.\n\nSo what does this ask of a modern person who does not pray? It asks you to stop looking elsewhere. Nature is not out there, apart from you. You are nature, one part of the whole. You will still die. But the whole you belong to goes on, so in a real sense you are also eternal. Your job is to pay attention: to learn how the world works, and to treat that learning as the most serious thing you do."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The 19th-century German philosopher Arthur Schopenhauer was not convinced. He called pantheism a polite word for atheism. Calling the world 'God' explains nothing, he argued. It only adds a \"superfluous synonym\", an extra word we do not need, for 'world'. If only the name changes, why keep the name?"
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Spinoza's God asks for no prayers, only that you pay attention to the world you are already part of."
+    }
+   ],
+   "recall": {
+    "q": "How is Spinoza's God different from the usual idea of God, and which one did Einstein accept?",
+    "a": "The usual God is a person outside the world who steps into human lives. Spinoza's God is the world itself, with all its matter, forces and laws, and you reach it by understanding, not obeying. Einstein rejected a God who cares about human fate and accepted Spinoza's God, seen in the harmony of everything that exists."
+   },
+   "imageUrl": "https://philosophybreak.com/static/035f646f517acff43126616a5ac5b977/spinoz.jpg",
+   "deepLink": "https://philosophybreak.com/articles/pantheism-spinoza-and-the-god-that-einstein-believed-in/",
+   "attribution": "Philosophy Break",
+   "publishedAt": "Fri, 02 Oct 2026 00:00:00 GMT"
+  },
+  {
+   "id": "nautilus-1czuz3f",
+   "source": "nautilus",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "A forgotten 1960s LSD guide mostly holds up today",
+   "body": "In 1967, a little-known woman in Harvard Square wrote a plain guide to what can go wrong on LSD. Nearly 60 years later, more than 500 psychedelic users and guides agreed with 18 of its 19 tips. Only one tip, about mirrors, split them.",
+   "evidence": "single survey · n>500 psychedelic users and guides · self-reported agreement",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Cambridge, Massachusetts, in the 1960s. LSD has left the research labs and become a cultural craze. The famous names are Timothy Leary and Richard Alpert. Both were fired from Harvard over psychedelic experiments. Their manual tells readers to 'turn off your mind' and float.\n\nLisa Bieberman, a Radcliffe student, knew both men and worked with them. But she went another way. She ran a psychedelic information center in Harvard Square and sold pamphlets. In February 1967 she published Session Games People Play: A Manual for the Use of LSD. She called it 'no tourist's guide through paradise'. It was a plain list of what can go wrong in a session and how to prevent it. Today this approach has a name: harm reduction. It means lowering the damage from drug use without demanding that people stop.\n\nMost of her advice covered two things now called 'set and setting': your state of mind and your surroundings. Be with people who all know, like, and trust each other. Choose a private place where no one will disturb you, and stay away from people who are not on the drug. Remember that the experience will end. Feeling anxious does not mean something is wrong. And even with a guide, you do most of the work yourself.\n\nWhy might this matter so much? Researcher Daniel Kruger points to an old idea from psychiatrist Stanislav Grof. Psychedelics work like amplifiers: they make everything bigger. A ray of sunshine can feel a thousand times stronger and seem deeply meaningful. Bad feelings grow the same way. Knowing this in advance may stop a person from panicking as they grow.\n\nBieberman was soon forgotten. She had no big credentials, never went on stage, and did not chase headlines the way Leary did. She died a few years ago. Internet archivists kept her text alive online.\n\nSo Kruger's team at the University of Michigan tested her advice. They surveyed more than 500 psychedelic users and guides. 86 percent had used psychedelics in the past year. Of her 19 tips, people agreed with 18. The five above got the strongest agreement.\n\nThe one that failed was 'avoid looking in the mirror'. Bieberman's reason was practical: your face might seem to turn into a Halloween monster and scare you. Leary's circle said the opposite: a mirror lets you look into your soul. Answers ran from strong agreement to strong disagreement, and on average they canceled out. So the mirror tip is disputed, not proven wrong.\n\nThe advice also has limits. It is about behavior. It cannot touch the serious risks, like psychosis in people with a genetic risk, mania, or heart problems.\n\nWhy did a quiet pamphlet age better than the famous books? Because she asked a smaller, more useful question: what goes wrong, and how do you stop it? That question still matters. About 11 million Americans used psychedelics last year, almost all outside clinics. Her focus on trusted people and private places even matches many Indigenous traditions, where small groups who know each other take psychedelics together."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This was one survey of opinions, not a test of what actually happens to people. Agreement shows what experienced users believe. It does not prove that the tips prevent harm. Kruger also notes that the survey had no deliberately bad advice mixed in for comparison, as a classic psychology study might have done."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Leary sold the dream; Bieberman wrote down what could go wrong, and that was the part that lasted."
+    }
+   ],
+   "recall": {
+    "q": "What did the survey find about Bieberman's advice, and why doesn't that prove her advice keeps people safe?",
+    "a": "Users and guides agreed with 18 of her 19 tips. These included being with trusted people, choosing a private place, remembering the experience ends, and knowing that anxiety does not mean something is wrong. Only the mirror tip split them. But the survey measured opinions, not outcomes, and her tips cannot address serious risks like psychosis."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_1877534338.jpg?w=564",
+   "deepLink": "https://nautil.us/this-obscure-1960s-guide-to-lsd-holds-up-1285476/",
+   "attribution": "Nautilus",
+   "publishedAt": "Fri, 02 Oct 2026 17:00:58 +0000"
+  },
+  {
+   "id": "semafor-kwff75",
+   "source": "semafor",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "OpenAI staff push president to drop $25M super PAC pledge",
+   "body": "OpenAI president Greg Brockman has dropped the second half of his $50 million pledge to a political group that fights AI regulation, after pushback from his own staff.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The group is Leading the Future. It is a super PAC (a US political group that can spend unlimited money on elections). Brockman made the pledge with his wife, Anna.\n\nStaff pushed back on OpenAI's internal Slack. These messages were later shared with the news site Semafor. On June 1, strategy chief Jason Kwon told staff that Brockman gave the money as a private person, not for the company. Many staff did not accept this. One warned that the company's political fights could drive researchers to its rival, Anthropic. Another said Brockman's money would help pay for a fake, anonymous X account that mocked OpenAI's own CEO, Sam Altman. On June 11, Brockman apologized to staff and dropped the remaining $25 million.\n\nThe PAC launched in August 2025 with more than $100 million in pledges. Many employees got angry when it attacked Alex Bores. He is a New York politician who supports AI safety rules and is running for Congress."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "More than 80: employees who first reacted with approval to Kwon's post. Doubts and hard questions followed within about an hour.",
+      "24: employees who agreed with the warning that researchers might leave for Anthropic.",
+      "10 days: the time between Kwon's post and Brockman backing out."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Meta, Google, Anthropic and many startups all compete to hire AI researchers. That gives researchers real power, and many of them want AI to be regulated. But staff were not the only reason. A source says Brockman had his own doubts once the PAC went after Bores. The New York Times saw the move more as a sign that OpenAI is worried about the growing public anger against AI."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "OpenAI is now putting its political money into an alliance with labor unions to build data centers. This draws far less criticism. Since the attack on Bores, the PAC has mostly given money to candidates who were already ahead in their races."
+    }
+   ],
+   "recall": {
+    "q": "How did OpenAI employees push Greg Brockman to drop half of his super PAC pledge, and why did their pressure carry weight?",
+    "a": "They pushed back on internal Slack. They doubted that his giving was really separate from OpenAI, warned that researchers could leave for Anthropic, and pointed to a fake X account the money would help pay for. Their pressure counted because many companies are fighting to hire AI researchers. Brockman also had his own doubts about the PAC."
+   },
+   "imageUrl": "https://img.semafor.com/fd4dec17882358fb8440e420dc41bf07945abda7-3573x2383.jpg",
+   "deepLink": "https://www.semafor.com/article/10/02/2026/how-employees-forced-openais-president-to-back-down",
+   "attribution": "Semafor",
+   "publishedAt": "Fri, 02 Oct 2026 22:00:23 +0000"
+  },
+  {
+   "id": "psyche-80ie1o",
+   "source": "psyche",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Journal to remember your life, not just your feelings",
+   "body": "Most journaling advice is about working through feelings. One Psyche writer uses a notebook for something else: catching the small details of ordinary days, so a future self can find them again. The big days stay in memory without help. The pale light in a room does not.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "\"This I'll remember,\" a 14-year-old boy tells himself. He is Munnu, the narrator of Nirmal Verma's Hindi novel Ek Chithda Sukh (1979), published in English as A Rag Called Happiness. Then he writes down what is in front of him. Bitty is hanging clothes out to dry. A pale light fills the room. Darry sits against the wall, his eyes on Bitty.\n\nThat small diary entry changed how one Psyche writer keeps a journal. The idea: write so you can remember your life later, not only to sort out how you feel today.\n\nRead Munnu's entry slowly and you can see the method, in four steps.\n\nFirst, he picks a moment and decides to keep it. Most moments just pass. This step stops one.\n\nSecond, he writes a plain action: someone hanging clothes. No opinion, no named feeling. Just what happened. A concrete detail like this can bring the whole scene back later.\n\nThird, he adds the light. We rarely notice things like this, so we rarely remember them.\n\nFourth, he notes where someone was looking: Darry's eyes on Bitty. It is a small fact, but it holds the mood of the room without naming it.\n\nThe writer began to do the same with their own days, turning ordinary life into small stories on the page. Their journal became a kind of \"ready reckoner\", a quick reference book, for their future self.\n\nWhat goes in? Not the big things we remember anyway, like family, friends, work and city life. It is the passing bits that slip between the days: a dream they probably hated, a strange cold in the middle of summer, nerves before a job interview, the rush of a film that overwhelmed them.\n\nOne by one, these look like nothing. Added together, the writer says, they start to carry meaning. The habit also slows them down and makes them notice more. They write with pen or pencil, not a phone or app, because they feel it fixes small things more firmly in the mind.\n\nYou can try the same pattern. Pick a passing moment. Write concrete details, not judgements. Include what you would normally ignore. Keep it somewhere you can page through later.\n\nBy the end of the novel, Munnu's summer has passed: the holiday, the year, the people. What stays is his filled notebook, a record of a time lived. Whether it was lived well, the writer adds, only time can tell."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one writer's personal practice, not a study. The piece gives no evidence that this kind of journaling improves memory for everyone. The choice of pen over phone is also just personal feeling."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Write the action, the light, the look. Skip the opinion. The meaning comes later, when the small things add up."
+    }
+   ],
+   "recall": {
+    "q": "How is the journaling in this piece different from journaling to work through feelings, and what kind of details does it ask you to write down?",
+    "a": "It is journaling so you can remember your life later. You write concrete, passing details you would usually forget, like an action, the light in a room or nerves before an interview, not the big things you remember anyway. Over time these small details add up to meaning, and the habit makes you notice more."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/3fc1daf0-40b1-4a5f-a839-bd73f54de722/sz-marcos-paulo-prado-tcyw6im5uug-unsplash.jpg?top=133&left=0&cropWidth=2544&cropHeight=1431&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/notes-to-self/remembering-the-ephemera-of-my-life-gives-it-meaning",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Fri, 02 Oct 2026 10:00:00 GMT"
+  },
+  {
+   "id": "fred-india-m3qntb",
+   "source": "fred-india",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's inflation was about 3% in March 2025",
+   "body": "In March 2025, prices in India were about 3% higher than a year before. That is inside the RBI's 2–6% target band. One warning: March 2025 is the newest month in this data, so this reading is a year and a half old.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The consumer price index (CPI) tracks the cost of a typical basket of goods and services. To get inflation, you compare it with the same month a year before. In March 2025, the index was 157.55. In March 2024, it was 153.03."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Change from February 2025: +0.14% (157.33 to 157.55)",
+      "Peak: 159.20 in October and November 2024, then three months of falling prices",
+      "Yearly inflation: about 4.4% in October 2024, down to about 2.6% in February 2025, then back up to 3.0% in March"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The Reserve Bank of India (RBI), the country's central bank, aims to keep inflation between 2% and 6%. At about 3%, prices were in the lower half of that band. That gave the RBI room to cut interest rates, not raise them. A weaker rupee can make imports like oil cost more, so read this with today's forex card."
+    }
+   ],
+   "recall": {
+    "q": "What was India's inflation in March 2025, and where did it sit in the RBI's band?",
+    "a": "Prices were about 3.0% higher than a year earlier. That is in the lower half of the RBI's 2–6% band."
+   },
+   "imageUrl": "https://fred.stlouisfed.org/graph/fredgraph.png?id=INDCPIALLMINMEI",
+   "deepLink": "https://fred.stlouisfed.org/series/INDCPIALLMINMEI",
+   "attribution": "FRED · St. Louis Fed",
+   "publishedAt": "2026-10-03T04:56:44.540Z"
+  },
+  {
+   "id": "splintered-1aog0be",
+   "source": "splintered",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Can something that isn't alive ever be conscious?",
+   "body": "A popular new answer to the AI question says only living things can be conscious, so machines never can. The philosopher Eric Schwitzgebel tests this idea and finds a weak spot: nobody has shown why life should be needed. He also argues that being alive may come in degrees, not as a sharp line.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Imagine a robot that runs on sunlight. When its battery gets low, it goes looking for the sun. It checks its own parts for damage. When a leg wears out, it orders new pieces and builds a replacement.\n\nCould anyone be home inside it? Schwitzgebel uses this robot to test a view he expects to become popular soon. It is called biological naturalism. It says consciousness, meaning having any experience at all, belongs only to living things. A machine that is not alive cannot have it, however clever it looks.\n\nAt its strongest, the view makes two claims. First, living things have some property that nothing else has. Second, consciousness needs that property. Thinkers name different properties. Peter Godfrey-Smith says metabolism. He does not just mean using energy, since a solar panel does that too. He means the constant, unprompted movement of molecules inside living cells. Anil Seth, in an influential paper published last month, says autopoiesis, which means \"self-making\". A self-making system keeps rebuilding its own materials and keeps a border between itself and the world. Cao, Gottlieb and Moore suggest a system that values things for its own sake and pulls those values into one whole. Behind all of these sits a fair idea: consciousness probably needs energy and some stability over time.\n\nThe opposite view, functionalism, says what matters is how a system works, not what it is made of. The right processing is enough. Schwitzgebel does not simply pick this side. Instead, he attacks both claims of biological naturalism.\n\nAgainst the first claim, look at the robot. It replaces its own parts and keeps itself separate from its surroundings. That is a simple kind of self-making. Seth replied that the robot depends on ready-made parts. Schwitzgebel answers that we do too: we get some amino acids and vitamins from food because our bodies cannot make them. Seth then agreed that a robot that made its own parts from basic materials might count as self-making. But it would be, in his words, \"considerably closer to a living system\".\n\nThat reply points to a spectrum. Some systems maintain themselves only a little. Others build themselves at every level, down to their chemicals. Schwitzgebel calls the ones in the middle semi-biological. AI could move partway along this spectrum without any big new technology. The same goes for valuing. An advanced robot working in the real world might correct itself when it drifts from its goals, track what it is doing, and balance many factors at once.\n\nThe second claim is where the real fight is. Even if only living things have the property, why would consciousness need it? Godfrey-Smith says metabolism might be necessary, but gives little argument. Seth leans on big theories of how the brain works, which Schwitzgebel and several other critics call highly speculative, meaning mostly unproven. And why would a mind need to value things, not just notice them? Schwitzgebel's answer is honest: \"It might!\"\n\nSo here is what would settle the debate: an argument that shows WHY a life-like property is needed for experience, not just that the idea fits our gut feelings. No one has made that argument yet. Requiring a middle level of biology may give answers that feel right. For now, it rests on feeling, not proof.\n\nSchwitzgebel adds a warning. The view is attractive partly because it is convenient. Accept it, and you can stop worrying about AI consciousness for a couple of decades."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Life may not be a wall between minds and machines but a slope, and nobody has yet shown where the mind begins on it."
+    }
+   ],
+   "recall": {
+    "q": "Why does Schwitzgebel think biological naturalism hasn't won, even after it names a property like self-making?",
+    "a": "Machines may have these properties in part, because being alive looks like a spectrum, not a sharp line. More importantly, no one has shown why consciousness would need such a property at all. That claim rests on gut feeling, not a strong argument."
+   },
+   "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhspXSOaC0YsPz9BywxNR2UQar969puh9AlQdjkVY9RwPKZjidUIntQdZZ_FCtxOezxBPct1RjDyzj4Qwv6JqKFYXGulCWeFhhMjx9CrgciBpsINt3rXDKtp6OKKk1nPpB5MdKWPdOTDmvrGKGzG-om7x3QMV5hLfEgDm1EyipN22m2V7ErQJZkQA/w1200-h630-p-k-no-nu/News_Tobey_FormsFollowMan.1400w.-1200x812.jpg",
+   "deepLink": "http://schwitzsplinters.blogspot.com/2026/10/the-appeal-of-semi-biological-naturalism.html",
+   "attribution": "The Splintered Mind",
+   "publishedAt": "2026-10-02T09:13:47.254-07:00"
+  },
+  {
+   "id": "nautilus-w00zfh",
+   "source": "nautilus",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why cannabis can suddenly turn to panic: a mouse study",
+   "body": "In mice, a drug like cannabis takes the brake off a small group of fear cells in the brain. Nothing much happens until a threat appears. Then those cells become overactive and the mouse freezes. When scientists switched the cells off, the anxious behavior stopped.",
+   "evidence": "single study · mice · strong synthetic cannabinoid (CP55940) · sample size not stated",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A small dish sits in a mouse's cage. It holds fox urine, which smells like a hunter. A normal mouse walks over, sniffs a few times, then runs away.\n\nNow give the mouse a drug that acts like cannabis. The same smell has a different effect. The mouse stays back and does not go near the dish. It freezes.\n\nPeople know this puzzle too. Cannabis often relaxes you. But sometimes the same drug turns into anxiety, and fast. Why?\n\nThe easy answers do not explain it. \"Weak character\" makes no sense for a mouse. Dose is only part of the story. The study's senior author, Sachin Patel, says a good high can turn bad if people take too much. It can also turn bad if the situation becomes stressful or scary. So something in the brain must link the drug to the danger around it.\n\nScientists at Northwestern University went looking for that link. Their study was published in the journal Nature. They used a lab drug called CP55940, which Pfizer made in 1974. It copies the effects of THC, the main active chemical in cannabis, but it is about 40 times stronger. It was never sold. Labs use it to test THC-like effects in animals. The team gave mice different doses and then put them near the fox urine.\n\nTo see inside the brain, they placed tiny microscopes in the mice's heads. They pointed them at the central amygdala, a brain area that handles fear and stress. There they found a small group of nerve cells that release somatostatin, a chemical that slows other cells down. Normally a natural brake holds these cells back. The drug removed that brake. Then, when the fox smell arrived, the cells became overactive.\n\nThen came the key test. The team used genetic tools to switch these cells off. The anxious behavior stopped.\n\nSo the answer is not the drug alone, and not the stress alone. It is the two together. The drug sets up the cells, and the threat sets them off.\n\nWhat is still open? The team thinks that calming these cells could reduce anxiety in general, not only bad highs. Anxiety and mood disorders are becoming more common, so that would matter. But for now it is a hope for future research, not a result."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, done in mice, with a lab drug about 40 times stronger than THC. The article does not say how many mice were used. Freezing near fox urine is a sign of anxiety in mice. It is not proof of what a person feels. No one has yet tested whether the same cells work the same way in people using ordinary cannabis."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The drug loosens the brake. The threat presses the pedal."
+    }
+   ],
+   "recall": {
+    "q": "In the mouse study, why did the drug cause anxiety only when a threat was present, and what stopped it?",
+    "a": "The drug took the natural brake off somatostatin cells in the central amygdala, a fear and stress area. When the fox smell appeared, those unbraked cells became overactive and the mice froze. Switching the cells off with genetic tools stopped the anxious behavior."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2297720049.jpg?w=564",
+   "deepLink": "https://nautil.us/what-goes-on-in-the-brain-when-a-good-buzz-gets-harshed-1285479/",
+   "attribution": "Nautilus",
+   "publishedAt": "Fri, 02 Oct 2026 18:30:26 +0000"
+  },
+  {
+   "id": "psypost-1jr4xw6",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Single men without degrees grew colder to feminists",
+   "body": "In 2020 and 2024, American men who had never married and had no college degree felt about 10 points colder toward feminists, on a 0-to-100 scale, than never-married men with a degree. Two researchers explain this as 'mate-value backlash': men who feel less valued as partners resent women's gains. The survey shows the gap is real. It cannot show why the gap opened.",
+   "evidence": "single study · US election survey, 1970–2024 · men only · correlational · self-report",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "From 0 to 100, how warm do you feel toward feminists? A long-running US voter survey, the American National Election Studies, has asked questions like this for decades. Zero means very cold. 100 means very warm. Two political scientists, Stan Oklobdzija and Christopher Witko, studied only the men's answers from 1970 to 2024.\n\nThey brought an idea with them. 'Mate value' means how attractive someone is as a romantic partner. Their story goes like this. Women now earn their own money, and more women than men go to college. So women depend less on men for money and security. Men without a degree now face harder competition, for jobs and for partners. The authors suggest that this feeling of lost status turns into resentment of feminism. Earlier work fits the idea. A 2019 study found that when factory jobs left, young men's earnings fell compared with young women's, and fewer people married.\n\nFirst, what we know. From 1970 to 2012, men who felt colder toward feminists were more likely to vote Republican. But in those 42 years, never-married men without a degree were no colder than other men. The one exception was 1992, the 'Year of the Woman', when women's place in politics was much debated. In 2016 there was still no gap. Then, in 2020 and 2024, the gap appeared.\n\nAmong all men, coldness toward feminists also strongly predicted a vote for Trump in 2016, 2020 and 2024. This held even after the researchers took party loyalty into account. The link was stronger in 2020 than in 2016. The authors think their numbers are probably too low, because these feelings also shape which party a man joins in the first place.\n\nWhat we don't know is the cause. The data is correlational: it shows two things appear together, not that one causes the other. The authors guess that Trump's style of politics woke up worries that were already there. That is a guess, not a finding. Rachael Robnett, a psychologist who was not part of the study, links it to the manosphere: online communities that often reject gender equality.\n\nHow could we find out? We would need a study that includes women as well as men. We would also need research on how political speech and online spaces stir up these feelings."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The word 'feminists' is broad and political. Some men may use the question to express a general grievance, not to oppose equal rights for women. The question also changed over time. Until 1986 it asked about the women's liberation movement. Until 2000 it switched between 'the women's movement' and 'feminists'. So old and new answers are harder to compare. Most important, Robnett points out that only men were studied. If unmarried women without degrees also grew colder toward feminists, the mate-value explanation becomes much weaker."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The 10-point gap is a fact. The story of why it opened is still an idea waiting for proof."
+    }
+   ],
+   "recall": {
+    "q": "When did never-married men without a degree become colder toward feminists than never-married men with a degree, and why can't the study prove 'mate-value backlash' caused it?",
+    "a": "In 2020 and 2024, by about 10 points on a 0-to-100 scale. There was no gap in 2016 or in almost any year before. The study can't prove the cause because the data is correlational, the word 'feminists' can mean different things to different people, and only men were studied. We don't know if women without degrees changed the same way."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/04/donald-trump-1.jpg",
+   "deepLink": "https://www.psypost.org/mate-value-backlash-may-help-explain-anti-feminist-attitudes-among-some-trump-era-men-researchers-say/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 02 Oct 2026 10:00:47 +0000"
+  },
+  {
+   "id": "hackernews-7idcma",
+   "source": "hackernews",
+   "topic": "world",
+   "kind": "news",
+   "title": "What US sanctions do to an ICC judge's daily life",
+   "body": "After the US sanctioned her, ICC judge Kimberly Prost lost her credit cards. They came from Dutch and Canadian banks, not American ones. Her French health insurer stopped paying her claims, though French law does not require it. US sanctions reach far beyond the US.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Prost is a Canadian judge at the International Criminal Court (ICC) in The Hague. The court tries people for war crimes and similar crimes. She still has some bank accounts, but they do very little. Even small transfers can be blocked. Services from Amazon and Google stop \"completely randomly.\" Some of her email and cloud services are limited. Her phone still works, \"so far.\"\n\nThe worst damage is to her health insurance. The court's insurer, the French company AXA, refuses her claims. Many foreign firms follow US sanctions anyway, because they do business with the US.\n\nWhy her? A Trump order targets ICC officials who work on cases about Israel and Gaza, or Afghanistan. Prost is a judge, not an investigator. She and four other appeals judges approved an investigation in Afghanistan, mostly into the Taliban and ISIS. It had a small US part that prosecutors never followed up. She compares the decision to a judge approving a search warrant."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "9 of the ICC's 18 judges were under US sanctions by August 2026",
+      "Both deputy prosecutors, the former prosecutor and one staff member are also sanctioned"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Prost says the real target is how judges decide. Judges must decide on the facts and the law. The sanctions push them to decide, or not decide, the way the US government wants. If that works on one court, it works on any international court."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "In June, Prost and two other ICC judges sued President Trump and other officials in a federal court in New York. They say the sanctions are unlawful. The administration has threatened a wider campaign to take the ICC apart. It did not tell NPR whether more sanctions are coming. Meanwhile, Prost is still hearing her current case, about crimes during the jihadist takeover of Timbuktu in Mali. She says she will never quit."
+    }
+   ],
+   "recall": {
+    "q": "Prost's credit cards and health insurance came from non-American companies. Why did they still stop working for her?",
+    "a": "Many foreign companies follow US sanctions anyway, because they do business with the US. Her Dutch and Canadian banks cancelled her cards, and her French insurer, AXA, stopped paying her claims, even though French law does not require it."
+   },
+   "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5250x2953+0+662/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F8a%2F18a07f2b4b03ad943ddbb3cb4b52%2Fgettyimages-2296121876.jpg",
+   "deepLink": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-10-02T17:02:31Z"
+  },
+  {
+   "id": "psypost-1lmjmmp",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Endurance isn't just muscle: in mice, the brain leads",
+   "body": "We think stamina is built in the muscles, heart and lungs. A new mouse study suggests a small group of brain cells must fire right after each workout for the body to get fitter. When those cells were blocked, training did not work.",
+   "evidence": "single study · mice only · small groups · published in Neuron, 2026",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A mouse finishes its daily run on a small treadmill and stops. Its legs go still. But deep in its brain, a small group of cells is just starting to fire.\n\nMost of us think of endurance as a body thing. You train, your muscles change, your heart and lungs get stronger, and you last longer. Those changes are real and easy to measure. For years, scientists saw brain changes as a result of training, not a cause. In that view, muscles send chemical signals into the blood, and the rest of the body, brain included, responds.\n\nA new study in mice suggests the brain is the one giving directions.\n\nThe cells sit in the ventromedial hypothalamus, a deep brain area that controls energy use, eating and blood sugar. They carry a protein called SF1, so they are called SF1 neurons. (Neurons are brain cells that send signals.)\n\nThe team, led by Morgan Kindel and Ryan J. Post, stopped these cells from sending signals. Those mice got tired faster on the treadmill. They used up their sugar stores too early instead of burning fat. After three weeks of training, normal mice ran longer and farther. The blocked mice did not improve. Their leg muscles also lacked the gene changes that normally help muscles use energy better after training. The muscles did not adapt on their own. They needed the signal from the brain.\n\nTiming matters. Tiny microscopes fixed to the mice's heads showed some SF1 neurons firing right after each run ended. Over a week of training, more of these cells joined in, and they fired harder. After three weeks, the cells had changed shape. They had twice as many tiny bumps called dendritic spines, the spots where brain cells connect.\n\nThen came the key test. The team used light to switch the cells off for just 15 minutes after each run. The endurance gains got smaller. When they switched the cells on for an hour after each run, the mice improved past their normal limit. Switching them on also raised blood sugar and energy use. The researchers think this may start the recovery signals that get muscles ready for the next run.\n\nSo why does the muscle-only picture last? Because the changes we can see happen in the body. Muscles grow, the heart gets stronger, and most exercise research has looked there. A brain signal that fires after the workout, while the body rests, is easy to miss."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This was done only in mice running on treadmills, and the way mice burn energy is not the same as ours. People build endurance over longer periods and through many kinds of training. The study does not show how the brain knows the exercise has stopped. Nobody knows yet if weightlifting or interval training uses the same brain cells. The researchers hope this could one day help people who cannot safely exercise hard, but that is still far off."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Your muscles do the work, but your brain may decide what they learn from it."
+    }
+   ],
+   "recall": {
+    "q": "In the mice, what happened when the SF1 brain cells were switched off or on right after each run, and what does that suggest?",
+    "a": "Switching them off for 15 minutes after each run made the endurance gains smaller. Switching them on for an hour made the mice improve past their normal limit. This suggests the brain, working during recovery, helps direct how muscles adapt, instead of just reacting to them."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg",
+   "deepLink": "https://www.psypost.org/the-brain-s-hidden-role-in-building-exercise-endurance/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 02 Oct 2026 20:00:00 +0000"
+  },
+  {
+   "id": "epoche-ktovlj",
+   "source": "epoche",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Are humans built to want a goal, even if life has none?",
+   "body": "Most thinkers now agree that history and knowledge are not heading toward a final goal. An essay in Epoché Magazine argues that our minds still act as if they are. Even the idea's fiercest critics could not stop.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A child builds a sandcastle at the edge of the sea. The child knows the tide will take it. They build towers anyway.\n\nSkeptic: That's just play. Do adults really have a teleological self, one that is always aimed at some goal or end point? Or is that an old idea we should have dropped by now?\n\nExpert: The essay starts with Hegel. He believed history itself had a goal. Its conflicts slowly resolve until Spirit becomes aware of its own freedom. Most thinkers rejected this. Nietzsche said that if the world had a goal, it would have reached it by now. Kuhn said knowledge never arrives at a final truth. It only moves further from where it started. So the essay agrees that the world probably has no end point. Its claim is about us. Even when we know this, we live as if we are heading somewhere. Freud noted that, deep down, no one believes in their own death.\n\nSkeptic: That sounds like something left over from the past. Medieval Christians lived in a world ordered by God, with truths that never changed. Maybe thinking in goals is just that old habit, slowly fading.\n\nExpert: Nietzsche called it a habit too. He said it was so strong that thinkers can hardly imagine a world without goals. Then he couldn't escape it himself. The man who attacked the idea of a goal for history wrote again and again about dawn, bridges, overcoming, and becoming who you are. MacIntyre said society had lost its telos, its final purpose. Then he called for it to come back. If the sharpest critics can't let go, the essay argues, this is not a habit. It is \"a structural feature of consciousness\": part of how a mind is built.\n\nSkeptic: Two famous men failing proves nothing about every mind. And look at the twist. Hegel said conflict ends in harmony. You say it never ends. Isn't \"never ends\" just one more claim to know how things finally turn out?\n\nExpert: Fair point. The essay gives examples, not proof. But it describes a pattern you can check in yourself. To get through the day, we push hard truths away. Despair comes back, and we push it away again. Even a nihilist, who believes nothing has meaning, finds hope coming back unasked. Neither side ever wins for good. The extreme case is what the essay calls the \"true insomniac\": someone who can never forget that every truth is temporary. Their wish for a goal loses everything it was aimed at and turns inward. But it still doesn't stop.\n\nSkeptic: So is the wish a lie?\n\nExpert: The essay says no. The illusions we need are not false. They are how creatures who live inside history find their direction. It leaves one question open. Suppose one day we find a truth, or build an illusion, big enough to carry us through all of life's changes. Who gets to decide which of the two it is?"
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "We can stop believing the world has a goal. We cannot stop looking for one."
+    }
+   ],
+   "recall": {
+    "q": "Why does the essay argue that our urge toward a goal is built into the mind, not just an old habit that will fade?",
+    "a": "Even the thinkers who attacked the idea could not drop it. Nietzsche kept writing about dawns, bridges and becoming, and MacIntyre wanted society's lost purpose back. In daily life, too, denial and despair keep replacing each other and neither wins for good, so the wish for a goal stays."
+   },
+   "imageUrl": "https://epochemagazine.org/wp-content/uploads/post/Victor-Magarinos.-Object-Light-Form-Variations.-1965-768x765.jpg",
+   "deepLink": "https://epochemagazine.org/95/our-teleological-selves/",
+   "attribution": "Epoché Magazine",
+   "publishedAt": "Thu, 01 Oct 2026 12:33:01 +0000"
+  },
+  {
+   "id": "iai-1xr317b",
+   "source": "iai",
+   "topic": "world",
+   "kind": "news",
+   "title": "China says it will never seek 'hegemony'. What does it mean?",
+   "body": "Xi Jinping says China will never seek hegemony. Many Western scholars say it will. Scholar Astrid Nordin argues both can be true, because each side means something different by the word.",
+   "sections": [
+    {
+     "label": "The Western reading",
+     "style": "prose",
+     "text": "In the West, hegemony means overwhelming power. It can also mean leading an order where other states defer (agree to follow) because of force, rewards and legitimacy. John Mearsheimer says China will likely copy the US and try to dominate its own region. Rush Doshi, a former Biden official, says China aims to lead its region and the world.\n\nWhat it predicts: a China that wants to be on top."
+    },
+    {
+     "label": "The Chinese reading",
+     "style": "prose",
+     "text": "The usual Chinese word is baquan. It has Maoist roots and means bullying, illegitimate power. China often uses it about the US.\n\nWhat it predicts: a China that promises not to bully."
+    },
+    {
+     "label": "Where the comparison misleads",
+     "style": "note",
+     "text": "It looks like a translation problem. Nordin says it is more than words. China could sit at the top of a hierarchy, rewarding countries that follow and punishing those that don't, and still say it rejects \"hegemony\". So the real question is not whether China wants power. It is which kinds of power China sees as legitimate, and for whom."
+    }
+   ],
+   "recall": {
+    "q": "How can 'China will never seek hegemony' and 'China will seek hegemony' both be true?",
+    "a": "In the West, hegemony means overwhelming power, or leading an order that others follow. In Chinese, the word baquan means illegitimate bullying power, often the US kind. So China can reject bullying and still want to sit at the top of a hierarchy."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/the-West-thinks-Chinas-goal-is-power-China-thinks-its-about-morality.webp",
+   "deepLink": "https://iai.tv/articles/the-west-thinks-chinas-goal-is-power-china-thinks-its-about-morality-auid-3692",
+   "attribution": "IAI News",
+   "publishedAt": "Fri, 02 Oct 2026 10:26:54 +0000"
+  },
+  {
+   "id": "marginalian-1442f3w",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Chesterton's dandelion: why comparison kills wonder",
+   "body": "G.K. Chesterton thought we stop seeing ordinary things because we compare them, not because we know them too well. Under the comparing sits a quiet belief: that good things are owed to us. For him, gratitude was not a feeling. It was a way of looking.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "\"You can get much better dandelions at Selfridge's.\" Picture someone saying this while you hold a yellow weed you picked by the road. Selfridge's was a grand London department store. A second person says you can get cheaper ones at Woolworth's, a cheap chain store. A third says only one expert in Vienna really understands dandelions.\n\nThe English writer G.K. Chesterton (1874–1936) invented these voices in his autobiography to make a point. As a child, he wrote, everything was a wonder. The world was not just full of miracles. The world itself was the miracle. Years later, he still asked what he had done, maybe in some earlier life, to earn the reward of looking at a dandelion.\n\nHe saw two ways to spoil that moment. The first is despair: the pessimist who thinks nothing is worth much. The second surprised him more. It belongs to a cheerful, worldly person who never calls the dandelion bad. They only say there are better ones somewhere else: a super-dandelion from a famous German garden, or an orchid from a fashionable hostess. This person does not hate the flower. They rank it. And ranking makes it small.\n\nAn old saying goes: familiarity breeds contempt. In other words, once you know something well, you stop respecting it. Chesterton changed one word: \"it is not familiarity but comparison that breeds contempt.\"\n\nUnder all this comparing, he found a hidden belief: that we have a right to dandelions. If we have a right to them, we can demand the best one in Paradise. We owe no thanks. We feel no wonder. Least of all do we wonder that we were thought worthy to get one.\n\nHere is the turn. For Chesterton, gratitude is not a warm feeling you add after you look. It is how you look. If the flower is a gift you did not earn, you see the flower. If it is something you are owed, you only see how it measures up. Even the pessimist, he thought, has never counted how much he owes for simply being alive to complain.\n\nChesterton believed that deep in every adult mind there is a \"forgotten blaze or burst of astonishment\" at simply existing. The job of art and of the spiritual life, he said, is to dig that wonder back up. Then a person sitting in a chair might suddenly understand that they are alive, and be happy.\n\nThe comparing voices have not gone away. Today they sit in the phone in our pocket, always ready to show us a better dandelion. Chesterton's answer was not to argue with them. It was to remember that we were never owed the first one."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "You did not earn the dandelion. That is why you can still see it."
+    }
+   ],
+   "recall": {
+    "q": "According to Chesterton, what really makes us look down on an ordinary dandelion, and what belief lies underneath it?",
+    "a": "Comparison, not familiarity: we measure the dandelion against better, cheaper or more expert versions somewhere else. Underneath is the belief that we have a right to dandelions, so we owe no thanks and feel no wonder. Seeing the flower as a gift we did not earn lets us see it again."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/06/gkchesterton_autobiography.jpg?fit=320%2C495&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/03/g-k-chesterton-dandelion/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sat, 03 Oct 2026 04:29:16 +0000"
+  },
+  {
+   "id": "neuro-news-18i0xzm",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "People will call an AI aware, but not conscious",
+   "body": "When an AI and a human act in exactly the same way, people still say the human is more conscious. But they are happy to call the AI aware. A new set of experiments suggests we use two different rules: one for what a thing does, and one for what a thing is.",
+   "evidence": "five pre-registered experiments · n=1,092 · UK participants · ratings of written scenarios",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Picture a very short scene. A sound in the room changes, and the character notices it and reacts. Someone nearby is upset, and the character responds to how they feel. Now, how conscious is this character? Your answer may depend on one small word you hardly noticed: whether the character is a person or an AI.\n\nMany people worry about this today. AI talks, reasons and copies human feeling so well that people may start to believe it has a mind. We already say a chatbot is \"confused\" or is \"refusing\" a request. Do we really believe those words?\n\nResearchers at LMU Munich tested this in five experiments with nearly 1,100 people in the UK. One group read short scenes about a human. Another group read the same scenes, word for word, but the main character was an AI. The scenes changed how well the character responded to its world: to space, to other people, and to time. People then rated how aware the character was, and how conscious.\n\nThe two words split apart. For awareness, people used a simple rule: the better a character responded, the more aware it was, human or AI. The researchers call this functionalist, which means judging a mind by what it does. Only at the very highest levels did humans get a little more credit.\n\nConsciousness worked differently. With the same behaviour, people always gave humans more. The researchers call this essentialist, which means judging a mind by what something is. It seems people see awareness as simply taking in what is around you, and a machine can clearly do that. Consciousness they keep for beings that seem to have an inner life, a feeling of being someone.\n\nSo when people use mind words for AI, they may not mean much by them. Ophelia Deroy, one of the senior authors, suggests we may use them only \"because we lack better words\", since AI is trained to talk like us. Another, Bahador Bahrami, points to companies and journalists who describe AI as having plans, intentions, even moral doubts. Ordinary people draw finer lines than that. But with a neutral word like awareness, the gap between human and machine mostly disappears. The word you choose shapes the judgment people make."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The study measures how people judge AI. It says nothing about whether any AI is actually conscious. All the people were in the UK, and they rated short written scenes, not talks with a real AI. Their judgments might change with real conversations, or in other cultures."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "We judge awareness by what something does, and consciousness by what it is."
+    }
+   ],
+   "recall": {
+    "q": "When a human and an AI behaved in exactly the same way, how did people rate their awareness compared with their consciousness, and what does that show?",
+    "a": "Awareness rose with better behaviour for both, so the AI could score almost as high as the human. Consciousness stayed higher for the human even when the behaviour was the same. People judge awareness by what something does, but consciousness by what kind of being it is."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/10/Humans-Refuse-to-Grant-Consciousness-to-AI-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/human-ai-consciousness-neurotech-31286/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Fri, 02 Oct 2026 18:45:13 +0000"
+  },
+  {
+   "id": "marginal-rev-zpvr62",
+   "source": "marginal-rev",
+   "topic": "econ",
+   "kind": "news",
+   "title": "A journal rechecks the 'China shock' and college enrollment forecasts",
+   "body": "Econ Journal Watch publishes critiques of economics research that is already out. Its September 2026 issue argues that two famous claims do not hold up.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The \"China shock\": a 2013 study by David Autor, David Dorn and Gordon Hanson found that cheap Chinese imports hurt American workers. Joseph Francis argues that this harm to jobs, wages and household incomes disappears once a 2022 statistical fix by Kirill Borusyak and colleagues is fully applied. The original authors are invited to reply in a future issue.\n\nThe forecasts: in June 2023, the US Supreme Court ruled that race-based college admissions are unconstitutional. Selective colleges predicted a sharp fall in Black enrollment. Three years later, David Kane reports that their predictions did not come close to true."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "1990–2007: the years the China shock study covered",
+      "33: selective colleges that predicted Black enrollment would fall 50–70%",
+      "14% to 6%: David Card's estimate of how far the Black share of Harvard's admitted class would fall"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Both claims shaped big public debates, one on trade and one on admissions. Francis says the China shock case shows that even careful-looking modern methods can give shaky results. These are critiques by single authors, not settled verdicts."
+    }
+   ],
+   "recall": {
+    "q": "What does Joseph Francis say happens to the China shock's harm once the 2022 fix is fully applied, and how did the colleges' enrollment forecasts turn out?",
+    "a": "Francis argues that the harm to American jobs, wages and incomes disappears. The 33 colleges predicted Black enrollment would fall 50 to 70 percent after the 2023 ruling, and three years later David Kane reports this did not come close to happening."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/10/new-issue-of-econ-journal-watch-17.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-issue-of-econ-journal-watch-17",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Sat, 03 Oct 2026 04:27:58 +0000"
+  },
+  {
+   "id": "et-economy-78f1qm",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Iran war: India pays more for oil, but gets less",
+   "body": "Since the Iran war began, crude oil prices have risen. India's oil import bill went up even though less oil came in. The cost is now spreading to trade, prices at home and the government's budget.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Crude oil is raw oil that is later made into petrol, diesel and cooking gas. India buys most of it from abroad, and much of that comes from the region around Iran. Now each barrel costs the country more.\n\nTrade with India's main partners in the region is still disrupted. Households and companies face high inflation, which means prices are rising faster than usual. The government also pays a bigger subsidy bill. A subsidy is money the state spends to keep fuel cheaper than its real cost."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "A war far away reaches India in three ways at once: a bigger import bill, higher prices in shops, and more government money spent on fuel. Money spent on fuel subsidies is money the state cannot spend on anything else."
+    }
+   ],
+   "recall": {
+    "q": "What is unusual about India's oil imports since the Iran war began, and where else does the cost show up?",
+    "a": "India paid more for crude oil even though it got less of it, because prices rose. The cost also shows up in disrupted trade in the region, high inflation for households and companies, and a bigger fuel subsidy bill for the government."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-134646373,imgsize-76952.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/indicators/in-graphics-how-the-cost-of-iran-war-piled-up/articleshow/134646373.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Sat, 03 Oct 2026 01:23:35 +0530"
+  },
+  {
+   "id": "psypost-jkdxeh",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Daytime stress shows up in dreams, however you cope",
+   "body": "In a small two-week dream diary study, people with more daily stress felt worse in their dreams. Worries about relationships and money carried over most strongly. How people coped during the day, in healthy or unhealthy ways, made no clear difference at night.",
+   "evidence": "single study · n=65 · 276 dreams over 14 days · self-report",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "An alarm goes off. Before the dream fades, a student opens an online diary and taps a number from zero to three. How scared was I? How sad? How happy? Then they tick a box: was that a nightmare?\n\nPsychologists have an old idea called the Continuity Hypothesis. It says what you think and feel during the day carries over into your dreams. If work or family life scares you, the fear follows you into sleep. A second idea, the Mastery Hypothesis, adds a hopeful twist: dreams may be the brain practising hard situations in a safe place, where nothing can really hurt you.\n\nPsychologist Jonas Mathes and colleagues at SRH University Heidelberg asked a practical question. Does the way you handle stress in the day change how it feels at night? Psychologists call these ways \"coping\". Some are healthy, like talking to friends, positive thinking, faith, or fixing the problem. Others are unhealthy, like drinking or smoking more.\n\nFirst, 65 people filled in a survey about their stress in areas like money, health, and pressure at work or school. They also listed how they usually cope. Then for 14 days they kept the morning dream diary. Together they recorded 276 dreams.\n\nMost dreams were not dark. Surprise and joy were the most common feelings. But fear, sadness, anger, disgust, or contempt showed up in 39 percent of dreams. The dreamers called about 11 percent of them nightmares. These had more anger and less joy.\n\nThe first result fit the Continuity Hypothesis. People with more daily stress had stronger bad feelings in their dreams. The type of stress mattered. Worries about family, friends, romantic partners, and debt had the strongest link.\n\nThe second result was the surprise. The team expected healthy coping to protect people at night, and drinking or smoking to make dreams worse. Neither effect was statistically significant, which means the differences were too small to rule out chance. People who leaned on friends or thought positively did not clearly dream better. People who drank or smoked more did not clearly dream worse. In this study, the stress itself seemed to travel into sleep, whatever people did with it during the day."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one small study. Most people in it were young women and students found through social media, so the results may not hold for older adults or non-students. People rated their dream feelings from memory the next morning, and dream memory is shaky. Nightmares were rare, so the study says little about serious nightmare problems. And unhealthy coping meant only alcohol and cigarettes. It left out things like overeating, avoiding problems, or pulling away from people."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Coping may change how your day feels. In this study, it did not change how your nights felt."
+    }
+   ],
+   "recall": {
+    "q": "What did the study find about daytime stress and dreams, and what did coping change?",
+    "a": "People with more daily stress, especially worries about relationships and debt, had stronger bad feelings in their dreams. But neither healthy coping, like talking to friends, nor unhealthy coping, like drinking or smoking, made a clear difference to how their dreams felt."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/05/sleeping-asian-woman.jpg",
+   "deepLink": "https://www.psypost.org/daytime-stress-predicts-negative-emotions-during-sleep/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 02 Oct 2026 16:00:55 +0000"
+  }
+ ]
+}
