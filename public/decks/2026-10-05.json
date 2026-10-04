@@ -1,0 +1,947 @@
+{
+ "date": "2026-10-05",
+ "generatedAt": "2026-10-04T20:58:14.684Z",
+ "cards": [
+  {
+   "id": "letter-2026-10-05",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "The body and the mind, as one",
+   "body": "Today's quiet thread is the body and the mind working as one system. A molecule made by gut bacteria may play a part in Alzheimer's, a hard start in life can slow how the teenage brain settles, and Diogenes answers a clever argument by simply standing up and walking. Don't miss the piece on misophonia: it explains why the sound of a loved one chewing can set off your body's alarm, and it may change how you see a reaction you thought was just irritation.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "conv-neuro-sh1wtz",
+   "source": "conv-neuro",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Misophonia: when a loved one's chewing feels unbearable",
+   "body": "For people with misophonia, small everyday sounds like chewing or breathing set off the body's emergency alarm. The problem is usually not how loud the sound is. It is who makes it and what it seems to mean. Some research suggests the mind gets stuck on it.",
+   "evidence": "author's own studies · association, not cause · sample size not stated",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Crunch. Pause. Crunch. At a family dinner, a father bites into an apple, and his grown daughter's body goes tight. Her heart speeds up. Her jaw locks. She wants to leave the table, or make the sound stop. The same crunch from a stranger on a bus would barely reach her. From him, she cannot bear it.\n\nThis is misophonia. It is a real condition, not just being \"annoyed by noise\". Very ordinary sounds set it off: chewing, sniffing, breathing, swallowing, finger tapping, a clicking pen. The reaction is fast, far too big for the moment, and hard to control. Family meals, classes, shared offices and buses can all become very hard. Some people react to the sight of these actions too, like a moving jaw. That has its own name: misokinesia, a strong reaction to repeated movements.\n\nThe body answers with fight or flight, its emergency alarm for danger. The person feels anger, disgust, anxiety or panic. Muscles tense, the heart beats faster, and they want to escape or stop the sound. More rarely, it ends in shouting or physical aggression.\n\nLoudness is usually not the problem. That is what makes misophonia different from two similar conditions. Hyperacusis means being unusually sensitive to how loud sounds are, sometimes to the point of pain. Phonophobia means fear of certain sounds. Misophonia depends on the type of sound, the situation, what the sound means, and who makes it. Many people with it can accept chewing from a dog or a small child, but not the same sound from an adult close to them. One idea is that the brain hears the sound normally, but the link from that sound to feeling is far too strong.\n\nThe author's own research adds a newer piece: flexibility. Cognitive flexibility is the ability to change how you think when a situation changes. Emotional flexibility is the ability to move your attention or adjust your feelings when something emotional happens. In their studies, people with worse misophonia had less of both. In daily life, that could mean the sound grabs attention and will not let go. The anger keeps growing. It can stay long after the sound stops, even when the person knows the sound is harmless and not on purpose.\n\nLess flexible minds may also hold stricter rules about how others should behave. So the real question under the anger becomes: is this sound unnecessary? Avoidable? Deliberate? Rude? Next, the researchers want to study theory of mind, our skill at guessing what others think or intend, and empathy, our ability to share their feelings.\n\nWhat helps? The article offers no proven treatment. But it changes where we look. If the problem were only sensitive ears, earplugs would be the answer. If part of it is getting stuck, and hearing a sound as an insult, help may lie in loosening that grip. Misophonia often appears alongside OCD, PTSD, depression and anxiety. Yet the main medical lists of disorders do not include it as its own condition. Scientists still debate that.\n\nBack at the dinner table, the father's crunch is the same sound as the stranger's. What changes is what his daughter's mind does with it. It hears a message in the sound, and then it cannot put the message down."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The flexibility finding is a link, not proof of cause. Lower flexibility might feed misophonia, or living with misophonia might wear flexibility down. The article does not give sample sizes, and the work on how people read others' minds has not been done yet."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Same crunch, different person. The ears work fine; the link from sound to feeling is too strong."
+    }
+   ],
+   "recall": {
+    "q": "Why is misophonia not just being sensitive to loud sounds, and what does the flexibility research add?",
+    "a": "The reaction depends on the type of sound, the situation, what it means and who makes it, not on how loud it is. Chewing from a child may be fine but unbearable from a parent. The research links worse misophonia to lower cognitive and emotional flexibility, so the mind gets stuck on the sound and stays angry even after it stops."
+   },
+   "imageUrl": "https://images.theconversation.com/files/758526/original/file-20260816-50-20gceg.jpg?ixlib=rb-4.1.1&amp;rect=0%2C391%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/misophonia-when-everyday-sounds-become-unbearable-291506",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-10-04T07:16:38Z"
+  },
+  {
+   "id": "bbc-world-nmwzd0",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Yemen's government declares all-out war on the Houthis",
+   "body": "Yemen's government says it will fight to take back all the land held by the Houthis, an armed group backed by Iran. It starts from a weak position. Last month the Houthis took Yemen's whole Red Sea coast. Now they say they are hitting Saudi oil sites.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "On Sunday, President Rashad al-Alimi said his forces would retake \"the remaining territory of the republic\". He spoke on TV from Riyadh. Saudi Arabia is his main backer, and he likely had its approval.\n\nThe map favours the Houthis. They have held the capital, Sanaa, and much of the north for more than ten years. Last month they took the whole Red Sea coast. That includes the Bab al-Mandab Strait, a narrow sea passage that is vital for shipping. The government holds Aden, its temporary capital, and the frontline city of Taiz. On Sunday, AFP reported that the Houthis had cut the supply road between the two. Taiz is now almost surrounded.\n\nWhy this matters beyond Yemen: Saudi oil is now a target."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "2014: the Houthis take Sanaa, and the war begins",
+      "2015: a group of countries led by Saudi Arabia joins the war",
+      "July 2026: fighting starts again after years of relative calm",
+      "50 coalition strikes in 12 hours: the Houthis' own count, which they give as the reason for hitting Saudi oil"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The Houthis say they hit sites of Aramco, Saudi Arabia's national oil company, in Riyadh and in the oil-rich Khurais area. Saudi Arabia has not commented. In the past it has called some Houthi claims misleading. Holding the coast also lets the Houthis stop Saudi Arabia from shipping oil out through the Red Sea, a route that avoids the Strait of Hormuz. That helps Iran. If Saudi oil is hit, the whole world economy could feel it."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Taiz. If it stays cut off from Aden, the government's main frontline city could fall. Also watch whether Saudi Arabia confirms or denies the Aramco attacks."
+    }
+   ],
+   "recall": {
+    "q": "Who controls what in Yemen today, and why does this round of fighting matter outside Yemen?",
+    "a": "The Houthis hold the capital, Sanaa, much of the north, and the whole Red Sea coast. The government holds Aden and Taiz, and Taiz is now almost surrounded. It matters beyond Yemen because the Houthis are targeting Saudi oil and blocking a Saudi export route that avoids Hormuz, so the world economy could pay the price."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Sun, 04 Oct 2026 16:51:30 GMT"
+  },
+  {
+   "id": "marginalian-8tv7lm",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Dostoyevsky: a good heart feels sad where others feel rage",
+   "body": "In an 1856 letter from Siberia, Dostoyevsky praised a young friend in one line: what makes other people angry only makes him sad. For Dostoyevsky, that sadness showed a better heart. Being good was not the same as being pleasant.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Dostoyevsky owes a young friend money. When he brings up the debt, the friend blushes. If Dostoyevsky keeps talking about it, the friend gets a little annoyed.\n\nIt is the winter of 1856, in Siberia. Dostoyevsky is thirty-five and has been sent to live near a labor camp. He has only just escaped a death sentence. He is very poor. He borrows from almost everyone and rarely pays anyone back. He writes a ten-page letter to his older brother to introduce this friend. The young man has looked after Dostoyevsky's affairs and asked for nothing in return. Near the end of the letter, Dostoyevsky names the friend's best quality:\n\n\"What infuriates and enrages someone else saddens him — the sign of a superior heart.\"\n\nLet us take it one piece at a time.\n\n\"What infuriates and enrages someone else.\" The sentence starts with the same event happening to two people. Both words mean \"makes very angry.\" Dostoyevsky uses two where one would do. The doubling shows how normal anger is. It is the usual reaction, the one most people have.\n\n\"Saddens him.\" This is the turn. The friend sees the same wrong. He does not deny it or smile it away. But it hurts him instead of making him angry. Anger reaches outward, looking for someone to hit. Sadness stays with the damage. It feels the loss.\n\n\"The sign of a superior heart.\" Superior means better, higher. Note what Dostoyevsky ranks. Not the mind. Elsewhere in the letter he says the young man is not highly educated, and that loving to learn matters more than having learned a lot. The ranking is about the heart. He also admits the friend is prone to depression and rather over-anxious. He does not hide this as a weakness. He seems to see it as part of the same gift: a person who feels things deeply.\n\nThis is why goodness is not the same as being nice. Being nice is about the surface: keeping things smooth and pleasant. In the same letter, Dostoyevsky calls the friend gentle and very kind, but also says he has a strong sense of honor. His gentleness is not weak. He gives money and refuses to keep count. And his sadness means he does not look away from wrongs. He takes them seriously enough to grieve them.\n\nThere is a deeper root. Dostoyevsky believed there are no bad people. If that is true, a wrong is not proof of an enemy. It is a loss, and the honest response to a loss is sorrow, not rage. This links to an idea from D.H. Lawrence: the sensitive are the truly strong.\n\nThe Marginalian calls ours an Age of Outrage. Today, anger looks like proof that you care, and sadness can look like weakness. Dostoyevsky's line turns that around. Rage can be the easy road. Staying soft while seeing clearly may be the harder one, and the better one."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "A friend lets you down. Ask yourself: do you want to punish them, or do you feel the loss? The two lead to very different conversations.",
+      "When you lend money or time, notice if you keep count in your head. Dostoyevsky's friend refused to.",
+      "Before you share angry news, ask if sadness would be the more honest response."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Anger looks for someone to blame. Sadness stays with what was lost."
+    }
+   ],
+   "recall": {
+    "q": "In Dostoyevsky's letter, what was his friend's best quality, and why is that different from just being nice?",
+    "a": "Things that made other people angry only made the friend sad. Dostoyevsky called this the sign of a superior heart. Being nice is about keeping the surface pleasant. This goodness came with a strong sense of honor, giving without keeping count, and feeling wrongs deeply instead of hitting back."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2019/12/dostoevskyletters_meyer.jpg?fit=320%2C482&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/04/dostoyevsy-good-person/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sun, 04 Oct 2026 16:24:52 +0000"
+  },
+  {
+   "id": "mint-economy-1wa5g1s",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "GST Council may end tax officers' power to arrest",
+   "body": "On Wednesday, 7 October, India's GST Council will discuss taking away tax officers' power to arrest people under GST law. Nothing is decided yet.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Today, Section 69 of the Central GST Act lets a senior officer, the Commissioner, approve an arrest in certain cases. These include selling without an invoice to avoid tax, making bills for goods never supplied, and falsely claiming input tax credit (credit for GST already paid on supplies). Keeping tax collected from customers for more than three months after it is due also counts. Suspicion alone is not enough. The officer needs \"reasons to believe\", backed by evidence.\n\nDeliberate fraud would still be punished. Prosecution stays, and arrests could still happen under the Bharatiya Nyaya Sanhita (BNS), India's main criminal law."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "57th: the Council meeting that takes up the proposal",
+      "72,393 GST offence cases and 887 arrests by central GST offices from 2021-22 to 2024-25. Arrests by state tax offices are not included."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Businesses say the arrest power creates fear and uncertainty. This is worst when it is used against senior executives, or in sectors like banking and insurance. Removing it is seen as a step against harassment that would make business easier. It also fits a wider trend. In September, the income-tax board removed arrest and detention from its tax recovery rules, with effect back to 1 April 2026."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "All of this comes from an Indian Express report. Mint says it has not checked the report itself. If the Council agrees, Parliament must still change the GST law. The government will likely bring that change in the Winter Session."
+    }
+   ],
+   "recall": {
+    "q": "What will the GST Council discuss on 7 October, and would serious tax fraud go unpunished if the change passes?",
+    "a": "It will discuss removing tax officers' power to arrest people under Section 69 of the GST law. Serious fraud would still be punished: prosecution stays, and arrests could still happen under the Bharatiya Nyaya Sanhita, India's main criminal law."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/gstt_1791117234253_TI22_1791117237829_Tjuy_a40cfa44-2848-4bed-94f9-f6fa93c89eca_9u40.png",
+   "deepLink": "https://www.livemint.com/economy/gst-arrest-powers-may-be-removed-council-to-discuss-decriminalisation-on-wednesday-law-change-likely-in-winter-session-11791112867891.html",
+   "attribution": "Mint",
+   "publishedAt": "Sun, 04 Oct 2026 18:18:16 +0530"
+  },
+  {
+   "id": "daily-phil-la93hi",
+   "source": "daily-phil",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Zeno proved motion impossible. Diogenes just walked",
+   "body": "An ancient Greek thinker built tight arguments to show that nothing can move. Diogenes did not argue back. He stood up and walked across the room. The walk proved nothing. But it gave us a phrase for a real truth: some questions are not solved by thinking harder.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Someone in the room has just proved that nothing can move.\n\nThe proof comes from Zeno of Elea, an ancient Greek thinker. Take an arrow in flight, he said. At every instant, it fills a space exactly its own size. Anything that fills a space its own size is at rest. So at every instant the arrow is at rest. The flying arrow never moves.\n\nHis second puzzle is a race. Achilles, the fastest runner, chases a slow tortoise. To pass it, he must first reach the spot where the tortoise was. But by then the tortoise has crawled a little further. So Achilles must reach that new spot, and the tortoise moves again. This goes on without end. He can never catch it.\n\nThe logic is tight. It is also maddening, because you can watch an arrow land. You can watch Achilles win.\n\nThe story goes that when someone laid out these puzzles, Diogenes the Cynic did not argue back. (The Cynics were philosophers who lived roughly and mocked polite society.) He stood up and walked across the room.\n\nAs logic, that walk proves nothing. It does not find the broken step in Zeno's argument. But as an answer, it is close to perfect. Diogenes met an argument made of words with a footstep. He would not let a clever idea float so high that it forgot the world it was meant to describe.\n\nThat moment left us a Latin phrase: solvitur ambulando, \"it is solved by walking.\" Over the centuries it came to mean this: some problems are not answered by thinking harder. They are answered by moving, by going back to real life, by letting the body have a say.\n\nWhy did this make sense to the ancients? The French philosopher Pierre Hadot spent his career on that question. He read the Stoics, the Epicureans and the Cynics. He argued that ancient philosophy was first of all a way of life. It was a set of what he called spiritual exercises: daily habits of attention and looking at yourself honestly, meant to change the person who did them. The theories mattered, but they served how you lived. Philosophy was closer to medicine for the soul than to a filing system for ideas.\n\nLater, philosophy moved indoors. It got professors, lecture halls and journals. It kept the arguments and lost the life. Say \"philosophy\" today and people picture a classroom and a reading list. They rarely picture someone walking a wet lane at dusk, turning a question over.\n\nNot every question gives way to a walk. But some were never problems to solve at all. They were things to live with. And walking is one of the oldest ways we have of living with them."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "Zeno's puzzles are still real puzzles of logic. A walk shows his conclusion is wrong. It does not show which step of his reasoning fails. Diogenes gave a reminder, not a proof, and the story is honest about that."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Diogenes did not beat Zeno's argument. He reminded him where the ground was."
+    }
+   ],
+   "recall": {
+    "q": "When Diogenes walked across the room, what did his walk fail to do, and what did it still achieve?",
+    "a": "It did not find the flaw in Zeno's logic, so it was not a proof. But it pulled the argument back to the real world, where arrows land and runners win. That is the idea behind solvitur ambulando: some problems are answered by moving and living, not by thinking harder."
+   },
+   "imageUrl": "https://daily-philosophy.com/rodney-king-solvitur-ambulando/featured-1200px.jpg",
+   "deepLink": "https://daily-philosophy.com/rodney-king-solvitur-ambulando/",
+   "attribution": "Daily Philosophy",
+   "publishedAt": "Sun, 04 Oct 2026 08:00:00 +0800"
+  },
+  {
+   "id": "marginal-rev-1m5aqb8",
+   "source": "marginal-rev",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Does Costco cause cancer? How one method fooled peer review",
+   "body": "One method links living near Costco to over 2.2 million US cancer deaths. Nobody thinks Costco causes cancer. But four published papers used the same method to blame nuclear power plants.",
+   "evidence": "critique of four published papers · same method retested on other landmarks",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Live near a Costco, and your risk of dying of cancer looks higher. One analysis links Costco to more than 2.2 million US cancer deaths from 2000 to 2018.\n\nNobody thinks hot dogs and bulk spices did this. The number came from a method. A team at Harvard's T.H. Chan School of Public Health, led by Yazan Alwadi, used it to link nuclear power plants to cancer. They wrote four papers with it, starting in December 2025. The papers covered cancer cases in Massachusetts, cancer deaths across the US, lung, breast and colon cancer, and deaths from all causes.\n\nThen Deric Tilson and Adam Stein ran the same method on other kinds of places. Living near a private four-year university looked 15 times worse than living near a nuclear plant. Costco looked worst of all.\n\nSo the method finds links on its own. The authors picked nuclear plants because the place fit a story they expected. They never tried the method anywhere else. The critics do not say which exact flaw creates the false link.\n\nBefore you trust a method, test it where you already know the answer is no. Two things showing up together does not mean one causes the other."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "4 papers used the method, from December 2025 onward, in journals including Nature Communications",
+      "15 times: how much worse private universities looked than nuclear plants",
+      "2.2 million+: US cancer deaths linked to Costco, 2000 to 2018. That is over 20% of all of them"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "These papers passed peer review (checks by other scientists before a journal publishes). The critics put it this way: the number of deaths caused is probably zero, but the number of bad papers is \"at least four.\""
+    }
+   ],
+   "recall": {
+    "q": "How did the Costco result show that the nuclear-plant cancer studies were flawed?",
+    "a": "The same method found even bigger cancer links for Costco and private universities, which cannot really cause cancer. So the method creates links by itself. The nuclear result came from the method, not the plants. Two things showing up together is not proof of cause."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=does-costco-cause-cancer",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Sun, 04 Oct 2026 11:18:58 +0000"
+  },
+  {
+   "id": "psypost-pswa44",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "VR headsets sparked mystical feelings a flat screen didn't",
+   "body": "In a study of 80 young adults, some people wearing a VR headset reported a complete mystical experience: a sense of oneness, time falling away, and feelings too big for words. When they watched the same scenes on a normal screen, nobody did. A simple breathing meditation worked almost as well as a fantasy story full of spirits and black holes.",
+   "evidence": "single study · n=80 · young adults · self-report plus brain-wave and heart data",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A campfire burns on a dark island. Animal spirits climb out of the flames. A black hole opens in the sky. You watch it all as a floating spirit with no body. All you have is a tribal mask and a pair of gloves.\n\nThat was one of two scenes in a recent study by psychologists at Western University. They asked a simple question: can virtual reality (VR), a headset that puts you inside a 3D world, bring on a mystical experience? Psychologists use this term in a specific way. It means a feeling of oneness with everything, a sense that time and space have fallen away, strong joy, and a feeling that words cannot describe it.\n\nWhat we know. Mystical states are hard to create in a lab. Meditation, fasting and hypnosis rarely produce a full one, so most modern studies use psychedelic drugs. Here, the headset worked where a normal screen did not. With the headset on, 28 percent of the fantasy group and 18 percent of the meditation group reported a complete mystical experience. On a flat monitor, with the same sound and the same scenes, nobody did.\n\nThe flat screen brought more boredom and tiredness. The headset brought more awe, calm, interest and a sense of beauty. People felt they were truly inside that world. Their bodies agreed. In VR, brain waves were stronger in every band the researchers measured. Heart rates went up, and heart rate variability went down. Heart rate variability is the small change in time between one heartbeat and the next. When it drops, the nervous system is often highly engaged.\n\nWhat is contested. The surprise: the magic did not matter. A simple breathing meditation in a calm nature scene did almost as well as the campfire spirits and the black hole. The authors think being inside the world is what does the work. But there is a twist. The meditation group still said their 'realistic' world felt dreamlike. Floating as a spirit with no body is never ordinary. So this was not a clean test of fantasy against realism.\n\nWhat we don't know. The study did not compare these states directly with those from long meditation or psychedelics. So we cannot say they are the same thing. People rated their feelings right after each session, so we do not know if anything lasts.\n\nHow we'd find out. Test people only on their first viewing. Remove the effect of head movement from the brain data. Include people from different spiritual backgrounds, and check on them again later."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "80 young adults were split into two groups. Both explored the same VR nature world, Nature Treks: Together. One group heard a guided story that turned fantastical halfway through. The other heard a breath-focused meditation. Everyone did their exercise twice: once in a headset where they could look around, and once on a flat monitor. Half did the headset first, half did the monitor first. Wearable sensors recorded brain waves, and chest straps recorded heart rate. To count as a complete mystical experience, a person had to score at least 60 percent of the maximum in each of four areas: unity, going beyond time and space, positive mood, and feelings too big for words."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study of 80 young adults. The mystical feelings were self-reported on surveys. In VR, people moved their heads and bodies, and that movement may have added electrical noise to the brain and heart data. The flat-screen viewers sat still. Doing the same script twice may also have weakened the feelings. A wonder feels smaller once you know it is coming."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "No magic was needed. For some people, a world they could turn their head inside was enough to make words fail."
+    }
+   ],
+   "recall": {
+    "q": "What happened when people saw the same scenes in a VR headset and on a flat screen, and did the fantasy story make a difference?",
+    "a": "In the headset, 28 percent of the fantasy group and 18 percent of the meditation group reported a complete mystical experience. On the flat screen, nobody did. The fantasy barely mattered, so being inside the world seemed to do the work, though even the 'realistic' world felt dreamlike."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/03/virtual-reality.jpg",
+   "deepLink": "https://www.psypost.org/virtual-reality-can-induce-mystical-experiences-without-psychedelics/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 04 Oct 2026 12:00:33 +0000"
+  },
+  {
+   "id": "hackernews-8ltrf1",
+   "source": "hackernews",
+   "topic": "world",
+   "kind": "news",
+   "title": "Ukraine's small solar sites are hard for Russia to hit",
+   "body": "One missile can knock out a coal power station. It would take about 40 missiles to do the same damage to a wind farm, says Jeff Oatham of DTEK, Ukraine's largest energy investor. So Ukraine is spreading its power across many small solar and battery sites. There are too many targets to hit. A solar field also keeps working when part of it is hit, and it is quicker to repair.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The port city of Mykolaiv shows how this works. Earlier this year, Russian strikes knocked out power plants across Ukraine, and most of the city could not pump fresh water. In one suburb, the taps kept running. A small off-grid solar field with a battery powers its water pump.\n\nHouseholds and businesses are now buying solar and battery packages too. Ukraine still needs its central grid, so it is moving key substations (the stations that pass power along the grid) underground."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Over $56 billion: estimated damage to Ukraine's energy sector so far",
+      "1.2 million litres a day: drinking water from Mykolaiv's five solar-powered desalination systems (machines that turn salty water into drinking water). That is enough for 250,000 people",
+      "Half a gigawatt: battery storage the national grid operator added last year",
+      "6 months to build a battery project in Ukraine, vs about 2 years elsewhere in Europe"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Ukraine is doing this for security, not mainly for the climate. Analyst Levgeniia Kopytsia calls renewables and local grids security assets that help keep people alive. Big, old power plants are easy targets. US environmentalist Bill McKibben calls them \"sitting ducks for drone attack\"."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Ukraine has seven gigawatts of wind power ready to build this year, if conditions allow. That would more than triple its wind power today. It also plans to double its use of renewable energy within four years. For security reasons, it does not publish how much energy it produces."
+    }
+   ],
+   "recall": {
+    "q": "Why are many small solar and battery sites harder for Russia to knock out than one big power plant?",
+    "a": "One missile can destroy a big plant. Power spread across many small sites means far more targets: about 40 missiles to do the same damage at a wind farm. Solar fields also keep working when partly hit, and they are quicker to repair."
+   },
+   "imageUrl": "https://energytransition.org/wp-content/uploads/2026/09/caspar-rae-vu3pOspbvN0-unsplash-scaled.jpg",
+   "deepLink": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-10-04T08:39:58Z"
+  },
+  {
+   "id": "daily-phil-1s5562",
+   "source": "daily-phil",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Love in the Hebrew Bible: can love be an order?",
+   "body": "The Hebrew Bible does not just praise love. It orders it. That raises a puzzle Jewish thinkers have argued about for 2,500 years: can anyone be ordered to feel?",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Twice a day, religious Jews say one sentence. Many whisper it again as they die. It reads: \"You shall love the Lord your God with all your heart, with all your soul and with all your might\" (Deuteronomy 6:5).\n\nLook at one small word. It does not say you will feel love. It says you shall. It is an order. That word starts one of the longest conversations about love in any culture."
+    },
+    {
+     "label": "Isn't the Old Testament about law and anger?",
+     "style": "prose",
+     "text": "Many people think so. In this picture, the God of the Hebrew Bible (the Jewish scriptures, which Christians call the Old Testament) is a God of rules and anger. Love comes later. The text does not support this.\n\nThe two most famous sentences in Judaism are both about love, and both are commands. One is the line above. The other is Leviticus 19:18: love your neighbour as yourself. Rabbi Akiva, an early Jewish teacher, called this the central rule of the Torah (the first five books of the Bible)."
+    },
+    {
+     "label": "What words does Hebrew use for love?",
+     "style": "prose",
+     "text": "There are several. Each shows a different side of love.\n\nAhavah is the everyday word. It covers God's love for Israel, a husband's love for his wife, a parent's love for a child, and a friend's love for a friend.\n\nChesed is harder to translate. In the 1500s, a translator could not find an English word for it, so he invented one: loving-kindness. Chesed is love shown through loyal action. It often happens between people bound by a covenant (a binding promise), and it often goes beyond what duty asks. The prophet Micah puts it at the centre of a good life, next to doing justice and walking humbly with God.\n\nRachamim means compassion or mercy. It comes from rechem, which means womb. It is the deep, gut-level love a mother feels for the child she carried. Jewish prayers use this word more than any other for God's love."
+    },
+    {
+     "label": "Where does love first appear in the Bible?",
+     "style": "prose",
+     "text": "At a frightening moment. Ahavah is first used when God tells Abraham to take Isaac, \"your only one, whom you love\", up a mountain to sacrifice him (Genesis 22:2). Love enters the Bible together with the chance of losing it."
+    },
+    {
+     "label": "So is love a feeling or a duty?",
+     "style": "prose",
+     "text": "The Hebrew words give more than one answer. Rachamim is a feeling in the body, named after the womb. Chesed is faithful action that goes past what is required.\n\nThe Bible adds one more idea: God loves first, and people love back. So love here is not just a mood that comes and goes. It is something you do, and a way of answering love you were given first."
+    },
+    {
+     "label": "Can a feeling really be ordered?",
+     "style": "prose",
+     "text": "This is the hardest question. The commands ask a lot. Love God. Love your re'a (your neighbour or fellow). And, named separately and strongly, love the ger: the stranger or foreigner living among you.\n\nIf love is only a feeling, nobody can order it. If it is only action, why call it love? Many have worked on this: the rabbis of the Talmud (the great collection of Jewish law and debate), the philosopher Maimonides, the Hasidic teachers, and, in the last century, Martin Buber and Emmanuel Levinas. One question still stays open: when someone commands us to love, what exactly are they asking of us?"
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Many traditions praise love. Judaism made it an order, and it is still asking what that order means."
+    }
+   ],
+   "recall": {
+    "q": "What makes the Hebrew Bible's view of love unusual, and how do chesed and rachamim show two sides of love?",
+    "a": "It does not just praise love; it commands it, which raises the puzzle of whether a feeling can be ordered. Rachamim (from rechem, womb) is a deep feeling in the body. Chesed is love shown through loyal action that goes beyond duty. So love is both a feeling and a deed."
+   },
+   "deepLink": "https://daily-philosophy.com/philopedia-love-in-judaism/",
+   "attribution": "Daily Philosophy",
+   "publishedAt": "Fri, 02 Oct 2026 10:00:00 +0800"
+  },
+  {
+   "id": "psypost-1jsjwq0",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "news",
+   "title": "2.5 million children: the MMR vaccine does not cause autism",
+   "body": "Some parents believe the MMR vaccine, which protects against measles, mumps and rubella, causes autism. The idea feels real because of timing. The first dose comes between ages one and two. Those are the same years parents watch closely for early signs of development. When two things happen together, they can look like cause and effect. But the idea is wrong.",
+   "evidence": "single study · n=2,560,035 · observational health records",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A new study followed 2,560,035 US children up to age eight. It compared children who got their first dose at a given age with unvaccinated children of the same age. At every age, the vaccine was not linked to more autism diagnoses. The researchers ran the same check on a second vaccine given at that age, one with no possible link to autism. It gave a similar result, so the method was not creating false links.\n\nThe fear began with a 1998 report on just 12 children. That report was later withdrawn for scientific misconduct. Many large studies since then have found no link. The fear lives on because the timing never changes. In every new family, the shot and the first signs arrive in the same years."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Risk comparison: 0.97, where 1.0 means equal risk. The likely range was 0.91 to 1.03, so there was no real difference",
+      "91.4% of the children got their first dose by 24 months"
+     ]
+    },
+    {
+     "label": "Limits",
+     "style": "note",
+     "text": "This is an observational study: it used existing records, so it could not control for everything. It counted only one narrow autism diagnosis, not the full spectrum. It also had no data on whether a family already had an autistic child, but the authors say this gap would make the vaccine look protective, not harmful. A 2015 study of children with autistic older siblings also found no link."
+    }
+   ],
+   "recall": {
+    "q": "Why does the MMR-autism link feel believable, and what did the study of 2.5 million children find?",
+    "a": "The first dose comes between ages one and two, the same years parents watch for early signs of development, so the two seem connected. But the study compared vaccinated and unvaccinated children of the same age and found that the vaccine was not linked to more autism at any age."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/infant-vaccine.jpg",
+   "deepLink": "https://www.psypost.org/study-of-2-5-million-children-finds-no-link-between-mmr-vaccine-and-autism/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 04 Oct 2026 11:00:18 +0000"
+  },
+  {
+   "id": "psypost-19daho9",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "When your group feels ignored, anger and fear follow",
+   "body": "Feeling that people like you don't matter to others is a grievance of its own. In three surveys, this feeling went with two emotions: anger about now and fear about the group's future. The two emotions pushed politics in different directions.",
+   "evidence": "three surveys · n=368, 552, 399 · online panels, not nationally representative · self-report · one point in time",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Nobody has insulted you. Nobody has taken anything from you. Yet when you watch the news, a quiet thought comes: people like us don't count here.\n\nPsychologists call this collective anti-mattering. \"Mattering\" is the basic human need to feel noticed and valued by others. Anti-mattering is the opposite belief: that others actively see you as unimportant. Earlier work found that feeling this way about yourself predicts loneliness and depression. Nassim Tabri at Carleton University and his colleagues asked whether it also happens at the level of a group. Not just \"I don't matter,\" but \"people like us don't matter.\"\n\nThey ran three online surveys. The first asked 368 Black American adults. The second asked 552 Black British adults. The third asked 399 White American adults, split evenly between Democrats and Republicans. People rated, on a scale of 1 to 7, how much they felt their group was ignored or treated as if it could be thrown away. Black Americans averaged about 4.0, Black British people about 3.5, and White Americans about 2.1.\n\nIn all three groups, the feeling went with two different emotions. The first is group-based anger, a reaction to unfairness right now: the sense that your group is being wrongly put down. The second is collective angst, a fear about the future: that your group's culture, or even its existence, may be at risk.\n\nThe two emotions led to different places. Angst, not anger, went with joining collective action, such as demonstrations. Angst also went with wanting a strong leader who will do anything to get results for the group. Among Black participants, anger went with that wish too. Among White Americans, it did not.\n\nAmong White Americans, anger showed up somewhere else. People who felt angrier gave more support to government bans on diversity programs (known as DEI, short for diversity, equity and inclusion). They also gave more support to harsh treatment of undocumented immigrants. These links held even after the researchers took party into account.\n\nTabri points to one difference. Injustice is about what is done to a group. Anti-mattering is about what people think their group means to others: whether its worries and its future count at all. The two were closely linked, but the numbers showed they were separate things. This may help explain anger that is not really about money or open discrimination. People want fair outcomes, Tabri says. They also want to be seen as mattering."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one line of research, and each survey measured everything at one moment. So it shows links, not causes. Nobody has shown that making people feel ignored produces these emotions or views. The people came from online panels and do not represent whole countries. The links were also uneven in strength. The researchers' models explained only 6% to 12% of the differences in collective action, but 13% to 55% for strong-leader support. Wanting a \"strong leader\" here does not have to mean wanting a dictator. The surveys also asked different questions: the first two asked about being ignored by White people, the third about being ignored by society in general. Finally, Tabri warns against treating the groups as equal. Black participants feel ignored against a long history of discrimination. White Americans can feel this way even though their group still holds built-in advantages."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Nobody insulted you, and nothing was taken. But the quiet thought that people like us don't count is more than hurt. It can turn into anger or into fear, and the two lead to very different politics."
+    }
+   ],
+   "recall": {
+    "q": "In this research, which emotion went with joining collective action, and what did anger go with among White Americans?",
+    "a": "Collective angst, the fear for the group's future, went with joining collective action. Among White Americans, anger went with support for DEI bans and harsh treatment of undocumented immigrants. The surveys show links, not proven causes."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/angry-man.jpg",
+   "deepLink": "https://www.psypost.org/psychologists-identify-collective-anti-mattering-as-a-key-driver-of-modern-political-grievances/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 04 Oct 2026 10:00:32 +0000"
+  },
+  {
+   "id": "mint-economy-8g5jxp",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "The world's factories are booming, but mostly for AI and defence",
+   "body": "In September, the world's factories grew at their fastest pace in four and a half years, even as high energy prices raised their costs. Ordinary shoppers are not driving this. The orders come from AI data centres and defence. Factories that sell to those buyers can pass the higher costs on. Factories that make goods for ordinary people cannot.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The data comes from S&P Global's PMI (Purchasing Managers' Index). Every month, this survey asks factory managers whether business is getting better or worse. A reading above 50 means growth.\n\nThe global reading hit 53.0, the highest since February 2022. Output grew at its fastest rate since July 2021. Factory hiring rose by the most in over four years."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Taiwan: 56.7, driven by demand for AI and chip products",
+      "Eurozone: 52.9, the highest since May 2022. The strength was in capital goods (machines and equipment that businesses buy, including for AI and defence). Demand for consumer goods stayed weak.",
+      "South Korea: new orders and output grew at the fastest rate in about five and a half years"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Jobs are growing, but so are prices. Factory selling prices are rising at one of the steepest rates since early 2023, and this can push up inflation. Oil makes transport and electricity cost more. When parts arrive late, suppliers can charge more. Industries that use a lot of energy, such as chemicals and metals, are hit hardest."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "AI, defence, and the shift to electric power now compete for the same copper, electrical equipment, and skilled workers. If energy stays expensive, factories may split into two groups. One group raises prices and keeps growing. The other gets squeezed by costs."
+    }
+   ],
+   "recall": {
+    "q": "Why are factories growing even though energy costs are rising, and which factories are likely to get squeezed?",
+    "a": "Strong demand from AI data centres and defence is driving the growth, so factories selling to them can pass higher costs on to buyers. Factories making consumer goods, where demand is weak, get squeezed. So do energy-heavy industries such as chemicals and metals."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/factory_1791130819854_Qi70_1791130820015_wrsn_daf2bd7b-330d-45df-b8db-eb33a0398167_tXIC.png",
+   "deepLink": "https://www.livemint.com/economy/the-oil-shock-hasn-t-stopped-the-factory-boom-it-may-be-changing-what-factories-make-11791124337610.html",
+   "attribution": "Mint",
+   "publishedAt": "Sun, 04 Oct 2026 23:32:22 +0530"
+  },
+  {
+   "id": "psypost-1lq8l6z",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Early neglect linked to slower teenage brain tuning",
+   "body": "Children who spent their first years in state institutions had brains that settled more slowly after being knocked off balance. The gap was still there at 21. In this study, moving to a good foster home did not clearly fix it. We still don't know how much later care can undo.",
+   "evidence": "single study · n=163 · randomized trial plus a non-randomized comparison group · EEG",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A child in a Romanian state home can have food, a bed and a roof. That child can still miss something a growing brain needs: a steady adult who responds to them. Scientists call this psychosocial deprivation. A new study followed such children into their twenties to see what it does to the teenage brain.\n\nThe teenage years are when the brain fine-tunes itself. One part of this is synaptic pruning. The brain cuts weak links between brain cells and keeps and strengthens the strong ones. It is like trimming a plant so the healthy branches grow. Computer models suggest pruning helps brain activity return to its usual pattern faster after something knocks it off course. Faster settling may mean more efficient thinking.\n\nThe data came from the Bucharest Early Intervention Project, a long-running trial in Romania. Young children in state institutions, all under about two and a half, were split at random. Some went to good foster care. The others stayed in usual care. This analysis had 163 people: 52 from foster care, 51 from usual care, and 60 who never lived in an institution. Each person was tested three times, at around ages 12–13, 16–17 and 21–23.\n\nAt each test, they did a Flanker task. You press a key for the middle arrow and ignore the arrows around it, which sometimes point the other way. It tests focus and self-control. At the same time, EEG (sensors on the scalp that record the brain's electrical activity) measured how fast each small wobble in brain activity faded back to normal.\n\nHere is what the study found. In everyone, the wobbles faded faster with age. That is the normal teenage tune-up. But people who had lived in institutions lagged behind at every age. Their brain activity took longer to settle. Slower settling went with worse task scores. At 12, this link was almost absent. At 16 and 21, it grew stronger. The brain difference explained part of the gap in task scores. The authors call it a \"lasting imprint\" of early deprivation."
+    },
+    {
+     "label": "What we don't know",
+     "style": "note",
+     "text": "We don't know if later care can undo it. On this brain measure, the foster care group looked the same as the usual-care group. On a score that combined speed and accuracy, foster care helped somewhat. But the authors call the recovery modest and limited.\n\nWe also don't know how much of the gap deprivation itself caused. The split between foster care and usual care was random. The never-institutionalized group was not chosen at random. So differences between that group and the others could partly come from other factors."
+    },
+    {
+     "label": "What's contested",
+     "style": "note",
+     "text": "Earlier work on these same children found some recovery after foster care in other brain signals. This study used a different, finer measure and found none. The two results point in different directions.\n\nThe pruning story is an interpretation, not a measurement. EEG cannot see the links between brain cells. The authors say the idea must be tested directly, for example in animal studies that pair brain recordings with a look at the brain's actual structure."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study with a fairly small sample. The comparison group was not randomized. Romanian authorities later moved many children from usual care, so where children lived and what they went through varied after the trial began."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Early care is not only about getting through childhood. Its trace may still show in how the brain tunes itself at 21."
+    }
+   ],
+   "recall": {
+    "q": "What was different about the brains of young people who had lived in institutions, and did foster care fix it?",
+    "a": "Their brain activity took longer to settle back to normal after small wobbles, at every age tested. Slower settling went with worse focus and self-control. On this brain measure, foster care showed no clear benefit. Its help on task scores was only modest."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/12/brain-scans.jpg",
+   "deepLink": "https://www.psypost.org/early-neglect-may-disrupt-how-the-brain-fine-tunes-itself-during-adolescence/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 04 Oct 2026 20:00:27 +0000"
+  },
+  {
+   "id": "daily-phil-yiybgh",
+   "source": "daily-phil",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Gandhi as a philosopher, not a saint: what lasts",
+   "body": "School taught us Gandhi the saint. Gandhi the thinker made a sharper claim. An unarmed people can beat an empire without asking for its pity. They do it by making the cost of ruling them too high, morally and politically.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "One night in 1893, a young Indian lawyer sat on a cold railway platform at Pietermaritzburg in South Africa. He had arrived a week earlier for a year of legal work. Now he had been thrown out of a first-class compartment because he was not white. He later called that night the turning point of his life.\n\nThe school version stops at the insult. The philosopher's version asks a different question: what did he build from it? Thirteen years later, in Johannesburg, Gandhi led a crowd in a mass oath. They would resist an insulting registration law without violence. And they would accept the punishment that followed.\n\nThat oath holds his biggest claim. Weak people usually have two choices: fight or beg. Gandhi found a third. You refuse to obey. You refuse to hit back. You take the jail or the beating openly. Now the ruler must keep punishing people who are clearly not dangerous. Ruling them starts to cost too much, morally and politically. He called this method satyagraha, his word for non-violent resistance. The point was never to win the ruler's pity. The point was to make the ruler pay.\n\nThe idea grew from many roots. His home region of Gujarat was shaped by Jainism, a religion whose highest rule is to harm no living being. It was also shaped by devotion to Rama, and by his mother's fasts and vows. As a law student in London, he found two books he kept for life. One was the Bhagavad Gita, where the god Krishna teaches the warrior Arjuna about duty and action. The other was the Sermon on the Mount, which he said \"went straight to my heart.\" So his non-violence did not come from one tradition. It was a mix he tested and chose.\n\nTesting is the key word. It is why \"saint\" is the wrong frame. Gandhi found the title Mahatma, meaning \"great soul\", embarrassing. Others gave it to him. He disliked being called a philosopher and said there was no such thing as Gandhism. Yet his writings fill a hundred volumes. They hold a clear and bold account of truth, non-violence, freedom and the good life. He built it through what he called experiments on himself. A saint hands down answers. Gandhi ran trials on his own diet, habits and politics, and wrote down the results.\n\nThis is also where he is weakest as a thinker. He refused to turn his ideas into a system. That leaves his name open to anyone who wants to borrow it. And experiments run on one man's life do not automatically work for a whole nation.\n\nStill, look at what survived. Martin Luther King borrowed the method. So did the movement against apartheid, the crowds that brought down communism in Eastern Europe, and many smaller fights for dignity. The halo was the part he never wanted. The method, which he did want, outlived him."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Gandhi gave the weak a third choice beyond fighting or begging: refuse to obey, refuse to hit back.",
+      "Accepting punishment openly was part of the method. It moved the burden onto the ruler.",
+      "He treated his ideas as experiments on himself, not holy truths. He rejected both 'Mahatma' and 'Gandhism'.",
+      "His weakness: no system, and one man's tests may not fit a nation. His strength: a method used from the US civil rights movement to Eastern Europe."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "He never asked the empire to be kind; he made it too expensive to be cruel."
+    }
+   ],
+   "recall": {
+    "q": "How did Gandhi's method let unarmed people win against an empire, and why was it not a way of begging?",
+    "a": "Resisters broke unjust laws without violence and openly accepted the punishment. Rulers then had to keep punishing people who were clearly harmless, until ruling them cost too much, morally and politically. The method did not depend on the ruler's pity. It made the ruler pay."
+   },
+   "imageUrl": "https://daily-philosophy.com/philopedia-gandhi/featured-1200px.jpg",
+   "deepLink": "https://daily-philosophy.com/philopedia-gandhi/",
+   "attribution": "Daily Philosophy",
+   "publishedAt": "Fri, 02 Oct 2026 08:00:00 +0800"
+  },
+  {
+   "id": "sd-mind-1gykpfq",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "news",
+   "title": "A molecule from gut bacteria may raise Alzheimer's risk",
+   "body": "Some gut bacteria make a molecule called ImP. In mice, it increased the protein build-up seen in Alzheimer's. In people, those with the most ImP lost memory and thinking skills much faster. This is early research.",
+   "evidence": "mouse study + blood samples from almost 1,200 people · links in humans, not proof of cause",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "What did they find? A molecule called imidazole propionate, or ImP. Some gut bacteria make it, and it travels through the blood. Earlier research had already linked it to type 2 diabetes and heart disease.\n\nHow might it raise Alzheimer's risk? In mice, ImP that reached the brain increased two abnormal proteins, beta amyloid and tau. These are the two main signs of Alzheimer's. In people, more ImP in the blood went with more of these protein markers. The highest levels went with faster loss of memory and thinking.\n\nDoes diet change anything yet? Not proven. Bacteria make ImP from histidine, a building block of protein found in many foods. Your body needs it. So simply cutting eggs or red meat is not the answer. The open question is whether a drug that lowers ImP could slow Alzheimer's, the way statins lower cholesterol to protect the heart."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Almost 1,200 people gave blood samples and took memory and thinking tests over time",
+      "About 43% carried a gene variant linked to higher ImP. It may make the kidneys slower to clear ImP, and large gene studies had already tied it to Alzheimer's",
+      "About 10 years since this team first found that gut bacteria differ in people with Alzheimer's"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Scientists now have one exact molecule and one gene to test. But in people, this is a link, not proof of cause. So far, the harm to the brain has only been shown in mice."
+    }
+   ],
+   "recall": {
+    "q": "How might ImP from gut bacteria raise Alzheimer's risk, and why can't you just cut it out with diet?",
+    "a": "In mice, ImP increased the beta amyloid and tau build-up seen in Alzheimer's, and people with high ImP declined faster. But bacteria make ImP from histidine, which is in many foods and which the body needs. So researchers hope for a drug that lowers ImP instead."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Sat, 03 Oct 2026 08:13:21 EDT"
+  },
+  {
+   "id": "psypost-1a22p0y",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Is problem porn use addiction or guilt? 111 samples weigh in",
+   "body": "A review of 111 samples found that people who struggle with porn also report more craving, shame, depression and loneliness. But almost every study measured everything only once. So no one yet knows which comes first.",
+   "evidence": "meta-analysis · 111 samples · n=121,728 · mostly cross-sectional · self-report",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A laptop shuts at one in the morning. Its owner makes a promise they have made many times before: that was the last time.\n\nSkeptic: Is this really an addiction? Or is it just guilt dressed up as a disease?\n\nExpert: Start with the name. \"Problematic pornography use\" is not an official medical diagnosis. It is a broad label for problems people report about themselves. They feel they cannot control their use. They think about it all the time. Or it upsets them. How often someone watches matters less than two things: does the habit feel out of control, and does it do real harm?\n\nSkeptic: Fine. What does the evidence say?\n\nExpert: A new review combined 111 samples, 121,728 people in all, from studies published between 2012 and 2025. It was a meta-analysis, which means it pooled the results of many studies. It measured links on a scale where 0 means no link and 1 means a perfect one. The strongest links were with craving (a strong urge to watch) and sexual shame, both at 0.54. Next came depression at 0.32, trouble managing emotions at 0.29, believing porn is morally wrong at 0.27, and loneliness at 0.23. Being outgoing and family background showed almost no link.\n\nSkeptic: Those two biggest numbers. How solid are they?\n\nExpert: Good point. Craving and shame each rest on only four or five studies. The others rest on 12 to 21.\n\nSkeptic: And doesn't shame at 0.54 prove my guilt theory?\n\nExpert: Maybe, in part. The studies used different questionnaires. Some measure loss of control: failed attempts to cut back, or watching despite the harm. Others measure distress: guilt, shame, moral conflict. Loss-of-control tests were more linked to craving and acting on impulse. Distress tests were more linked to shame and moral disapproval. So the test you use may shape the answer. But formal statistical checks found few reliable differences. And for religiousness, the pattern even ran the other way.\n\nSkeptic: Now the real problem. Maybe lonely people turn to porn. Maybe porn makes people lonely. Which is it?\n\nExpert: We cannot say. Almost all the studies measured everything once, at a single moment. Researchers call this a cross-sectional study. It cannot show cause, or which came first. Most studies also relied on people describing themselves. The authors say this may have made some links look stronger than they are. And results varied a lot between studies. For most traits, a future study could find a much weaker link, or none at all.\n\nSkeptic: So, addiction or guilt?\n\nExpert: Perhaps both, in different people. The authors say this problem is not \"a single, homogeneous construct\". In plain words: it is not one single thing. For one person, it may look like lost control. For another, it may be mostly a fight with their own values.\n\nThat leaves the arrow unsolved. Does loneliness pull someone toward the screen, or does the screen deepen the loneliness? Only studies that follow the same people over time can answer that."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Nearly all the data came from online questionnaires that people filled in once, about themselves. That cannot prove cause and effect, and the links may look stronger than they are. The two strongest results, craving and shame, come from only four or five studies each. The two questionnaire types are rough groups. The authors warn they do not prove there are two separate kinds of problem."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Knowing that two things travel together tells you nothing about which one is driving."
+    }
+   ],
+   "recall": {
+    "q": "Problem porn use is linked to shame, depression and loneliness. Why can't this review say whether porn causes them, or they cause it?",
+    "a": "Almost all the studies measured everything only once, so they cannot show which came first. Most also relied on people describing themselves, which may make links look stronger, and results varied a lot between studies. Which way the arrow points is still unknown."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/man-on-laptop-computer-at-night.jpg",
+   "deepLink": "https://www.psypost.org/problematic-pornography-use-is-linked-to-craving-shame-depression-and-loneliness-meta-analysis-finds/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 04 Oct 2026 16:00:55 +0000"
+  },
+  {
+   "id": "five-books-yx0k0c",
+   "source": "five-books",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Five funny sci-fi books, and what makes a story funny",
+   "body": "Novelist Andrew Hunter Murray picks five science fiction books that made him laugh. His theory: comedy does not need jokes. It needs a character who sees the world in a steady but unusual way.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The moon is going to crash into the Earth. Edgar Hopkins, an amateur star-watcher in England, is one of the few people who know. He also raises prize chickens. The chickens worry him more.\n\nThis is The Hopkins Manuscript, written by R.C. Sherriff in 1939. It is the first of five funny science fiction books chosen by the British novelist Andrew Hunter Murray. His only rule for the list was that each book made him laugh. But under the list sits a real theory of why things are funny.\n\nMurray used to think satire (comedy that mocks how the world works) had to contain a joke. Now he thinks it only needs a perspective: a different way of seeing the world. A joke is one way to deliver that surprise. A character is a stronger way. If a character sees the world in a way that is steady and also unlike most people's, he says, comedy follows on its own.\n\nHopkins shows this. He is petty (fussy about small things) and vain, but never cruel. The book even opens with a note from scholars in the far future. They found his story in the ruins of London. They complain that he only thinks about himself, so he tells them nothing useful. The end of the world turns funny because the narrator cares about the wrong things. Murray finds the book warm, not stressful: chicken breeding goes on, whatever happens.\n\nThe other picks work the same way. In Jasper Fforde's The Eyre Affair, Tuesday Next is a detective in a world where reading matters far more than in ours. She jumps between books to rescue Jane Eyre, who has been kidnapped from her own novel.\n\nIn Nick Harkaway's Titanium Noir, a tired private detective works for about two thousand Titans. These are people a drug has made taller, younger and almost impossible to kill. Now one of them is dead. Murray admits it is not really a comedy, but the narrator's voice kept him laughing.\n\nIn Simon Rich's short story \"Sell Out\", a 19th-century factory worker is frozen in a vat of pickles for over a century. He wakes in modern New York. He sells unsafe pickles on the street and fears his thin great-great-grandson is starving. An old way of seeing, dropped into a new world, cannot help being funny.\n\nThe last pick, Douglas Adams's So Long, and Thanks for All the Fish, has little plot and no threat to the universe. Arthur Dent simply falls in love. Murray's point: falling in love is almost a sci-fi experience, because it changes how you see everything.\n\nThe same idea drives Murray's own new novel, Everything Happens So Much. Its heroine, Esme, takes a drug that puts her, for fifteen minutes, inside the mind of another possible version of herself. She does it so often that she never starts her own life. It is his picture of twenty years of social media, full of other people's lives.\n\nFor Murray, the best sci-fi keeps the world strange but human nature the same. That mix lets a book ask a real question: why do so many of us feel stressed and unhappy while living quite good lives?"
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Murray once thought satire needed a joke. Now he thinks a new perspective is enough.",
+      "A character who sees the world in a steady, unusual way makes comedy almost automatic.",
+      "Sci-fi helps because a strange world, with human nature unchanged, shows our own lives from a new angle."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Change the angle you see the world from, keep it steady, and the laughs arrive on their own."
+    }
+   ],
+   "recall": {
+    "q": "What did Murray once think satire needed, and what does he now think comedy really needs?",
+    "a": "He used to think it needed a joke. Now he thinks it only needs a perspective: a character who sees the world in a steady but unusual way, like Hopkins worrying about his chickens while the moon falls."
+   },
+   "imageUrl": "https://fivebooks.com/best-books/funny-sci-fi-books-andrew-hunter-murray/shareimage.jpg",
+   "deepLink": "https://fivebooks.com/best-books/funny-sci-fi-books-andrew-hunter-murray/",
+   "attribution": "Five Books",
+   "publishedAt": "Sun, 04 Oct 2026 16:01:53 +0000"
+  },
+  {
+   "id": "bbc-world-3hf228",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Russia hits Kyiv's river bridges four days in a row",
+   "body": "The bridges are still standing. The real danger is slower: each hit closes a crossing that a city of about three million needs every day.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "On Sunday a Russian drone hit the Pivnichnyi (Northern) Bridge for the second day running. It blew a hole in a traffic lane and hurt two people. The Pivdennyi (Southern) Bridge was hit several times earlier in the week.\n\nThe wide Dnipro River cuts Kyiv in two. Eight bridges join the two halves, and many people cross every weekday. Closures have caused traffic jams at times. Officials plan floating (pontoon) bridges, ferries and even a tunnel under the river.\n\nRussia says the bridges carry Ukrainian troops. It promises harder strikes because President Zelensky said Ukraine would hit more Russian oil refineries. The same day, German Chancellor Friedrich Merz visited Kyiv, and the two countries agreed a new aid package."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "135 Russian drones launched overnight, 52 of them jet-powered. Ukraine says it shot down 125",
+      "Over €1.3 billion ($1.5 billion) in new German aid, for weapons and energy before winter"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Experts say drones are unlikely to bring a bridge down. But each hit forces a closure, and repeated hits slowly weaken the bridge until it can't be used. A city can be split in two without any bridge falling."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Russia has told foreigners, including diplomats, to leave Kyiv. The EU and German ambassadors say they are staying."
+    }
+   ],
+   "recall": {
+    "q": "If Russian drones probably cannot bring down Kyiv's bridges, why are the strikes still a serious threat?",
+    "a": "Each hit forces a closure, and repeated hits can weaken a bridge until it can't be used. Eight bridges join the two halves of a city of about three million, so closures alone can cut the city in two."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9749/live/fb482ba0-c000-11f1-babe-4199b0e7ccea.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Sun, 04 Oct 2026 12:09:04 GMT"
+  },
+  {
+   "id": "bbc-world-j7sr3g",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Tigray rebels leave their capital as Ethiopia's army closes in",
+   "body": "The Tigray People's Liberation Front (TPLF), which has run Ethiopia's northern Tigray region, has left Mekelle, the region's capital, as the national army moved in. The TPLF says the move is temporary and is meant to protect civilians. Two residents told the BBC that pro-government forces now hold the city.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The two sides fought a two-year civil war that ended in 2022. The African Union (AU), a group of African countries, brokered the peace deal, called the Pretoria Agreement. For the last six months, each side has accused the other of breaking it. Last month the TPLF joined other armed groups, including the Fano militia from the Amhara region. Together they want to remove Prime Minister Abiy Ahmed's government. Fighting has now spread across Tigray, Afar and Amhara."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "About 600,000 people died in the 2022-ending war, says the AU's mediator. It pushed Tigray close to famine.",
+      "7 armed groups, the TPLF among them, are now in the alliance against the government."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Observers fear the war could spread across the Horn of Africa, the north-east corner of the continent. Neighbours are already involved. On Friday, Ethiopia cut ties with Eritrea, saying it backs the rebels. Eritrea denies this. Ethiopia also accused Egypt of helping them, and each country sent home one of the other's diplomats. The UN says the fighting is badly disrupting aid work."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Leaders from some of Ethiopia's neighbours are meeting in Egypt to discuss the conflict. The US has asked all sides to hold back and talk. The UN wants safe, open access for aid."
+    }
+   ],
+   "recall": {
+    "q": "Why does the TPLF leaving Mekelle matter beyond Tigray?",
+    "a": "It shows the 2022 Pretoria peace deal has collapsed. The TPLF is now in a seven-group alliance trying to remove Abiy Ahmed's government. Neighbours are being pulled in: Ethiopia cut ties with Eritrea and expelled an Egyptian diplomat. So the war could spread across the Horn of Africa."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965b/live/ca8ca230-bfeb-11f1-8c3e-3b2eab095459.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Sun, 04 Oct 2026 13:33:05 GMT"
+  },
+  {
+   "id": "mint-economy-112dum",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Ex-French central banker: cheap money era may be over",
+   "body": "For almost 30 years, money was cheap to borrow. Jean-Pierre Landau, a former deputy governor of France's central bank, says that era may be ending. His reason is not central bank decisions. It is three deep forces that push rates up no matter what central banks do.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Jean-Pierre Landau is a former deputy governor of the Banque de France. Speaking to Mint in New Delhi, he warned that real interest rates (the rate left after you subtract inflation) may stay high for years. He says the low rates of the last three decades came from deep forces in the economy, not from central banks. Now those forces are turning.\n\nHe names three. First, saving will fall: populations that once saved a lot are ageing, in emerging economies and especially China. Second, the need for money is rising. AI and new digital technology cost huge sums to build, and Africa will need large funds to create jobs as its population likely doubles in 20 years. Third, most countries, rich ones too, carry heavy government debt.\n\nLess saving, more demand for money and more debt all push rates up. In his words, this happens independently of monetary policy."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "US 10-year government bond yield (what the government pays to borrow for 10 years): 5.27%, up 0.49 percentage points in one month, the highest since 2002",
+      "Same month: France up 0.67 points, Italy 0.46, UK 0.25, India about 0.25",
+      "September 2026: the US Federal Reserve raised rates by 0.25 points, its first hike in three years",
+      "The European Central Bank raised rates twice in 2026, in June and September"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Higher borrowing costs force governments and investors to be choosier, and Landau says good economic management will be rewarded. For India, he says emerging economies now handle shocks much better than 15 years ago. His main worry is that countries cooperate much less than they did five years ago. His advice: cut government deficits, manage foreign reserves well, and keep policy predictable, because steady policy lowers the extra rate lenders demand for risk."
+    }
+   ],
+   "recall": {
+    "q": "What three forces does Landau say will keep real interest rates high, even if central banks do nothing?",
+    "a": "Saving is falling as populations like China's age. Demand for money is rising for AI, digital technology and jobs for Africa's growing population. And most countries carry heavy public debt. Together, these push borrowing costs up whatever central banks decide."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/Jean-Pierre_Landau_1791116009636_0bVu_1791116019349_dkrR_938a6b1b-cc12-4762-9596-2f03fef0825d_TsNa.jpeg",
+   "deepLink": "https://www.livemint.com/economy/era-of-easy-money-is-ending-world-is-in-for-a-structurally-high-rate-regime-french-economist-landau-11791100860203.html",
+   "attribution": "Mint",
+   "publishedAt": "Sun, 04 Oct 2026 17:46:39 +0530"
+  },
+  {
+   "id": "hackernews-v87q9j",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Researchers track where 21 connected cars send data",
+   "body": "Over 75% of new cars sold worldwide have built-in internet. Researchers at Northeastern University and Consumer Reports tested 21 recent US-market cars and 30 car apps from October 2024 to August 2025. They wanted to see where the data goes.",
+   "evidence": "21 US-market vehicles · 30 companion apps · tested Oct 2024–Aug 2025",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A connected car has Wi-Fi, a mobile network link and GPS. The car and its phone app both send data to the carmaker and to other companies. This includes private details about the owner.\n\nThe team sent one car's Wi-Fi traffic through a small Raspberry Pi computer. They could see where the data went. They could not see what it said, because it was encrypted (scrambled). They also put 11 electric cars in a Faraday tent, a metal-lined tent that blocks phone signals. This tested whether a cut-off car sends the same data over Wi-Fi instead."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Over $1.2 million: the cost to buy all the test cars",
+      "About 93 dB: how much the tent cut signals, enough to fully block the cars' mobile link"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Once data reaches a company's servers, the owner has no control over it. It is often shared or sold to companies that are never named. The researchers told the carmakers what they found and recorded their replies. Their main point is that outside checks like this must continue."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The researchers call this a snapshot. It did not cover every carmaker. The results may not hold for other cars or for cars outside the US."
+    }
+   ],
+   "recall": {
+    "q": "What happens to a connected car's data once it reaches a company's servers, and what could the researchers not see?",
+    "a": "The owner loses control of it, and it is often shared or sold to companies that are never named. The researchers could see where the data went but not what it said, because it was encrypted."
+   },
+   "deepLink": "https://automatictransmission.khoury.northeastern.edu/",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-10-04T15:43:14Z"
+  },
+  {
+   "id": "psypost-1ejwcty",
+   "source": "psypost",
+   "topic": "world",
+   "kind": "news",
+   "title": "Who spread false claims in the 2024 US election, and how",
+   "body": "In the 2024 US election, spreading false claims was an open tactic, not a secret one. In more than 90% of cases, it was easy to see who made the claim.",
+   "evidence": "single study · 374 false messages · from one fact-checker (PolitiFact) · one election",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two researchers in Spain studied 374 false messages. PolitiFact, a US fact-checking group, checked all of them between January 2024 and the January 2025 inauguration.\n\nAnonymous online users made nearly 40% of the false messages. Candidates made about 16%, and celebrities and influencers made about 16% too.\n\nThe two groups lied in different ways. Politicians mostly twisted real numbers about the economy, immigration and crime. They did this at rallies, on TV and in press releases. Anonymous users and influencers stayed on social media. They used \"false context\": a real photo, video or quote with a made-up story around it. These stories were often about voting, polls or politicians' private lives.\n\nThe study covers only what one fact-checker reviewed, in one country's election."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "73% of the false claims came from the Republican side; 22% came from the Democratic side",
+      "57% targeted Democratic figures; 22% targeted Republicans",
+      "38% of the false claims targeted candidates",
+      "About 20% of Republican-side false claims praised their own side; on the Democratic side, about 7% did"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Not every false claim attacks a rival. The researchers see a growing type they call \"constructive disinformation\": made-up praise that makes your own candidate look better than they really are."
+    }
+   ],
+   "recall": {
+    "q": "How did politicians and anonymous online users spread false claims differently in the 2024 US election?",
+    "a": "Politicians twisted real numbers about the economy, immigration and crime, at rallies, on TV and in press releases. Anonymous users and influencers worked on social media. They put a made-up story around a real photo, video or quote."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/05/fake-news.jpg",
+   "deepLink": "https://www.psypost.org/how-politicians-and-influencers-spread-disinformation-during-the-2024-election/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 04 Oct 2026 18:00:38 +0000"
+  },
+  {
+   "id": "psypost-bnj467",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Family comments on girls' bodies linked to their later sex lives",
+   "body": "Women who heard more comments about their bodies at home tended to see themselves more as objects as young adults. That habit went with more trouble saying no to unwanted sex and asking for what they want. Through that, it was also linked to fewer orgasms.",
+   "evidence": "single study · n=700 (533 for orgasm questions) · self-report · one point in time",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A relative remarks on a girl's body shape. Someone tells her to try harder to look attractive. A family member makes a sexual comment about another woman. Many girls first hear lines like these at home, not from strangers or the media. A new study asks what those lines leave behind years later.\n\nThe study builds on the idea of sexual objectification. This means valuing a person mainly for their looks and sexual appeal, as if they were an object and not a whole human being. Objectification theory says that when women hear this again and again, they start to see themselves the same way. This is called self-objectification. It means watching your own body from the outside, as a viewer would, instead of noticing what you feel or what you can do.\n\nPsychologists Dawn Szymanski and Greta Hacker at the University of Tennessee surveyed 700 college women. They asked how often family members had commented on the women's looks, or on other women's bodies, while they were growing up. They also measured sexual agency. This means being able to tell a partner what you want and to refuse what you don't want.\n\nThe findings form a chain. Women who reported more family comments tended to self-objectify more. This was a moderate link. Self-objectification, in turn, went with more difficulty refusing unwanted sex and saying what they wanted. Family comments were also linked directly to difficulty saying no, separate from self-objectification. These later links were smaller.\n\nFor the 533 women who had been sexually active in the past month, the chain went one step further. Lower agency went with fewer orgasms, less satisfaction with them, and more difficulty reaching one. Together, these factors explained 21% of the differences in orgasm scores between women. That is a real share, but most of the story lies elsewhere.\n\nThere was one surprise. Women who self-objectified more also felt more anxious about how their bodies looked during sex. But once the researchers accounted for whether a woman could speak up and refuse, this anxiety did not predict orgasm. Earlier studies had pointed to body self-consciousness as the key link. The authors suggest that what a woman does during sex, like saying what she needs, may matter more than how she feels about her body.\n\nWhy this matters: there is a known gap. In a 2018 US survey, 65% of heterosexual women said they usually or always orgasm with a partner. The figure was 86% for lesbian women and 95% for heterosexual men. Past research suggests that psychological and social factors explain this gap better than physical ones."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "Everything came from the women's own reports, including memories of family life from years earlier. Those memories may not be accurate. The data were collected at one point in time, so the study cannot show that family comments caused anything. Other factors that were not measured may play a role. Most participants were young, White, heterosexual university students, so the results may not apply to women of other cultures, sexual orientations, or ages. Studies that follow women over many years are needed."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A girl taught to watch her body from the outside may later find it harder to speak from inside it."
+    }
+   ],
+   "recall": {
+    "q": "How did the study link family comments about girls' bodies to orgasm later on, and what did not predict orgasm the way earlier research expected?",
+    "a": "Family comments went with more self-objectification, or seeing yourself from the outside. That went with less ability to refuse unwanted sex and say what you want, which went with fewer orgasms. Anxiety about how the body looked during sex did not predict orgasm once speaking up was accounted for. So what a woman does may matter more than how she feels about her body."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/10/sad-young-woman.jpg",
+   "deepLink": "https://www.psypost.org/new-study-links-sexual-objectification-at-home-to-young-womens-difficulty-saying-no-to-unwanted-sex/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 04 Oct 2026 13:00:18 +0000"
+  },
+  {
+   "id": "rob-henderson-oj8jun",
+   "source": "rob-henderson",
+   "topic": "world",
+   "kind": "essay",
+   "title": "Why kindness vanished under Stalin and Mao",
+   "body": "Nadezhda Mandelstam lived under Stalin. She argued that we are not born kind. Kindness grows only when a society asks for it. The writer Simon Leys saw the same thing in Mao's China, where a warm culture turned cold.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In the Soviet Union, the state once forced farmers to give up their land and join collective farms. A young official named Lev Kopelev helped take land and belongings from peasants. The children screamed. He felt pity, then scolded himself for it. His orders told him to throw out his \"bourgeois humanitarianism\", meaning the soft, middle-class habit of caring. He was to act like a loyal follower of Stalin.\n\nThat moment holds the whole idea. Rob Henderson builds his essay on Leys, a Belgian-Australian expert on Chinese art. Leys saw China just after the Cultural Revolution. In that campaign by Mao, young militants raided the homes of \"class enemies\". People turned in their own family, friends, neighbours and coworkers.\n\nThen: Leys remembered Chinese culture as welcoming and warm. Now: he found it cold, emptied of feeling and distant. He saw scars in people's minds and constant tension in the air. He said Mao had only repeated what the Soviets did first. Both systems made people cynical. Both wore away ordinary kindness and common-sense morality.\n\nMandelstam tells the Soviet side as her own then-and-now. Once there were many kind people. Even unkind people pretended to be good, because that was expected. In the late 1800s, writers attacked this pretending as hypocrisy. The surprise result: kind people disappeared. For her generation, she wrote, kindness was as extinct as the mammoth.\n\nHer explanation is the key. Kindness must be grown, she said, and it grows only when it is in demand. Stalin's system demanded the opposite. It wanted class war, the constant \"unmasking\" of people, and a hidden motive behind every act. So the lesson about strangers was simple. Anyone might be an enemy in disguise. Any kind act might be a trick. The writer Will Storr adds that status went to people who held down their natural sympathy.\n\nChina shows the same pattern in daily life. People dressed as poor and shabby as possible, so neighbours would not envy them and report them. Activists banned goldfish and songbirds, so that energy would go into revolution and hatred of class enemies. Officials built walls between themselves and the people they ruled. In Cambodia, the communist regime abolished religion and family. It called giving up personal ties \"liberation\": time once spent caring for others could now go to work.\n\nA society gets the character it rewards. Reward denouncing, and you get denouncers.\n\nLeys still found hope in small things. He liked to ask people where in China they would most like to live. Most gave the approved answer: wherever they could best serve the people. A few named a town with a nice climate, or the place where their family lived. Leys noticed these people. They still loved a place or a person for reasons of their own."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The two sides differ in more than their economic system. The \"after\" side also had mass terror, purges and seized land, so it is hard to say which part did the damage. The evidence is the word of writers, not measured data. Leys was a foreign visitor who saw China at an unusually dark moment. Mandelstam herself blames part of the loss on something before Stalin: critics who exposed fake kindness. Henderson's piece is an opinion essay that also links these habits to American politics today. That link is his argument, and it is open to debate."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Kindness is not born in us; it grows only where a society asks for it."
+    }
+   ],
+   "recall": {
+    "q": "According to Mandelstam, why did kind people disappear under Stalin, and what does this say about how kindness works?",
+    "a": "Kindness is not inborn. It must be grown, and it grows only when society demands it. Stalin's system rewarded class war, unmasking people and suspicion of hidden motives, so people learned to see strangers as possible enemies, not to be kind."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!U7ly!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd87a599a-2191-408c-b882-8c9be4736e1a_1275x1888.jpeg",
+   "deepLink": "https://www.robkhenderson.com/p/what-communism-does-to-kindness",
+   "attribution": "Rob Henderson",
+   "publishedAt": "Sun, 04 Oct 2026 14:36:16 GMT"
+  }
+ ]
+}
