@@ -1,0 +1,903 @@
+{
+ "date": "2026-10-08",
+ "generatedAt": "2026-10-07T20:45:10.064Z",
+ "cards": [
+  {
+   "id": "letter-2026-10-08",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "What we do with what is wrong",
+   "body": "Today's pieces are about how we deal with what is wrong in people and in whole societies. You will read why forgiving does not have to mean forgetting, how East Germany got money from the West but not respect, and why all of us fall short of our own ideals. If you read only one, read the piece on why most stereotypes are negative. It argues the cause may be simple counting, not cruelty, and that changes how you might see your own quick judgments.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "nautilus-w6oyls",
+   "source": "nautilus",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Forgive and forget? Forgive, but keep the memory",
+   "body": "Most of us have been told to 'forgive and forget.' Memory research says this gets forgiveness wrong. When people truly forgive, the memory stays just as clear. Only the pain attached to it fades.",
+   "evidence": "researcher interview · studies in the US and Colombia · self-report plus body measures",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Someone hurts you badly. A friend, a priest or a grandmother gives you the old line: forgive and forget. It sounds wise. Old hurts can stay with a person for a lifetime. In whole communities, they can feed revenge and endless war. So letting go of the memory looks like the road to peace.\n\nBut this is wrong. Felipe de Brigard is a memory researcher and philosopher at Duke University. He has studied forgiveness for years, and his finding is simple. Forgiving does not mean forgetting. You keep the memory. What changes is how it feels.\n\nHere is how it works. Each time you recall an event, the memory can change. Usually we hear about the bad side of this. A police officer asks a witness a leading question, and a false detail slips into what they remember. But the same openness can also help. De Brigard calls this emotional reappraisal: re-judging the feeling attached to a memory. In one method, people imagine how a bad event could have gone even worse: at least I didn't die. That brings relief, and the relief gets stored with the memory. Next time, it hurts less.\n\nHe argues that forgiveness works the same way. You still recall the event and the person who hurt you, but they no longer set off the same anger. His team separated two kinds of fading. In emotional fading, the feeling gets weaker. In episodic fading, the details blur. Forgiveness caused only the first. The memory stayed as detailed and vivid as before.\n\nThat is why forgetting is the wrong goal. The memory protects you. If you forget a past hurt, the same person, or people like them, can hurt you the same way again. A former student of De Brigard's found a workplace version of this. Picture a boss who keeps asking a worker for extra hours. If the worker forgives every time, the boss just asks for more. Too little forgiveness is also bad. Nobody wants a colleague who explodes over a borrowed mug. The healthy place is in the middle.\n\nThis also shows how forgiving differs from excusing. Forgiving changes how you feel about what someone did. It does not change the record of what they did. And for De Brigard, forgiveness is never a duty. He finds it strange that being wronged should make you owe something good to the person who wronged you. Some acts may be unforgivable. Forgiving an attack on your own dignity may even break a deeper moral rule. Forgiveness starts with wanting to forgive, and the strongest push toward it is an apology. An apology helps more than the wrongdoer's efforts to make up for the harm. If you cannot forgive, there are other ways to ease the pain. One is to imagine how you will feel about it ten years from now.\n\nSo why does the myth survive? We picture a memory as one solid block. Then there seem to be only two choices: keep it and keep the pain, or lose both. But memory is made of separate parts, like places, faces, voices and feelings. Each part fades at its own speed. You may still see a dead loved one's face clearly but struggle to hear their voice. Forgiveness works on just one part: the feeling."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "Montes de María is a mountain region in northern Colombia. Between the 1980s and 2000, thousands of people were murdered there, mostly by right-wing paramilitary forces. Under Colombia's peace process, many fighters who confessed did not go to prison. They now live in the same towns as their victims, and most victims cannot afford to move away. De Brigard's team interviewed people there and in the US. They recorded what people said, plus their facial expressions, heart rate, breathing and skin conductance (small changes in sweat that track emotion). After people forgave, their emotional reaction to the memory dropped on both kinds of measures. A later paper found the drop happened no matter how serious the offence was, or how close the offender had been."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "These findings come from an interview, in the researcher's own words. No sample sizes are given. His team does not yet know which reappraisal methods lead best to forgiveness; that is the next stage of the work. It is also unclear whether forgiving yourself works the same way."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Forgiving changes how a memory feels, not what it says."
+    }
+   ],
+   "recall": {
+    "q": "What does forgiveness change in a painful memory, and what does it leave the same?",
+    "a": "It weakens the feeling, the anger and pain the memory sets off, through emotional reappraisal. It does not blur the details; the memory stays just as vivid. So you do not need to forget, and the memory you keep can protect you from being hurt the same way again."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_790044697.jpg?w=564",
+   "deepLink": "https://nautil.us/why-forgive-and-forget-is-bad-advice-1285629/",
+   "attribution": "Nautilus",
+   "publishedAt": "Wed, 07 Oct 2026 20:00:00 +0000"
+  },
+  {
+   "id": "mint-economy-1qn5j14",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "RBI raises rates for the first time in 3 years to fight rising prices",
+   "body": "The Reserve Bank of India (RBI) raised its main interest rate, the repo rate, to 5.5%. This is the rate banks pay to borrow from the RBI, so loans usually get costlier when it goes up. The main reason is rising prices. Oil costs more because of fighting in West Asia. Governor Sanjay Malhotra also sees \"early signs of inflation becoming generalized\". In plain words, prices are no longer rising for just a few items. The rises are spreading to more of what people buy.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The rise, announced on Wednesday, was 25 basis points (0.25 percentage points). It is the first rise since February 2023 and comes after a series of rate cuts in 2025. The Monetary Policy Committee, the group that sets the rate, voted for it unanimously."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The RBI now expects inflation to average 5.2% this year and to reach 6.0% in October–December. Growth is strong: the economy grew 7.8% in April–June. The RBI raised its growth forecast by 0.4 points to 7.1%. So the RBI is acting on prices while growth holds up."
+    },
+    {
+     "label": "The details",
+     "style": "list",
+     "items": [
+      "Weak monsoon: this year's rains were poor. The Governor called this a risk to farming.",
+      "El Niño: a natural warming of the Pacific Ocean that tends to weaken India's rains.",
+      "Rabi crop: the crops India sows in winter. The Governor said the weak monsoon and El Niño are likely to hurt the coming season.",
+      "Crude prices: new fighting in West Asia has made oil costlier and less stable, which hurt economic confidence around the world."
+     ]
+    },
+    {
+     "label": "What's next",
+     "style": "note",
+     "text": "The RBI changed its stance from 'neutral' to 'calibrated tightening'. This is a hawkish turn. Hawkish means a central bank cares more about controlling prices than about keeping loans cheap. The signal: do not expect a rate cut soon."
+    }
+   ],
+   "recall": {
+    "q": "Why did the RBI raise the repo rate, and what did its new stance signal?",
+    "a": "To fight rising prices. Oil got costlier with new fighting in West Asia, and price rises are spreading across many goods. Its new 'calibrated tightening' stance is a hawkish turn, which signals that a rate cut is unlikely soon."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791361182306_Qw12_1791361186503_ALum_c07ab99e-247a-4d43-8405-5f460ad71eaf_5ELH.jpg",
+   "deepLink": "https://www.livemint.com/economy/rbi-mpc-speech-weak-monsoon-strong-el-nino-rabi-season-global-crude-prices-what-governor-sanjay-malhotra-conveyed-11791349667128.html",
+   "attribution": "Mint",
+   "publishedAt": "Wed, 07 Oct 2026 10:59:42 +0530"
+  },
+  {
+   "id": "marginal-rev-1n47epu",
+   "source": "marginal-rev",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why most stereotypes are negative, and it's not meanness",
+   "body": "Most people behave well most of the time, yet most stereotypes are negative. A new theory says the cause may be simple counting, not cruelty. We label groups by what makes them different. Bad traits are rarer and come in more kinds, so they are better at telling groups apart.",
+   "evidence": "two studies + two existing data sets + computer simulations · sample sizes not given",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Most people, on most days, are kind, honest and helpful. Psychologists call this positivity prevalence. It means good social behavior is simply more common than bad. Yet when people sum up a whole group in a word or two, the word is usually unkind. So why does a world of mostly good behavior give us mostly bad labels?\n\nThe obvious answer is that people are mean. Maybe we want to look down on outsiders. Maybe we believe groups are different deep down, by nature. Maybe our minds just give bad things more weight than good things. This is called a general negativity bias. A new paper by Christian Unkelbach, Anne Irena Weitzel and Hans Alves says we need none of these. Their answer is simpler. It rests on counting.\n\nStart with how the mind labels a group. We do not describe a group by everything that is true of it. We describe it by what sets it apart from other groups. In this view, a stereotype works like a difference detector.\n\nNow add two facts about the social world. Good traits are common: in most groups, most people are polite and fair. Bad traits are rarer, and they also come in many more kinds. The authors call this negativity diversity. There are only a few ways to be good, and a great many ways to be bad.\n\nPut these together. Imagine two groups where nearly everyone is friendly. Friendliness cannot tell them apart, so it never becomes the label. The rare bad traits, though, are spread unevenly. One group may have a few more rude people, and the other a few more careless ones. A difference detector picks up exactly these uneven bits. So the label that sticks is negative, even though most people in both groups behave well.\n\nThis leads to the paper's sharpest point. Using computer simulations, the authors showed that a rare trait can be a strong clue to which group someone belongs to, even when only a minority of that group has it. So a stereotype can be \"diagnostic\", meaning it really helps tell groups apart, while still being wrong about most of the people it describes. Both are true at once.\n\nSome questions stay open. The authors say the theory also explains when positive stereotypes should appear. They also discuss what it means for efforts to reduce negative stereotypes. The paper's summary does not give either answer. And explaining negative stereotypes without meanness does not prove meanness plays no part. The theory shows meanness is not needed. It does not show meanness is absent."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The support comes from two studies, two existing data sets and computer simulations. The summary gives no sample sizes and does not say which groups were studied. This is a theory of how negative stereotypes can arise. It does not measure how much of any real stereotype comes from this counting effect and how much comes from prejudice."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A label can tell two groups apart and still be wrong about almost everyone in them."
+    }
+   ],
+   "recall": {
+    "q": "According to this theory, why do bad traits become the labels for groups when good behavior is more common?",
+    "a": "We label groups by what sets them apart. Good traits are common in every group, so they cannot tell groups apart. Bad traits are rarer and come in many kinds, so they are more likely to differ between groups. That is why they become the label."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/10/why-most-stereotypes-are-negative.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-most-stereotypes-are-negative",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Wed, 07 Oct 2026 07:03:57 +0000"
+  },
+  {
+   "id": "psypost-1v3uggp",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "ADHD and autism: same reward areas, opposite reactions",
+   "body": "When people with ADHD get a reward, two deep brain areas fire more than usual. In autism, the same two areas fire less. A review of 29 brain-scan studies suggests the two conditions share one reward system but push it in opposite directions.",
+   "evidence": "meta-analysis · 29 fMRI studies · 468 ADHD, 424 autism, 1,027 controls",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A coin appears on a screen. You just won money. Or a face smiles and says well done. Inside a brain scanner, this small moment of reward lights up the areas that tell us what is worth wanting.\n\nPeople with ADHD often feel the pull of an instant reward very strongly, so waiting is hard. People with autism often feel less drive for some rewards, especially social ones like praise or a smile. The two conditions often come together. So a team at Southwest University in China asked: do these differences start in the same place in the brain?\n\nThey combined 29 earlier studies. Each used fMRI, a scan that tracks brain activity, while people got money or social rewards. Together the studies covered 468 people with ADHD, 424 with autism and 1,027 with neither.\n\nThe clearest finding: both groups showed unusual activity in two deep areas. One is the amygdala, which notices what matters. The other is the putamen, which helps judge how good a reward feels. But the direction was opposite. In ADHD these areas were overactive. In autism they were underactive.\n\nThe outer brain differed too. In ADHD, the prefrontal cortex, which handles self-control and decisions, was quieter than usual. In autism, areas near the front and middle of the brain, which help us value the things we care about, were more active. Put the ADHD pieces together and you get a loud reward signal with a weak brake. That fits how hard waiting can be.\n\nThe team then used less direct tools. They compared their maps with maps of where brain chemicals act. The overactive ADHD areas sat where receptors, the docking points for dopamine and serotonin, are dense. Dopamine pushes us toward quick rewards. Serotonin helps us hold back. The underactive autism areas were also rich in these receptors. The authors read this as a general dulling of reward. But these are readings of overlapping maps, not measurements taken inside patients.\n\nThe big open question is people who have both conditions. If one condition turns the reward system up and the other turns it down, what happens in a brain with both? This review cannot say.\n\nThe authors name the next steps. Map these brain networks directly in patients. And study money and social rewards separately, because they may use slightly different paths."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one review of 29 studies, a moderate number. It mixed money and social rewards together, because there were too few autism studies to split them. The brain-network analysis used scans of healthy people, not patients. The chemical matches show where things overlap on a map. They do not prove cause."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Two conditions can share the same machine and still turn its dial in opposite directions."
+    }
+   ],
+   "recall": {
+    "q": "What did ADHD and autism have in common in how the brain responds to rewards, and how did they differ?",
+    "a": "In both, two deep brain areas, the amygdala and the putamen, behaved unusually when a reward came. In ADHD these areas were overactive. In autism they were underactive."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2022/03/mri-brain-imaging-scans.jpg",
+   "deepLink": "https://www.psypost.org/brain-scans-reveal-opposite-reward-responses-in-adhd-and-autism/",
+   "attribution": "PsyPost",
+   "publishedAt": "Wed, 07 Oct 2026 18:00:59 +0000"
+  },
+  {
+   "id": "fred-india-zu9kb",
+   "source": "fred-india",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's industrial output: 5.6% higher in January 2023 than a year before",
+   "body": "India's index of industrial production stood at 125.6 in January 2023. That was 5.6% higher than a year earlier, and close to its highest level in two years.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The index of industrial production (IIP) tracks how much India's industry makes each month. It is an index number, not rupees, so what matters is how it moves.\n\nJanuary's 125.6 was up 0.6% from December and up from 119.0 in January 2022. Over two years it rose about 7.6%, from 116.8 in January 2021. The last three readings (125.8, 124.9, 125.6) show output holding near its peak.\n\nOne month alone tells you little. The index jumped about 8% from October to November 2022. It fell almost 13% from April to May 2021. So the same month a year earlier is the fairer comparison. One warning: this is the newest reading in the series, and it is now more than three years old. It cannot tell us about India's industry today."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "text": "January 2023: 125.6\nVs December 2022: +0.6%\nVs January 2021: about +7.6%\nSharpest recent swing: −13% in one month (April to May 2021)"
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "When this index rises steadily over a year, more is being made. That usually means more work and income in industry."
+    }
+   ],
+   "recall": {
+    "q": "Why is comparing January 2023 with January 2022 a better guide than comparing it with December 2022?",
+    "a": "The index can jump or fall 8–13% in a single month, so one month is mostly noise. The same month a year earlier shows the real direction: output was about 5.6% higher."
+   },
+   "imageUrl": "https://fred.stlouisfed.org/graph/fredgraph.png?id=INDPROINDMISMEI",
+   "deepLink": "https://fred.stlouisfed.org/series/INDPROINDMISMEI",
+   "attribution": "FRED · St. Louis Fed",
+   "publishedAt": "2026-10-07T20:16:43.076Z"
+  },
+  {
+   "id": "psyche-ve5vmy",
+   "source": "psyche",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Keep quitting what you study alone? Find one partner",
+   "body": "If you keep dropping the things you try to learn alone, your attention span may not be the problem. Learning alone may be the problem. History shows the same pattern again and again, from Scottish miners' libraries to Tolkien's writing group: people learn best next to other learners, often with no teacher at all.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Your lecture is paused at minute twelve. Your phone is in your hand again. The book you finished last month has already faded, and a quiet voice says the problem is you. I want to gently tell you that the voice is wrong.\n\nThe writer Celine Nguyen heard the same voice. At university she chose classes for job reasons. After graduating, she wanted what she had skipped: literature, history, art and philosophy. The internet gave her reading lists, university course plans and hours of lectures. Still, she drifted to social media and forgot most of what she read. In the end she decided the problem was not her attention span. It was her belief that learning is something you do alone.\n\nHistory agrees with her. The historian Jonathan Rose read memoirs by miners, weavers and housemaids from the 1700s to the 1900s. In 18th-century Scotland, miners put their yearly fees together to buy books for shared libraries. They also met to teach each other. Anyone could speak freely, nobody played teacher, and it cost almost nothing. Francis Place came from this kind of world. He was a tailor, and his only schooling was one spelling book. He later became a strike leader. He also helped run a London library that lent books and held weekly meetings.\n\nThe good news is that nobody in those rooms needed to be an expert. The researchers Jean Lave and Etienne Wenger closely studied five groups: midwives, tailors, quartermasters (who manage military supplies), butchers and recovering alcoholics. Even where beginners had a formal master, the researchers saw \"very little observable teaching\". Beginners learned mostly from each other. Learning, they decided, is something people do together. Knowledge is not simply poured into one head.\n\nSo you do not need a guru. The classicist Daniel Walden, a scholar of old texts, builds on ideas from the Brazilian thinker Paulo Freire. He describes a good teacher as \"a more experienced student\". Walden enjoys teaching old texts outside his own field, because then he explores them alongside his students. In a room like that, people pass on more than facts. They pass on humility and curiosity.\n\nOther learners can also protect you. In 1925, Tolkien showed an epic poem to his mentor, who told him to drop it. Tolkien hid the poem. Later he shared it with C. S. Lewis, a colleague who also loved Nordic poetry. Lewis gave warm praise and detailed notes on specific lines. Their writing group grew to seven people. Out of it came The Lord of the Rings and The Chronicles of Narnia.\n\nNguyen found her own group seven years after university. It was a weekly Zoom class. The poet Zoe Tuck read a difficult French philosophy book with everyone, acting more like an encouraging friend than a boss. Some members had studied philosophy before. Many had not. They worked through it together.\n\nSo here is my challenge. Before you open the next lecture, find one person who wants to learn the same thing. Pick a book together. Set a weekly time. Bring your confusion, not your expertise. Maybe you were never failing at learning. You were just doing it alone."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "text": "Join an online class taught by a writer or scholar, so you have people to read with every week.\nJoin an in-person book club for the hard books you keep giving up on.\nFind one or two friends who will give kind, honest feedback on what you make."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "You can teach yourself almost anything, just not by yourself."
+    }
+   ],
+   "recall": {
+    "q": "What did Nguyen decide was the real reason her self-study kept failing, and what did Lave and Wenger see about how beginners actually learn?",
+    "a": "It was not her attention span. It was her belief that learning is done alone. Lave and Wenger saw very little teaching, even where beginners had masters. Beginners learned mostly from each other, so learning is something people do together."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/181a9d8e-e788-4e97-ae52-a0e7570a869a/sz-final-gettyimages-2285680620.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/ideas/want-to-be-a-lifelong-learner-dont-go-it-alone",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Wed, 07 Oct 2026 10:00:00 GMT"
+  },
+  {
+   "id": "3quarks-dclj87",
+   "source": "3quarks",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Germany gave the East money, but not respect",
+   "body": "After the two Germanys became one, the West sent the East money, welfare benefits and equal rights. Francis Fukuyama argues that the anger behind the AfD came from what money could not send: the feeling of being respected as an equal.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Picture a worker in the former East Germany a few years after the two Germanys became one. Their pension now comes from a rich state. By law, they have the same rights as anyone in the West. On paper, they have everything. But the big parties that say they speak for workers like them are now led mostly by university-educated people from big cities. None of those leaders live a life like theirs.\n\nThe political thinker Francis Fukuyama says this gap explains a lot. In his memoir, he gives one explanation for the rise of populist-nationalist parties. These parties claim to speak for ordinary people against the elites, and they put the nation first. Germany's AfD is one. Donald Trump's MAGA movement in the US is another. Fukuyama's point is that the main failure was not about sharing money and goods. It was about sharing equal respect. People who felt ignored and pushed to the edge answered with anger. He says this is even more true in Germany than elsewhere.\n\nThe AfD is strongest in the former East Germany. Until unification in the early 1990s, that was a separate Communist country, the GDR. After unification, the West worked hard to bring the East into its strong economy. It sent money and welfare benefits east. It also brought the rule of law, which gave former Communist citizens the same rights as everyone else. If money and rights were the whole story, the East should have been satisfied.\n\nFukuyama separates two kinds of equality. Formal equality is written into law and paid for by the state. Germany delivered it. Social equality is about whether people treat you as an equal, and whether people like you are among those who lead. That second kind did not arrive.\n\nThe timing made things worse. In the same years, rich democracies like the US, Britain and Germany were changing, and a new elite was forming. Left parties had always said they served the working class: the Democrats in the US, Labour in Britain, the Social Democrats in Germany. More and more, these parties were run by educated professionals in big, global-minded cities. The parties meant for the worker drifted away from the worker.\n\nFukuyama is careful. He calls respect \"one explanation\", not the only one. He says the problem was less about goods, not that goods played no part. And the short excerpt gives no data that measures respect directly. It is an argument, not a proof.\n\nNow go back to the worker. The pension was real, and so were the rights. What no transfer could deliver was the sense that the people at the top saw them as equals. In Fukuyama's view, the anger grew in that gap."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A law can make people equal on paper. Respect cannot be sent by bank transfer."
+    }
+   ],
+   "recall": {
+    "q": "Why does Fukuyama think money alone does not explain the AfD's support in the former East Germany?",
+    "a": "After unification, the West sent the East money, welfare benefits and equal legal rights, so formal equality was delivered. But social equality, being treated as an equal and seeing people like you among the leaders, never arrived. Even left parties came to be run by educated city professionals. Easterners felt ignored, and that missing respect fed their anger."
+   },
+   "imageUrl": "https://3quarksdaily.com/wp-content/uploads/2026/10/substack-post-media.s3.amazonaws-360x236.png",
+   "deepLink": "https://3quarksdaily.com/3quarksdaily/2026/10/the-afd-emerged-from-a-respect-deficit.html",
+   "attribution": "3 Quarks Daily",
+   "publishedAt": "Wed, 07 Oct 2026 18:45:53 +0000"
+  },
+  {
+   "id": "bbc-world-122jiq",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Canada pauses assisted dying for mental illness alone",
+   "body": "Canada has put on hold its plan to offer assisted dying to people whose only condition is a mental illness. The plan was due to start in March 2027. Now there is no new date.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In Canada, a doctor-assisted death is called Maid, short for medical assistance in dying.\n\nJustice Minister Sean Fraser said the main reason for the pause is that doctors do not agree on who would qualify. Most of all, they do not agree on whether some mental illnesses can truly never get better. Earlier this year, a committee of Parliament also advised against the change. Not all its members agreed, and some wrote their own report.\n\nIn the coming weeks, the government will bring a new law to make the pause official. The same law would let people with an incurable illness that is getting worse agree to Maid in advance, while they can still decide. Federal law does not allow this today. Quebec already does."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "2016: Maid became legal for people with terminal illness, who are still most cases",
+      "2021: Maid opened to people with incurable conditions whose death was not near",
+      "2023: first planned start for mental illness alone, delayed twice",
+      "March 2027: the planned start that is now on hold"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The core question: should suffering from mental illness alone give someone the same right to choose death as suffering from a physical illness? The group Dying with Dignity says yes. Critics say medicine cannot yet reliably tell when a mental illness will never get better. Some experts also worry that Maid could be used in place of better housing and healthcare. Polls show most Canadians support Maid, but support falls when mental illness is the only condition."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "A case in federal court already challenges the earlier delays. One of the people bringing it is Claire Brosseau, who has a form of bipolar disorder that treatment has not helped. Her lawyer expects a long legal fight. Fraser said the Supreme Court may decide the issue in the end."
+    }
+   ],
+   "recall": {
+    "q": "Why did Canada pause assisted dying for people whose only condition is mental illness, and what else will the new law allow?",
+    "a": "Doctors do not agree on who would qualify, especially on whether some mental illnesses can truly never get better. The same law would let people with a worsening incurable illness agree to assisted dying in advance, while they can still decide."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f330/live/0e148220-c285-11f1-bc2e-018d645d8d21.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Wed, 07 Oct 2026 19:30:51 GMT"
+  },
+  {
+   "id": "transmitter-1it5bu9",
+   "source": "transmitter",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Is the mind a feedback loop, like a thermostat?",
+   "body": "Control theory is the engineering of systems that hold a goal while the world pushes them off course. A thermostat is the simplest example. Some researchers think minds may work the same way. The hard question is whether this is real science or just a neat comparison.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The room cools to 19 degrees. Inside the wall, a small switch clicks and the heater starts. At 21 degrees, it clicks off. Nobody calls a thermostat clever. So why would an engineer bring one into a talk about the mind?\n\nThe engineer is Maxim Raginsky, a professor of electrical and computer engineering at the University of Illinois Urbana-Champaign. He trained in machine learning, optimization and control, and he likes philosophy. On the podcast Brain Inspired, host Paul Middlebrooks asked him how a control theorist explains cognition. Cognition means thinking, in the widest sense. To see what this means, picture a skeptic talking to a control theorist.\n\nSkeptic: What does a heater switch have to do with thinking?\n\nControl theorist: Watch what the thermostat does. It measures the room and compares it with a goal. Then it acts to close the gap, and measures again. Engineers call this loop feedback. An older field called cybernetics studied control in both machines and living things. It asked whether living things run loops like this too. Your body holds its temperature against heat and cold. That is a goal held steady while the world keeps pushing.\n\nSkeptic: Here is my problem. This is a metaphor. A person turned the dial and gave the thermostat its goal. Nobody turned a dial inside you. If you call the brain a feedback loop, you may only be giving the mystery a new name.\n\nControl theorist: You have found the real weak point, and I accept part of it. Feedback explains how a system holds a goal. It does not explain where the goal comes from. A thermostat has no stake in anything. A living thing has to keep itself alive, so in some sense it sets its own goals.\n\nThis is where the real conversation goes. Raginsky and Middlebrooks discuss what makes biological brains intelligent, and what artificial intelligence is missing. They also ask what principles lie under biological autonomy. Autonomy here means a living system's ability to run itself, for its own sake. The skeptic's push leads straight here. Every machine built so far, from the thermostat to the chatbot, takes its goals from someone outside it.\n\nSo control theory gives a clear language for how minds might stay on course. It does not yet tell us whose course it is."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A thermostat can hold a goal. Only a living thing seems to have goals of its own. Can we build that, or is that the line between brains and machines?"
+    }
+   ],
+   "recall": {
+    "q": "What is a feedback loop, and what is the skeptic's strongest objection to calling the mind one?",
+    "a": "A feedback loop measures the current state, compares it with a goal, acts to close the gap, and measures again. The skeptic's point: someone outside sets a thermostat's goal, but a living mind seems to set its own. So feedback explains how a goal is held, not where it comes from."
+   },
+   "imageUrl": "https://www.thetransmitter.org/wp-content/uploads/2026/10/cropped-525-Maxim-Raginsky-1.png",
+   "deepLink": "https://www.thetransmitter.org/brain-inspired/how-does-a-control-theorist-explain-cognition/",
+   "attribution": "The Transmitter",
+   "publishedAt": "Wed, 07 Oct 2026 04:10:37 +0000"
+  },
+  {
+   "id": "conv-psych-1cxej1p",
+   "source": "conv-psych",
+   "topic": "tech-ai",
+   "kind": "essay",
+   "title": "Why AI acts more like a brain than a database",
+   "body": "Today's chatbots were not built like filing cabinets. Their key ideas came from psychologists who were trying to understand the human mind. This history explains why AI fills in gaps and makes things up, much like human memory does.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Ask a chatbot a question, and sometimes it gives a smooth, confident answer that is simply false. If you picture the AI as a database, this makes no sense. How can a system look up an answer that does not exist?\n\nTwo cognitive scientists, writing in The Conversation, say that picture is wrong. Many of today's AI ideas came from the study of the mind, not from database engineering. Follow the dates and you see one big shift. Machines went from following rules to learning from examples, as brains do.\n\n1956: The term \"artificial intelligence\" is first used at a workshop at Dartmouth College. People believed that if you wrote down the right rules, a machine would become intelligent.\n\n1958: Psychologist Frank Rosenblatt, who was not at Dartmouth, builds the Perceptron. It learns from examples instead of following rules. It is an artificial neural network: a program loosely shaped like the brain, with many connections. Rosenblatt built on psychologists like Donald Hebb, who studied how connections in the brain get stronger with use.\n\n1980s: Psychologists want to explain how people recognize words and form memories. David Rumelhart, Geoffrey Hinton and Ronald Williams work out how to train networks with many layers. This later becomes known as \"deep learning.\" Layered networks can do harder tasks. They can also apply what they learned to new examples.\n\nThe decades after: Engineers add the muscle. They bring more computing power, graphics chips, and a model design called the transformer. Without these, AI would still struggle to recognize letters and words.\n\nNow: AI holds realistic conversations, but even its builders cannot fully see inside it. Researchers have started to open models up and study what happens inside. This field is called interpretability. The authors compare it to neuroscience. They say it tackles problems cognitive scientists have worked on for decades.\n\nThis history explains the behavior. Modern AI is grown from examples, not written as rules. Grown things are less predictable. Human memory does not look things up either. It rebuilds each memory and fills the gaps with details that seem right. Psychologist Elizabeth Loftus showed that false memories are common and easy to plant.\n\nA lookup system gives the same answer every time. But it can only answer a fixed set of questions. A system that can handle new questions pays a price. It sometimes confabulates: it invents details without trying to lie. It also works on chances, like memory, not fixed steps, like a calculator. So the same question can get different answers. And the way you ask can push the answer.\n\nThe authors add a limit. None of this means AI thinks like people, if it thinks at all. Computer vision can spot tiny problems that human screeners miss. Yet it can misread a road sign that someone has scribbled on."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Many people use ChatGPT like a search engine. Treat its answers as confident guesses instead. Check them as you would check a person's claim, especially before money decisions.",
+      "Ask the same question twice and you may get two answers, like asking a child twice what they want for dinner.",
+      "How you word a question can nudge the AI toward the answer you seem to want."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The same thing that lets AI answer new questions also lets it make things up."
+    }
+   ],
+   "recall": {
+    "q": "Why does a chatbot sometimes say false things with confidence, and how does its history explain this?",
+    "a": "Its key ideas came from cognitive science: neural networks that learn from examples, not databases that look things up. Like human memory, it rebuilds answers and fills gaps with details that seem right. The power to handle new questions comes with the cost of sometimes making things up."
+   },
+   "imageUrl": "https://images.theconversation.com/files/763997/original/file-20261005-50-r00cbm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C250%2C8000%2C4000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/ai-behaves-more-like-a-brain-than-a-database-cognitive-sciences-role-in-its-origin-story-helps-explain-why-287838",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-10-07T12:09:42Z"
+  },
+  {
+   "id": "psypost-1mffrl0",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Believing little matters is linked to openness to political violence",
+   "body": "Across four US groups, people who felt that few things in the world truly matter said they were more willing to use violence for their cause. This is one study and mostly correlation. A 10-day photo exercise was followed by lower violent intent, but no one is sure why it worked.",
+   "evidence": "one paper, 7 studies · US surveys n=1,407 · Kazakh prisoners n=125 · mostly self-reported intentions · correlational exc",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Take three photos of things that matter to you. Pick the best one. Write a few lines about why it matters. Do it again tomorrow, for ten days.\n\nThat was the whole exercise. Psychologist Daniel Snook and his team gave it to Republicans who supported the January 6, 2021, attack on the US Capitol. The idea behind it was simple: if you think few things in the world matter, harming people for the one cause you care about may seem to cost less.\n\nWhat we know. The team measured \"primal world beliefs\". These are deep, mostly unconscious guesses about what reality is like, such as whether the world is safe or dangerous. They surveyed Democrats, Republicans, environmental activists and Black Lives Matter activists. Out of 22 beliefs, one best predicted willingness to use violence for a cause: the Meaningful world belief. This is not about whether your own life feels meaningful. It is the simple sense that most things, and most people, matter. People who scored low on it were more open to violence. The link was modest among BLM activists and strong among Republicans.\n\nThe pattern also showed up in a prison in Kazakhstan. Men convicted of jihadist terrorism scored lower on this belief than men convicted of ordinary violent crimes. Snook was surprised. He had expected beliefs like \"the world is dangerous\" to matter more.\n\nWhat we don't know. We don't know if low meaning causes violence. Most of this is correlation: two things showing up together. And nearly everyone reported intentions, not actions.\n\nWhat's contested: the exercise. People who finished it reported less violent intent than a control group (people who did not do the task). A month later, their violent intent was still lower, but their meaning scores had slipped back. In a second test with ordinary Americans, violent intent fell slightly, yet the meaning belief did not rise at all. So how did the exercise work? The authors think it may only have made meaningful things easier to notice, without changing the belief underneath.\n\nHow we'd find out: compare the photo exercise against a real alternative task, run it inside extremist groups, and track behaviour, not just survey answers."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Prison study: 64 convicted terrorists scored 4.10 on the meaning belief; 61 other violent offenders scored 4.73 (1-to-6 scale).",
+      "Capitol-riot supporters: 395 were assigned the exercise, 179 started, and only 71 finished all 10 days.",
+      "Violent intent after the exercise: 1.74, against 2.26 in the control group (1-to-7 scale)."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "In the January 6 experiment, the control group did no task and was surveyed only once, so there is no starting point to compare against. In the general-public experiment, most people began at the lowest possible violence score. The analysis planned in advance found only a small difference. The clearer result came from an extra analysis of 87 people. The two prison groups may also differ in other ways, such as education or time served. And participants may have guessed the study's aim: the exercise asked what matters, and the survey asked how much things matter."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A cause may seem worth any cost when nothing else in the world seems to count."
+    }
+   ],
+   "recall": {
+    "q": "Which belief best predicted openness to political violence, and why can't this research say it causes violence?",
+    "a": "The Meaningful world belief: the sense that most things and people matter. Those who scored low were more open to violence. But most of the data is correlation and self-reported intentions, not actions. And when the photo exercise lowered violent intent, the belief itself did not always change, so the cause is still unclear."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/angry-man-dark.jpg",
+   "deepLink": "https://www.psypost.org/people-who-think-the-world-lacks-meaning-are-more-prone-to-political-violence/",
+   "attribution": "PsyPost",
+   "publishedAt": "Wed, 07 Oct 2026 12:00:32 +0000"
+  },
+  {
+   "id": "the-point-1cvoium",
+   "source": "the-point",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Why willpower fails, and what Simone Weil offered instead",
+   "body": "The writer Meghan O'Gieblyn stayed sober for eleven years, then started drinking again. Her new memoir puts on trial an idea most of us live by: that we fix our faults with willpower. Her verdict, taken from the thinker Simone Weil, is that willpower usually comes too late. Attention matters more.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "For eleven years, O'Gieblyn told her story at recovery meetings in church basements. It had the usual shape: I was lost, and now I'm found. Then, after more than a decade sober, she relapsed. Her new memoir, Will and Attention, is her try at understanding what went wrong. At its centre is an old idea she no longer trusts.\n\nThe idea is willpower. We picture the will as free and alone, able to choose anything at any moment. So when we fail, the answer seems simple: we did not push hard enough. O'Gieblyn grew up in a Christian tradition that saw life as will against grace (help that comes from outside you). She had always seen her own failures, with drink and with faith, as failures of will.\n\nWhat broke the idea for her was one line in the notebooks of Simone Weil, a French writer who turned to Christianity late in her short life: \"We have to try to cure our faults by attention and not by will.\" It matched what O'Gieblyn had seen. With drink, and with almost every inner fault she fought, the harder she tried, the more she failed. William James, an early giant of psychology, said something similar: sometimes relaxing, or giving in, works when effort does not.\n\nThe philosopher Iris Murdoch, reading Weil, explained why. By the moment of temptation, the fight is mostly over. You have already become the person who will make that choice. Recovery groups say the same: the drink is the last step in a relapse. Everything before it happens in the mind, in small fantasies and quiet doubts about things you know are true.\n\nWeil's attention is not the sharp focus that productivity advice sells. It is closer to waiting. In French, the word for attention is related to the word for waiting. Weil described it as staying patiently at the door of truth. Early Church writers used the Greek word nepsis, which literally means \"I do not drink wine\": attention as sobriety, as staying awake. Murdoch called it daily work. You train your mind to see more of reality, not clouded by self-interest, so that acting well is possible when the moment comes.\n\nThe verdict is not a clean burial. Willpower is demoted, not dead: O'Gieblyn says it is often useless in the moment, not always. And attention is no magic cure. Weil wrote that the will was useless, yet by all accounts she was a fiercely strong-willed person who never beat her own demons. O'Gieblyn admits she found no final answers. She even gives up the dream of being fixed for good. What she keeps is the struggle itself: noticing, slipping, coming back, and learning the same lesson again."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "You know you should not eat the brownie or stay up late, and you do it anyway. O'Gieblyn's reading: some part of you does not yet believe it is good.",
+      "The bad choice at night often starts in the afternoon, in a small fantasy you let run.",
+      "Trying harder in the moment can mean getting in your own way. Watching your thoughts earlier may help more."
+     ]
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "O'Gieblyn does not throw out commitment. She still wants to act on what she believes when things get hard. She simply suspects that what looked like weak willpower was often weak attention: problems she half-noticed for years and never fully faced."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "By the time temptation arrives, the choice is mostly made. The real work happens earlier, in what you let yourself notice."
+    }
+   ],
+   "recall": {
+    "q": "According to Weil and Murdoch, as O'Gieblyn reads them, why does willpower often fail, and what kind of attention do they offer instead?",
+    "a": "By the moment of temptation, you have already become the person who will choose, so effort then comes too late. Their answer is attention as patient watching and waiting, not tense focus: the daily work of seeing your own mind and the world clearly, before the choice arrives."
+   },
+   "imageUrl": "https://thepointmag.com/wp-content/uploads/2026/10/7664448218_646741331e_o-scaled.jpg",
+   "deepLink": "https://thepointmag.com/dialogue/rejecting-enlightenment/",
+   "attribution": "The Point",
+   "publishedAt": "Tue, 06 Oct 2026 13:00:56 +0000"
+  },
+  {
+   "id": "noahpinion-b9q1uu",
+   "source": "noahpinion",
+   "topic": "world",
+   "kind": "news",
+   "title": "Are Indian Americans failing to fit in? What the data shows",
+   "body": "Some on the American Right say Indian immigrants and their children are not becoming American. The writer Noah, who runs the Noahpinion newsletter, says the data mostly shows the opposite.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two right-wing podcasters, Chris Rufo and Jonathan Keeperman, recently ran an episode called \"The Indian Question.\" The title echoes \"the Jewish Question,\" a phrase later tied to the Nazis. Their worry is that new groups like Indians are not assimilating, meaning they are not blending into American life the way earlier groups did. One survey seems to back them. In 2024, more US-born Indian Americans said they felt more Indian than American than in 2020.\n\nNoah says to look at what people actually do: speak English, marry outside their group, earn more, move out of ethnic neighborhoods. On all of these, today's immigrants fit in as fast as Europeans did a century ago, or faster.\n\nHe sees the 2024 shift as a reaction. That was the year anti-Indian talk spread on the online Right. In his view, ethnic identity is defensive. People pushed out of the big group turn to a smaller one for support.\n\nThe framing lasts because many on the Right believe pressure makes immigrants fit in. His evidence says pressure does the opposite."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "The 2024 dip: the Indian American Attitudes Survey has only two snapshots, 2020 and 2024. Noah says the change could partly be survey noise.",
+      "Third generation: in Pew surveys, third-generation Asian Americans are much more likely than immigrants to call themselves just American. Among Hispanics the pattern is even stronger.",
+      "World War One: campaigns forced German Americans to change their names and stop speaking German. Some changed their names, but the group then married outsiders less and volunteered less in World War Two.",
+      "Hispanics today: hostile talk and felt discrimination make Hispanics identify more with their ethnic group, not less."
+     ]
+    }
+   ],
+   "recall": {
+    "q": "What belief does Noah reject, and why does he think anti-Indian pressure makes things worse?",
+    "a": "He rejects the claim that Indian immigrants are not becoming American. By what they do, such as speaking English, marrying outside the group, earning more and moving out of ethnic neighborhoods, they fit in as fast as earlier groups did or faster. He says ethnic identity is defensive. When people feel attacked by the larger nation, they lean on their own group, as German Americans did after World War One and Hispanics do today."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!YwSf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90c5c48a-fd0f-4355-ad67-5d4fdcbecaec_704x868.jpeg",
+   "deepLink": "https://www.noahpinion.blog/p/there-is-no-indian-question",
+   "attribution": "Noahpinion",
+   "publishedAt": "Wed, 07 Oct 2026 09:47:37 GMT"
+  },
+  {
+   "id": "psypost-1cyy05s",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Scientists read the shape of a tune you only imagine",
+   "body": "Ten hospital patients heard part of a children's song. Then they kept it going silently in their heads while electrodes on their brains recorded them. A computer often got single notes wrong. But strung together, its guesses traced the tune's rises and falls. The trick: it looked for the steps between notes, not the exact notes.",
+   "evidence": "single study · n=10 · epilepsy patients with implanted electrodes · familiar songs only",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Ten patients in a Seoul hospital heard two bars of a children's song, such as \"Yankee Doodle\". Then the music stopped. Each person kept the tune going silently in their head for two more bars. Could a computer that sees only their brain activity tell what they were hearing inside?\n\nThis is hard. Earlier attempts mostly detected only that someone was thinking about music, or picked up a basic beat. The obvious method is to look for each exact note, meaning its precise sound frequency. But that is not how we hold songs. You know \"Twinkle, Twinkle\" on a flute or on a tuba. What you recognize is the distance between notes, called relative pitch. Most brains store tunes this way.\n\nSo a team at Seoul National University, led by Jii Kwon and Chun Kee Chung, asked a different question. Not \"which exact note?\" but \"which step of the scale?\": Do, Re, Mi, Fa, Sol or La. To test this, they played the songs in three different keys, so the same step fell on different exact notes.\n\nThe patients had epilepsy that medicine could not control. For medical tests, they already had electrodes on the surface of the brain. These pick up very fast brain waves, called high-gamma (60 to 150 cycles a second), which a cap on the scalp often misses. The team cut each silent stretch into half-second pieces, one per note. Then they trained a program to sort each piece into one of the six scale steps. Afterwards, the patients hummed the tune aloud to show they had really followed it.\n\nOn recordings it had never seen, the program named the right step about 26 percent of the time. Random guessing gets about 16 percent. When it tried to guess exact frequencies, it did no better than chance. That fits the idea that the brain holds an imagined tune as relationships between notes.\n\nSingle notes were often wrong. But in a row, the guesses traced the song's contour: its overall up-and-down shape. The useful signals came from the hearing areas on both sides of the brain. They also came from a left-side area linked to planning movement. That hints that imagining a tune may include quietly rehearsing how to sing it."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one small study of 10 people, all with epilepsy. Accuracy for single notes was modest. A note-for-note copy of the tune is not possible yet. Only very familiar children's songs were used, and well-learned tunes probably give steadier brain signals. Nobody knows yet if a new or made-up melody could be decoded. And the method needs electrodes placed on the brain by surgery, so it cannot become a wearable device."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Your brain seems to store a song not as exact notes, but as steps: up, up, down."
+    }
+   ],
+   "recall": {
+    "q": "Why did the researchers decode scale steps like Do and Re instead of exact notes, and what did the results show?",
+    "a": "Most brains store tunes as relative pitch, the distance between notes. Scale-step guesses beat chance (about 26% against 16%). Exact-note guesses did no better than chance. Put in a row, the scale-step guesses traced the imagined song's up-and-down shape."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/musical-notes.jpg",
+   "deepLink": "https://www.psypost.org/scientists-decode-imagined-melodies-from-human-brain-waves/",
+   "attribution": "PsyPost",
+   "publishedAt": "Wed, 07 Oct 2026 11:00:31 +0000"
+  },
+  {
+   "id": "acx-154k58c",
+   "source": "acx",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Scott Alexander answers Pinker on AI risk",
+   "body": "Steven Pinker, the famous psychology writer, gave four reasons why AI is not very dangerous. Scott Alexander answers each one. This is not a call to ban AI. It is an angry debate with a famous skeptic.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In one sentence: all four reasons fail, because AI keeps getting smarter, and nothing we know of stops it at human level.\n\nHis strongest move is against Pinker's first point, that intelligence is not one thing that can keep growing. Alexander shows it acts like one thing. In people, mental skills tend to rise together. Psychologists call this shared factor g. It is the basis of IQ tests. Rats, primates and birds show the same pattern. In AI, one study found that a single factor explains about 80% of the differences in test scores, from grammar to coding. Pinker also predicted in 2019, 2022 and 2023 that AI would stop improving. Each time, the next model did better.\n\nWhere he goes too far: he calls Pinker's writing \"dishonorable\". He admits he wanted a live debate to watch Pinker squirm, not to find the truth. And his claim that Pinker is proven wrong rests on a few incidents that AI companies reported about themselves."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "25-30%: Alexander's own guess at the chance that AI wipes out humanity (his \"p(doom)\")",
+      "10-50%: Geoffrey Hinton's guess. Alexander found no one in the field who says 100%"
+     ]
+    },
+    {
+     "label": "Verdict",
+     "style": "note",
+     "text": "This is the clearest point-by-point map of why AI-risk thinkers reject the skeptics. It all turns on one question: is intelligence one general ability that machines can have more of than we do? If yes, most of Pinker's comfort goes away. Read it for the argument, and expect the anger."
+    }
+   ],
+   "recall": {
+    "q": "Pinker says intelligence is not one thing that can keep growing. What is Alexander's main evidence against this?",
+    "a": "Intelligence acts like one general thing. Mental skills rise together in people (the g factor) and in animals. In AI, one study found a single factor explains about 80% of test-score differences. Also, each time Pinker predicted AI would stop improving (2019, 2022, 2023), the next model did better."
+   },
+   "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/00c3f692-512a-457b-898d-23866315bc91_1448x747.png",
+   "deepLink": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
+   "attribution": "Astral Codex Ten",
+   "publishedAt": "Tue, 06 Oct 2026 21:23:06 GMT"
+  },
+  {
+   "id": "behavioral-sci-plz0yd",
+   "source": "behavioral-sci",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Nudge the person or change the system? A field divided",
+   "body": "Two founders of behavioral science say their field spent too long nudging individuals and too little time changing the rules people live under. They even warn this may have helped people who oppose real change. Their critics, including the authors of Nudge, call the charge baseless.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "\"Nudging is being framed.\" That was Richard Thaler's reply. It is a joke with two meanings: \"framed\" means put into a frame, and also blamed for something you did not do. Thaler co-wrote Nudge, the book that made behavioral science a tool of government. The people he was answering were not outsiders. They were two of the field's own founders.\n\nIn 2022, psychologist Nick Chater and behavioral economist George Loewenstein published an article in the journal Behavioral and Brain Sciences. That journal prints one main article and then invites other scholars to reply. The two men split their field's work in two. The i-frame tries to change how individuals behave while leaving them free to choose. Its best-known tool is the nudge: a small change in how a choice is set up, which still leaves the person free. The s-frame tries to change the systems people live inside: policies, laws and rules.\n\nHere is their case for the s-frame. In the ten years after behavioral science entered policy, researchers leaned too hard on the i-frame. The two authors include themselves in that. The nudges came up short. Attention moved away from system-level fixes that could make a real difference. Their most serious charge: by telling people to fix themselves, the field may have helped, without meaning to, those who oppose changing the system. Earlier this year they turned the argument into a book, It's on You.\n\nThe other side mostly rejects the fight as described. Cass Sunstein, Thaler's co-author, called the complaint baseless. In real policymaking, he said, behavioral science is already used mostly to reform systems, not individuals. Michael Hallsworth helps lead the Behavioural Insights Team, a group that designs policy for governments. He agreed that practitioners already build system-level solutions. Then he went further. He called the i-frame/s-frame split \"incoherent, unhelpful\". He said it hides promising directions and invites people to dismiss the whole field.\n\nSo the real question is not nudges against laws. Nobody here says only nudges matter. There are two real disputes. The first is about facts: does applied behavioral science spend its effort mostly on individuals or on systems? Counting real projects could settle it. The second is about judgment: does sorting work into \"i\" and \"s\" help people think clearly, or blur the picture? That one is harder to settle.\n\nWhere does the balance honestly sit? So far, both sides have offered claims, not counts. Neither has shown data on what the field really does. Naming a winner now would be false confidence. One thing is clear: all of them believe behavioral science can improve lives. They disagree only about how. On October 14, Chater, Loewenstein and Hallsworth will meet Crystal Hall and Chiara Varazzani at a free online roundtable. Its stated goal is not to settle the debate, but to map where they agree and where they don't."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Everyone agrees on the goal. The real fight is over what the field actually does, and nobody has counted yet."
+    }
+   ],
+   "recall": {
+    "q": "What are the i-frame and the s-frame, and what simple step could settle the factual part of the debate?",
+    "a": "The i-frame changes individual behavior, for example with nudges, while keeping freedom of choice. The s-frame changes the systems around people, such as policies, laws and rules. Chater and Loewenstein say the field leaned too hard on the i-frame; Sunstein and Hallsworth say it already works mostly on systems. Counting what real projects actually target could settle it, but neither side has done so yet."
+   },
+   "imageUrl": "https://behavioralscientistorg.b-cdn.net/wp-content/uploads/2026/10/rt-7-1430x794.png",
+   "deepLink": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+   "attribution": "Behavioral Scientist",
+   "publishedAt": "Tue, 06 Oct 2026 22:08:36 +0000"
+  },
+  {
+   "id": "iai-wil34",
+   "source": "iai",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Does using ChatGPT really weaken your thinking?",
+   "body": "In an MIT study, people who wrote an essay with ChatGPT wrote worse essays than people who used a search engine. Afterward, they also seemed less able to think without the tool. One writer calls this a new kind of brain rot. But we know very little about how the study was done, so that big claim is not proven.",
+   "evidence": "single study · essay task · ChatGPT vs search-engine groups · sample size and measures not reported in source",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Look under the answer box of almost any AI chatbot. A small grey line says something like: AI can make mistakes, please double-check. It appears under ChatGPT, Claude, Gemini and Llama. The writer Minh-Hoang Nguyen thinks most of us have stopped reading it.\n\nWhat did the study find? According to Nguyen, MIT researchers asked people to write an essay. Some used ChatGPT. Others used a search engine. The ChatGPT group wrote worse essays. Afterward, they also seemed less able to think without the tool. Nguyen sums it up like this: AI left people knowing less, but feeling more sure of their own arguments.\n\nHow was 'brain function' measured? The article does not say. It gives no number of participants. It does not describe the tests. It does not say how long the effect lasted. So we cannot judge how big the effect really is.\n\nDoes using ChatGPT make you dumber? Nguyen says yes, and calls it \"brain rot\". This does not just mean knowing fewer facts. It means slowly losing the ability to think. For Nguyen, the trap is trust. We get a smooth answer and skip the checking, even though that is exactly when our thinking should start.\n\nThe piece also quotes a second view on why. A language model is like a huge database that guesses which word is likely to come next. Every new question starts from zero, so you never build a sense of cause and effect. The mind gets nothing to learn from. Both of these are arguments, not measurements.\n\nNguyen's fix is surprising. We must give ourselves \"room to be stupid\". That means being willing to struggle, go slow and get things wrong, instead of handing the hard part to the machine. In Nguyen's view, always reaching for the tool is a kind of cowardice of the mind.\n\nWhat would settle it? We would need to know how thinking was measured, how many people took part, and whether the effect lasts beyond one essay. Until then, the real question stays open: does the tool weaken the mind, or does it just feed a lazy habit we already had?"
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "People have a fair reason to lean on AI anyway. Students, professionals and academics feel pressure to keep up. Their peers who use these tools work faster, and sometimes 'better'. Saying no to the tool can feel like falling behind, not like being brave."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "We only know this study through an opinion essay, not the study itself. One study of one writing task cannot show that AI harms thinking in general. And 'brain rot' is the writer's label, not the study's result."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The answer is where your thinking should start, not where it stops."
+    }
+   ],
+   "recall": {
+    "q": "What did the MIT study reportedly find, and why can't it yet prove that AI weakens thinking?",
+    "a": "People who wrote an essay with ChatGPT wrote worse essays than search-engine users, and afterward seemed less able to think without the tool. But we only know the study through an opinion essay. It gives no number of participants, no description of the tests, and no information on how long the effect lasted. And it covered just one essay task."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/article-template-copy-2.webp",
+   "deepLink": "https://iai.tv/articles/new-study-suggests-brain-function-reduced-by-llm-use-auid-3696",
+   "attribution": "IAI News",
+   "publishedAt": "Wed, 07 Oct 2026 11:45:37 +0000"
+  },
+  {
+   "id": "marginal-rev-1m0kwem",
+   "source": "marginal-rev",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Should democracy have rules, the way markets do?",
+   "body": "Most people agree markets need rules, because buyers and sellers can hurt others. Two philosophers say the same reasons apply to voting. They also show that we already put more rules on democracy than we admit.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Laissez-faire is a French phrase. It means roughly \"let it be.\" Laissez-faire capitalism is a market with almost no government rules. Laissez-faire democracy is the same idea applied to voting: count what people want, and do not shape or filter it.\n\nOnly about 26% of the people living in the UK voted for Brexit. Yet everyone lives with it. That includes those who voted against it, those who stayed home, children, people not yet born, and even foreigners.\n\nThe philosophers Brennan and Freiman start a new paper from that gap. Their target is laissez-faire democracy. Their question is simple. Most people reject a market with no rules, but most people accept a democracy with no rules. Can both views be right?\n\nPosition A says democracy needs rules. The usual reasons for regulating markets work just as well for voting. Take externalities: the costs your choice pushes onto other people. A driver enjoys the trip, but everyone breathes the pollution. One driver matters little; millions of drivers matter a lot. Voting works the same way, only more so. Most things you buy mainly affect you. Harm to others is the exception. But a political choice affects everyone, by its nature. The other market problems fit too. Voters lack information. Elected leaders may not serve the people who chose them. And voters have the same mental biases as shoppers.\n\nTheir sharpest point is that we already regulate democracy. Society decides which questions go to voters, which go to leaders or judges, and which are not allowed at all. It sets the voting age and who may run for office. Public schools exist partly to make better voters. Many people accept limits on campaign donations. Almost everyone rejects buying and selling votes.\n\nSo the authors suggest more rules. They keep one person, one equal vote, with no knowledge test to vote. Their ideas include paying citizens who pass a voluntary civics exam and fining politicians for misleading promises. They would treat political ads more like drug ads. And some decisions would need a supermajority, meaning a bigger share than just over half.\n\nPosition B says leave it alone. The best defence is the one free-market thinkers have always used: rules need rule-makers. Special interests could take control of the rules. The officials who decide which promises are misleading could be biased. Fixes could cause harms nobody planned. A civics exam is only as fair as the person who writes it. And in politics, the people who write the rules are also players in the game.\n\nThe crux is this: would the people regulating democracy choose better than the voters they regulate? If yes, the case for rules is strong. If they would mostly serve themselves, the cure is worse than the disease. That is a question about evidence. The argument alone cannot answer it.\n\nBut the authors point out a trap. Every objection to regulating democracy is the classic argument for free markets. If those objections are strong, markets deserve more freedom too. If they are weak, democracy deserves more rules. And since we already accept many rules on voting, the real debate is not whether to shape democracy, but how much."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Every argument for leaving democracy alone is also an argument for leaving markets alone."
+    }
+   ],
+   "recall": {
+    "q": "Why do Brennan and Freiman say voting has an externality problem, and why is the best reply to them hard to use only for democracy?",
+    "a": "A political choice affects everyone, even people who voted the other way or could not vote. Like pollution, it pushes costs onto others, so it seems to justify rules in the same way. The best reply is that the rule-makers could be captured, biased, or cause unplanned harm. But that is the classic argument for free markets, so you cannot easily use it for democracy and reject it for markets."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=against-laissez-faire-democracy",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Wed, 07 Oct 2026 11:18:34 +0000"
+  },
+  {
+   "id": "paris-review-11c85fi",
+   "source": "paris-review",
+   "topic": "books",
+   "kind": "news",
+   "title": "A famously difficult poet's last poem: 155 strange words",
+   "body": "J.H. Prynne's last poem has no 'I', no 'you', no 'the', and almost no grammar. It reads like a list of rare words picked for their sound. But look up every word, and hidden patterns appear: illness, nature, and a bird that rises from its own ashes.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Who he was: J.H. Prynne (1936–2026) was a British poet and a college librarian in Cambridge.\n\nWhy he is hard: his poems use rare words and broken grammar. They borrow words from science and economics, and they hide references to old Greek, Chinese and English poets. About every ten years, he made them harder.\n\nThe poem: \"Foxglove Alimony\" ends his final chapbook (a small, thin book of poems), Single Tangle Mine. It has no pronouns, no articles, and almost no linking words. Fewer than half its words are in everyday use.\n\nIts strongest move: the words seem chosen for sound, not meaning. A critic called Prynne's late work \"remixes of the dictionary.\" Yet patterns hide underneath. The poem opens with a redstart, a small red bird, and ends with the phoenix, the bird that burns and is born again. Medical words run all through it, maybe because the poet was already ill. Even the foxglove fits: the plant is a poison and also a heart medicine."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Died 22 April 2026 in Cambridge, aged 89",
+      "Over 700 pages of poetry written after about age 80",
+      "Chapbooks printed in runs of just 100 to 250 copies",
+      "Final poem: 35 lines, 5 sentences, 155 words"
+     ]
+    },
+    {
+     "label": "Where it overreaches",
+     "style": "note",
+     "text": "The reviewer, Ryan Ruby, admits a problem. The sound alone is a pleasure, but not enough. Meaning comes only after you look up every word. That is a lot to ask of a reader."
+    },
+    {
+     "label": "Verdict",
+     "style": "note",
+     "text": "Read it aloud first, for the music. Read it for meaning only if you enjoy slow puzzles and keep a dictionary close. Ruby thinks it will take readers many years to catch up with Prynne's mind."
+    }
+   ],
+   "recall": {
+    "q": "Why is \"Foxglove Alimony\" so hard to read, and what appears when you look up every word?",
+    "a": "It drops pronouns, articles and most linking words, so its 155 rare words seem chosen for sound alone. Look them up and patterns appear: nature, illness, and a path from a redstart at the start to the phoenix, a bird reborn from its ashes, at the end."
+   },
+   "imageUrl": "https://www.theparisreview.org/blog/wp-content/uploads/2026/09/tangle.jpg",
+   "deepLink": "https://www.theparisreview.org/blog/2026/10/07/jh-prynnes-last-poem-ryan-ruby/",
+   "attribution": "The Paris Review",
+   "publishedAt": "Wed, 07 Oct 2026 14:00:51 +0000"
+  },
+  {
+   "id": "marginalian-i969z",
+   "source": "marginalian",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "One poem line on why we fall short of our ideals",
+   "body": "At twenty-two, Jon Mooallem was grieving his father. In a pile of poems sent to the magazine where he worked, he found one line that shaped the rest of his life: \"Why are we not better than we are?\" Years later, kneeling beside a badly hurt friend in Alaska, he found part of an answer. Sometimes we are better than we can see from the inside.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A young man lies in an icy creek in Alaska, pinned under a fallen tree. His friend kneels beside him. Help is far away. The friend has no medicine and no tools. So he starts reciting a love poem.\n\nTo see why, go back a few years. The friend is the writer Jon Mooallem. At twenty-two, he sorted the slush pile at a small literary magazine in New York. A slush pile is the heap of poems that strangers send in without being asked. His father had died a year before. He felt lost. Most evenings he walked fifty-eight blocks home, trying to work out what he was doing wrong. Then a poem by Eric Trethewey, \"Frost on the Fields,\" stopped him with one line: \"Why are we not better than we are?\" Take it a piece at a time.\n\n\"Why.\" The line does not ask how to become better. It asks for a reason. A fix can be finished. A reason can be searched for all your life. That is why one line could drive Mooallem's whole career as a writer.\n\n\"Are we.\" It says \"we,\" not \"I.\" A grieving young man, sure something was wrong with him, found a line that shared the failing with everyone. Falling short stops being your private defect. It becomes part of being human.\n\n\"Not better.\" You can only fall short of something you can imagine. So the gap shows more than failure. It shows the ideal is real enough to measure yourself against.\n\n\"Than we are.\" This is the hidden turn. The judge and the person being judged are the same person. So you only ever see your own effort from the inside. The Alaska story shows how much that view can miss.\n\nFor about an hour and a half, Mooallem recited every poem he knew by heart: Elizabeth Bishop, Auden, Frost, a poem about owls by Richard Wilbur. Two college professors had made him memorize them. His trapped friend could answer only with his eyes or a sound. Mooallem felt like a radio DJ in the middle of the night, unsure anyone was listening. To him, it was a moment of complete helplessness.\n\nHis friend survived. Twenty years later, he remembered the poems as a calm moment inside the fear and pain. He told Mooallem: \"You conveyed a calmness.\"\n\nThe Marginalian's Maria Popova draws one answer from this to the old question. Sometimes, mostly in a crisis, we are better than we ever thought we could be in our safe daily lives. And the gap between who we are and who we hope to be may partly be a gap in what we can see. You live inside your own clumsy effort. Other people feel only what it does."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "text": "- When you judge yourself, ask: am I judging how the effort felt, or what it did for someone?\n- Feeling helpless while helping does not mean the help failed. Ask the person later.\n- The ideal you feel you miss shows what you care about. It is not only proof that you failed."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "You only see your effort from the inside, where it feels clumsy. The people you help see something else."
+    }
+   ],
+   "recall": {
+    "q": "Mooallem felt helpless while reciting poems to his trapped friend. What did the friend later tell him, and what does that gap suggest about why we feel we fall short?",
+    "a": "The friend said, \"You conveyed a calmness.\" We judge our effort from the inside, so we can be better than we see, especially in a crisis. The gap between our ideals and our actions may partly be a gap in what we can see."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/08/seriousface_mooallem.jpg?fit=320%2C480&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/07/jon-mooallem-serious-face-poetry/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Wed, 07 Oct 2026 05:18:53 +0000"
+  },
+  {
+   "id": "marginalian-1aq8f15",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Why someone else's collection can make you happy",
+   "body": "A house full of Mickey Mouse figures gave a visitor real joy, even though the visitor did not care about Mickey at all. The reason: a collection holds one person's moments of wonder, and those can reach someone else. Collecting small, specific things is one way of loving the world.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In Maurice Sendak's farmhouse, Mickey Mouse was everywhere. He stood in rows on wide shelves and inside old medicine cabinets, in every version anyone had ever made. The writer of The Marginalian visited. The writer had no strong feeling about Mickey Mouse. Still, the sight brought a huge, surprising delight.\n\nWhy would another person's collection make you happy? The answer starts with what humans are. We are hunter-gatherers who can feel amazement. We look for order in a messy world, so we sort what we find into groups and ranks. Inside that sorting lives something strange: preference. It is odd to feel strongly about a color, an object, or a set of musical chords. But our preferences are how each of us builds a self. Without them, we would all be the same.\n\nPush a preference far enough and it becomes amazement. It is a happy kind of disbelief: this personal, thrilling thing exists, in a universe that does not care about us. A collection is many of these amazements kept in one place. Think of them as stars in one mind's sky. When another person sees them, they can light up that person's mind too, with their beauty, their strangeness, their plain fun.\n\nThat is why Sendak's Mickeys worked on a visitor who did not care about Mickey. The joy was not in the mouse. It was in the care: tender, exact attention to specific things. The writer puts it this way. To love a person is to cherish the small, specific things about them. So to collect specific things is a way of loving the world.\n\nBethan Woollvin's bright book These Are My Rocks: A Story About Collecting celebrates exactly this. Page by page, it moves through collections: rocks, pointy things, broken things, invisible things, even banana jokes. Under the play sits the heart of collecting. Almost no other animal shares this urge, except perhaps the bowerbird. The point is to find things and \"be amazed by what you find.\"\n\nThe writer pairs it with a book about the opposite. Maija Hurme's Odds and Ends is an illustrated love letter to letting things go. Keeping and letting go can both be acts of care.\n\nSo picture those cabinets once more. A row of small plastic mice means little on its own. What filled the room was one person's long, loving attention. You could see it. And it was strong enough to reach a stranger."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "To collect small, specific things is to practise loving the world."
+    }
+   ],
+   "recall": {
+    "q": "Why did Sendak's Mickey Mouse collection delight a visitor who had no strong feeling about Mickey?",
+    "a": "The joy came from Sendak's care, his tender, exact attention to specific things, not from Mickey himself. A collection holds one person's amazements, and these can light up another person's mind. That is why the piece calls collecting a way of loving the world."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/thesearemyrocks.jpg?fit=320%2C376&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/06/these-are-my-rocks/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Tue, 06 Oct 2026 20:32:02 +0000"
+  },
+  {
+   "id": "psypost-57loe8",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Liberals and conservatives follow their party about equally",
+   "body": "In this study, conservatives wanted firm answers more than liberals did. They were also more dogmatic, which means very sure their own beliefs are right. Yet in most of the data, both sides changed their policy views to match their party by about the same amount. A different thinking style did not lead to more party-following.",
+   "evidence": "re-analysis of 2 earlier experiments (n>4,300, 80+ issues) + 2 new experiments (n=1,659 online convenience sample; n=1,3",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Should the minimum wage go up? Should veterans' health care be privatized? Thousands of Americans rated ideas like these on a scale from 1 to 7. For some questions, they first saw one extra line saying where each party stood.\n\nThat line is called a party cue. Psychologists give two reasons it works. First, it saves effort: instead of studying a hard policy, you trust a group that usually shares your interests. Second, loyalty: agreeing with your party shows you belong to it.\n\nAn old debate asks who follows party cues more. The asymmetry view says conservatives think more rigidly. They want firm answers, and they question their first instincts less. If so, they should lean on cues more. The symmetry view says both groups use the same mental tools, just to reach different goals.\n\nAymin Triki, Abigail Cassario and Mark Brandt at Michigan State University tested this across many issues. First they looked again at two earlier experiments, from 2018 and 2020. Together these had more than 4,300 people and more than 80 policies. Democrats and Republicans moved toward their own party, and away from the other, by about the same amount. On single issues, sometimes conservatives moved more and sometimes liberals did, in roughly equal numbers.\n\nIn 2024, the team ran two new experiments on 37 issues. They also measured thinking style. One measure was a reasoning test where the obvious answer is wrong. Others were need for closure, which means disliking uncertainty, and dogmatism. In both experiments, conservatives looked more rigid. They did worse on the reasoning test and scored higher on both questionnaires.\n\nIn the first new experiment, with people recruited online, conservatives did follow cues more. The second sample was matched to the US population by age, gender, race and region. There, the gap disappeared. The authors gave the online sample less weight, because its conservatives reacted unusually strongly compared with every other group they tested.\n\nOne trait did matter. People high in right-wing authoritarianism followed cues more strongly in both new experiments. This trait combines respect for authority, love of tradition and harshness toward rule-breakers. The researchers cannot yet explain why.\n\nThe average effect was small, about 0.3 points on the 7-point scale. On some issues, though, it was more than a full point. Exploratory results also showed that the side with stronger views before the cue tended to shift less. Maybe they were more committed, or had little room left to move."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "text": "The average pull of a party cue was small, about 0.3 points on a 7-point scale, but over a full point on some issues.\nConservatives scored as more rigid thinkers, but in the population-matched sample they did not follow cues more.\nRight-wing authoritarianism was the one trait linked to stronger cue-following in both new experiments.\nWhere a side already held strong views, a cue tended to move it less."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "All four samples were American. The study measured what people said about policies, not how they voted or acted, and the two sides could still differ there. The cues showed real party positions, so they often matched what people already believed. The finding about strong prior views was not planned in advance and needs to be repeated. As Brandt put it, finding one shared process is not an argument that all ideologies are the same."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A rigid thinker and a flexible one can still be pulled by their team with the same force."
+    }
+   ],
+   "recall": {
+    "q": "Conservatives in this study scored as more rigid thinkers. Did that make them follow their party's cues more than liberals?",
+    "a": "Mostly no. In the earlier data and in the population-matched sample, both sides moved toward their party by about the same amount. The online sample was the exception, and the authors gave it less weight. Only high right-wing authoritarianism went with stronger cue-following in both new experiments."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/10/blue-vs-red-political-brains.jpg",
+   "deepLink": "https://www.psypost.org/conservatives-more-rigid-thinking-styles-dont-seem-to-make-them-likelier-than-liberals-to-toe-the-party-line/",
+   "attribution": "PsyPost",
+   "publishedAt": "Wed, 07 Oct 2026 16:00:47 +0000"
+  },
+  {
+   "id": "sd-mind-1kk6cp3",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why cannabis can turn into panic: a brain 'brake' lets go",
+   "body": "In mice, a cannabis-like drug weakened a natural brake on a small group of fear cells deep in the brain. With the brake loose, the mice froze near a predator's smell. When scientists switched those cells off, much of the fear went away.",
+   "evidence": "single study · mice, not humans · synthetic cannabinoid, not THC itself · sample size not stated",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The smell comes from fox urine. A lab mouse has never met a fox, but its brain knows the smell means danger. Some mice sniff around it carefully. Others freeze.\n\nScientists at Northwestern University used this smell to study a familiar human problem: why cannabis sometimes makes people anxious instead of relaxed. Cannabinoids are a family of drugs. It includes THC, the main part of cannabis that changes how you feel. Before the fox smell, some mice got a placebo (a dummy treatment). Others got a lab-made cannabinoid at several different doses.\n\nThe drugged mice acted more afraid. They froze more often and explored the scent less. To find out why, the team put a tiny microscope inside the mice's brains. It let them watch brain cells while the animals reacted.\n\nThe activity pointed to one small group of cells: somatostatin neurons. They sit in the central amygdala, a deep brain area that handles fear and stress. In the drugged mice, these cells became more active.\n\nNext, the team studied brain tissue to learn how. Normally, the brain has a built-in brake that keeps these cells calm. The drug weakened that brake. So the cells fired more, and the anxious behavior followed.\n\nThen came the key test. The team switched these cells off using genetic tools. Now the drugged mice were less likely to avoid the fox smell. So these cells do not just light up during fear. They seem to help cause it.\n\nThe senior author, psychiatrist Sachin Patel, says the drug and the threat did more together than either did alone. A higher dose plus a stressful setting released the brake and drove too much anxiety. He thinks this could explain how a good trip turns bad fast: someone takes too much, or the situation becomes scary.\n\nThis matters. Cannabis use in the US has been rising, and so have emergency room visits for its bad effects. Earlier studies have also linked cannabis use to a higher long-term risk of anxiety.\n\nPatel thinks the finding may reach beyond cannabis. If calming these cells reduces anxiety, they could become a target for treating anxiety in general. For now, that is a hope, not a result."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "text": "The same dose can feel fine at home with friends and frightening in a crowded or tense place. The setting is part of the effect.\n\nMore is not just \"more of the same.\" In this study, a higher dose pushed the brain's fear system harder, especially under threat."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study in mice. It used a lab-made cannabinoid, not THC or cannabis itself. Fox smell is a model of threat, not human stress. The report gives no sample size. And treating anxiety through these cells has not been tested."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Cannabis panic may not come from the drug alone. It may come from the drug loosening a brake just as something frightening arrives."
+    }
+   ],
+   "recall": {
+    "q": "What did the cannabinoid do to the somatostatin neurons, and what showed these cells actually caused the anxious behavior?",
+    "a": "It weakened a natural brake that keeps these fear cells in the central amygdala calm, so they became more active. When scientists switched the cells off, drugged mice were less likely to avoid the fox smell. This suggests the cells help cause the fear."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/marijuana-health-risks-cannabis-mental-function.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/10/261003234021.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Tue, 06 Oct 2026 21:26:07 EDT"
+  },
+  {
+   "id": "semafor-1mkrevp",
+   "source": "semafor",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "The US and China are building AI agents in opposite ways",
+   "body": "US agents start as an assistant and then go out to other companies' websites. China's agents live inside super-apps like WeChat. Both paths are already hitting walls.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "An AI agent is an assistant that does tasks for you, like placing an order. It does more than answer questions.\n\nIn the US, OpenAI's dots and Meta's Muse are built as assistants first. Then they go out and use other companies' websites and services. In China, Tencent's Xiaowei is built into WeChat. WeChat is a super-app: one app people use for chat, payments and much of daily life. Xiaowei can place orders with businesses that are already on WeChat.\n\nXiaowei can only help with what is inside WeChat. Other Chinese platforms have blocked outside agents. In the US, Amazon has already blocked Muse. Both US agents also need users to give them access to private systems."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The Hello China Tech newsletter says Xiaowei may not make money. Tencent earns no new fees when people buy through it, and early tests show it making mistakes. A closed app makes an agent easy to build. But it may limit how useful the agent becomes and how much it earns."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The US agents are already popular. Will more websites block them, as Amazon did? Will Chinese platforms keep shutting out agents from other apps?"
+    }
+   ],
+   "recall": {
+    "q": "How do the US and Chinese approaches to AI agents differ, and what is one limit of each?",
+    "a": "US agents like dots and Muse are assistants that go out and use other companies' websites, but Amazon has already blocked Muse. China's Xiaowei lives inside WeChat, so it can only help with what is on that app."
+   },
+   "imageUrl": "https://img.semafor.com/de6aad929d60c6d368d1fb49cc67d406da36a50b-5500x3667.jpg",
+   "deepLink": "https://www.semafor.com/article/10/07/2026/us-and-china-take-different-approaches-to-ai-agents",
+   "attribution": "Semafor",
+   "publishedAt": "Wed, 07 Oct 2026 18:36:08 +0000"
+  },
+  {
+   "id": "et-economy-186zsqk",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's toll payments fall 5.2%, but toll money still grows",
+   "body": "From April to September, fewer toll payments were made on India's highways than a year earlier. Toll money still went up, but much more slowly than in past years. An Economic Times report links this to the annual toll pass.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Government data covers the first half of this financial year, April to September. A \"transaction\" means one payment at a toll plaza. There were 2.13 billion of them, down from 2.25 billion in the same months last year.\n\nToll revenue, meaning the money collected, rose 6.27%, from Rs 40,433.53 crore to Rs 42,971.82 crore. That is much slower growth than in earlier years."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Toll payments: 2.13 billion, down from 2.25 billion",
+      "Toll money: Rs 42,971.82 crore, up 6.27% from Rs 40,433.53 crore",
+      "Main cause named in the report: the annual toll pass"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Tolls are a major way India pays for its highways. If one policy cuts toll payments and slows toll income, the money for building and fixing roads may grow more slowly too."
+    }
+   ],
+   "recall": {
+    "q": "From April to September, what happened to toll payments and toll money on India's highways, and what does the report link it to?",
+    "a": "Payments fell 5.2% to 2.13 billion. Toll money still rose 6.27% to Rs 42,971.82 crore, but much more slowly than in earlier years. The report links this to the annual toll pass."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-134772945,imgsize-75052.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/infrastructure/annual-pass-takes-a-toll-transactions-dip-5-2-in-h1/articleshow/134772945.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Wed, 07 Oct 2026 23:49:58 +0530"
+  }
+ ]
+}
