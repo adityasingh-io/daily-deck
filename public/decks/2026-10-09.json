@@ -1,0 +1,878 @@
+{
+ "date": "2026-10-09",
+ "generatedAt": "2026-10-08T19:35:42.395Z",
+ "cards": [
+  {
+   "id": "letter-2026-10-09",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "The body behind the mind",
+   "body": "Today's pieces share a quiet thread: the body underneath the mind. You will read about psychosis that turns out to be the immune system, a dementia protein in people whose psychosis began after 40, mice whose sleeping brains replay new skills, and Walt Whitman asking what makes life worth living after a stroke. If you read only one, make it the opener, 'Fire in the brain'.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "mint-economy-84dcyh",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Veg thali cost jumps 10%, faster than non-veg",
+   "body": "Cooking a vegetarian thali at home cost ₹30.8 in September, up 10% from ₹28.1 a year earlier. Onion did most of the damage, but rice, cooking oil and LPG rose too. The non-veg thali still costs more, but its price rose more slowly, by 6%.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A thali is a full plate meal. Crisil Intelligence tracks what it costs to cook one at home each month. The veg plate now costs ₹2.7 more than a year ago. A home that cooks two a day pays about ₹160 more each month.\n\nOnion rose 89%, from ₹28 to ₹53 a kg. Stocks from the winter (rabi) crop ran low, and output fell by an estimated 5-6%. June rain was 40% below normal. That delayed the new monsoon (kharif) crop.\n\nThe non-veg thali costs ₹59.5, but it rose only 6%. Chicken is about half its cost, and chicken rose just 2%. That kept the non-veg plate steady."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Veg thali: up 4% in just one month",
+      "Non-veg thali: up 3% in one month",
+      "Onion: up 34% in one month alone",
+      "In a year: cooking oil up 12%, LPG up 10%, rice up 8%"
+     ]
+    },
+    {
+     "label": "Keep in mind",
+     "style": "note",
+     "text": "This is the cost of cooking one standard plate at home, not what every family spends."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Crisil expects onion to stay high in early October, then get cheaper late in the month as the new crop arrives. The import tax on crude palm oil was cut from 10% to 5%. That should make it about 5% cheaper to bring in. But festival demand may still keep oil about 10% above last year in October. Tomato, potato and toor dal could be next to rise."
+    }
+   ],
+   "recall": {
+    "q": "Why did the veg thali's cost rise faster than the non-veg thali's?",
+    "a": "Onion jumped 89%, and rice, cooking oil and LPG also rose, so the veg plate went up 10%. Chicken is about half the non-veg plate's cost and rose just 2%, so that plate rose only 6%. The non-veg plate still costs more: ₹59.5 against ₹30.8."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/21636_1791469672375_WjBw_1791469675927_lbGR_379506c2-f6da-4054-adc6-20c760a8bdc4_fOxM.jpg",
+   "deepLink": "https://www.livemint.com/economy/homecooked-food-gets-expensive-vegetarians-to-pay-more-than-non-vegetarians-amid-onion-rice-lpg-price-hike-crisil-11791468585537.html",
+   "attribution": "Mint",
+   "publishedAt": "Thu, 08 Oct 2026 19:58:23 +0530"
+  },
+  {
+   "id": "lobsters-hght3a",
+   "source": "lobsters",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why developers who believed in AI are now leaving tech",
+   "body": "Many people leaving software jobs are not AI critics. They used the tools and believed AI is the future of the work. Then they decided they do not want that future.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The video is short. A software developer says they have been laid off. Then they say something strange: they were already thinking about quitting. Now they plan to leave tech for good.\n\nThe writer of the newsletter Out of the Software Crisis kept finding videos like this. The writer says the comments under them tell the real story. People write about burnout, about not being able to work, and sometimes about serious mental health problems. Students are leaving too. Some have dropped user experience (UX) design. In Iceland, the number of new computer science students fell by about a third in one year.\n\nWhat surprised the writer was who these people are. Most of them are not against AI. They used the tools. They believed the promise that this is how software will be made from now on. They are leaving because they believe it. Their message is roughly: I see your point, but \"this isn't fun any more.\"\n\nThe essay names three pressures. The first is more work, and duller work. After layoffs, fewer people do the same amount of work. Many new products are the same AI features, or AI-made copies of old software. Developers enjoy new problems, so the job gets less interesting.\n\nThe second is losing the feeling of making something. A woodworker with a table saw still feels they built the chair. An AI agent feels different. Using one is like handing work to a clueless junior developer. The writer calls it delegation, not automation: you give the work to someone else. So you care less about the result. You also lose flow, the deep focus you feel when working through a hard problem.\n\nThe third is fear. Layoffs come every quarter. The reasons seem random, and little you do improves your odds. If you complain, AI fans call it a \"skill issue\": your own fault.\n\nThe writer blames what bosses gain. Fewer staff means less to pay in stock options. It also means less pushback from workers, who have sometimes stopped companies from doing unethical things.\n\nMeta tried to replace developers with AI. It had to scale back, because the tools could not do the job. But scared, overworked staff still give bosses much of what they wanted: people who cannot ask for more pay or say no. Even quitting helps the company. A person who quits gets no severance pay (the money paid at a layoff) and may not have received all their stock yet. The AI tools only need to half-work for this to continue. So the writer does not expect things to improve even if the AI money bubble bursts.\n\nThe writer expects many identity crises. If being a programmer who builds the future was your whole self, being pushed out hurts twice. The writer offers no fix. The only advice is to see clearly what is happening, and to think about a future outside big tech.\n\nSo, in the writer's reading, the laid-off developer who was quitting anyway did not lack grit. They looked at the job AI is creating and decided it was bad for them."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one writer's essay. It is built on online videos, comment threads and news reports, not a survey. It shows how some people feel, not how many. The writer also corrected one number: the drop in Iceland was 30%, not the 40% first stated."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A power tool still lets you feel you made the chair. Handing the work to an AI can feel like someone else made it."
+    }
+   ],
+   "recall": {
+    "q": "Most developers leaving tech in this essay are not against AI. What three pressures does the writer say push them out?",
+    "a": "First, more work and duller work: fewer people after layoffs, building the same AI features or AI-made copies. Second, losing the feeling of making something: an AI agent is delegation, not automation, so you care less about the result and lose flow. Third, fear of random layoffs that little you do can prevent."
+   },
+   "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.baldurbjarnason.com%2F2026%2F05-software-developers-are-not-okay%2F/opengraph/",
+   "deepLink": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+   "attribution": "via Lobsters",
+   "publishedAt": "2026-10-07T14:35:08.637-05:00"
+  },
+  {
+   "id": "psypost-17a7uhx",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Mice replay new skills in sleep without the hippocampus",
+   "body": "When you sleep, your brain replays new skills so they stick. Scientists long thought the hippocampus, the brain's memory center, ran this replay. A new study in mice suggests the brain's habit system can do it alone.",
+   "evidence": "single study · mice · small sample (exact number not reported) · brain recordings, drug blocking, hippocampus removal",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A mouse pokes its nose into five small holes, always in the same order. If it gets the order right, a drop of water appears. With practice, its movements become automatic. They become a habit, like your fingers typing a password they know well.\n\nFirst, what scientists already knew. Memory is not one thing. The brain stores facts and events one way. It stores skills and habits, like riding a bicycle, another way. This second kind is called procedural memory. During sleep, the brain also replays the day: the same brain cells fire again, in the same order. This replay helps new learning last.\n\nFor decades, a leading theory said one region ran this replay. That region is the hippocampus, a curved structure deep in the brain that is central to remembering events and places. In this theory, it acts like a conductor during sleep. It replays where and when things happened, and it tells the rest of the brain to lock in every kind of memory. But some earlier work hinted that skills might not need it.\n\nA team at University College London tested this. First, they found where the skill lives. They switched off the dorsal striatum, a deep region that helps control movement and handle rewards. Without it, mice could not learn the sequence. Next, they blocked the striatum's ability to rewire itself, but only during sleep after training. The next day, the mice slipped back to earlier levels.\n\nThen they recorded single brain cells. During the task, groups of striatum cells fired in set orders, and each order matched a step. In sleep, the same orders came back. Sometimes they ran at normal speed. Often they ran much faster, squeezed into a fraction of a second. The sleeping brain replayed task sequences more than unrelated ones, like grooming. It also favored the sequences linked to reward. Mice did better the next day when the replay ran forward and used cells that had fired reliably during the day.\n\nThen came the key test. The team destroyed the hippocampus on both sides of the brain in a group of mice. These mice learned the sequence just as fast and as accurately as normal mice. Their striatum still replayed with every feature intact: forward and backward, fast and slow, across several stages of sleep, and still favoring the task.\n\nSo here is the new claim. The skill system can run its own replay, and different memory systems may strengthen themselves separately.\n\nMuch is still unknown. Do humans work the same way? Does everyday learning? The authors note that skills that involve finding your way around a place may still need the hippocampus. Nobody yet knows what starts the striatum's replay. Next, the team plans to study brain chemicals like dopamine."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, in mice. The report calls it small but gives no exact numbers. The task was a simple five-step sequence in one place. It needed no navigation, and navigation is exactly where the hippocampus might still matter. Forward replay and better next-day results went together, but that does not prove the replay caused the improvement. The stronger evidence is that blocking the striatum during sleep made performance worse."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Your habits may work their own night shift, with no conductor needed."
+    }
+   ],
+   "recall": {
+    "q": "Mice with no hippocampus were trained on the five-step sequence. How well did they learn it, and what happened in their striatum during sleep?",
+    "a": "They learned it just as fast and as accurately as normal mice. Their striatum still replayed the task in sleep, with all the usual features. This suggests that replaying a new skill does not need the hippocampus, at least in mice and on a simple task."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/09/hippocampus.jpg",
+   "deepLink": "https://www.psypost.org/brain-replays-motor-skills-during-sleep-without-help-from-the-memory-center/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 08 Oct 2026 13:00:37 +0000"
+  },
+  {
+   "id": "marginalian-1hs72b5",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Whitman after his stroke: what makes life worth living",
+   "body": "A stroke left Walt Whitman half-paralysed. His advice afterwards was simple: want less, value the bad things that did not happen, and treasure plain daylight. From a healthy person, this sounds like a greeting card. From a man who could barely walk, it is a report on something he tested.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The man is sunburnt and heavy, 190 pounds. He tires easily. He is clumsy, and he cannot walk far. This is Walt Whitman on his sixty-third birthday, describing himself in a letter to a German friend. Ten years earlier, a stroke had left him half-paralysed. Large parts of his body could no longer move properly.\n\nThe stroke took more than movement. He had to leave his home in Washington, where he had nursed soldiers in the Civil War. He moved in with his brother in New Jersey. He recovered only in part, and he gave the credit to one thing: being outdoors every day, among trees and under the stars. Later he wrote Specimen Days, a book of notes, letters and journal entries. In it he names what helped most:\n\n\"The trick is, I find, to tone your wants and tastes low down enough, and make much of negatives, and of mere daylight and the skies.\"\n\nTake it piece by piece.\n\n\"The trick is, I find.\" He does not offer a law or a theory. He offers a finding, something he tested in his own body. He calls it a trick, a small practical skill.\n\n\"Tone your wants and tastes low down enough.\" He does not say kill your wants. He says turn them down, like a volume knob. The word \"enough\" matters. You lower them until ordinary days can satisfy them. This echoes the Stoic thinker Seneca, who also taught people to set their hopes at a level where contentment is possible.\n\n\"Make much of negatives.\" This most likely means: value what is missing. A day without pain. A day when nothing went wrong. Whitman says he was comfortable only about two-thirds of the time. For him, a quiet hour was a real gift, worth noticing.\n\n\"Mere daylight and the skies.\" The word \"mere\" is a quiet joke. Daylight is free and everywhere, so we ignore it. Whitman makes it the main thing. Then he asks a question. Suppose you try business, politics, good company and love, and none of them fully satisfies or lasts. What is left? His answer: \"Nature remains.\" The sun by day, the stars by night, the turning seasons.\n\nWhy does this convince more coming from him? Because he paid for it. He lost his home, much of his body and his ease. Yet his letter is not a complaint. He says his spirits are excellent. He goes out almost every day. Sometimes he travels hundreds of miles by train or boat. He still follows people, progress and the news. His mind, he says, is untouched. And he believes his life's main goal is already reached: he has devoted friends and a loving family.\n\nFor a healthy reader, the lesson is that wants are not fixed. Most of us set them high, on the next job or the next purchase, and treat the sky as background. Whitman shows the setting can be changed. You do not need a stroke to change it. The daylight he valued is above you today."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Turn your wants down far enough, and plain daylight becomes a gift."
+    }
+   ],
+   "recall": {
+    "q": "What was Whitman's \"trick\" for living well after his stroke, and why does it carry more weight coming from him?",
+    "a": "Lower your wants until ordinary days can meet them, value the absence of bad things, and treasure plain gifts like daylight and the sky. He wrote this half-paralysed, after losing his home and much of his body, yet he stayed cheerful and active. So it is advice he tested, not a slogan."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/11/whitman_specimendays.jpg?fit=312%2C500&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/07/walt-whitman-specimen-days-meaning-of-life/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Wed, 07 Oct 2026 21:51:47 +0000"
+  },
+  {
+   "id": "semafor-1qjn63c",
+   "source": "semafor",
+   "topic": "world",
+   "kind": "news",
+   "title": "US bans Microsoft, Infosys and six others from hiring foreign workers for good",
+   "body": "On Thursday the Trump administration banned eight tech companies, including Microsoft, Adobe, Cognizant and Infosys, from a key step in hiring foreign workers permanently. Vice President JD Vance says they committed fraud. They claimed to bring in rare talent, he says, but were really replacing American workers with cheaper ones.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The step is called permanent labor certification. A company must go through it to hire a foreign worker for good, not just for a few years. The report did not name the other four companies.\n\nVance leads the administration's fraud task force. He said companies must certify that a foreign hire has special, high-level skills. That claim is false, he said, when the hire simply replaces an American worker at lower pay. He called these workers \"indentured servants\", meaning workers tied to one employer.\n\nMicrosoft said it only files for workers who meet the visa's strict standards. Adobe, Cognizant and Infosys did not reply right away. On the same day, Trump planned to give Microsoft's CEO a medal."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Over $100,000: the fee the administration recently moved to charge for one H-1B visa",
+      "Almost 25%: the foreign share of the US STEM workforce (science, technology, engineering, maths) in 2023, according to the American Immigration Council",
+      "9 universities, including Harvard, Yale, Stanford and MIT, now face a new probe into J-1 exchange-student visas"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "This is the latest round in a long fight between the administration and tech companies over skilled-worker visas. The companies say they need these workers because there are not enough trained people in the US. They have already taken the $100,000 fee to court."
+    },
+    {
+     "label": "Yes, but",
+     "style": "note",
+     "text": "Vance described the fraud in terms of H-1B visas, which are for temporary skilled work. But the ban covers the separate process for permanent hiring. The administration has also stepped back before. In May it had to clarify an earlier announcement that H-1B holders would have to apply for permanent residency from outside the US."
+    }
+   ],
+   "recall": {
+    "q": "What exactly were the eight companies banned from, and what fraud does Vance accuse them of?",
+    "a": "They were banned from permanent labor certification, the step a company uses to hire a foreign worker for good. Vance says they falsely claimed their foreign hires had rare, special skills, when they were really replacing American workers and paying less."
+   },
+   "imageUrl": "https://img.semafor.com/4223104e6a086691a8e55c6ea077df1a0444b15a-5500x3667.jpg",
+   "deepLink": "https://www.semafor.com/article/10/08/2026/trump-administration-blocks-tech-companies-from-visa-program",
+   "attribution": "Semafor",
+   "publishedAt": "Thu, 08 Oct 2026 17:28:28 +0000"
+  },
+  {
+   "id": "psyche-1e8qkha",
+   "source": "psyche",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why four men meet weekly to listen, not give advice",
+   "body": "Every Tuesday, four old friends meet on a video call with one strange rule: listen, ask questions, and give no advice. The group started after a funeral, where grieving men ended up talking about computer games.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Four men join a video call from four cities: Vancouver, London, Brussels and Berlin. They have been friends for about 30 years. Before the first session, the organiser asked everyone to come a few minutes early. Howard had a better idea. Start at 8.02, he said. Then arriving at 8.00 counts as early.\n\nThe jokes hid nerves. When the WhatsApp group was made, one man asked if they were supposed to talk about hunting and power tools. The organiser, the writer Rajeev Balasubramanyam, had set one rule. Each man talks in turn. The others listen and ask questions. Nobody gives advice.\n\nThe group began at a funeral. Two years earlier, a man Balasubramanyam had known since age 14 took his own life at 40. He was the brother of Mark, one of the author's closest friends. His family had not even known he was unhappy. After the service, old university friends sat in a pub, under photos of the dead man's life. First there was silence. An hour and a couple of beers later, they were happily talking about computer games.\n\nThat moment is the problem. Men often keep their pain to themselves, even with close friends. They fill the silence with safe topics. The author saw this everywhere. Mark had just moved to Canada and knew nobody. James had beaten cancer, then lost both parents within six months. Howard's father was dying. Howard and the author often watched cricket together. The author began to wonder if the cricket was a way of not talking. A ritual with clear rules could give them another way to be together.\n\nIn the first session, he went first. He guessed that if he was open, the others would find it easier. His agent had brushed off an honest draft of his memoir, the book about his own life, and his confidence was broken. Nobody solved anything. He \"just felt held,\" he writes. Then James, who thought he had little to say, admitted he was struggling after his parents' deaths.\n\nThey kept going for a year. When Howard's father died, they gave him the whole session. Until then he had only done the \"deadmin\", the paperwork after a death. He had had no time to feel anything.\n\nThe no-advice rule was the hardest part. When Howard said his knees hurt, Mark raised a hand and gave orders: see a doctor first, and more. James added his own. The author stopped them gently. Fixing and giving orders was how they had learned to talk as men. Over time, the friends began to catch themselves mid-sentence, remember the rule, and say something else.\n\nThe author has doubts too. He wondered if the rule made him a bit of a dictator. Some weeks he hid his own pain so he would not be a burden. Slowly he saw that hiding defeated the point. The group existed so they could be messy and scared together. Everyone has problems, he decided, and the problems keep coming.\n\nHe has since lost another friend to suicide, a man he had not heard from in years. He wonders if a group like this might have saved him. He does not claim it fixes problems. He sees it as a safety net. It stops frustration from turning into depression, and worry from turning into despair. This is one man's experience, not a study. But his conclusion is blunt: that net may be the difference between living and dying.\n\nSo every Tuesday, four men still log on. One talks. Three listen. Nobody tries to fix him."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Take turns: one person talks while the others only listen.",
+      "Then ask questions or comment, but do not jump to advice.",
+      "If advice feels needed, give it gently. Don't give orders.",
+      "The organiser goes first, so being open feels safe for everyone else.",
+      "When someone is in crisis, give them the whole session."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Men can be friends for 30 years and still need a rule before they say the hard thing."
+    }
+   ],
+   "recall": {
+    "q": "What problem did the author notice at the funeral, and what rule did his men's group use to deal with it?",
+    "a": "Men keep their pain to themselves and fill the silence with safe topics, like the computer-game talk in the pub. In the group, each man talks in turn while the others listen and ask questions, with no advice. The author sees it as a safety net, not a fix."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/d6e3b6dd-0b25-4923-bd58-bdfa527e0b57/sz-this-gettyimages-1347323895.jpg?top=151&left=0&cropWidth=2896&cropHeight=1629&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/turning-points/tragedy-called-for-a-radical-change-in-my-male-friendships",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Thu, 08 Oct 2026 10:00:00 GMT"
+  },
+  {
+   "id": "psypost-xca3ze",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Psychosis after 40 often comes with a dementia protein",
+   "body": "In a small brain-scan study in Japan, 65% of people whose psychosis began after age 40 had a buildup of tau, a protein linked to dementia. Only 15% of healthy older adults did. Nobody knows yet whether the protein drives the psychosis, or whether the psychosis is an early sign of dementia.",
+   "evidence": "single study · n=37 patients, 47 healthy adults · PET brain scans · one point in time · exploratory",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Most psychosis starts young. Hallucinations (seeing or hearing things that are not there) and delusions (firm false beliefs) usually begin in the teens or twenties. But some people get them for the first time after 40, or even after 60. In these older patients the illness often looks different. The main sign is usually a fear that others want to harm them. Emotional flatness and muddled thinking are less common.\n\nA team in Japan wanted to see what is happening in these brains. They scanned 37 people with late-onset psychosis and 47 healthy older adults. They looked for two proteins. Amyloid-beta forms the plaques that mark Alzheimer's disease. Tau is a normal brain protein, but it can clump into tangles. These tangles appear in Alzheimer's and in several other dementias.\n\nWhat we know. The gap was large. Tau showed up in 65% of patients and 15% of healthy adults. Amyloid showed up in 35% of patients, but in only one healthy person (2%). Every patient with amyloid had become ill after age 60.\n\nThe patients split into three groups of about 12 each. One group had both proteins, a pattern that fits Alzheimer's. One had tau but no amyloid, which may point to other tau-related diseases. One had neither. Overall, patients had more tau in the parietal cortex. This area sits near the top and back of the brain and helps with attention.\n\nWhat we don't know. The big question is direction. Does tau help cause the psychosis? Or is the psychosis an early warning of a dementia that has already begun? A large Swedish study found that people who develop psychosis after 60 are more likely to get dementia later. That fits the second idea. But this study took one snapshot in time. It cannot show who will go on to get dementia.\n\nWhat stays uncertain. The tau-without-amyloid finding is the newest claim. It depends on the scan telling one type of tau from another. No brains were examined after death to confirm which diseases these are. And tau levels did not match how severe the psychiatric symptoms were.\n\nHow we'd find out: follow these patients for years and see whose memory and thinking decline. The authors say only that kind of study can test the early-dementia idea."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This was a small study, and the authors call it exploratory: a first look, not proof. The healthy group was not a close match. Patients were older on average (70 vs 66), more of them were women, and they had less education. Most results held after the researchers adjusted for these differences. The same team made the tau tracer (the substance that makes tau show up on the scan), and two of the authors hold patents on related compounds."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Psychosis that starts late may not be the same illness as psychosis that starts young. In some brains, it may be dementia arriving early."
+    }
+   ],
+   "recall": {
+    "q": "What did the scans find in people with late-onset psychosis, and what big question can this study not answer?",
+    "a": "Tau, a protein linked to dementia, showed up in 65% of patients but only 15% of healthy older adults. The study took one snapshot, so it cannot tell whether tau causes the psychosis or whether the psychosis is an early sign of dementia. Only following patients over years can answer that."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/02/toxic-protein-chains-tau.jpg",
+   "deepLink": "https://www.psypost.org/brain-scans-find-tau-buildup-in-nearly-two-thirds-of-patients-with-late-onset-psychosis/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 08 Oct 2026 18:00:13 +0000"
+  },
+  {
+   "id": "leap-blog-1e230",
+   "source": "leap-blog",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Kerala's low loan ratio is mostly about Gulf savings",
+   "body": "Kerala's banks seem to lend out too little of the money people deposit. But about 30% of those deposits are savings from Keralites working in the Gulf. Count only the deposits of people living in Kerala, and banks lend out more than 100% of them.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "For years, Kerala has carried a label: lots of savings, too few loans. The proof looks simple. The credit-deposit (CD) ratio is the share of deposits that banks lend out. Kerala's is lower than India's. It was 72.9% in March 2026. So the story goes that Kerala's savings flow to other states, while local farmers and firms go without loans.\n\nThe Leap Blog argues this gets the cause wrong. Gulf deposits were earned abroad, not in Kerala, but the ratio counts them anyway. Gulf money also pays directly for houses, school fees and small businesses. So families need fewer loans.\n\nThe myth survives because the ratio was built as a quick check on single bank branches. It treats every deposit the same. It ignores money that banks invest instead of lend. And it misses loans recorded in other places, like a Kerala company that borrows through its Mumbai office."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Kerala's CD ratio rose from 65.5% to 72.9% (2021–2026). India's rose faster, so Kerala's gap grew from 6.2 to 8.0 points by March 2025.",
+      "Loans against residents' deposits only: above 100% since March 2024, and 104.3% in June 2026.",
+      "46.6% of the rise in Kerala's ratio came from the Gulf share of deposits falling (33.9% to 30.6%), not from new lending.",
+      "Private banks, which hold most Gulf deposits, lend 62.7% of deposits. Public-sector banks lend 80.4% (March 2026)."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "In February 2026, the RBI proposed draft rules that would set a minimum CD ratio for regions. The draft counts every deposit the same. The author argues this would make regions that get a lot of money from abroad look worse than they are."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Two questions are still open. Other states have not been checked this way yet, because that needs their Gulf-deposit data. And it is unclear whether private banks lend less in Kerala because bad loans are unusually hard to recover there."
+    }
+   ],
+   "recall": {
+    "q": "Why does Kerala's CD ratio make the state look short of loans, and what changes when you count only residents' deposits?",
+    "a": "About 30% of Kerala's deposits are Gulf savings earned abroad, and they pull the ratio down. Against residents' own deposits, banks lend more than 100% (104.3% in June 2026). Gulf money also pays for things families would otherwise borrow for."
+   },
+   "deepLink": "https://blog.theleapjournal.org/2026/10/deposit-surplus-credit-deficient-non.html",
+   "attribution": "The Leap Blog",
+   "publishedAt": "2026-10-08T15:45:03.836+05:30"
+  },
+  {
+   "id": "nautilus-10bwiye",
+   "source": "nautilus",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Babies use shared spit to tell who is close to whom",
+   "body": "Babies who cannot talk still seem to know which people belong together. A new study suggests one clue they use is saliva. When a puppet that had shared spit with an adult got upset, babies looked to that adult. They looked much less often to an adult who had only passed the puppet a ball.",
+   "evidence": "single study · infants · measured where babies looked · sample size not given in source",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A puppet starts to cry. Two adults stand nearby. The baby watching cannot speak or ask questions. Yet the baby's eyes go to one adult, not the other.\n\nThis is a real puzzle. A baby depends completely on other people for food and care. So it helps to know early who is tied to whom, and who will come when someone is in trouble. But babies cannot learn this through words. Nobody tells them, \"These two are family.\" So how do they know?\n\nOne idea comes from adult life. In many cultures, people who are close are more comfortable sharing saliva. Picture two people licking the same ice cream cone. You would probably guess they are family or partners, not coworkers. Brandon Woo, a psychologist at the University of California, Santa Barbara, wondered if babies make the same guess.\n\nWith colleagues from Harvard and MIT, he tested this with puppet shows. In the first show, an adult put an orange slice in their own mouth, then in a puppet's mouth. That is saliva sharing. A second adult simply passed the same puppet a ball. That is sharing too, but without spit. Then the puppet showed distress. The researchers watched which adult the babies looked at.\n\nThe second show used no food at all. One adult put a finger in their own mouth, then in one puppet's mouth, then back in their own. With a second puppet, the same adult touched their own forehead, the puppet's forehead, then their own again. Then the adult pretended to cry. Which puppet would the babies look to?\n\nIn both shows, babies looked more to the one that had shared spit. The ball and the forehead touch are the key. They show it was not just any sharing or any touching. Saliva was the signal that said \"close\". Animals do something similar: young vervet monkeys look to another youngster's mother when it cries for help.\n\nThe easy explanation is that babies learn this by watching people feed them. An earlier study found the same pattern in babies of 8 to 10 months. By that age, about 90 percent eat solid food, so they have seen plenty of spoon-sharing. This time the babies were younger, 4 to 6 months. At that age, only about half have started solid food. So \"they just learned it at mealtimes\" is harder to believe.\n\nThe researchers suggest this may be part of babies' core knowledge. That means understanding they are born with, like software that comes already installed. Woo points out that babies used the idea even for an unusual action, the finger in the mouth. So their idea of closeness seems general, not tied to one familiar habit.\n\nStill, half of these babies had started solid food, so learning is not ruled out. Babies seem to carry a map of who belongs to whom. Where that map comes from is still unknown."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, and the source does not say how many babies took part. It measured only where babies looked, which is an indirect clue to what they think. The idea that this knowledge is built in is the authors' suggestion, not a proven fact."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Before a baby can say a single word, they may already be mapping who belongs to whom, partly by watching who shares spit."
+    }
+   ],
+   "recall": {
+    "q": "How did the experiments show that babies link saliva sharing to closeness, and why did testing younger babies matter?",
+    "a": "When a puppet showed distress, babies looked more to the one who had shared saliva than to the one who only passed a ball or touched foreheads. Only about half of 4 to 6 month olds eat solid food, so they are less likely to have learned this at mealtimes. That hints the knowledge may be built in, but this is not proven."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2602613433.jpg?w=564",
+   "deepLink": "https://nautil.us/what-babies-learn-from-spit-swapping-1285626/",
+   "attribution": "Nautilus",
+   "publishedAt": "Thu, 08 Oct 2026 14:00:00 +0000"
+  },
+  {
+   "id": "iai-1r2rkrs",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Is faster always better in war? A case for slowing AI",
+   "body": "The French thinker Paul Virilio said power belongs to whoever moves fastest from spotting a target to destroying it. Today the same race drives AI. A former British intelligence officer wants to slow it down, even though wars are usually won by the fastest side.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A target is spotted. Then it is destroyed. Every army in history has tried to shorten the time between those two moments.\n\nFor Paul Virilio, that gap explains power itself. Almost 50 years ago, in his book Speed and Politics, he said money and class struggle do not drive history. Speed does. Power goes to whoever moves fastest from finding a target to hitting it. He called his study of this \"dromology\": the science of speed.\n\nSkeptic: Then isn't faster always better? The side that decides quicker wins.\n\nExpert: Virilio agreed that history has worked this way. He saw war as the main engine of progress. Armies build fast systems, and then the rest of society starts living by them. He traced three waves. First came transport: soldiers on foot, then engines, trains and cars, and finally missiles that carry nuclear weapons across continents. That turned the whole planet into a battlefield. Second came the sending of messages: phones and computers, which make distance disappear. Third, he predicted tiny machines that feed information straight into people.\n\nSkeptic: That still sounds like a success story.\n\nExpert: Here is the worry. Andy Owen is a former British intelligence officer. He says this same race now drives AI, and he wants it slowed down. He gives two reasons. First, every new technology brings its own dangers, and right now we cannot predict or plan for them. Second, technology will never replace human thought, or the many other things we value. Treating it as if it can, he warns, \"will only lead to ruin.\"\n\nVirilio also saw a political cost. When speed is power, governments stop ruling people in a place. They start controlling how fast things and messages move. Borders matter less. In their place come systems that watch everyone, and machines that run on their own, beyond human control.\n\nSkeptic: But your enemy will not slow down. Owen admits it himself: wars are won by the fastest innovators. If you pause and your rival does not, you lose. Caution only works if both sides agree to it.\n\nExpert: That is the hardest point, and the essay does not fully answer it. Owen's reply is about values: the race is not worth the risk. Virilio named a response, \"the warfare of deceleration\", which means slowing down on purpose. But the essay never explains how slowing down could win.\n\nThe world makes it harder still. Old alliances have turned into a messy web. Countries avoid picking sides and work with partners who do not share their values. A partner in trade can be an enemy in security. Owen says these webs are now too complex even for the diplomats and politicians who manage them.\n\nSkeptic: So humans already cannot follow the system, and the system keeps getting faster.\n\nExpert: Yes. That leaves the open question. If winning needs speed, and good judgment needs time, who or what will be left to make the decision?"
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Speed decides who wins the race. It cannot decide whether the race was worth running."
+    }
+   ],
+   "recall": {
+    "q": "Why does Owen want to slow the AI race, and what is the skeptic's strongest objection?",
+    "a": "Owen gives two reasons: new technology brings dangers we cannot yet predict, and technology can never replace human thought, so treating it as if it can leads to ruin. The skeptic replies that the fastest innovators win wars, so the side that slows down may lose. Owen's answer is about values, not strategy: the race is not worth the risk."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/296.webp",
+   "deepLink": "https://iai.tv/articles/the-velocity-of-war-and-why-faster-isnt-always-smarter-auid-3698",
+   "attribution": "IAI News",
+   "publishedAt": "Thu, 08 Oct 2026 13:12:59 +0000"
+  },
+  {
+   "id": "aeon-rp4lzv",
+   "source": "aeon",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "How Venice's Jewish ghetto gave the world a word",
+   "body": "In 1516, Venice wanted its Jews gone, but it could not manage without their loans. So it locked them on a small island every night. The island's old name, ghetto, became a word for exclusion everywhere.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The gates shut at sunset. There were two iron gates, one at each end of the bridge. They opened again only when a morning bell rang. Four guards watched the canals around the island, day and night. The Jews inside paid their wages.\n\nThis was Venice's Ghetto, created in 1516. Historian Alexander Lee tells its story as a long tug-of-war. Venice wanted its Jews gone, but it needed their money. When the need grew, Jews were let in. When it faded, they were pushed out. The Ghetto was where these two forces finally met.\n\n1366. German Jews settled in Mestre, just across the lagoon. They were escaping the attacks on Jews that came with the Black Death. The Church did not allow Christians to lend to each other at interest. This was called usury. But Jews could lend to Christians. So Jewish pawnbrokers made small loans to ordinary people, a bit like today's payday loans. A contract protected them as long as they kept their rates low.\n\nFebruary 1382. A war with Genoa had wrecked Venice's economy. The city needed cheap credit fast. So it let lenders live inside the city for five years. All but one of those who came were Jewish. The economy recovered. For now, need had beaten prejudice.\n\n1397. Once Venice was rich again, the old prejudice came back. The Jews were sent back to Mestre. They could visit the city for only 15 days at a time, and they had to wear a yellow circle on their clothes. So they took a boat to Mestre, reset the clock, and came straight back. By the 1420s, there were as many Jews in Venice as ever.\n\n14 May 1509. Venice lost the Battle of Agnadello, and with it, control of its mainland. Hundreds of Jewish refugees poured into the city and refused to leave. Preachers blamed them for Venice's defeats. One man who kept a diary complained about the crowds of Jews in the streets. Yet even he admitted he could say nothing, because \"they are needed\". The question changed. It was no longer how to get rid of the Jews. It was how to use them while keeping them apart.\n\n29 March 1516. The Senate ordered all Jews onto a small island in the Cannaregio area. The island had once held the city's copper foundry, a workshop where metal was melted and poured. Locals called it the geto, from a verb meaning \"to throw\" or \"to cast\". Its doors and windows facing outward were blocked up. It was meant to be temporary. It lasted until Napoleon arrived in 1797.\n\nThen the word escaped the island. Older Jewish quarters had names tied to one street or square, like Judengasse. \"Ghetto\" became a name for the practice itself, the way \"the White House\" means both a building and a government. By around 1562, Rome's Jewish quarter was called a ghetto. In the late 1800s, Americans used the word for any poor migrant neighbourhood. After 1939, the Nazis' ghettos were places of imprisonment and mass murder. Today the word can mark someone as an outsider. In songs, it can also win back a lost pride.\n\nThe Ghetto was never fully sealed. Loans, trade and ideas crossed its bridge every day. That is the uncomfortable part. Venice never stopped needing its Jews. It only decided how close they could live. Again and again, its welcome lasted exactly as long as its need."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "What is acceptance worth if it ends the moment you stop being useful?"
+    }
+   ],
+   "recall": {
+    "q": "Why did Venice create the Ghetto in 1516 instead of simply expelling its Jews?",
+    "a": "Venice disliked its Jews but depended on their loans, especially in the hard years after the 1509 defeat. Sending them away was too costly, so it kept them close enough to keep lending but locked them apart. Its welcome rose and fell with how much it needed them."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/9e1491df-adef-47da-93f6-0ee37b65cbd5/essay-final-r94951.jpg?width=1200&quality=75&format=auto",
+   "deepLink": "https://aeon.co/essays/the-making-of-the-ghetto-on-a-venetian-island-in-1516",
+   "attribution": "Aeon",
+   "publishedAt": "Thu, 08 Oct 2026 10:00:00 GMT"
+  },
+  {
+   "id": "conv-neuro-nccsv9",
+   "source": "conv-neuro",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Deisseroth's Nobel: switching brain cells on with light",
+   "body": "Karl Deisseroth shared the 2026 Nobel prize for optogenetics, a way to control chosen brain cells with light. With it, his team found cells and pathways behind hunger, aggression, parenting, memory, and the different parts of anxiety.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In the 1990s, a medical student named Karl Deisseroth spent time working with psychiatric patients. He saw how hard the problem was. The brain, he said later, is billions of \"fragile, extremely vulnerable, transparent\" cells. They act very fast. They sit deep inside the skull. And they do very complex work. The size of that challenge stayed with him.\n\nThat path led to the 2026 Nobel prize in physiology or medicine. Today he is a professor in both the medical school and the engineering school at Stanford. That double role is the heart of his story: a doctor's question, answered with an engineer's tool.\n\nThe tool is called optogenetics. In plain words, scientists give chosen nerve cells a gene that makes them respond to light. Then they use light to control those cells and watch what changes in feeling and behavior.\n\nThe gene did not come from a medical lab. It came from a tiny pond alga, a living thing made of just one cell. Two German scientists, Peter Hegemann and Georg Nagel, found it, and they share the prize with him. Deisseroth's part was building a way to use it to study the brain.\n\nWhat has the light shown? His team found cells involved in hunger and thirst, the basic survival drives. They found cells and pathways that control aggression and defending oneself, and others for parenting, the care of the young. They also found cells for memory, motivation, and \"all the different parts of anxiety.\"\n\nThat last phrase matters. It suggests anxiety is not one single thing in the brain. It may have several parts, each with its own cells. The bigger idea: feelings and drives run on particular cells and pathways. Scientists can find these cells, switch them on, and test what they do.\n\nHe also admits the tool took time to understand. Only over the following years, he says, did it become clear how widely it could be used. And the brain is still the hard system he met as a student. Light did not make it simple. It gave scientists a way to test one piece at a time."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This piece comes from a short summary of a podcast interview. It lists what the tool helped scientists find. It does not say how close any of this is to treating patients. The source also notes that Deisseroth founded a drug company, MapLight Therapeutics, and has received research money from the NIH and the Howard Hughes Medical Institute."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "text": "Optogenetics: put a light-sensitive gene into chosen nerve cells, then control them with light.\nThe gene came from a one-celled pond alga, found by Hegemann and Nagel, who share the Nobel prize.\nThe tool helped find cells behind hunger, thirst, aggression, parenting, memory, motivation, and parts of anxiety."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A question from a psychiatric ward was answered with a gene from a pond."
+    }
+   ],
+   "recall": {
+    "q": "What is optogenetics, and what did Deisseroth say it revealed about feelings and drives?",
+    "a": "Optogenetics gives chosen nerve cells a light-sensitive gene from a pond alga, so scientists can control those cells with light. Deisseroth says it showed that feelings and drives run on specific cells and pathways, including those behind hunger, thirst, aggression, parenting, memory, motivation, and the different parts of anxiety."
+   },
+   "imageUrl": "https://images.theconversation.com/files/764871/original/file-20261008-50-m2lfos.jpg?ixlib=rb-4.1.1&amp;rect=0%2C192%2C5705%2C2852&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/nobel-laureate-karl-deisseroth-on-how-light-is-changing-what-we-know-about-the-brain-293925",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-10-08T15:00:48Z"
+  },
+  {
+   "id": "psypost-4h3dos",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Babies learned new words only when they could see eyes",
+   "body": "In one study, 47 nine-month-old babies watched a woman speak three made-up languages on video. They learned only the one she spoke while they could fully see her eyes. They watched all three for about the same time, so watching alone did not explain it.",
+   "evidence": "single study · n=47 infants (42 with usable brain data) · pre-recorded video, not live",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Guess before you read on. A nine-month-old baby watches a woman on a screen. She speaks three made-up languages, one after another. Later, it turns out the baby learned only one of them. What decided which one?\n\nMaybe it was the one the baby watched longest. Maybe it was the one spoken in the warm, sing-song voice adults use with babies. Both are fair guesses. In this study, neither was the answer.\n\nThe answer was her eyes. Each language had four three-syllable words, like \"pe-tu-do\", run together with no pauses. A baby can only find the words by noticing which syllables always come together. The woman wore special glasses. A filter on the camera made the lenses look clear, dark like sunglasses, or fully black. She could see normally the whole time, so she spoke the same way in every version. The only change was how much of her eyes the baby could see.\n\nThe babies learned only the language spoken with her eyes fully visible. To test this, the researchers used a habit babies have: once they learn a pattern, they look longer at sounds that break it. With clear lenses, babies looked 1.22 seconds longer at fake words than at real ones. That is a small to moderate effect. With dark lenses, the gap was 0.76 seconds. With black lenses, it was 0.34. Both gaps were too small to count as learning.\n\nSo the first guess fails. The babies watched the screen for about the same time in every version, 21 to 23 seconds. Watching time did not predict learning. Co-author Kaili Clackson put it simply: without eye contact, \"nothing was going in.\"\n\nBrain data hints at why. The team used EEG, which reads the brain's electrical activity through sensors on the scalp. They had also recorded the woman's brain while she filmed. Patterns in her brain predicted later patterns in the babies' brains. This one-way link is called neural coupling. It was stronger with full eye contact than with none, and babies with stronger coupling learned more. Lead researcher Victoria Leong compares eye contact to a switch. It tells the baby: this is worth learning.\n\nWe tend to think a baby who stares is taking things in. This study suggests babies are choosier. They seem to wait for a sign that someone means to teach them. The pattern was the same for the 29 British babies and the 18 Singaporean babies."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one small study. 47 babies took the learning test, and 42 gave usable brain data. The babies watched recorded videos, not a live adult. The study did not test daily life, or parents using phones. The authors call the brain-coupling result preliminary. One reason: they picked the coupling measure partly because it predicted learning well. It shows a link, not proof that coupling causes learning. Eye contact may also matter less in cultures where adults connect with babies more through touch and closeness."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A baby can stare at you and still learn nothing. Meeting their eyes may be what tells them to start."
+    }
+   ],
+   "recall": {
+    "q": "The babies watched all three languages for about the same time. So what decided which language they learned?",
+    "a": "Seeing the speaker's eyes. They learned only the language spoken while her eyes were fully visible. Eye contact seemed to act like a switch that says \"this is worth learning\", and it went with the baby's brain activity lining up more with hers."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/woman-talking-to-infant.jpg",
+   "deepLink": "https://www.psypost.org/eye-contact-may-act-as-a-learning-switch-for-babies-brains/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 08 Oct 2026 14:00:44 +0000"
+  },
+  {
+   "id": "marginal-rev-d2dxq",
+   "source": "marginal-rev",
+   "topic": "world",
+   "kind": "news",
+   "title": "Why did Victorian Britain's rulers succeed? Five clues",
+   "body": "Economist Tyler Cowen asks why Victorian Britain's rulers succeeded. Writer Samuel Hughes gives a surprising picture: little science, lots of drinking, late mornings and parties. One habit may explain a lot. Sending boys away to school at seven or eight built one national ruling class with few regional loyalties.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Cowen points to an essay by Samuel Hughes on Britain's ruling class, or elite, in the 1800s. Here are its clues.\n\n1. A few schools fed the top jobs. Rich boys went to a \"preparatory school\" at seven or eight. Then they went to a \"public school\". Confusingly, in Britain that means an elite private school. Eton College was at the very top.\n\n2. They grew up with friends, not family. Most were boarders, meaning they lived at school. So they spent their childhood more with other boys than with parents. Rich families in Europe and the US mostly kept their children at home.\n\n3. Hard study was not the secret. Their schools and universities were not very academic. They taught very little STEM (science, technology, engineering and maths).\n\n4. Boarding may have united the elite. Hughes thinks it plausibly explains why Britain's rulers had few loyalties to one region. Elsewhere, regions had their own elites: the American South, Catalonia in Spain, Hungary in the Austrian Empire.\n\n5. They probably had a lot of fun. They got up late and drank a lot. They spent much of their waking hours feasting, playing sports, dancing and dressing up.\n\nEven so, Cowen says the answer is still partly a mystery to him."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "About 30% of 19th-century cabinet ministers went to Eton",
+      "About 40% of 19th-century prime ministers went to Eton",
+      "9 \"Clarendon schools\" sat at the top of the public school ladder"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "We often think a successful elite must be serious, studious and up at dawn. Hughes describes the opposite. The key clue is social: boys who grew up together, away from home, became one national class, not rival regional ones."
+    }
+   ],
+   "recall": {
+    "q": "Why might sending elite boys away to boarding school have helped Victorian Britain?",
+    "a": "The boys grew up with other boys, not their families. Rich families in Europe and the US mostly kept their children at home. Hughes thinks boarding plausibly gave Britain one national elite with few regional loyalties. Places like the American South, Catalonia and Hungary had their own regional elites."
+   },
+   "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-and-why-did-the-victorians-succeed",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Thu, 08 Oct 2026 07:02:17 +0000"
+  },
+  {
+   "id": "3quarks-15ikftc",
+   "source": "3quarks",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Why a Mencken fan didn't mind losing the Mencken Room",
+   "body": "Last year, the Mencken Room at the Pratt was renamed for another Baltimore reporter. Andrew Holter still thinks Mencken matters, but he says the change was fair. Guarding a writer's memory too carefully can bury him. And there was never just one Mencken to guard.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Last year, a room at the Pratt lost its name. It had been the Mencken Room, named for H.L. Mencken, a famous reporter from Baltimore. Now it honors DeWayne Wickham, another strong reporter from the same city.\n\nMany people would call that a loss. Taking a famous name off a wall can look like forgetting him. And time is already against Mencken. In an essay for the Boston Review, Andrew Holter shows how far in the past Mencken now is. Mencken is now as far from us as Edgar Allan Poe was from Mencken when Mencken was Holter's age. More than twenty years ago, the critic Hilton Kramer was already asking in a headline: \"Who Reads Mencken Now?\"\n\nBut Holter says the renaming was not unfair. His reason comes from one of Mencken's own heroes, Thomas Jefferson. Jefferson did not trust statues or forced respect, meaning the kind of respect people must show whether they feel it or not. He wrote to James Madison that the earth always belongs to the living, not to the dead.\n\nHolter takes the lesson further. If you guard a writer too carefully, you can end up burying him. A memorial slowly becomes a tomb. Rooms and plaques can freeze a writer into one fixed image. Holter thinks we honor Mencken best by letting his ghost wander a little outside respectability. That means people still read him and argue with him. He is not polished and put on display.\n\nWith Mencken, one fixed image would be false anyway. Holter believes Mencken still matters, but he asks: which Mencken? None of his biographers says his worldview was consistent, or that his politics fit together. There is no single Mencken to hang on a wall. The honest way to keep him is to keep reading him and keep arguing with him."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This piece is based on a short excerpt from Holter's essay. The excerpt does not say which Mencken Holter finds relevant today, and it does not quote Mencken's own writing. So Mencken's actual arguments and his flaws are not covered here."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A writer kept too safe stops being read. Sometimes the best honor is to let the ghost wander."
+    }
+   ],
+   "recall": {
+    "q": "Why does Holter think renaming the Mencken Room was not an injustice?",
+    "a": "He thinks guarding a writer too carefully can bury him. Following Jefferson, Mencken's hero, who said the earth belongs to the living, Holter argues that Mencken is better honored by being read and argued with than by a monument. And since Mencken's views were never consistent, no single memorial could capture him."
+   },
+   "imageUrl": "https://3quarksdaily.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-112505-256x360.png",
+   "deepLink": "https://3quarksdaily.com/3quarksdaily/2026/10/misrepresented-by-the-right-and-misunderstood-by-the-left-the-sage-of-baltimore-delivered-scathing-and-still-bracing-indictments-of-american-injustice.html",
+   "attribution": "3 Quarks Daily",
+   "publishedAt": "Thu, 08 Oct 2026 18:45:45 +0000"
+  },
+  {
+   "id": "hackernews-1g101ai",
+   "source": "hackernews",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Batteries now beat gas peaker plants on cost in all 43 markets studied",
+   "body": "Wood Mackenzie, an energy research firm, compared power costs in 43 markets. In all 43, a battery that can deliver power for four hours now costs less than a gas \"peaker\" plant. Peakers are gas plants that switch on only when demand spikes. The measure is levelized cost: the full cost of building and running a plant over its life, divided by the power it delivers.",
+   "sections": [
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Middle East and Africa: $120 per megawatt-hour in 2026, or about 12 US cents per kilowatt-hour (one unit of power). Forecast to fall 33% to $80 by 2035.",
+      "China: more than 55% below the rest of Asia Pacific, where the average is $134 per megawatt-hour",
+      "Europe: the cost of building battery systems rose about 2% this year, the first rise in three years"
+     ]
+    },
+    {
+     "label": "Why the gap opened",
+     "style": "prose",
+     "text": "Analyst Ahmed Jameel Abdullah names two causes. Gas turbines are in short supply and fuel prices swing more, so peakers cost more to run. Battery factories keep growing, so storage gets cheaper. China's low costs show what that scale does."
+    },
+    {
+     "label": "What it doesn't prove",
+     "style": "note",
+     "text": "These are one firm's models and forecasts, not prices people actually paid. Batteries beat peakers only, not gas plants that run all day. The report measures cost, not how reliably batteries keep the lights on. And costs will not fall in a straight line. Battery cell prices are up about 10% from their 2025 low, and lithium prices are expected to roughly double in 2029. Japan, Australia and the Philippines will stay expensive because of import duties and higher installation costs."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Abdullah says cheap storage plus strong sun and wind is ending the money case for building new gas peakers. Power planners from the Gulf to Latin America now face a different cost map."
+    }
+   ],
+   "recall": {
+    "q": "What does \"cheaper\" mean in this report, and what two forces opened the gap between batteries and gas peakers?",
+    "a": "It means levelized cost: a plant's full lifetime cost divided by the power it delivers. On that measure, four-hour batteries beat gas peakers in all 43 markets. Scarce gas turbines and swinging fuel prices push peaker costs up. Growing battery manufacturing pushes storage costs down."
+   },
+   "imageUrl": "https://www.solarpowerworldonline.com/wp-content/uploads/2026/06/stock-Holy-Cross-Energy-High-Mesa-Solar-Storage-site-in-Parachute-Colorado.jpg",
+   "deepLink": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-10-08T16:03:33Z"
+  },
+  {
+   "id": "marginalian-g5yc82",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Afraid of mistakes? Van Gogh's advice for a blank canvas",
+   "body": "In 1884, Vincent van Gogh wrote to his brother Theo that trying to be good by never doing harm is a lie. It keeps you stuck. Many painters fear the blank canvas, he said. But the canvas fears the painter who dares.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A white canvas waits on an easel. The painter holds a brush and does not move. The empty surface seems to say: you cannot.\n\nDear reader, if you hold back because you fear getting it wrong, you know this moment. Maybe it is a message you have not sent, a project you have not started, or a sentence you keep deleting. Waiting feels safe. It can even feel careful, or good.\n\nVincent van Gogh knew this feeling. On October 2, 1884, he wrote to his brother Theo about it. The letter is in Ever Yours, a collection of his most important letters. The Marginalian has shared part of it.\n\nHis first point is blunt. If you want to be active, he wrote, you must not be afraid to do something wrong sometimes, or to make some mistakes. Many people think they become good by doing no harm. Van Gogh called that a lie. It leads to stagnation, which means staying stuck in one place. It also leads to mediocrity, which means work that is only average.\n\nThen he turned to the blank canvas. It has an \"idiotic stare,\" he wrote. That stare can freeze some painters until they become as empty as the canvas. His advice was simple: just put something on it. Then he flipped the fear around. Many painters fear the blank canvas, he said. But the canvas fears the passionate painter who dares, the one who has broken its spell of \"you cannot\" even once.\n\nHe did not stop at painting. Life, he wrote, also shows us a blank side. It feels pointless and discouraging, with nothing on it. But a person with faith, energy, and warmth does not accept that empty answer. Such a person \"steps in and does something\" and holds on to it.\n\nMuch later, the musician Amanda Palmer said something close to this. She had watched her best friend die. The artists who inspire her, she said, are the ones who went where it would have been safer not to go. Often, she said, that unsafe place is the gift you have to give.\n\nSo here is my charge to you. The mistake you fear is not the enemy. Staying blank is. Pick one thing you have been waiting to start. Today, make a first rough mark on it, even if it is wrong. Once you break the spell, the empty page is no longer in charge."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The blank canvas stares only until you make the first mark."
+    }
+   ],
+   "recall": {
+    "q": "Why did van Gogh call 'being good by doing no harm' a lie, and how did he turn around the fear of the blank canvas?",
+    "a": "Avoiding all mistakes does not make you good. It leads to stagnation and average work, so an active person must accept doing something wrong sometimes. Many painters fear the blank canvas, but he said the canvas fears the passionate painter who dares to put something on it."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/everyours_vangoghletters.jpg?w=680&#038;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/07/van-gogh-fear-risk/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Thu, 08 Oct 2026 03:34:48 +0000"
+  },
+  {
+   "id": "mint-economy-1ttlbkm",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "GST officers can no longer arrest taxpayers, Council decides",
+   "body": "India's GST Council has taken away the power of GST officers to arrest taxpayers. The idea is simple: trust businesses more, check them less.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The decision came at the 57th meeting of the GST Council, the body that runs India's Goods and Services Tax. Most of the changes start on April 1, 2027.\n\nThe general penalty falls to ₹10,000. No notice is sent when less than ₹10,000 is involved. Officers can stop a goods vehicle only when they have specific intelligence and approval from a Joint Commissioner or a more senior officer. They can check it only in the state where the goods started or the state where they are going.\n\nBusinesses also get more input tax credit. This is tax they already paid on their own purchases, which they can subtract from the tax they owe. It now also covers health and life insurance bought for employees."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "₹5 crore: the new minimum amount at stake for a criminal case",
+      "10 days: the new deadline to acknowledge a refund claim, down from 15. If officers do not reply, the claim counts as acknowledged",
+      "90%: share of refund claims expected to clear within three working days after that",
+      "2 lakh: taxpayers who deal with more than one central GST office and will now get a single window"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Faster refunds leave businesses more cash to run day to day. Finance Minister Nirmala Sitharaman said, \"Business has to be trusted.\" She also said last year's tax rate cut did not reduce revenue, because collections kept rising."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Within three months, a committee will report on two things: matching invoices before tax credit is allowed, and protecting honest buyers. At the next meeting, the Council will see a plan for small businesses that sell only to consumers and earn up to ₹5 crore a year. They would file one return a year and pay tax every three months. Sitharaman expects the reforms to take about a year to settle."
+    }
+   ],
+   "recall": {
+    "q": "What power did GST officers lose, and how much money must now be at stake for a criminal case?",
+    "a": "They lost the power to arrest taxpayers. A criminal case now needs at least ₹5 crore at stake."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Untitled_design_1791483483867_6pdR_1791483487778_FGrP_94410535-adfb-498d-807e-bacd32884dab_7w7F.png",
+   "deepLink": "https://www.livemint.com/economy/gst-council-meeting-oct-2026-list-of-decisions-taken-arrest-prosecution-general-penalty-and-more-11791481509822.html",
+   "attribution": "Mint",
+   "publishedAt": "Thu, 08 Oct 2026 23:57:11 +0530"
+  },
+  {
+   "id": "biz-standard-1pdztxv",
+   "source": "biz-standard",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Veg thali cost up 10% in a year as onions nearly double",
+   "body": "A home-cooked vegetarian thali is a full plate of everyday Indian food. In September it cost Rs 30.8 to make, up from Rs 28.1 a year ago. That is a 10% rise, says Crisil's monthly Roti Rice Rate report. Onions pushed hardest. Their price jumped 89%, from Rs 28 to Rs 53 a kg.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Why onions? Rabi onion production fell 5-6%, so stocks were low. (The rabi crop is sown in winter and harvested in spring.) June rain was also 40% below normal. That delayed the kharif crop, which is sown during the monsoon, so fresh onions will reach markets later.\n\nThe non-vegetarian thali rose less: 6%, to Rs 59.5. Broiler chicken makes up about half its cost, and chicken prices rose only 2%."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Onion: up 34% in just one month",
+      "Vegetable oil: up 12%, even after a cut in import duty on palm oil",
+      "Cooking gas (LPG): up 10%",
+      "Rice: up 8%, and paddy output is expected to fall 5-6%",
+      "Month on month: veg thali up 4%, non-veg up 3%"
+     ]
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Crisil expects onion prices to rise faster in the first half of October, as festival demand adds to the short supply. Prices should slowly ease near the end of the month, when fresh kharif onions arrive."
+    }
+   ],
+   "recall": {
+    "q": "Why did the veg thali's cost rise more than the non-veg thali's, and what drove the onion price jump?",
+    "a": "The veg thali rose 10%, mostly because onions jumped 89%. A smaller rabi harvest left stocks low, and weak June rain delayed the new kharif crop. The non-veg thali rose only 6% because chicken, about half its cost, went up just 2%."
+   },
+   "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261008/full-126100801153.jpg",
+   "deepLink": "https://www.business-standard.com/india-news/home-cooked-meals-get-10-dearer-in-sep-on-higher-onion-oil-lpg-prices-126100801153_1.html",
+   "attribution": "Business Standard",
+   "publishedAt": "Fri, 09 Oct 2026 00:07:51 +0530"
+  },
+  {
+   "id": "psypost-kam6l6",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "In Finland, towns with more support have more babies",
+   "body": "Finland pays parents well, yet its birth rate is falling fast. A study of 299 Finnish towns found that local wealth did not predict how many babies were born. Two social things did: knowing someone would help you, and talking to people often.",
+   "evidence": "single study · n=100,750 adults · 299 municipalities · cross-sectional · self-report survey",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Finland pays parents to stay home with a new baby. The government pays most of the cost of childcare, and families who care for children at home get an allowance. Even so, Finland's birth rate fell from 1.87 children per woman in 2010 to 1.30 in 2025. That is close to what demographers (people who study populations) call \"lowest-low\" fertility: fewer than 1.3 children per woman.\n\nSo money does not explain everything. A team led by Eetu Soini, a psychology researcher at the University of Helsinki, started from a simple idea: having a baby is a social act. They asked whether the social life of a whole town affects how many babies are born there.\n\nThey used a national health survey of 100,750 adults in 299 Finnish towns, done from 2012 to 2017. From it they measured seven parts of \"social capital\", meaning the relationships, help, and shared habits inside a community. The seven were social support, how often people talk to others, joining groups, going to cultural events, general trust, trust in people, and loneliness. Support meant knowing who truly cared about you and who would give you practical help. Contact meant how often you talked with people outside your home, in person, by phone, or online.\n\nThe team compared each town with its birth rate about three years later, in 2018 to 2020. They adjusted for population size, how crowded the town was, religion, and a local wealth score built from tax income, education, and unemployment. They also allowed for the fact that neighbouring towns tend to be alike.\n\nTwo results stood out. Towns where people expected more support had more babies. So did towns where people talked to others more often. It did not matter who gave the support: a partner, relatives, friends, or others all counted. Local wealth showed no link to birth rates in any model.\n\nThe link was strongest for people aged 20 to 39, and strongest of all for people in their twenties. The researchers suggest why. Young adults often have less secure jobs and money, so the people around them may matter more when they decide to become parents.\n\nWhat did not matter is just as useful. Trust, joining sports clubs or other groups, going to cultural events, and loneliness showed no link to births. So the recent rise in loneliness may not be what is pushing birth rates down.\n\nThe team also checked for a \"tempo effect\". When people have children later in life, yearly births drop for a while, even if families end up the same size. After adjusting for this, support from relatives and frequent contact still went with more births.\n\nSo the pattern is not about belonging in general. It is about having people you can count on, and seeing people often."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The study looks at one moment in time, so it cannot show that support causes more births. The cause could run the other way: children connect parents to schools, daycares, and youth sports, and that could make a town more social. A pattern across towns also says little about any one person. It could come from local habits that favour families, or simply from many private choices added together."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "In Finland, the towns with more babies were not the richer ones. They were the ones where people had someone to call."
+    }
+   ],
+   "recall": {
+    "q": "Which features of a Finnish town went with higher birth rates, and which did not?",
+    "a": "Towns had more births when people expected support (from anyone) and talked with others often. Local wealth, trust, joining groups, cultural events, and loneliness showed no link. The study cannot prove support causes births, because having children may also make a town more social."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/05/mother-and-child.jpg",
+   "deepLink": "https://www.psypost.org/strong-social-networks-predict-higher-fertility-rates-in-new-study/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 08 Oct 2026 16:00:47 +0000"
+  },
+  {
+   "id": "psypost-169p92g",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "ADHD medication helps by making costs easier to see",
+   "body": "Adults with ADHD often feel the pull of a reward more than its price. A new study compared the stimulant methylphenidate (Ritalin) with a dummy pill. It found the drug helps in one specific way: it makes costs easier to notice, and it leaves interest in rewards exactly where it was.",
+   "evidence": "single study · randomized, double-blind, placebo-controlled crossover · n=124 (61 adults with ADHD, 63 controls) · lab t",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A new phone means a better camera. It also means less money for groceries. Most daily choices look like this. There is a good side and a bad side, and you weigh them in a moment.\n\nFor adults with ADHD (attention deficit hyperactivity disorder, a condition marked by inattention, restlessness and acting on impulse), this weighing is often hard. In real life it can show up as reckless driving, substance use or risky sex. Stimulant drugs like methylphenidate, sold as Ritalin, are known to improve decisions. But nobody knew exactly how.\n\nMads Lund Pedersen, a psychologist at the University of Oslo, and his colleagues tested three ideas. Does the drug make people care more about rewards? Does it make them notice costs more? Or does it make them think longer before acting?\n\nTo look inside each choice, the team used a drift diffusion model. This is a maths tool that splits a quick decision into parts. The drift rate is how fast and cleanly the brain gathers evidence. The threshold is how much evidence you need before you act. Non-decision time is the time spent just seeing the image and pressing the button.\n\nOn the dummy pill, the ADHD group made more mistakes than the healthy group. Their drift rate was lower for both costs and benefits. Their threshold was lower, so they acted on less information. And their balance was flipped. Healthy people gave costs more weight than benefits. The ADHD group did the opposite: the reward moved them more.\n\nOn methylphenidate, the drift rate rose, but only for costs. Sensitivity to benefits did not change at all. This brought their pattern closer to the healthy group's. Surprisingly, the drug did not make them wait for more information. Their threshold actually dropped a little more. But their non-decision time grew by a fraction of a second. The researchers suggest this extra time went into seeing the images more clearly, which may have helped them gather evidence better.\n\nThe pattern also showed up person by person. Off the drug, people who reported worse symptoms in daily life had the lowest cost sensitivity. On the drug, people with higher prescribed doses had stronger cost sensitivity and a higher threshold."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "61 adults with ADHD and 63 healthy adults took part. First, everyone learned that six shapes were each worth some points (the benefit) and six colors each took some points away (the cost). Then a colored shape appeared for a few seconds. If the shape's points minus the color's cost was above zero, the right answer was to accept. If it was below zero, the right answer was to reject.\n\nThe ADHD group did the test twice: once on their usual dose and once on the dummy pill. Neither they nor the researchers knew which pill came on which day. The healthy group also did the test twice, with no drug."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The drug may not change the moment of decision at all. People had to memorize the values first, so the drug might just help them remember those values. Or it might sharpen the quick mental maths of taking cost away from benefit. People with serious additional mental health conditions were left out. And the drug causes body sensations people can notice, so some may have guessed when they were on it. That belief could affect how they did. A future test that shows the values on screen could tell these explanations apart."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The fix was not to want the reward less. It was to see the price more clearly."
+    }
+   ],
+   "recall": {
+    "q": "How did methylphenidate improve decisions in adults with ADHD, and what did it leave unchanged?",
+    "a": "It helped them take in information about costs faster and more cleanly, which brought their choices closer to the healthy group's. Their sensitivity to rewards stayed the same, and the drug did not make them wait for more information before acting."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/08/pills.jpg",
+   "deepLink": "https://www.psypost.org/medication-helps-adults-with-adhd-weigh-the-negative-consequences-of-their-decis/",
+   "attribution": "PsyPost",
+   "publishedAt": "Thu, 08 Oct 2026 11:00:29 +0000"
+  },
+  {
+   "id": "nautilus-pwc466",
+   "source": "nautilus",
+   "topic": "econ",
+   "kind": "news",
+   "title": "A 1960 formula said Earth's population hits infinity next month",
+   "body": "In 1960, a paper in the journal Science named the day the number of humans would become infinite: Friday, November 13, 2026. For years, its math beat normal forecasts. A new essay explains why it still failed.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Heinz von Foerster and his co-authors used 2,000 years of population data. They fit it to a curve where growth keeps speeding up until it shoots to infinity on one fixed date. Our descendants, they wrote, would not starve. They would be \"squeezed to death.\" The paper was partly a joke, because November 13 was von Foerster's birthday.\n\nStill, in the 1960s and 1970s the curve beat normal forecasts, which kept guessing too low. Then growth slowed, and the model broke. In a new Science essay, Birchenall, an economist at UC Santa Barbara, says the math was sound. The mistake was treating the trend of one era as permanent. Someone in 200 BCE who did the same with older trends would have expected today's population by the year 1000."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "2.2 births per couple: the replacement rate, which keeps a population the same size. World Bank figures put global growth just above it",
+      "About 10 billion: the UN's estimate for world population in 2100, before it levels off in the next century",
+      "May 5, 3108: Birchenall's mock end date for humanity, if Japan's yearly population loss of 0.77% spread to the whole world"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Today the loud fear is the opposite: too few babies, and humanity shrinking toward collapse. Birchenall's mock 3108 date shows that this fear repeats von Foerster's mistake. It takes today's trend and runs it forward forever."
+    }
+   ],
+   "recall": {
+    "q": "According to Birchenall, what did von Foerster's model get wrong, and why does that matter for today's fears about falling birth rates?",
+    "a": "The math was sound and fit the data for years, but it treated the growth trend of its own era as permanent. Today's fear of a shrinking, vanishing humanity makes the same mistake by running current low birth rates forward forever."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_618211523.jpg?w=564",
+   "deepLink": "https://nautil.us/in-1960-mathematicians-predicted-that-earths-population-would-reach-infinity-on-a-friday-next-month-1285640/",
+   "attribution": "Nautilus",
+   "publishedAt": "Thu, 08 Oct 2026 18:00:00 +0000"
+  },
+  {
+   "id": "sd-mind-93soqv",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "An older-looking brain may be linked to your gut bacteria",
+   "body": "A UCLA study of nearly 1,500 adults found that some brains look older than the person's real age. Those people did worse on memory and planning tests and reported more signs of depression. In one group, older-looking brains also went with certain gut bacteria and the chemicals those bacteria make.",
+   "evidence": "single study · nearly 1,500 adults in three groups · gut data from one group only · associations, not cause",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "You lie in a brain scanner with nothing to do. You are not solving a puzzle or looking at pictures. Still, different parts of your brain keep talking to each other. The scanner can record the pattern of that talk.\n\nScientists already knew that a scan can estimate your \"brain age\", and that it can differ from your real age. When a brain looks older than it should, earlier studies found weaker memory and thinking, and changes in mood. But most of that work looked at older adults or at people who already had a brain disease. The open question: does an older-looking brain also matter in younger, mostly healthy adults?\n\nThe UCLA team studied resting scans from nearly 1,500 adults in three separate groups. A computer model learned to guess each person's age from how their brain areas talk to each other. The team measured the gap between this guess and the person's real age. They called it the Brain Aging Index. A higher number means a brain that looks older than its owner.\n\nThe result held in all three groups. People with a higher index usually did worse on tests of working memory and executive function. Working memory means holding information in your head for a short time. Executive function means staying focused, planning and organizing. These people also reported more symptoms of depression. The brain areas involved were often ones linked to memory and to thinking about yourself and your own life.\n\nIn one group, the team also tested stool samples. A higher index went along with certain gut bacteria and some of the chemicals they make. These included certain fat molecules, a compound related to cholesterol, and lower levels of a hormone called estetrol. These signals pointed to several body systems: the immune system, blood vessels, communication between brain cells, and the way cells make energy.\n\nThe senior author, Dr. Arpana Church, said brain aging does not suddenly start in old age. Its signals, she believes, may show up decades earlier. Her hope is that this could one day show who is at risk, and whether caring for the gut could support a healthier brain."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This study found links, not causes. It does not show that gut bacteria make the brain age faster. The link could run the other way, or something else could drive both. The gut finding comes from only one of the three groups. Improving brain health through the gut is an idea for future research, not a tested treatment."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A brain does not start aging when you grow old. The signs may show decades earlier, and some may show up in the gut."
+    }
+   ],
+   "recall": {
+    "q": "What is the Brain Aging Index, and what was a higher index linked to in this study?",
+    "a": "It is the gap between the age a computer model guesses from a resting brain scan and the person's real age. A higher index went with weaker working memory and planning, more depression symptoms, and, in one group, certain gut bacteria and their chemicals. These are links only, not proof of cause."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/gut-microbiome-interaction-within-brain.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Sun, 04 Oct 2026 07:28:03 EDT"
+  },
+  {
+   "id": "neuro-news-c9s2bs",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "How a fly's brain saves a memory: it lifts a brake",
+   "body": "A fruit fly keeps walking toward a smell for several seconds after the smell is gone. A study in Nature shows how. Two groups of neurons hold the direction in a loop that keeps itself going. A brake that lifts at the right moment decides when that direction gets saved.",
+   "evidence": "single study · fruit flies · recordings from single neurons + computer model",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A fruit fly walks across a small arena. A puff of apple cider vinegar reaches it. The fly turns toward the smell and starts walking. Then the smell is switched off, and the fly keeps going the same way for several seconds.\n\nThat small act is working memory: holding something in mind for a short time after it is gone. You use it when you keep a login code in your head while you type it. This is a hard job for the brain. The memory must be steady enough to last for seconds. But it must also switch on at once, and clear away when it is no longer needed.\n\nFor decades, scientists have had a theory about how this works. It is called an attractor network: a group of neurons that excite each other, meaning each one makes the others fire, in a loop. Once the loop starts, it keeps itself going. The puzzle was the switch. A loop that feeds itself can get stuck. So how does a brain turn it on and off quickly? In mammal brains, with billions of tangled connections, this was very hard to test.\n\nA team at NYU, led by Katherine Nagel, studied the fruit fly instead. The fly has fewer than 200,000 neurons, and scientists have mapped every connection between them. This full wiring map is called a connectome.\n\nThe team found two types of neurons joined in a ring. One type, PFG, gets input from the fly's internal compass, the system that tracks which way the fly is facing. The other type, hΔK, is wired back and forth with PFG. Together they hold a shared \"bump\" of activity: a spot of firing that marks one direction. The bump appears when the smell arrives. It ends when the fly's walk toward the goal ends.\n\nThe key is a brake. Some signals quiet a neuron down; this is called inhibition. While the fly turns or rests, hΔK is held down this way, and the two groups come apart. PFG then just follows the compass, moment by moment. When the smell arrives, the brake lifts. The loop closes, the two groups excite each other, and whatever direction the compass shows at that moment gets locked in.\n\nThe team measured this brake directly. Inhibitory signals reaching hΔK went up during turns. They went down during the smell and during the walks toward it.\n\nSo the design splits the job. One part carries the content: the direction. The other part controls the timing: when to save it. Lifting a brake, which scientists call disinhibition, works as a gate. It writes the current reading into memory in one quick step. The press release adds that keeping the two jobs apart may protect the memory from random noise, while still allowing fast updates."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "The researchers recorded from inside single hΔK neurons. Their lasting activity depended on the loop with PFG. The neurons got slow excitation and fast inhibition from their partners. A computer model showed that this timing creates a lasting memory across a range of connection strengths. The model also matched the real turn-and-rest pattern when inhibition separated hΔK from PFG."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study in fruit flies, in one specific situation: remembering a direction toward a smell. Nagel herself says it shows how the circuit works \"in a specific context.\" The idea that the same principle explains human working memory, or problems in ADHD, schizophrenia, and dementia, is a hope based on theory. It was not tested here. The team still does not know which brain chemicals open and close the gate, or how the circuit works over longer stretches of time."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "To hold on to a memory, the fly's brain does not push harder. It stops holding back."
+    }
+   ],
+   "recall": {
+    "q": "In the fly study, what lets the PFG and hΔK neurons lock in a direction, and what happens when the fly is turning or resting?",
+    "a": "When the smell arrives, the inhibition on hΔK drops. The two groups then excite each other in a loop, and the compass direction of that moment is saved. During turns and rest, hΔK is inhibited again, the groups come apart, and PFG simply follows the live compass."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/10/short-term-memory-neuroscience-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/neurons-short-term-memory-lock-31301/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Wed, 07 Oct 2026 20:53:42 +0000"
+  }
+ ]
+}
