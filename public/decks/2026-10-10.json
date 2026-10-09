@@ -1,0 +1,929 @@
+{
+ "date": "2026-10-10",
+ "generatedAt": "2026-10-09T21:57:14.744Z",
+ "cards": [
+  {
+   "id": "letter-2026-10-10",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "Meaning under pressure",
+   "body": "Today's pieces share one quiet question: what gives a life meaning when things get hard? A philosopher asks what good you could still do with only a few months left, another splits meaning into the cosmic kind and the everyday kind, and Anne Carson wins the Nobel for writing that keeps life's stains in view. If you read one piece, read the one on Lincoln. As a young man he came so close to suicide that his friends kept watch over him, and over the years he built himself into a new man through that darkness.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "splintered-13lk5y8",
+   "source": "splintered",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Facing a fatal diagnosis: could your death do some good?",
+   "body": "Philosopher Eric Schwitzgebel imagines getting a few months to live, with no cure. All your life you gave money and time. Now, he says, you could give something else: your death, if it truly helped a good cause. Then he steps back from his own idea, and that pause is the most interesting part.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Content note: this piece talks about death and suicide.\n\nThe diagnosis comes without warning. You are young or middle-aged, and you thought you were healthy. Now you have a few months, and there is no cure. Philosopher Eric Schwitzgebel asks what else you might do with that time, beyond seeking peace, finishing a few projects and preparing the people you love.\n\nSkeptic: People say a teacher \"gave her life\" to her school. Isn't \"giving your life\" just a figure of speech?\n\nPhilosopher: Usually, yes. It means giving years and effort. Schwitzgebel means it literally. Across your life you gave money and you gave time. A fatal diagnosis makes a strange new gift possible: your death itself, if it would really help some good cause.\n\nSkeptic: What would that even look like?\n\nPhilosopher: He names four kinds. The first is symbolic martyrdom: a death that sends a message. Socrates drank poison instead of fleeing Athens. Would Plato have been as inspired if his teacher had escaped and died quietly ten years later? In 1963, the monk Thich Quang Duc set himself on fire in a Saigon street. It shocked the world into seeing how Buddhists in South Vietnam were being oppressed.\n\nThe second kind is dying to save others. Think of soldiers who stay behind to cover a retreat, or volunteers who walk into deadly radiation to contain a nuclear meltdown. The third is deadly research: a scientific advance that could only come from a fatal experiment on a person. Normally we would say \"of course not.\" For someone already dying, he writes, that \"of course\" is less certain. The fourth is an ethical crime: an act that ends in death or a life sentence but leaves the world much better.\n\nSkeptic: Here is my real problem. This is effective altruism, the movement that tries to do the most good possible with each gift, applied to a human life. Once you start ranking ways to die, aren't you close to recommending suicide? And doesn't a dying person who just wants quiet months now look selfish?\n\nPhilosopher: That is the weak point, and Schwitzgebel feels it too. He stops. He refuses to work through the four kinds carefully, because something in him pushes back. He does not want the \"cold equations\" of effective altruism here. He insists that no one who spends their last months another way is being selfish. He leans on Kant: a life, even its last small piece, should never be used only as a tool for others. It is worth something for its own sake.\n\nSkeptic: Then why raise the idea at all?\n\nPhilosopher: Because, he admits, if he got that diagnosis, these thoughts would come anyway. They might even comfort him. They would give him a real problem to think hard about, and a way to see his situation as a chance, not only a loss. And then, he guesses, he would die in the ordinary, sensible way most people do.\n\nThat leaves the open question. If your last months are worth something in themselves, can they also be a gift to others without turning you into a tool? Or is the comfort only in imagining the gift, never in giving it?"
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Even the last few months of a life are not only a tool for others. They are worth something in themselves."
+    }
+   ],
+   "recall": {
+    "q": "What does Schwitzgebel mean by 'giving your life', and why does he refuse to work out his own idea in detail?",
+    "a": "He means it literally: someone facing certain death could give their death to a good cause, as a symbol, to save others, for deadly research, or through an ethical crime. He stops because careful ranking would come close to recommending suicide. Following Kant, he holds that a life, even its last part, must never be used only as a tool for others."
+   },
+   "deepLink": "http://schwitzsplinters.blogspot.com/2026/10/giving-ones-life.html",
+   "attribution": "The Splintered Mind",
+   "publishedAt": "2026-10-09T10:39:05.156-07:00"
+  },
+  {
+   "id": "et-economy-10i7qsc",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Rural job requests jump 25% in one month under VB-G RAM G",
+   "body": "In September, 15.6 million rural households asked for work under VB-G RAM G, India's new rural jobs scheme. That is 25% more than in August. The report gives no reason for the rise. So the number alone cannot tell us if village life is getting harder.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "VB-G RAM G started in July. It promises 125 days of work a year.\n\nTo picture the jump: about 3.1 million more households asked for work than in August. That is roughly one extra household for every four that asked the month before."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Households asking for work: 12.5 million in August, 15.6 million in September (up 25.2%)",
+      "People asking for work: 15.4 million in August, 18.8 million in September",
+      "Only three months of data so far, so there is no year-earlier figure to compare with"
+     ]
+    },
+    {
+     "label": "What it does and does not prove",
+     "style": "note",
+     "text": "Demand for guaranteed work is often read as a sign of how rural families are doing. This number proves that more people asked for work. It does not prove why they asked. It also does not prove that rural distress, meaning money trouble in villages, is growing. Treat it as a signal to watch, not as proof."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Does demand keep rising after September? Once the scheme has a year of data, compare each month with the same month a year earlier."
+    }
+   ],
+   "recall": {
+    "q": "How much did demand for work under VB-G RAM G rise in September, and why can't the number alone prove rural distress?",
+    "a": "Households asking for work rose 25.2%, from 12.5 million in August to 15.6 million in September. The report gives no reason for the rise. The scheme began only in July, so there is no year-earlier figure to compare with. The number shows that more people asked for work, not why."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-134840269,imgsize-175852.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/agriculture/rural-job-demand-under-vb-g-ram-g-jumps-25-in-september-15-6-million-households-seek-work/articleshow/134840269.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Fri, 09 Oct 2026 23:25:40 +0530"
+  },
+  {
+   "id": "psypost-18j9rk7",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "In the US, choosing similar partners leaves a growing mark in DNA",
+   "body": "When people pair up with partners like themselves, it leaves a mark in the DNA of later generations. In a large gene study, this mark for education more than doubled between Americans born in the 1930s and those born around 2000. This does not mean our genes choose our partners.",
+   "evidence": "single study · 82,398 UK couples · 333,491 UK and 228,875 US unrelated adults · European ancestry only",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Take one person's chromosomes and sort them into two piles: even numbers on one side, odd numbers on the other. Now ask a strange question. Does the education-linked DNA in one pile predict the education-linked DNA in the other?\n\nIf people paired up at random, it would not. Genes on different chromosomes are passed on separately, so the two piles should have nothing to do with each other. A link appears only if parents, grandparents and earlier couples kept choosing partners like themselves. This is called assortative mating. Over generations, it gathers similar DNA together inside families.\n\nTo measure that DNA, the study used polygenic scores. A polygenic score adds up thousands of tiny DNA differences into one number. It estimates a person's genetic leaning toward a trait. Gretchen Saunders of the University of Minnesota built these scores for eight traits. They included education, height, body size, and smoking and drinking habits. She used two big gene banks: the UK Biobank and the American All of Us program.\n\nFirst, the basic picture. Among about 82,000 UK couples, partners matched most on education and on weekly drinking. The scores were 0.45 and 0.42, on a scale where 0 means no likeness and 1 means a perfect match. Their genetic scores matched too, but much less: 0.16 for education and 0.08 for height. The gap was biggest for habits that can change during a relationship, like drinks per week. So couples also seem to grow alike by sharing a life.\n\nNow, old versus young. The US sample covered birth years from 1900 to 2005. For Americans born in the 1930s, the even-odd link for education was about 0.04. For those born around 2000, it was about 0.09. The signals for starting and quitting smoking rose too. In the UK, among people born between 1936 and 1970, the picture stayed mostly flat. Only quitting smoking rose.\n\nWhy would the American signal grow? Saunders gives three possible reasons. American higher education grew faster and in more varied ways. The fall in US smoking split more sharply along social lines. And the US sample covered a much wider range of years, so small changes were easier to spot.\n\nNone of this shows that genes pick partners, or that anyone can sense another person's DNA. People meet in schools, workplaces and neighbourhoods that have already sorted them. An earlier study found that couples match on education mostly because they share family and social backgrounds, not because they choose for degrees. When those places sort people more tightly, the sorting can show up in DNA generations later."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is a single study. It used only people of European genetic ancestry. The rising trend appeared in the US sample, not the UK one. The study compares people born in different years. It did not follow couples across generations. So differences in who joined the study, who lived longer, and who made up the population could shape the result. An outside expert, Norbert Meskó, finds the evidence for partner matching stronger than the evidence that it grew. In the UK data, spouses were identified by shared addresses, so some pairs may be wrong. An education score is a statistical guess, not a measure of a person's fixed potential. This may affect inequality, but the study did not show that."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Where we meet shapes who we marry, and our DNA keeps the record."
+    }
+   ],
+   "recall": {
+    "q": "How can one person's DNA show that earlier couples chose similar partners, and what happened to this signal for education in the US?",
+    "a": "With random pairing, education-linked DNA on the even-numbered chromosomes would have no link to the same kind of DNA on the odd-numbered ones. A link means earlier generations paired up with people like themselves. In the US, this link for education rose from about 0.04 for people born in the 1930s to about 0.09 for people born around 2000. But the study compared people born in different years, which can carry bias."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/dna.jpg",
+   "deepLink": "https://www.psypost.org/the-genetic-signature-of-assortative-mating-appears-to-be-growing-stronger-in-the-united-states/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 09 Oct 2026 10:00:11 +0000"
+  },
+  {
+   "id": "paris-review-xmrwv9",
+   "source": "paris-review",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Anne Carson's Nobel: the writer who keeps the stains",
+   "body": "Anne Carson, a Canadian poet, essayist, translator and scholar of ancient Greek, has won the 2026 Nobel Prize in Literature. Her central idea is simple and strange: damaged old things carry more life than perfect new ones. She has built new kinds of writing out of that belief.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Anne Carson would rather have the page with the tea stain. In a 2004 interview with The Paris Review, she said a page with a poem on it is less attractive than the same page with a few stains. The stains add a bit of history. Perfection on the surface, she said, is less interesting.\n\nThis taste comes from her day job. Carson is a classicist, which means she studies ancient Greek and Roman texts. At the time, she taught classics at the University of Michigan. The Greek writing she studies reaches us broken and in pieces.\n\nShe once told the life story of one papyrus. Papyrus was the paper of the ancient world, made from a plant. Someone wrote on this sheet in the third century B.C. Later it was copied. Then it was wrapped around a mummy for a couple of hundred years. Then it was dug up, put in a museum, pieced together by nine different gentlemen, photographed, and printed in a book. Each layer, she said, adds more life. She thinks people can live this way too. Even the stains on our clothes count.\n\nThis idea runs through her work. Carson does not stay inside one form. She writes poems, essays and translations, and she mixes them. The Paris Review alone has published her poems, short fiction, a radio play, and a piece it called narrative art. Old texts and new shapes sit side by side, like the layers on that papyrus.\n\nHere is the friction: all this mixing makes her hard to label. In 2004 she did not like calling herself a poet, even though poetry is what she is best known for. She also said why she writes: \"I write to find out what I think.\" For her, writing is not a box for finished answers. It is the thinking itself. So the reader gets the search, not just the result.\n\nThe Nobel committee praised exactly this. It honored her for work that, \"in playful dialogue with the classical tradition,\" created new forms for contemporary literature. Notice what it rewards. Not a perfect novel. Not a perfect book of poems. It rewards the mixing. In 2026, literature's highest prize went to a writer who keeps the stains, talks with the ancient dead, and builds new shapes from the pieces."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Carson is a classicist first. Her love of old, broken texts shapes everything she writes.",
+      "Her core belief: time and damage add life to a thing. They do not take it away.",
+      "She mixes poems, essays, translation, fiction and radio drama, and has pushed back on the label \"poet\".",
+      "The Nobel citation praises her new forms, not one perfect book."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Your stains are not damage to hide. They are the history that makes the page worth reading."
+    }
+   ],
+   "recall": {
+    "q": "Why does Carson prefer a tea-stained page, and how does that link to her work as a classicist?",
+    "a": "Stains add history. Ancient Greek texts reach us the same way: copied, buried, dug up and pieced back together. She believes each layer adds more life. Her writing mixes old texts with new forms in that spirit, and the Nobel praised her for those new forms."
+   },
+   "imageUrl": "https://www.theparisreview.org/blog/wp-content/uploads/2026/10/anneforpodcastupload1-300x195.png",
+   "deepLink": "https://www.theparisreview.org/blog/2026/10/08/anne-carson-nobel-prize/",
+   "attribution": "The Paris Review",
+   "publishedAt": "Thu, 08 Oct 2026 19:18:27 +0000"
+  },
+  {
+   "id": "conv-psych-oxg6jn",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Women score higher on emotional intelligence. But why?",
+   "body": "A review of nearly 30 years of research, covering more than 600,000 people in 76 countries, finds that women score higher on emotional intelligence on average. The gap is mostly in reading and calming other people's feelings. It is smaller in children and has shrunk over time. That hints at practice, not biology, but the data cannot prove the cause.",
+   "evidence": "review of earlier research · 1995–2023 · 76 countries · 600,000+ people",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In a meeting, someone's idea gets ignored. They go quiet. Who in the room notices and brings them back in? Many people would picture a woman. Popular psychology treats this as fact, so a team of researchers decided to test it.\n\nFirst, what we know. Emotional intelligence means the ability to notice, understand and manage feelings, both your own and other people's. The team pulled together research from 1995 to 2023, covering more than 600,000 people in 76 countries. Their answer: on average, women score higher.\n\nThe more useful finding is where the gap sits. It is mostly about other people's feelings: seeing what someone feels, understanding why, and helping them manage it. These are averages. Plenty of men are excellent at this, and plenty of women are not.\n\nWhat we don't know is why the gap exists. The authors cannot rule out biology or hormones. But two patterns point elsewhere. The gap is far smaller in children than in adults. And it has been shrinking over the three decades. A trait fixed at birth should not behave like that.\n\nTheir best guess is practice. Other research finds that parents use more emotion words with daughters. They also ask girls more often to talk through their feelings. Boys are more often taught to push feelings down. A separate 2019 review of 58 studies found that emotional intelligence can be trained, and that training worked about as well for men as for women. All of this fits the practice idea. Fitting is not proof.\n\nThere is also a question about the tests themselves. The article does not say how emotional intelligence was measured. So we cannot tell how well these scores match real skill in real life.\n\nThe debated part is why the authors call the gap a problem. Their worry: if the skill is seen as just how women are, it gets taken for granted. The colleague who calms tension becomes the one always expected to do it. A skill turns into a duty that is unpaid and missing from performance reviews. The same happens at home, with the person who always checks in on others. This is an argument built on top of the data, not something the review measured. The authors want employers to name and reward this work, and to train everyone in it.\n\nHow would we find out? Follow children as they grow, and track how much emotional talk each child gets at home. If practice drives the gap, more emotional talk should predict higher scores, for boys too. And at work, measure who actually does the calming, and whether it shows up in pay and promotion."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is a review of earlier research, not one new experiment. It shows averages, not facts about any one person. It cannot say what causes the gap. And without knowing how emotional intelligence was measured, we cannot judge how well the tests capture real-life skill."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The person everyone turns to when things get hard may not have been born that way. They may just have had more practice."
+    }
+   ],
+   "recall": {
+    "q": "Where exactly is women's emotional-intelligence advantage concentrated, and what two patterns make the authors doubt it is fixed by biology?",
+    "a": "Mostly in handling other people's feelings: noticing what someone feels, understanding why, and helping them manage it. The gap is much smaller in children than in adults, and it shrank from 1995 to 2023. That fits a skill built through practice better than a trait fixed at birth, though the data cannot prove the cause."
+   },
+   "imageUrl": "https://images.theconversation.com/files/763828/original/file-20261005-50-9fo9ix.jpg?ixlib=rb-4.1.1&amp;rect=0%2C614%2C7360%2C3680&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/women-are-more-emotionally-intelligent-than-men-and-thats-a-problem-landmark-study-293385",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-10-09T09:09:45Z"
+  },
+  {
+   "id": "bbc-world-jss0et",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Trump lets Russia sell diesel; Zelensky objects",
+   "body": "Donald Trump says Vladimir Putin has agreed to release 1.8 million tonnes of Russian diesel onto the world market. The US has already eased its sanctions to allow it. Ukraine's president calls it a gift to Putin that will help pay for the war.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "US President Donald Trump says he has made a deal with Putin. Russia will sell diesel on the world market right away: 300,000 tonnes now, 500,000 tonnes in November, then another million. The US Treasury quickly gave a temporary license. This is a special permission that lets Russian diesel get past US sanctions, the trade penalties meant to cut Russia's income.\n\nUkraine's President Volodymyr Zelensky said \"gifts to Putin\" will not bring peace. Letting Russia sell fuel, he wrote, is an investment in a war that should be ending. This year, Ukrainian drone strikes on Russian refineries caused two waves of fuel shortages inside Russia. Trump has blamed these strikes for high fuel prices. Zelensky says they answer Russia's attacks on Ukraine's energy system.\n\nTrump's reason is prices at home. US diesel prices have doubled since the war with Iran began in February. That hurts Republicans before the midterm elections. He has also pushed G7 countries to release 100 million barrels of oil and diesel from their reserves."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "$6.28 a gallon: average US diesel price now, down from a record $6.53 at the end of September",
+      "Nearly 30%: how much Russia's diesel output has fallen after the drone strikes, by the International Energy Agency's estimate",
+      "Over $103 a barrel: Brent crude, the global oil price benchmark, up from about $73 before the Iran war"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Sanctions on Russia's energy sales are one of the West's main tools against its war budget. This deal loosens that tool to lower prices for American drivers. Ukraine reads it as Washington taking Moscow's side."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Two questions are still open: will the deal lower prices, and what is the US giving Russia in return? The BBC has asked the White House. No answer has been reported yet."
+    }
+   ],
+   "recall": {
+    "q": "What does Trump's diesel deal allow, and why does Zelensky oppose it?",
+    "a": "It lets Russia sell 1.8 million tonnes of diesel on world markets, under a temporary US license that gets around sanctions. Trump wants lower US diesel prices. Zelensky says letting Russia sell fuel is an investment in a war that should be ending."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Fri, 09 Oct 2026 20:32:42 GMT"
+  },
+  {
+   "id": "psyche-vehp2o",
+   "source": "psyche",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Stuck after a breakup? Moving on can make you better",
+   "body": "Philosopher Matthew Barnfield argues that time alone does not heal a broken heart. Moving on is active work. You act as if you already value a life without your ex, before you truly feel it. Doing that work makes you a better person, not only a calmer one.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Maybe you still check their profile at night. A friend invites you out, and you say you are tired. People tell you to wait. Time heals a broken heart, they say, the way it heals a broken bone.\n\nMatthew Barnfield, a philosopher at Queen Mary University of London, agrees with part of this. You cannot simply decide to stop loving someone. As the writer Iris Murdoch put it, falling out of love is not \"a jump of the will.\" But Barnfield thinks waiting is the wrong picture. A broken bone with no splint heals badly. And the loss itself is permanent. Time does not make it less final. If all you could do was wait, you would have no say in who you become.\n\nSo why is moving on so hard? In a good relationship, your values fit together. Take two lovers, Joel and Clementine. Joel turns down attractive strangers on a night out. Clementine picks jobs that let her live near Joel. Loving each other fits the rest of their lives.\n\nThen Clementine leaves, and Joel's values split in two. Most of him wants her back. A small part knows that a life of heartbreak is no way to live. That part sees value in not needing her. But you cannot act on two opposite values at once. So Joel skips his friends to sulk. He lets his colleagues down, because a future without her feels pointless.\n\nThe way out, Barnfield says, is to act as if you already hold the value you do not yet feel. The philosopher Agnes Callard calls this aspiration: the slow work of becoming a different, better person. You only half-see why moving on is good. You also know your view is incomplete. That small spark of motivation is enough to start.\n\nSo Joel's friends drag him out. He does not have a good time. He dances while dreaming of going home to Clementine. It feels fake. But he gets a glimpse: he can survive this, and a life without her has things to offer. Slowly he starts seeking new experiences. At first it is an exercise. Then it is because he begins to see their worth. Moving on, in this view, is a kind of learning.\n\nWhy does this make you better, and not only happier? Barnfield follows the philosopher Christine Korsgaard here. Acting steadily on your values is how you build yourself as a person. Every choice pulls you in different directions. When you choose for reasons you stand behind, you are acting, not just reacting. People whose values fit together see more clearly what is fair to expect of themselves and others. They act with integrity, meaning their actions match what they believe, and with respect. When your values are broken, this is hard to see. So when Joel shows up for his friends and does his work while still hurting, he is already becoming the better person he is aiming to be."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Go to the dinner even if you know you will feel fake there. Feeling fake is how this kind of learning starts.",
+      "Keep your promises to friends and colleagues on the bad days. That is where your values start to fit together again.",
+      "Notice the small moments when a life without them looks livable. Those glimpses are the new value coming into view."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Do not wait to heal. Take one small step today. With time, you will not just recover. You will improve."
+    }
+   ],
+   "recall": {
+    "q": "Why does Barnfield say waiting for time to heal is not enough, and what makes moving on a moral improvement?",
+    "a": "The loss is permanent, so time alone changes nothing and gives you no say in who you become. You must act as if you already value a life after the breakup, and that slowly teaches you the value. Bringing your values back together lets you act consistently, with integrity and respect toward yourself and others. That is what makes you a better person."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/7c9f76a4-1d2c-4a7d-a53c-bf2eda39cdcc/sz-final-gettyimages-167876161.jpg?top=129&left=0&cropWidth=2624&cropHeight=1476&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/ideas/why-moving-on-after-a-breakup-makes-you-a-better-person",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Fri, 09 Oct 2026 10:00:00 GMT"
+  },
+  {
+   "id": "ndpr-189glvq",
+   "source": "ndpr",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Is race real? A philosopher says no, but racism is",
+   "body": "Philosopher Adam Hochman argues that human races do not exist, either in our genes or in society. But he says racism is fully real, because racialization is real. Racialization is the process of sorting people into 'races'. A leading review calls his book the strongest case of its kind in over thirty years.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Someone tells you that human races do not exist. The reply comes fast: then how can there be racism? Adam Hochman's book The Race Illusion is built to answer that question. Philosopher Kevin Richardson reviewed it in Notre Dame Philosophical Reviews. He calls it the most convincing case of its kind since the early 1990s.\n\nFirst, the idea on trial. Most philosophers in this debate are racial realists, which means they think races are real. They disagree on what makes races real. Some say biology: ancestry and genes. Others say society: culture, politics, and how groups are treated. Hochman rejects both. He is an anti-realist. In his view, there are no human races.\n\nBiological race comes in two main versions. The older one says races are populations: people who live in one area, share ancestors, and will likely share descendants. The newer and stronger one comes from philosopher Quayshawn Spencer. It says races are genetic clusters, the groups that DNA data sorts people into.\n\nHochman finds the same two flaws in both. First, they change the subject. Many populations exist that nobody calls a race. And the clusters that genes produce do not match the races ordinary people recognize. Second, they make race trivial. If a race is just one cluster among many, it tells us nothing interesting about human variety. Better DNA tools cannot fix this, he argues, because the problem is the idea, not the data. Richardson finds this part convincing, but notes the arguments are not new.\n\nSocial race is harder to beat. Hochman says its problem is inflation: it lets too much count as race. If culture and social recognition define race, ethnic groups start to count as races too. And if a group becomes a race just because people see it as one, race comes too easily. Seeing someone as a witch does not make them a witch.\n\nRichardson is less convinced here, for reasons in the note below. He also points out that social realism, the leading view, gets only about half the pages that biology gets.\n\nSo what survives? Hochman refuses to stop at 'there are no races'. He calls that bare view incomplete and \"dangerous\", because it leaves us no words for racism or past injustice. So he keeps two things. Racialization is the process by which a group comes to be seen as a biological race. Racialized groups are the result. Both are real. Racialization is something others do to you, not something you are. This helps in medicine too. Say a health gap affects a racialized group, not a race, and it is harder to wrongly blame genes.\n\nThe verdict. Biological race, as a claim about what races are, looks refuted. Social race is contested, not buried. Richardson calls the book the definitive case for the anti-realist side, but not the end of the debate. And one point must stay exact: 'race is a myth' does not mean 'racism isn't real'. Sorting people into races is a real act with real victims. Hochman's account is built to keep that in view."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "The social realist's best reply: the witch argument proves too much. It hits social construction in general, not race in particular. (Social construction is the idea that some things are real because of how society treats them.) If the argument works, it weakens every such theory. But careful theories already explain how society can make something real without making it whatever people happen to believe. On this view, race could still be a real social kind."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Race may be an illusion. Being racialized is not."
+    }
+   ],
+   "recall": {
+    "q": "Hochman says there are no human races. What does he keep, and why does he think a plain 'no races' view is dangerous?",
+    "a": "He keeps racialization, the process by which a group comes to be seen as a biological race, and the racialized groups it creates. Without these ideas, we would have no words for racism or past racial injustice. So denying race is not denying racism."
+   },
+   "imageUrl": "https://ndpr.nd.edu/assets/682085/hochman.jpg",
+   "deepLink": "https://ndpr.nd.edu/reviews/the-race-illusion-on-the-reality-of-racialization-and-the-myth-of-race/",
+   "attribution": "Notre Dame Philosophical Reviews",
+   "publishedAt": "Fri, 09 Oct 2026 06:47:00 -0400"
+  },
+  {
+   "id": "et-economy-qls69i",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Food makers warn a Super El Niño could hit crops in 2027",
+   "body": "India's food industry is warning of a possible supply shock in 2027. The cause would be a Super El Niño, a strong form of a weather pattern that can bring drought. Sugar, oilseeds and animal feed are the main worries.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "India's food industry is warning of a possible supply shock in 2027, caused by a Super El Niño. El Niño is a warming of the Pacific Ocean that changes weather around the world. In India it often means weaker rain. A \"Super\" El Niño is an unusually strong one.\n\nExperts quoted in the report say it could hurt crop production and push food prices up faster. Food prices are already a worry: the veg thali recently cost about 10% more than a year earlier. A bad harvest would add to that pressure."
+    },
+    {
+     "label": "The details",
+     "style": "list",
+     "items": [
+      "Sugar and oilseeds (crops pressed for cooking oil) are the biggest worries.",
+      "The risk is highest in states that already face severe drought.",
+      "Livestock farmers expect animal feed to cost more, which could raise the price of milk, eggs and meat.",
+      "The report gives no estimate of how big the losses could be."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "When crops fail, there is less food to sell and prices rise. That raises food inflation, meaning food prices go up faster. This hurts poorer households most, because food takes a bigger share of what they spend."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The shock is expected in 2027, so for now this is a warning, not a shortage. The real test will be the rain: if it falls short in the drought-hit states, the warning will come true."
+    }
+   ],
+   "recall": {
+    "q": "Why is India's food industry worried about a Super El Niño, and which products are most at risk?",
+    "a": "A Super El Niño often weakens India's rains, which could cut harvests in 2027 and push food prices up. Sugar and oilseeds are the main worries, especially in drought-hit states. Livestock farmers also expect feed to cost more."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-134841347,imgsize-187046.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/agriculture/food-industry-warns-of-supply-shock-over-super-el-nino/articleshow/134841347.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Sat, 10 Oct 2026 00:06:20 +0530"
+  },
+  {
+   "id": "psypost-1026rp6",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why some people still feel numb after depression lifts",
+   "body": "In a Thai study of 106 people being treated for depression or bipolar disorder, more than half said their feelings had gone dull. Among those whose illness had lifted, 45% still felt this way. How many symptoms they had left made no difference.",
+   "evidence": "single study · n=106 · self-report · no comparison group · cannot show cause",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The doctor's scale says the depression is gone. Few symptoms remain. But the patient says something the scale cannot measure: \"I don't care about things I used to care about.\" There is no joy, and there are no tears either.\n\nThis is called emotional blunting. It means your feelings react less than they should. It covers apathy, low motivation, anhedonia (a weaker ability to feel pleasure), numbness, and less empathy. The puzzle is simple. If the illness has lifted, why are the feelings still turned down?\n\nResearchers at Khon Kaen University in Thailand studied 106 outpatients. They had major depression (61), persistent depressive disorder (19), or bipolar I disorder (26). Persistent depressive disorder is a mild depression that lasts two years or more. All had mild to moderate symptoms. All had been on the same antidepressant for at least a month. Half were in remission, which means they had few symptoms left.\n\nOverall, 56% reported blunting. The rate was about the same in all three illnesses: 51%, 63% and 62%. The gaps were small enough to be chance.\n\nNow test the first obvious answer: it is just leftover depression. That is partly true. Blunting was less common in people in remission, 45% against 66%. Across the whole group, people with worse symptoms and more past mood episodes reported somewhat stronger blunting. But among people in remission, blunting had no link to how many symptoms they still had. Something else was holding it in place.\n\nThe second obvious answer is the pills. SSRIs, a common type of antidepressant, are known to leave some people not caring or unable to cry. In this study, more than 90% blamed their medicine for at least some of their blunting. But everyone was on an antidepressant. With no recovered patients off medicine to compare, the study cannot tell a side effect from a leftover symptom.\n\nSo the researchers looked at childhood. Total blunting scores had no link to any kind of childhood hardship. One part did, weakly. The feeling of not caring was stronger in people who remembered more emotional or physical abuse as children. It was also stronger in people who got less emotional support from family. Among people in remission, feeling detached also went with more violence at home.\n\nThen the researchers removed the effect of how much each person blamed their medicine. Only one link was still significant: not caring went with low emotional support in childhood.\n\nSo the honest answer is partial. The illness explains some of the flatness. The drugs probably explain some too. One faint thread may go back to how much warmth a person got as a child. How much each cause adds, and which one matters most for a given person, is still unknown."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one small study from one hospital, and it shows links, not causes. Adults recalled their own childhoods, so memory may have shaped the answers. The childhood links were weak and touched only parts of the questionnaire. Most people scored in the minimal range of the full blunting measure, and only one scored as severe."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "text": "Feeling flat was common: 56% overall, and 45% even after remission.\nIn people in remission, blunting did not depend on how many symptoms were left.\nThe study cannot separate the illness from the medicine, because everyone was on an antidepressant.\nThe only link that survived every check was between not caring and low emotional support in childhood."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Getting better can mean losing the pain without getting the feeling back, and science cannot yet say which part to blame."
+    }
+   ],
+   "recall": {
+    "q": "Why can't the flatness in recovered patients be fully blamed on the illness or on the antidepressants?",
+    "a": "In patients in remission, blunting did not depend on how many symptoms were left, so leftover illness does not explain it all. Every patient was on an antidepressant and there was no medicine-free group to compare, so the study cannot tell a side effect from a leftover symptom."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/sad-asian-woman.jpg",
+   "deepLink": "https://www.psypost.org/emotional-blunting-is-common-in-depression-and-bipolar-disorder-even-after-symptoms-ease/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 09 Oct 2026 18:00:15 +0000"
+  },
+  {
+   "id": "leap-blog-4n2vb5",
+   "source": "leap-blog",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Did rich countries get rich by building fair taxes first?",
+   "body": "The usual story says rich countries grew strong because citizens agreed to pay taxes through parliaments. Yuen Yuen Ang calls this a cleaned-up fairy tale. Governments often borrowed, sold land and took big risks first. They wrote the rules for tax and debt later.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In 1841 and 1842, several American states stopped paying their debts. They had borrowed through banks and bonds to build canals and railroads. It sounds like a lesson in what not to do. But Yuen Yuen Ang's essay Fairy Tales of Western Development, reviewed by Anirudh Burman, says this is closer to how a rich country was really built.\n\nFirst, the fairy tale. Rich countries gained \"fiscal capacity\", meaning the power to raise and manage public money, through good institutions. Parliaments won citizens' consent to taxes, and the state gave public goods in return. So poor countries should copy this: build elected institutions, collect taxes well, and growth will follow.\n\nThe story is believable because part of it is true. After 1688, Britain's new constitutional rules limited the Crown. Economists North and Weingast showed that this made lenders trust the government, so it could borrow much more.\n\nBut Ang says this history has been cleaned up. Britain also grew on heavy taxes, monopoly profits, wealth taken from colonies, slavery, and trade barriers that protected its own producers. Ordinary buyers paid heavy taxes on goods to a Parliament that may not have represented them. Consent was not the whole engine.\n\nHer better account starts with \"taxless finance\", a term from historian John Wallis. It means paying for roads and canals without raising today's taxes: selling or leasing land, borrowing, or selling monopoly rights. In the early 1800s, people resisted direct taxes, so US states did exactly this. They put money into banks, canals and railroads, and earned tolls, bank dividends and money from land sales. Many states cut their state property tax, or even ended it. Then came the Panic of 1837 and the defaults. Reforms followed: limits on borrowing, new rules for setting up companies, and more uniform taxes.\n\nFor Ang, this is the real pattern. Risky borrowing and building come first. Rules and taxes come later and lock in the gains. She calls the skill behind it Adaptive Fiscal Capacity: a government's ability to change its mix of taxes and taxless money as conditions change.\n\nChina shows the same pattern on a huge scale, and its risks are not yet settled. After a 1994 tax reform, local governments still had to pay for schools, health care and infrastructure. But they could not create new taxes, and their direct borrowing was limited. So they leased land-use rights to developers for one-time fees. They also borrowed through state-owned companies, using land as collateral, which is property a lender can take if a loan is not repaid. From the 2000s, roads and utilities spread. So did debt. If land prices fall, taxpayers carry the losses.\n\nWhy does the fairy tale survive? The tidy version became the model handed to poorer countries as advice. It leaves out the improvising, the crashes and the repairs.\n\nBurman applies this to India. Talk about city finances focuses on property tax, and the RBI reports that property-tax income has not kept up with rising property values. But cities also earn from development charges and premium FSI charges, which are fees for permission to build extra floor area. Through Ang's lens, these are a real part of the system, not just a patch for weak taxes. Burman adds a warning. A land sale is one-time money, not yearly income. And the agency that collects it is often not the city body that must later maintain the roads."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "Ang's evidence makes the story wider, but it does not disprove the narrower claim: limits on rulers helped governments borrow. Borrowing is one of her own tools. Burman also names open questions. Who carries the costs and risks? And how does early fundraising turn into services that last?"
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The rules often came after the building, not before it."
+    }
+   ],
+   "recall": {
+    "q": "What does Ang say the 'fairy tale' leaves out, and what actually happened in the early United States?",
+    "a": "The fairy tale says consent to taxes through parliaments built strong states. It leaves out heavy taxes, monopolies, colonial wealth, slavery and taxless finance. US states paid for canals and railroads with land, banks and bonds, and cut property taxes. After the 1837 panic and the defaults, they reformed borrowing and taxes. Risk came first; rules locked in the gains later."
+   },
+   "deepLink": "https://blog.theleapjournal.org/2026/10/fairy-tales-of-western-development-by.html",
+   "attribution": "The Leap Blog",
+   "publishedAt": "2026-10-08T13:27:05.515+05:30"
+  },
+  {
+   "id": "bbc-world-ikkmsi",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Ukrainian drones hit two Yandex data centres in two days",
+   "body": "Ukrainian drones have hit two of the five data centres run by Yandex, the company often called Russia's Google. Yandex says it is struggling to keep its services running and cannot say when they will be fully back. Data centres are now wartime targets on both sides.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A data centre is a large building full of computers that store data and run apps. Yandex runs Russia's most popular search engine. It also runs food-ordering and taxi apps used by tens of millions of people.\n\nThe first hit was overnight into Thursday, at the Sasovo site in the Ryazan region. It was badly damaged, and all work there stopped. The site holds two of the three supercomputers Yandex uses to build its AI model. Nobody knows yet if they survived. On Friday, drones hit the Kaluga site, one of Russia's largest. Part of it went offline. Some AI chatbot features are down, and smart home devices may have problems.\n\nZelensky calls this a \"mirror-like\" answer, meaning a reply in kind, to weeks of Russian strikes on Ukrainian data centres."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "2 of 5: Yandex data centres hit in about 48 hours",
+      "130,000 sq m: size of the Kaluga site. It uses as much electricity in a year as 220,000 UK homes",
+      "0: Yandex staff hurt. Kaluga's governor said 9 people were hurt in a drone attack on the city's infrastructure",
+      "About 100,000: households in and around Kyiv that lost internet after a Russian strike last month. That strike also killed four people"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Both sides now treat computer buildings like power plants: targets to destroy. Kyiv says it is going after money that pays for Russia's war, and wants Moscow to spend resources on repairs. Moscow says Ukraine's data centres served military intelligence. Ukraine says Russia hits civilian life on purpose. Some Ukrainian firms have already started moving their data to servers in other countries."
+    }
+   ],
+   "recall": {
+    "q": "What did the strikes on Yandex break, and why does Ukraine say it hit data centres?",
+    "a": "The Sasovo site, which holds two of Yandex's three AI supercomputers, stopped working. Part of the large Kaluga site went offline, which hit chatbot and smart home services. Ukraine says it was answering Russia's strikes on Ukrainian data centres in kind. It says it is going after money that funds the war and making Russia spend on repairs."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e67c/live/c75f8690-c3fb-11f1-9a39-31b474234113.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Fri, 09 Oct 2026 17:14:44 GMT"
+  },
+  {
+   "id": "sd-mind-1pbub4i",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Quitting smoking: vapes beat patches and gum across 80 trials",
+   "body": "Across 80 trials and nearly 30,000 smokers, nicotine e-cigarettes helped more people quit than patches, gum, counseling, or no help at all. Against patches and gum, about 4 more people in every 100 quit, and the researchers rate that evidence as high-certainty.",
+   "evidence": "living systematic review · 80 randomized trials · n=29,861 · high certainty for vapes vs patches/gum, lower certainty vs",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Nearly 30,000 smokers tried to quit. Some got nicotine patches or nicotine gum. Some got counseling or joined group programs. Some got no help at all. And some got e-cigarettes. These are battery devices that heat a liquid with nicotine in it into a vapor you breathe in. Nicotine is the addictive chemical in tobacco.\n\nWhich group quit best? Make a guess before you read on.\n\nMany people pick counseling, because talking through a habit sounds like real change. Others pick patches or gum, because they are medicines sold in pharmacies. Few people pick the vape. You hold it like a cigarette, and it still gives you nicotine. It looks like swapping one habit for the same habit.\n\nThe vape won. The result comes from a Cochrane review. Cochrane is a group that collects all the good trials on a question and combines the results. This review is \"living\": it gets updated as new trials come out. The newest update added nine trials, and the main answer stayed the same.\n\nAgainst patches and gum, nicotine e-cigarettes led to about 4 more quitters for every 100 people who tried. The team rates this as high-certainty evidence, the strongest grade. Nicotine vapes also beat vapes with no nicotine, by about 2 more quitters per 100. They beat counseling and quitting with no help too. But the team is less sure about that result, because some of those trials were set up in ways that could tilt the results.\n\nSo why do most people guess wrong? Lead author Nicola Lindson points to the trap. We compare vapes with perfect health. Next to perfect health, vapes look bad, because they are not risk-free. But a smoker's real choice is between vaping and smoking. Next to smoking, vapes are much less harmful.\n\nSenior author Jamie Hartmann-Boyce sees vaping as a step on the way out, not the end goal. Her team is now studying ways to help people quit vaping too."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "These results apply only to regulated e-cigarettes with nicotine. Illegal vapes, and vapes with other substances such as THC, may carry different risks. Unlicensed devices can have unsafe batteries and harmful chemicals. So the authors say to buy only devices your country's regulator has approved. In the US, the FDA keeps a list. In the UK, the MHRA does. The review found no sign that vaping to quit raised the risk of serious harm, but longer studies are still needed. The WHO still warns that vapes expose users to nicotine and other harmful chemicals. Health officials also worry that young people who vape can get hooked on nicotine. Vapes are not the best method for everyone. The researchers suggest talking to a doctor or a stop-smoking service first."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Judge a way to quit against the cigarette, not against perfection."
+    }
+   ],
+   "recall": {
+    "q": "Which quit method came out on top, by how much did it beat patches and gum, and why do most people guess it wrong?",
+    "a": "Nicotine e-cigarettes. About 4 more people per 100 quit with them than with patches or gum, and the evidence is rated high-certainty. People guess wrong because they compare vapes with perfect health. The fair comparison is with carrying on smoking."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/woman-breaking-cigarette-close-up.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/10/261006234524.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Thu, 08 Oct 2026 22:07:28 EDT"
+  },
+  {
+   "id": "iai-1jxqqbm",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "9/11 truthers: the middle chapter of a long conspiracy story",
+   "body": "Historian Andrew McKenzie-McHarg traces conspiracy theories from Kennedy to QAnon. One thing keeps growing along the way: how much evil believers see hidden inside power.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "On the evening of September 11, 2001, almost everyone agreed on one thing: nothing would be the same again. A quarter-century later, historian Andrew McKenzie-McHarg sees it differently. To him, the attacks were not a clean break. They were one step on a long road: the history of conspiracy theories. What changes along that road is how much evil people imagine is hiding inside power.\n\nHe does not start by defining a conspiracy theory. That is hard to do, and the definition you pick decides how old they seem. Instead, he traces their family tree through their ingredients. One key ingredient is a strong feeling that evil is at work in the world. Follow that one ingredient, and clear steps appear.\n\n1963: President Kennedy is shot in Dallas. Many people doubt the official account. At this point it is only doubt, not yet a story about evil.\n\nLate 1960s: The doubt hardens into a suspicion that the CIA may have played a part. The villain is now a \"rogue\" branch: one part of the government gone wrong, not the whole of it.\n\n2001: Nineteen al-Qaeda men hijack passenger planes and aim them like missiles at centres of American political and financial power. This is the day that seemed to change everything.\n\nThe years after: The \"truthers\" appear. They say the official story is only what the authorities want you to believe. They accuse President George W. Bush's government of being ruthless. McKenzie-McHarg says \"doubters\" would be a better name. They never agreed on one truth. What held them together was a shared, deep doubt. The evil now sits at the top of a whole government, not in one agency.\n\nMore recently: QAnon imagines a cabal, a small secret group, hidden deep inside the government and committing terrible crimes as routine. Now the evil is total: a \"deep state\", the hidden machinery of government, rotten beyond repair.\n\n2026: With 25 years of distance, the pattern is easy to see. The 9/11 theories sit in the middle. They are darker than the Kennedy suspicion of a rogue CIA, and lighter than QAnon's fully corrupt state.\n\nThe arc points toward ever bigger villains. That is why McKenzie-McHarg thinks the family tree matters: it helps us sort claims. Some conspiracy theories are old religious visions of demons in modern clothes, and they deserve to be rejected. Others are real possibilities that police or journalists should look into."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The 9/11 theories were not a strange exception in American life. They continued a trend that was already there."
+    }
+   ],
+   "recall": {
+    "q": "Across the timeline from Kennedy to QAnon, what keeps changing, and where do the 9/11 theories sit?",
+    "a": "The amount of evil believers see inside power keeps growing: a rogue CIA branch after Kennedy, a whole ruthless government after 9/11, and a fully corrupt deep state with QAnon. The 9/11 theories sit in the middle, so they continued an existing trend rather than breaking from it."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/9-11-final.webp",
+   "deepLink": "https://iai.tv/articles/911-and-the-genealogy-of-conspiracy-theories-auid-3700",
+   "attribution": "IAI News",
+   "publishedAt": "Fri, 09 Oct 2026 11:56:00 +0000"
+  },
+  {
+   "id": "semafor-1o5r8h0",
+   "source": "semafor",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "AI in Africa: adapt the tools, don't build giant models",
+   "body": "Africa has 18% of the world's people but only 0.6% of the world's data-center capacity. So the World Bank says most African countries should not build giant AI models. They should adapt existing AI to local needs. Togo is doing this by collecting its 50 local languages so AI can understand its people.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "This week the World Bank released its twice-yearly report on Africa's economies. It asks what AI can really do for the continent. Four points stand out.\n\n1. Africa has very little of the machinery that runs AI. Data centers are buildings full of computers that run AI. Africa has only 0.6% of the world's data-center capacity, and only 5% of that can handle advanced AI work.\n\n2. The real prize is productivity, which means getting more out of the same work. The African Development Bank says AI, used widely and fairly, could add up to $1 trillion to Africa's GDP by 2035. But without enough power and infrastructure, that gain is unlikely.\n\n3. Adapt AI, don't build it. Building the most advanced models from scratch costs too much for countries with limited money. Togo shows the other path. This month it asked citizens for texts, recordings and translations in its 50 local languages. An AI that cannot understand people cannot deliver government services to them.\n\n4. For now, Africa joins the AI boom mostly through its mines. The world wants its copper and cobalt. But few African companies earn from the money spent on cloud computing, which means renting computer power over the internet."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "$2 trillion: expected global AI investment this year (Gartner)",
+      "18% vs 0.6%: Africa's share of world population vs. world data-center capacity (World Bank)",
+      "5%: share of Africa's data-center capacity ready for advanced AI",
+      "Up to $1 trillion: possible boost to Africa's GDP from AI by 2035 (African Development Bank)"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Cheap uses already help. The World Bank lists tools that support student learning, help farmers spot and manage livestock diseases, and automate accounting for small businesses. The bigger question is who gains. If Africa only sells minerals and buys finished AI products, most of the gains go somewhere else."
+    }
+   ],
+   "recall": {
+    "q": "Why does the World Bank say most African countries should adapt AI instead of building their own big models, and what is Togo doing?",
+    "a": "Building the most advanced models costs too much for countries with limited money, and Africa has only 0.6% of the world's data-center capacity. Adapting AI to local needs is the better path. Togo is collecting texts, recordings and translations in its 50 local languages so AI can understand its people and help deliver government services to them."
+   },
+   "imageUrl": "https://img.semafor.com/75b04bb05e50955485577c5d7a7ddc05f734d178-5500x3624.jpg",
+   "deepLink": "https://www.semafor.com/article/10/09/2026/ais-uncertain-opportunity-for-africa",
+   "attribution": "Semafor",
+   "publishedAt": "Fri, 09 Oct 2026 13:54:45 +0000"
+  },
+  {
+   "id": "psypost-utslv",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "The invisible chore that may shape women's relationships",
+   "body": "Remembering, planning and worrying for a household is real work, even though nobody sees it. In two surveys from the UK and US, women were happier in their relationship when their male partner shared more of this work. It mattered more than who did the cooking or cleaning.",
+   "evidence": "single study (two parts) · n=452 women + 156 couples · UK/US · self-report surveys · cross-sectional",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The milk is almost finished. Only one person in the house has noticed. That person will also remember the dentist on Thursday and the gift for a cousin's wedding. And they noticed their partner was quiet at dinner.\n\nNone of this goes on a chore chart. A new study asks what it does to a relationship."
+    },
+    {
+     "label": "What is the invisible chore?",
+     "style": "prose",
+     "text": "Researchers call it the mental load. It has two parts. Cognitive labor is the thinking work: spotting what the home needs, booking appointments and planning routines. Emotional labor is the feeling work: calming fights, comforting people and keeping track of how your partner feels."
+    },
+    {
+     "label": "How is it different from housework?",
+     "style": "prose",
+     "text": "Washing dishes ends when the sink is empty. The mental load never really ends. It happens inside someone's head, and it can start at any hour, day or night. That is why the other partner often misses how much one person carries."
+    },
+    {
+     "label": "What did the study measure, and in whom?",
+     "style": "prose",
+     "text": "Verena Klein's team at the University of Southampton ran two surveys. The first asked 452 British women who lived with a male partner. Their average age was about 42. The second asked both partners in 156 couples from the UK and US.\n\nEveryone rated who did each of 17 mental-load tasks, and who did the physical chores. Each person also answered one question about how happy they were in the relationship, and one about their sex life."
+    },
+    {
+     "label": "What did women's answers show?",
+     "style": "prose",
+     "text": "Women were more satisfied when their partner shared more of the mental load. This was true for the relationship overall and for their sex life. The links were modest.\n\nOnce researchers counted the mental load, the split of physical chores no longer predicted women's happiness. For sex life, the emotional tasks mattered, like noticing a partner is upset or planning a date. Pure admin tasks did not."
+    },
+    {
+     "label": "Do men see the gap too?",
+     "style": "prose",
+     "text": "Yes. On the scale, 3 meant an equal split. Women rated their own share at 2.31, meaning \"I do more.\" Men rated theirs at 3.36, meaning \"she does more.\" For planning around children, the gap was even wider: 1.71 against 3.53.\n\nBut the effects were different for men and women. Women were happiest when the load was shared equally. Men were more satisfied with the relationship when their partner carried more of it. Klein warns that this does not mean men consciously want it that way."
+    },
+    {
+     "label": "Does believing in equality fix it?",
+     "style": "prose",
+     "text": "Not by itself. A woman's views on gender roles barely explained who carried the mental load. Even women with strongly equal-minded views often carried more. In Klein's words, you don't have to believe it's your job \"to end up being responsible.\""
+    },
+    {
+     "label": "What can nobody answer yet?",
+     "style": "prose",
+     "text": "Is the gap shrinking? Decades of data show how couples' split of cooking and cleaning has changed from one generation to the next. Nobody has that kind of long-term data for the mental load. So no one can yet say whether younger couples share it any better."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Don't just ask who does the laundry. Ask who notices it needs doing, knows how each item should be washed, and makes sure it gets done.",
+      "Ask who remembered the vaccine appointment was due, or what groceries were needed.",
+      "Dividing tasks is not the same as dividing responsibility. If one partner has to remind the other, they are still carrying part of the load."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "These surveys capture one moment in time. They show links, not causes. Happier couples may simply talk more, and share work more fairly because of it. The mental-load scale was built for this study and has not been tested elsewhere. Geoff MacDonald, a psychologist not involved in the study, says it might really measure something broader, like having a caring partner or an organized personality. The couples study did not publish its plan in advance. All participants came from the UK and US, and the study did not record how many hours each partner spent at paid work."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "If you still have to remind them, you are still carrying it."
+    }
+   ],
+   "recall": {
+    "q": "What is the mental load, and what stopped predicting women's relationship happiness once it was taken into account?",
+    "a": "The mental load is the unseen work of running a home: planning, remembering, noticing needs and managing feelings. Once researchers counted it, the split of physical chores like cooking and cleaning no longer predicted women's satisfaction."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/couple-doing-housework-cleaning.jpg",
+   "deepLink": "https://www.psypost.org/the-invisible-chore-that-may-matter-more-for-womens-relationship-happiness-than-housework/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 09 Oct 2026 14:00:23 +0000"
+  },
+  {
+   "id": "marginalian-nzo3v7",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Why good ideas sleep for centuries, then wake up",
+   "body": "Some great ideas lie ignored for decades, even thousands of years, before they change the world. In his book Sleeping Beauties, David Byrne says they sleep because we trust beliefs that work for now, and because we think the past has little to teach us. A lucky accident often wakes them, but only when an open mind is there to notice.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Look up at a star tonight. The light reaching your eye left that star long ago. By now, the star may be dead. Yet its light still crosses all that space and time to reach you.\n\nThe Marginalian's writer says ideas travel the same way. An idea can be born far from its time and reach the world much later. David Byrne collects such ideas in his book Sleeping Beauties. The name comes from a 2004 paper on the history of science. A \"sleeping beauty\" is an idea that lies ignored, then wakes up and changes things.\n\nThe sleep can be long. Solar panels slept for decades. Irrigation systems (ways to bring water to farms) in South India slept for centuries. The idea of the atom slept for thousands of years. Some ideas woke only recently, like Vera Rubin's work on dark matter. Others are now so normal that we forget anyone had to find them: Marie Tharp's work on plate tectonics (the idea that Earth's surface moves in huge plates), or simply washing your hands.\n\nSo why do good ideas sleep? Byrne's answer is habit, not stupidity. We lean on beliefs that work most of the time. If a belief works for now, we take that as proof it is true. This faith helps us survive, until it stops working. Then the belief turns out to be only a guess.\n\nOne guess blocks more than the rest. We like to think history was a straight road that led to us. From there, the past looks too far away and too simple to offer anything better. Byrne calls this the pride of modern times. The Marginalian adds a harder point. History keeps what the powerful chose to remember. And they have little interest in ideas that might upset the way things are.\n\nWhat wakes a sleeping idea? Often a lucky accident. Byrne sees three kinds. Someone finds the old idea while looking for something else. Someone sees that forgotten research covers the same ground as their own. Or a random event brings a dropped idea back into view.\n\nBut an accident only matters if someone is ready to see it. Byrne names what helps: reaching outside your own field, welcoming ideas that seem wrong at first, linking distant things instead of only going step by step, and looking into the past for what was left behind.\n\nThis is why the sleep is never final. A star runs out of fuel and dies. An idea does not. Once it has been thought, it stays somewhere in our shared memory. It waits for the right moment, and for a mind ready to receive it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "An idea can arrive while its age has its eyes closed. Then it needs only one person awake enough to catch the light."
+    }
+   ],
+   "recall": {
+    "q": "According to Byrne, why do good ideas go to sleep, and what tends to wake them up?",
+    "a": "We trust beliefs that work most of the time, and we assume the past has nothing better to offer, so old ideas stay ignored. They wake through lucky accidents: someone finds them while looking for something else, sees that forgotten research matches their own, or a random event brings them back. This only works when an open mind is there to notice."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/sleepingbeauties.jpg?fit=320%2C480&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/08/david-byrne-sleeping-beauties/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Fri, 09 Oct 2026 03:21:41 +0000"
+  },
+  {
+   "id": "ndpr-15nf807",
+   "source": "ndpr",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Three kinds of meaning in life, and why time matters more than death",
+   "body": "Philosopher Rivka Weinberg splits the meaning of life into three kinds: ultimate, cosmic and everyday. Only the everyday kind passes her tests. Her most surprising claim is that death does not give life meaning. Time does. That makes living only in the present bad advice.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Rivka Weinberg thinks meaning lives in small things, like packing a child's lunch or deciding to take up painting. Her new book, The Meaning of It All, is short, funny and personal. A review in Notre Dame Philosophical Reviews calls it magnificent, but argues with one of its biggest claims. Here are five things the book says.\n\n1. \"The meaning of life\" is really three different questions. Ultimate Meaning asks whether living itself has a point. Cosmic Meaning asks whether we fit into a grand plan, made by God or the universe. Everyday Meaning is about the things inside a life, like work, love and children. Weinberg also names six features meaning can have: value, significance, impact, explanation, purpose and point. The reviewer calls these real innovations. Anyone in this debate, they say, will now have to use her terms.\n\n2. Ultimate Meaning cannot exist. Your projects can have a point inside your life. But what is the point of living at all? Weinberg says this question cannot have an answer, not even in theory. The reviewer disagrees. The point of living, they argue, is to take part in what is valuable: to experience it, add to it and be changed by it. That is valuable, so it is a point. They quote the thinker Herzen: the purpose of life is to live it. They add that someone who gives the world something nobody else would have given adds unique value. Weinberg's own book is an example.\n\n3. Cosmic Meaning is overrated. Take the religious promise of union with God. Weinberg asks: once you get there, then what? Do you just sit in the warm glow? A feeling of closeness, like happiness, is not very meaningful by itself. She cannot imagine any final goal that explains the universe in a good and sensible way, \"no matter how much magic sauce\" you add.\n\n4. Everyday meaning is real, even when you don't feel it. Weinberg rejects subjectivism: the view that a life is meaningful if it feels meaningful. She also rejects a mixed view from the philosopher Susan Wolf. Your life can hold more meaning than you think. You may underrate it, but the meaning is still there. She is also honest that some lives hold far more everyday meaning than others. She will not pretend that failure is a hidden gift.\n\n5. Time matters, not death. So do not live only in the present. Heidegger, Sartre, Tolstoy, Nussbaum and others said death is what makes meaning possible. Weinberg tests their arguments and finds them weak. A life without end could still hold risk, loss, achievement and purpose. It would not have to be boring. What matters is time. Love, impact and purpose all take time and reach beyond today. So the advice to focus on the present, from the Stoics, from followers of the Buddha and from much pop psychology, is \"extremely terrible advice\" for anyone who wants meaning. Her rule: appreciate the past, live the present, look forward to the future. Time is also the real threat. Slowly, it wears away what we built."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Death does not make a life meaningful. Time does: it lets meaning grow, and it slowly wears meaning away."
+    }
+   ],
+   "recall": {
+    "q": "Which of the three kinds of meaning does Weinberg say is real, and why does she call 'focus on the present' bad advice for it?",
+    "a": "Everyday meaning: the work, love and care inside a life. The things that give meaning, like love, impact and purpose, take time and reach into the past and future. So for her, time matters more than death, and living only in the present cuts meaning short."
+   },
+   "imageUrl": "https://ndpr.nd.edu/assets/682086/weinberg.jpg",
+   "deepLink": "https://ndpr.nd.edu/reviews/the-meaning-of-it-all-ultimate-meaning-everyday-meaning-cosmic-meaning-death-and-time/",
+   "attribution": "Notre Dame Philosophical Reviews",
+   "publishedAt": "Fri, 09 Oct 2026 06:50:00 -0400"
+  },
+  {
+   "id": "marginalian-qenmsv",
+   "source": "marginalian",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why improvised music is spontaneous but never random",
+   "body": "When the pianist Gabriela Montero improvises, the brain network tied to her sense of self goes quiet. Her music still holds together, because it builds on themes she played moments earlier. This piece reads one line closely to see how a mind creates in real time.",
+   "evidence": "single study · one pianist · fMRI · reported through a book, not the paper",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Someone in the audience gives Gabriela Montero a few notes. The Venezuelan pianist turns that tiny seed into a whole piece of music, right there, with no plan and nothing practiced in advance. Natalie Hodges, a violinist, tries to explain how in her book Uncommon Measure. One line of hers holds the whole puzzle: \"In improvisation, the generation of material is spontaneous, but it's never random.\"\n\nStart with the first half. Spontaneous means nothing is decided ahead of time. Montero is not playing a piece she memorized. Each note arrives in the moment.\n\nNow look at the small word in the middle: \"but.\" With it, Hodges rejects both easy answers. This is not planning, and it is not luck. Her own question shows why this is strange. If you could play any note at all, what makes you pick one, instantly and without thinking, except chance? Yet Montero's music sounds as if it had been written, rewritten and practiced.\n\nThen comes \"never random.\" This is the bold claim, and a brain study supports part of it. Scientists put Montero in an fMRI scanner, a machine that shows which brain areas are working. She played scales, played a Bach piece from memory, and improvised on a Bach theme. The scientists watched her Default Mode Network: a group of brain areas that together support our sense of self. These areas handle decisions, memories of our own life, forming new memories, the sense of where our body is, and thoughts about other people.\n\nDuring the scales and the Bach piece, these areas talked to each other a lot. When she improvised, that talk dropped sharply. Hodges reads this to mean that the unified self, the one that plays learned music, steps aside. Montero says the same in her own words: when she improvises, she \"gets out of the way.\"\n\nBut the music did not fall apart. She built on themes that had come out earlier in the same piece, as if she had set them down for later. Hodges calls this remembering the future. The order came from below the planning self. It was a deep memory, built by years of practice. Montero shapes that memory, and it does not hold her back.\n\nThe line also hides a harder question: if the conscious self goes quiet, who is doing the choosing? Hodges does not answer it. She is not even sure we really choose.\n\nWe usually think good work needs a tight grip: a plan, and a self keeping watch. This line says the opposite can also be true. Sometimes the mind makes its best order when the self lets go, and what it has learned is free to speak."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one pianist in one fMRI study, and we know it only through Hodges' book, not the research paper. The drop in connections between brain areas was measured. The idea that this means the self steps aside is Hodges' reading of it. And Montero is a rare expert, so ordinary minds may work differently."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Spontaneous is not random. Under every free moment lies everything you have practiced."
+    }
+   ],
+   "recall": {
+    "q": "What happened to Montero's Default Mode Network when she improvised, and why didn't her music fall apart?",
+    "a": "The connections between its areas, which support our sense of self, dropped sharply. The music still held together because it came from a deep memory built by years of practice: she kept building on themes she had played earlier in the same piece."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/04/uncommonmeasure_nataliehodges.jpg?fit=320%2C503&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/08/improvisation/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Thu, 08 Oct 2026 20:31:29 +0000"
+  },
+  {
+   "id": "psypost-q3q6vt",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Women want jobs where women already work, study finds",
+   "body": "When a job ad said most staff were women, women felt more interest in the job and expected to fit in better. In one test, this mattered more than whether the ad asked for natural genius or for hard work.",
+   "evidence": "4 studies · n=1,680 · online, US adults · hypothetical job ads · only 1 preregistered",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Picture two job ads that look almost the same. One says the company wants people with raw brilliance. The other says it wants people who work hard. Lower down, each ad adds one more line about who already works there: 75% men, or 75% women.\n\nWomen are still rare in science, tech, politics and academia. One common explanation is that people link these fields to \"brilliance\", meaning a natural gift for thinking. And people tend to picture that gift as male. Earlier research found that ads stressing brilliance put women off. But brilliance fields also tend to have fewer women. So which one turns women away: the message, or the empty seats?\n\nStella Lourenco of Emory University and her colleagues ran four online studies with 1,680 US adults. In the first, people guessed the share of men and women in 30 jobs. Their guesses were close to the real numbers, so people know which fields lean male. Women expected to belong more in jobs they thought had more women. This held even after the researchers took into account beliefs about brilliance, workplace culture, and how similar people felt to the workers. Men's sense of belonging did not follow their guesses at all.\n\nThe third study tested this directly by writing the gender split into the ad. Women showed more interest in the jobs where most staff were women, and there their interest matched men's. Men did not care either way. The most striking result: women expected to belong more in a mostly-female job that asked for brilliance than in a mostly-male job that asked for hard work.\n\nThe wording still counted, but only in one place. In mostly-female jobs, women felt they would belong more when the ad praised effort. In mostly-male jobs, the wording made no difference to belonging. The headcount spoke louder than the words.\n\nThe fourth and largest study, with 991 people, changed how big the majority was. At 60% to 40%, women barely reacted. At 75% or 90%, the effect was clear. When men were the majority, the gap between women's and men's sense of belonging grew wider as the imbalance grew. Men showed some preference for mostly-male places, but less consistently.\n\nWhy would one number matter so much? Across the studies, two things strongly predicted interest and belonging. Did the workplace seem cutthroat, meaning harsh and fiercely competitive? And did people feel similar to the staff? The authors suggest the gender ratio works as a signal of daily life inside: supportive or harsh. They conclude that changing beliefs about brilliance matters, but may be \"insufficient\" on its own. Changing who is in the room and changing the message work best together."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "text": "Before joining a team, you probably look at who already works there more than at what the job ad says.\nA meetup or class where you see no one like you can feel closed, even when nobody says so.\nIf you hire, your team page may send a louder message than your job description."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "All four studies used made-up job ads, so the ratings may not predict real applications or career choices. Only the fourth study had its plan registered in advance. The effects were consistent, but mostly small to moderate."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Before people read what a place says about itself, they look at who is already there."
+    }
+   ],
+   "recall": {
+    "q": "In the third study, which job did women expect to belong in more: a mostly-female job asking for brilliance, or a mostly-male job asking for hard work? What does that suggest?",
+    "a": "The mostly-female job asking for brilliance. Who already works there can matter more than the wording of the ad, probably because the gender ratio signals what daily life in the workplace will be like."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/businesswomen.jpg",
+   "deepLink": "https://www.psypost.org/women-more-drawn-to-hypothetical-jobs-where-most-employees-were-women/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 09 Oct 2026 20:00:16 +0000"
+  },
+  {
+   "id": "psypost-19860ws",
+   "source": "psypost",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Patient teens pick longer degrees; careful ones pick safe pay",
+   "body": "In Denmark, teenagers who would wait for more money applied to longer college programs where pay grows faster. Teenagers who disliked risk picked fields where few graduates end up poorly paid.",
+   "evidence": "single study · n=3,132 · real-money choice tasks · shows a link, not cause",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In 2018, researchers tested 3,132 Danish 18- and 19-year-olds with real money, just before they applied to college. One task measured patience: take cash now, or wait some weeks for more. Another measured risk aversion, which means disliking uncertain outcomes: keep money safe, or bet part of it on a lottery. The team then matched each student's first-choice program with the pay of its earlier graduates.\n\nDenmark is a clean place to test this. College is free, and students get monthly living money. So loans and family wealth shape choices less.\n\nOne twist: many safe fields, like economics, are also long, and pay in them grows fast. So careful students end up in long degrees too. They choose them for safety, not patience."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "10 percentile points more patience: programs nearly 1.5 years longer, with pay growing 2.4 points faster each year. After adjusting for grades, parents' education and income, gender, and immigrant background: just over two months longer.",
+      "10 points more risk aversion: 6.2 points fewer graduates in the bottom fifth of earners, against an average of 9.9%. About 3 points after the same adjustments.",
+      "In predicting who avoided fields with many low earners, risk aversion did as well as school grades. In predicting who avoided fields where pay varies widely, it did about twice as well."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Who studies what is not only about grades and family money. How people weigh time and risk also sorts them into fields. But this is one study, and it shows a link, not a cause. It tracked first choices, not finished degrees. Only 39% of those invited took part, and they had better grades than average. The pay data came from people born between 1975 and 1980. And Denmark's free system may work differently from countries where students pay fees."
+    }
+   ],
+   "recall": {
+    "q": "What did patience and risk aversion each predict about Danish students' college choices, and why did risk-averse students also end up in long programs?",
+    "a": "Patient students applied to longer programs where pay grows faster. Risk-averse students picked fields where few graduates earn very little. Many of those safe fields, like economics, are also long with fast pay growth, so careful students land in long degrees for safety, not patience."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2023/03/College-Student-Uses-Laptop-while-Listening-to-a-Lecture-at-the-University.jpg",
+   "deepLink": "https://www.psypost.org/how-your-personality-acts-as-an-invisible-architect-for-your-career-according-to-new-research/",
+   "attribution": "PsyPost",
+   "publishedAt": "Fri, 09 Oct 2026 16:00:19 +0000"
+  },
+  {
+   "id": "neuro-news-1lyrlxc",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Cannabis users slept worse but didn't notice it",
+   "body": "A study followed adults for 35 years. A wrist monitor showed that more cannabis use went with more broken sleep and less time truly asleep. But users rated their own sleep no worse than anyone else. Their nights were disturbed, and they did not feel it.",
+   "evidence": "single observational cohort · n=1,266 (891 with wrist data, 1,128 with questionnaires) · 7-day wrist monitor + self-repo",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "For seven nights, 891 adults around age 60 slept with a small monitor on one wrist. It recorded how much of each night they were truly asleep and how often they woke. The same people also filled in a standard questionnaire about how well they felt they slept.\n\nThey were not random volunteers. They belong to CARDIA, a US study that has followed Black and white adults since 1985–86, when they were young. For about 35 years, researchers kept asking them about cannabis. So the team could measure lifetime use in \"cannabis-years\". One cannabis-year means 365 days of use, spread over any part of life.\n\nThe monitors gave a clear answer. With each extra cannabis-year, the odds of poor sleep went up on three measures:\n- Being asleep for less than 85% of the time in bed: up about 10%.\n- Restless, broken sleep: up about 4%.\n- Lying awake 30 minutes or more after first falling asleep: up about 21%.\n\nPeople who had used cannabis in the past month did worse. Compared with people who had never used it, their odds of that long waking were about three times higher. Their odds of sleeping more than eight hours were more than four times higher. Long sleep sounds good. But it is often a sign of sleep that does not refresh you.\n\nNow the strange part. On the questionnaire, cannabis users rated their sleep no worse than non-users. The monitor saw broken nights. The sleepers did not. The researchers call this an illusion of good rest. Their guess: cannabis may make people drowsy, or dull their sense of waking up, while still disturbing sleep underneath. The study did not test this idea.\n\nThe link held after the team adjusted for age, sex, race, depression symptoms, exercise, alcohol, smoking, and medications. The senior author, Mercedes Carnethon, said their data do not support cannabis as a sleep aid. For poor sleepers, co-author Kristen Knutson suggests simple habits: a regular bedtime, a cool, dark, quiet room, no screens just before bed, and a calming routine.\n\nThe bigger lesson is about measurement. How you feel you slept and how you actually slept can be two different things. The authors say both should be checked."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This study only observed people. It shows a link, not proof that cannabis causes poor sleep. Cannabis users may differ in other ways the adjustments missed. The recent-use numbers are rough: the true rise in long waking could be anywhere from about 1.4 times to 7 times. The sample was only Black and white Americans in middle age. The study also did not look at type, dose, or form, such as edibles versus vaping. That is the next step."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Feeling rested and being rested can be different things. And whatever hides the gap will not warn you."
+    }
+   ],
+   "recall": {
+    "q": "What did the wrist monitors show about cannabis users' sleep, and how did that compare with what the users reported?",
+    "a": "The monitors showed that more cannabis use went with less time truly asleep, more broken sleep, and longer waking in the night. Recent users were also far more likely to sleep over eight hours. Yet users rated their sleep no worse than non-users. The damage was real, but they did not notice it."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/10/The-Truth-About-Cannabis-and-Sleep-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/cannabis-sleep-quality-31306/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Fri, 09 Oct 2026 18:06:15 +0000"
+  },
+  {
+   "id": "neuro-news-8jfxoe",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "An anorexia risk gene that works in fat, not the brain",
+   "body": "In a study of 154 people with severe anorexia, 11% carried a rare, damaging change in a gene called PLIN4. That is almost four times the rate in a reference group. The surprise is that PLIN4 works mainly in body fat and muscle, not in the brain. So for some people, anorexia may begin partly in how the body stores fat.",
+   "evidence": "single study · n=154 · severe cases, European ancestry only · compared with a public gene database, not a matched contro",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Seventeen of 154 patients carried the same kind of faulty gene. All 154 had severe anorexia nervosa. This is the eating disorder where people starve themselves because they are deeply afraid of gaining weight. In many of their families, anorexia showed up across generations. Others had failed treatment again and again.\n\nThe gene is called PLIN4. The surprise is where it works: mostly in body fat and muscle, not mainly in the brain.\n\nResearchers at Michigan State University read the parts of each patient's genes that build proteins. This method is called whole-exome sequencing. They checked 32 genes that earlier family studies had flagged. Only one passed strict statistical tests. About 11% of patients carried a rare, likely damaging change in PLIN4. In a large database of people with similar European ancestry, the figure was about 3%. So a patient was nearly four times as likely to carry one.\n\nFamilies added some evidence. Six patients had a change that probably breaks the gene completely. In four of those six, a relative who also had anorexia carried the very same change. But this small group did not pass the strict test on its own.\n\nSo what does PLIN4 do? Inside fat and muscle cells, fat is stored in tiny droplets. PLIN4 makes a protein that coats these droplets. It helps decide how fat is packed away and how it is released for energy. When the gene is broken, cells struggle to store and release fat normally.\n\nHow could that lead to an eating disorder? Here the researchers are guessing, and they say so. Faulty fat storage might send false signals of hunger or fullness. It might mix up the hormone messages that fat sends to the brain about the body's energy. Or it might make eating and gaining weight feel physically unpleasant.\n\nThe lead researcher, psychiatrist Michael Lutter, compares the finding to BRCA1 and BRCA2. These gene changes raise breast cancer risk in some families. Many genes together shape the risk of anorexia. But a rare change in one key gene may raise that risk a lot in certain families.\n\nThis matters because anorexia has one of the highest death rates of any mental illness. Yet the US drug regulator, the FDA, has approved no medicine for it. Treatment is therapy and slowly, carefully getting patients to eat again. Anorexia is also among the least-funded areas at the US National Institutes of Health. Study advisor A.J. Robison links this neglect to an old bias: the belief that anorexia is just vanity in women who want to be thin. The disease is ten times more common in women than in men.\n\nNext, the team will study fat tissue from patients who carry these changes. They want to see how the fat droplets actually look and behave. As Robison puts it, finding a gene will not cure the disease. But it can show what causes it, and that can guide new treatments."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study. The patients were a hand-picked group: severe cases, often with strong family histories, all of European ancestry. They were compared with a public gene database, not with healthy people the team recruited. Most people with anorexia will not carry a PLIN4 change. The researchers say the result must be repeated in larger groups from many ancestries. The idea that a fat-storage problem leads to anorexia has not been tested yet."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Anorexia is usually blamed on the mind alone. For some families, part of it may start in how the body stores fat."
+    }
+   ],
+   "recall": {
+    "q": "Why is the PLIN4 finding surprising, and how strong is the evidence so far?",
+    "a": "PLIN4 works mainly in body fat and muscle, where it coats fat droplets. It is not mainly a brain gene, so the finding challenges the idea that anorexia lives only in the brain. In this study, 11% of 154 severe patients carried damaging changes, against about 3% in a reference database. But it is a single study of a selected European group, and it needs to be repeated."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/10/Is-Anorexia-Rooted-Outside-the-Brain-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/geneticplin4-anorexia-neuroscience-31305/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Fri, 09 Oct 2026 17:40:54 +0000"
+  },
+  {
+   "id": "transmitter-1hbi0cs",
+   "source": "transmitter",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "The US wants to end monkey research. Is neuroscience ready?",
+   "body": "The US government is moving to end research on monkeys. It wants computer models and lab-grown clumps of cells to take their place. The Transmitter, a neuroscience news site, spoke with more than 40 scientists to ask two questions. Does brain science still need monkeys? And are the replacements ready?",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The National Institutes of Health is America's main funder of medical research. Recently it made an unusual offer to one of its national primate research centers. Would the center become an animal sanctuary? That is a place where the monkeys simply live out their lives, with no experiments.\n\nThe offer is one sign of a bigger shift. Over the past two years, the US government has taken steps to slowly end animal research. The Centers for Disease Control and Prevention closed its primate research program. Health Secretary Robert F. Kennedy Jr. has said that he and the heads of his department's major agencies are \"all deeply committed to ending animal experimentation.\" He also wants to stop all imports of monkeys for research.\n\nWhat would replace the animals? The government's answer is a set of tools called new approach methodologies, or NAMs. Some are computer models of how the body works. Others are organoids: tiny clumps of cells grown in a dish that copy part of an organ, such as a small piece of brain.\n\nSo brain science must ask whether it still needs nonhuman primates, our closest animal relatives, and whether NAMs can do their job. To find out, the reporters talked to scientists and also read dozens of research papers and government reports.\n\nThis piece opens their series, so it gives no verdict yet. Instead, it maps the fight. First, the open questions in neuroscience that scientists say still need primates. Second, the threat to America's network of national primate research centers. Third, monkey models of autism, which the series calls promising but rocky. Fourth, the work to fix key weaknesses in organoids.\n\nThe changes have already begun. A primate center in Oregon plans to shrink its monkey colony and move toward non-animal models. And three neuroscientists, Cory Miller, J. Anthony Movshon and Doris Tsao, put their view in the title of an essay: without monkeys, neuroscience has no future."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The policy is moving faster than the science. Monkeys are already leaving the labs, while the tools meant to replace them are still being fixed."
+    }
+   ],
+   "recall": {
+    "q": "What does the US government want to use instead of monkeys in research, and what two questions does this raise for neuroscience?",
+    "a": "It wants to use new approach methodologies (NAMs), such as computer models and organoids, which are tiny clumps of cells grown in a dish. The two questions are: does neuroscience still need nonhuman primates, and are NAMs ready to replace them?"
+   },
+   "imageUrl": "https://www.thetransmitter.org/wp-content/uploads/2026/10/cropped-NHP_intro-page-brown_525.png",
+   "deepLink": "https://www.thetransmitter.org/what-if-nonhuman-primate-research-goes-away/what-if-nonhuman-primate-research-goes-away/",
+   "attribution": "The Transmitter",
+   "publishedAt": "Fri, 09 Oct 2026 04:00:36 +0000"
+  },
+  {
+   "id": "marginalian-11vwjak",
+   "source": "marginalian",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Lincoln's depression, and the man he built through it",
+   "body": "As a young man, Abraham Lincoln came so close to suicide that his friends kept watch over him. He lived. The darkness kept coming back, and he learned from it. Later he turned his private danger into a warning for a whole nation.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The young man stopped carrying a pocket knife. He did not trust himself with it. His friends in Illinois watched him walk alone in the woods with his gun. They grew so worried that they took turns watching over him. This was Abraham Lincoln in his twenties, long before most people knew his name.\n\nSeveral things broke at once. He was studying law day and night and had grown dangerously thin. A typhoid epidemic was killing people all around him. It took Ann Rutledge, a young woman who understood his sensitive nature better than almost anyone. People have since invented a whole love story about them, but the real facts are few. What is clear is this: tired and grieving, Lincoln began to think seriously about ending his life.\n\nHe lived. But the dark spells came back again and again. Today we would call this depression. The source essay draws on Joshua Wolf Shenk's book Lincoln's Melancholy. It asks a bigger question than how he survived. It asks what the depression made of him, and what he made of it.\n\nAt first, he hid it. He became famous for his jokes. In public he was so cheerful that even close colleagues almost never saw him low. But the pain came out as kindness. When a friend fell into depression, Lincoln wrote to him like someone who knew that place from the inside. He wrote that thinking too hard can wear even the sweetest idea thin, until it turns as bitter as death.\n\nAt 30, he did something no one discovered for 139 years. He published an unsigned poem in a small Illinois newspaper, printed next to ads for whale oil and cologne. In it, a man walks into a forest to kill himself. The essay sees the poem as Lincoln testing, safely inside his imagination, the lie that suicide tells: that disappearing is the only way to stop the pain.\n\nThree years later, the darkness returned. A few weeks before his 33rd birthday, he wrote to his law partner that he was \"the most miserable man living.\" Then he named the choice plainly. He could not stay as he was, so he must \"die or be better.\" He got better. Depression hides one fact very well: the light can come back.\n\nWhat he built afterwards carried the mark of what he had lived through. In one of his great speeches, he told Americans that no outside enemy could destroy their country. If it fell, it would fall by its own hand. He had turned his most private danger into a lesson for a nation.\n\nThe man who once could not be trusted with a pocket knife went on to teach a whole country what he had learned in those woods. The biggest danger often comes from within. So can the way through."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is an essay, not a study. The idea that depression shaped Lincoln's greatness is how Shenk and the essayist read his life. It is not a proven link. It is also no reason to see suicidal despair as a gift. In Lincoln's worst year, the people around him noticed and kept watch. If you are in that place now, tell someone today."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Depression says the dark will last forever. Lincoln's life is a long record that it does not."
+    }
+   ],
+   "recall": {
+    "q": "In his worst letter, what choice did Lincoln say he faced, and how did his private struggle later show up in his public life?",
+    "a": "He wrote that he could not stay as he was, so he must die or be better. He got better. Later he told the nation that its real danger came from within: if America fell, it would fall by its own hand."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/12/lincolhnsmelancholy.jpg?fit=320%2C480&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/08/lincoln-melancholy-depression/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Thu, 08 Oct 2026 19:56:59 +0000"
+  }
+ ]
+}
