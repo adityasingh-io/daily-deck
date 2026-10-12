@@ -1,0 +1,902 @@
+{
+ "date": "2026-10-12",
+ "generatedAt": "2026-10-12T00:32:56.740Z",
+ "cards": [
+  {
+   "id": "letter-2026-10-12",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "The body inside the mind",
+   "body": "Today's honest thread is the body hiding inside the mind. You will read how paying close attention to an itch made the swelling under it smaller, and how a chemical made by gut bacteria may be linked to faster Alzheimer's damage. If you read only one piece slowly, make it the itch study. The tests were small, but they ask a big question: can where you put your attention change what happens in your skin?",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "psypost-17f7vnh",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Paying attention to an itch shrank the swelling under it",
+   "body": "In three small lab experiments, people who focused on an itchy skin prick got a smaller bump that settled sooner than when they were distracted. The itch felt stronger, but the body's reaction was calmer. Where you point your attention may help control inflammation.",
+   "evidence": "single study · 3 pre-registered experiments · n=37, 20, 17 returning · histamine skin test in healthy adults",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Pay close attention to an itch and it feels worse. But in a new set of experiments, the skin under it did better. The bump came out smaller, and it stopped growing sooner.\n\nThat should not happen. Inflammation is the body's fast response to injury or irritation: heat, swelling, redness. It is seen as automatic. It runs without asking you. So why would it care where your mind is?\n\nResearchers at Bar-Ilan University in Israel put a drop of histamine on people's forearms and pricked the skin. Histamine is the chemical your body releases during allergies. It makes small blood vessels widen and leak, so a raised bump appears with a red patch around it. Here, a smaller bump that settles sooner means a better-controlled response.\n\nIn the first experiment, 37 people did the test twice. In one session they put all their attention on the itch or burning in their arm. In the other they watched engaging videos. With focus, the bump averaged 3.5 millimetres at its peak, 20 minutes in. With distraction, it averaged 5.0. About 9 in 10 people swelled more when distracted.\n\nMaybe the videos caused it, with their new images and different mental load? So 20 new people saw the same slideshow of abstract shapes both times. In one session, each shape was a cue to turn back to the arm. In the other, they judged whether each shape could exist in real life. Same screen, similar effort. The bumps were still about 1.6 times smaller with focus. And people said the itch felt stronger then.\n\nMaybe it was stress? No. Sweating, heart rate, skin temperature and reported anxiety were the same in both sessions.\n\nThe team suspects the vagus nerve. This long nerve links the brain to the organs. It carries the body's calming signals, and it can calm down too much inflammation. One indirect sign of its activity is heart rate variability: the small change in timing from one heartbeat to the next. It was a little higher during focus.\n\nA third experiment brought back 17 volunteers and numbed their skin with lidocaine cream, so less feeling reached the brain. The bump peaked at 4.0 millimetres. That was bigger than their 3.1 when focused with normal feeling, but smaller than their 4.9 when distracted. Numbing also slowed recovery. Yet the heart-rhythm sign stayed higher.\n\nSo two things seem to be going on. Feeling from the skin seems to help clear the swelling later on. But attention also seems to work through another route, possibly the vagus nerve. One part is still a mystery. No one measured immune cells or the chemical signals they send. So how a thought reaches a blood vessel is still unknown."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "All three experiments were pre-registered: the team publicly wrote down its predictions and analysis plan before starting. The person measuring the skin did not know which session was which. In the first experiment, half the people did the focus session first and half did the distraction session first. Participants were not told the purpose. At the end, only 14 percent guessed it."
+    },
+    {
+     "label": "Steelman",
+     "style": "note",
+     "text": "Doesn't this clash with the usual advice to distract yourself from discomfort? Warren Mansell, a mental health researcher who was not involved, says no. Distraction can still help you cope in the short term. And the body-focus seen in worry, panic and chronic pain is different. People do not choose it, and it is about anxious thoughts about the feeling, not the feeling itself."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The samples were small (37, 20 and 17 people), and most were young women. The test used one allergy-like skin reaction in healthy people. It says nothing yet about infections, chronic inflammation, disease or wound healing. Heart rate variability is only an indirect measure of the vagus nerve, and the cream may not have blocked every nerve fibre. The order of the numbing session was not balanced against the others. And a smaller response is not always better when fighting germs. The lead researcher is clear: this is not evidence that people can \"think away\" illness."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Turning toward the feeling made it louder, and made the body's reaction quieter."
+    }
+   ],
+   "recall": {
+    "q": "When people focused on the itch instead of being distracted, what happened to the swelling, and what body pathway do the researchers suspect?",
+    "a": "The bump was smaller and settled sooner (3.5 vs 5.0 millimetres in the first test), even though the itch felt stronger. Stress measures did not change, but heart rate variability rose. That points to the calming vagus nerve, but immune cells were never measured, so the exact path is still unknown."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/meditating-man.jpg",
+   "deepLink": "https://www.psypost.org/where-you-direct-your-attention-may-shape-your-bodys-inflammatory-response/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 11 Oct 2026 12:00:21 +0000"
+  },
+  {
+   "id": "daily-phil-14amv1f",
+   "source": "daily-phil",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Nietzsche: the sick, lonely man behind the famous slogans",
+   "body": "No philosopher is quoted more often, or more wrongly, than Friedrich Nietzsche. Behind the T-shirt slogans was a shy, half-blind professor who was ill most of his life and sold almost no books. He does not give us answers. He gives us questions we can no longer avoid.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "As a boy, Friedrich Nietzsche was so religious and so well-behaved that his schoolmates called him \"the little pastor.\" He was born on 15 October 1844 in a small village in Prussia. His father was a Lutheran pastor. His father died of a brain disease when Friedrich was four. A few months later, his baby brother died too. He grew up in a house full of women: his mother, his sister, his grandmother and two aunts.\n\nThat boy grew up to write \"God is dead.\" Today that line and others like it are everywhere. One says that what does not kill you makes you stronger. Another says there are no facts, only interpretations (ways of reading the facts). You find them on T-shirts, in songs and in the mouths of film villains. The lines have left his books behind, and the man who wrote them has mostly disappeared.\n\nSo what did he actually offer? Daily Philosophy puts it simply. Nietzsche does not hand you answers. But once you have read him, you cannot keep avoiding the question. He said he wanted to be dynamite. He wanted to shake his readers, not calm them.\n\nHe started as a star student. He won a place at Schulpforta, one of Germany's toughest boarding schools. Then he went to Bonn to study theology (the study of God and religion) and classical philology (the close study of old Greek and Latin texts). He dropped theology within a year, which upset his mother. In 1865, in a second-hand bookshop in Leipzig, he found Schopenhauer's book The World as Will and Representation. He said he read it as if it was written for him. Three years later he met the composer Richard Wagner. For ten years Wagner was his father figure, his hero and his friend. In 1869 the University of Basel made him a professor at just 24. He did not yet have a doctorate (the highest university degree), so Leipzig quickly gave him one.\n\nThen his body failed him. In 1870 he worked as a medical helper in the Franco-Prussian War. He caught dysentery and diphtheria, two serious infections, and was never fully well again. He had terrible headaches and attacks of vomiting that could last for days. His eyes were so weak that he could read and write only for short periods. And reading and writing were his whole job.\n\nNext came rejection and loneliness. Other scholars called his first book, The Birth of Tragedy (1872), wild and unscholarly. In 1876 he went to Wagner's first festival in Bayreuth. He hated the loud national pride and self-praise around the composer. The friendship cooled, and he never fully got over losing it. In 1879, his health ruined, he left his job for a small pension. Ten years of wandering followed: summers in Sils-Maria, a Swiss mountain village, and winters in Genoa, Nice or Turin. He wrote most of his books alone in cheap rented rooms, and almost no one bought them. He spent his last eleven years in a mental darkness and never came out of it.\n\nSo he got his wish to be dynamite, but not the way he imagined. His words exploded only after he could no longer see it. Mostly they exploded as slogans, quoted wrongly and cut off from the sick, lonely man who wrote them.\n\nHere is what he still asks of a modern reader. Do not wear his lines as answers. Each one was meant to push a question on you. The honest way to read Nietzsche is to find that question, and then really ask it."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Nietzsche's lines are not answers to wear. They are questions you are not allowed to skip."
+    }
+   ],
+   "recall": {
+    "q": "If Nietzsche does not give answers, what does he give? And how did his wish to be dynamite come true in a way he did not expect?",
+    "a": "He makes it impossible to keep avoiding the question. His words did explode, but mostly after his working life, as slogans quoted wrongly and cut off from the sick, lonely man who wrote them."
+   },
+   "imageUrl": "https://daily-philosophy.com/philopedia-nietzsche/featured-1200px.jpg",
+   "deepLink": "https://daily-philosophy.com/philopedia-nietzsche/",
+   "attribution": "Daily Philosophy",
+   "publishedAt": "Sat, 10 Oct 2026 10:00:00 +0800"
+  },
+  {
+   "id": "psypost-ld0a5l",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Long-term singles mostly stay happy, 11-year study finds",
+   "body": "Many people believe that those who stay single slowly grow unhappy. An 11-year study in Germany found the opposite. About 90 percent of people who never married and never had a steady partner stayed satisfied with their lives the whole time.",
+   "evidence": "single longitudinal study · n=2,930 · 11 years · self-report, one question per measure · Germany only",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Every year from 2009 to 2021, a survey in Germany asked the same people how satisfied they were with their lives. Some of them never married in all those years and never had a steady partner. A team at the University of Toronto studied exactly these people.\n\nThe common belief goes like this: being single is fine for a while, but over the years it wears you down. It sounds reasonable. For decades, theories of human development treated finding a partner as a normal step in life. Missing that step was linked to loneliness. An earlier analysis of this same German data seemed to agree. It found that singles' life satisfaction went down over time.\n\nBut for most singles, the belief is wrong. The earlier analysis assumed everyone followed one average path. The new study, led by PhD candidate Elaine Hoan, used a method that sorts people into groups whose scores change in similar ways. Once the groups were separated, a different picture appeared.\n\nThe team followed 2,930 adults in three age groups. They joined at around 18, 26 and 36. In each group, about 90 percent stayed above the middle of the satisfaction scale for all 11 years. In the two younger groups, satisfaction fell slightly but stayed high.\n\nIn every age group, a small minority started out less happy. In the two younger groups, these people grew happier and caught up with everyone else. In the middle-aged group, they did not. Their scores slipped a little, though the drop was so small it could be chance. The authors think social pressure may explain it, because expectations about marriage and family are often strongest in midlife.\n\nFeelings about being single itself varied much more. In the youngest group, 67 percent felt good about it and stayed that way. In the two older groups, only about 30 and 37 percent did, and 12 and 18 percent were clearly unhappy about it. Across all the measures, the happiest singles tended to be more outgoing, less anxious, better educated and working full time.\n\nSo why does the myth survive? One reason: for a long time, researchers judged singles only by comparing them with couples. Another is the average itself. Mix a large, content majority with a small group that is struggling, and you get one gently falling line. That line hides both groups. The struggling minority is real. But it is the exception."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This study only observed people. It cannot prove that personality, education or income cause a happier single life. Each feeling was measured with a single question. All the data came from Germany, and the oldest people were only in their late forties when it ended. The long-term singles were also a select group: 67 percent of the youngest group stayed single all 11 years, but only 14 percent of the middle-aged group did. And a separate 2026 study, which compared singles with peers who found partners, did find that singles' satisfaction fell behind."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "An average can draw one sad line through a crowd of mostly content people."
+    }
+   ],
+   "recall": {
+    "q": "What happened to most long-term singles' life satisfaction over 11 years, and why did an earlier analysis of the same data show a decline?",
+    "a": "About 90 percent stayed above the middle of the scale for all 11 years, with only a slight dip in the younger groups. The earlier analysis assumed everyone followed one average path. That mixed the content majority with a smaller, less happy group and produced one falling line."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/happy-woman.jpg",
+   "deepLink": "https://www.psypost.org/most-long-term-singles-stay-satisfied-with-their-lives-over-11-years-study-finds/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 11 Oct 2026 10:00:18 +0000"
+  },
+  {
+   "id": "mint-economy-ievtzm",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "RBI will sell dollars directly to oil firms to defend rupee",
+   "body": "With the rupee near its record low, the Reserve Bank of India (RBI) will sell dollars straight to Indian Oil, Hindustan Petroleum and Bharat Petroleum from Monday. These three state oil companies will no longer buy dollars in the open market. The dollars will come from the RBI's foreign exchange reserves, the stock of foreign money it keeps for hard times.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The RBI has used this kind of special window before. It also tightened the rules on currency derivatives. These are contracts that let people bet on the rupee, or protect themselves against a fall. If a customer cancels one, dealers can no longer let them book it again. On exchanges, the limit on rupee positions fell from $100 million to $5 million. Dealers must also set aside 20% of the full value of every rupee contract."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "96.73 rupees per dollar: where the rupee closed on Friday",
+      "96.96: the rupee's weakest level ever, hit in May"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Oil companies need dollars every day to pay for oil. That makes them one of the biggest dollar buyers in India's currency market. Every dollar they buy pushes the rupee down. If the RBI supplies those dollars itself, the rupee should swing less, says Dhiraj Nim, a currency strategist at ANZ Bank in Mumbai. The cost: India's reserves will shrink."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "The RBI has already sold dollars and raised its main interest rate. Neither step stopped the pressure. One early sign came on Saturday. In the offshore market, traders bet on the rupee without actually swapping currencies. There, the one-month contract moved about 40 paise in the rupee's favour. But very few trades happened, so Monday is the real test."
+    }
+   ],
+   "recall": {
+    "q": "What does the RBI's new dollar window for oil companies do, and what does it cost?",
+    "a": "The RBI sells dollars directly to Indian Oil, Hindustan Petroleum and Bharat Petroleum, so these big dollar buyers stay out of the open market. That should make the rupee swing less. The cost is that the dollars come from India's foreign exchange reserves, so the reserves shrink."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/maxresdefault_1791727417814_X3u9_1791727423499_NZyT_43c5c477-476f-47d9-bec2-acfa93495cb0_pwCc.jpg",
+   "deepLink": "https://www.livemint.com/economy/reserve-bank-of-india-takes-steps-to-support-rupee-opens-dollar-window-for-oil-companies-11791610568736.html",
+   "attribution": "Mint",
+   "publishedAt": "Sat, 10 Oct 2026 11:12:35 +0530"
+  },
+  {
+   "id": "marginal-rev-1ogov0e",
+   "source": "marginal-rev",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "How AI shopping agents could change who wins in markets",
+   "body": "When AI agents shop for us, companies may lose the easy profit they make from careless buyers. Patrick Collison thinks the biggest change may be this: better products will finally beat better marketing.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A personal agent is an AI assistant that researches and buys things for you. Here are Collison's notes on what these agents could do to the economy.\n\n1. Firms lose their edge over careless buyers. Companies think harder than shoppers do, and they profit from it. For example, the travel insurance offered at the end of a booking usually costs far more than a normal policy. An agent never gets tired, so it closes that gap.\n\n2. Old pricing tricks get weaker. Coupons stop separating careful buyers from careless ones if every agent finds every coupon. Today, people who forget to cancel subscriptions quietly pay for everyone else. Agents will remember to cancel.\n\n3. Better products beat better marketing. Collison says it is like every buyer spending at least 10 hours researching each purchase. This would also make trusted data on product quality worth more.\n\n4. Prices may jump around more. Sellers' agents could collude, meaning they quietly keep prices high together, even if the sellers never meant to. The law would find this hard to see or stop. But such deals tend to break. So prices may rise for a while, then suddenly drop."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "All of this assumes your agent works for you, not the seller. Collison expects that, but calls it an open question. Also unknown: will agents push everyone to the same top product, or help each buyer find a better personal fit? And websites that earn money by steering your clicks, through ads and placement fees, may change a lot."
+    }
+   ],
+   "recall": {
+    "q": "Which effect of agents does Collison think may matter most, and why would agents cause it?",
+    "a": "Better products would beat better-marketed ones. An agent researches as if every buyer spent at least 10 hours on each purchase, so real quality gets noticed."
+   },
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-economics-of-agents",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Sun, 11 Oct 2026 04:56:43 +0000"
+  },
+  {
+   "id": "marginalian-ihtuuh",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Unwashed hands, Mary Shelley's mother, and Semmelweis",
+   "body": "In 1797, Mary Wollstonecraft died of a fever after giving birth to the girl who would write Frankenstein. Fifty years later, a doctor in Vienna found out why so many mothers died this way. Doctors were going straight from cutting open dead bodies to delivering babies. He had proof that washing hands stopped the deaths. Almost nobody listened, partly because he tried to shame them into it.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The baby was supposed to be a boy. The parents had already named him William. On August 30, 1797, after nine hours of hard labor, a girl arrived. Without any fuss, they called her Mary.\n\nThen something went wrong. The placenta did not come out. (The placenta is the organ that feeds a baby in the womb.) A surgeon rushed in from the street and pushed his hands inside the new mother. Within hours, Mary Wollstonecraft was shaking with a terrible fever. Ten days later, she was dead.\n\nWollstonecraft was one of the boldest thinkers of her time. Her book A Vindication of the Rights of Woman demanded education and justice for women. She did not win people over by blaming men. She won them over by showing what was possible. Remember that. This is a story about truth that arrives before people are ready to hear it.\n\nFifty summers later, Vienna General Hospital had a mystery. It was one of the best teaching hospitals in the world. It had two wards for women giving birth. Doctors and medical students ran one. Midwives with no formal medical training ran the other. In the doctors' ward, ten times more mothers died of childbed fever, an infection that strikes soon after birth.\n\nThe experts made wild guesses. Maybe the students were too rough. Retraining them changed nothing. Maybe the bell a priest rang for each death was scaring mothers to death. Stopping the bell changed nothing either.\n\nA young doctor named Ignaz Semmelweis found the answer by accident. His mentor was teaching a class on cutting open a dead body. A student's knife cut the mentor's finger. Within days the mentor was dead, and his death looked very familiar. Then Semmelweis saw the pattern. Doctors cut open dead bodies in the morning, then walked straight to the birth ward and touched open flesh. The midwives never touched dead bodies.\n\nHe decided the doctors' hands carried what he called \"cadaver particles\" (a cadaver is a dead body). He tested washing liquids by smell. He chose chlorine and lime, a bleach mild enough not to burn the skin. Once his ward started using it, deaths fell to the level of the midwives' ward. Nobody yet knew that germs existed. Germ theory was more than ten years away.\n\nHe had the evidence. He could not get anyone to accept it. Semmelweis did the opposite of what Wollstonecraft had done. He sent angry letters to hospitals. He called doctors who did not wash their hands murderers. Most of the medical world brushed him aside. He grew bitter and sick. He aged fast and forgot things in the middle of lectures. A colleague tricked him into going to a mental hospital, where the guards beat him. Two weeks later he died of an infection from the beating.\n\nFour years after his death, scientists found his \"particles\": chains of tiny living things, later named the bacterium streptococcus. In the end, a nurse, Florence Nightingale, got hospitals to clean up. She used striking data charts and passionate argument.\n\nNow go back to 1797. Wollstonecraft's baby girl lay asleep in her crib. She would learn to read by tracing the letters on her mother's gravestone. As a teenager, she wrote Frankenstein, a great book about life, death, and who gets to make them. The year it was published, Ignaz Semmelweis was born."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Vienna's doctors carried death from the dead bodies to the birth ward on their hands. The midwives, who never touched dead bodies, lost far fewer mothers.",
+      "Washing with chlorine and lime brought deaths in Semmelweis's ward down to the midwives' level, years before anyone knew germs existed.",
+      "Semmelweis tried to shame people into changing, and failed. Nightingale got hospitals to change with clear data and passionate argument."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Semmelweis had the proof. What he never found was a way to be heard."
+    }
+   ],
+   "recall": {
+    "q": "Semmelweis proved that hand-washing saved mothers. Why was he ignored, and whose approach does the piece set against his?",
+    "a": "He tried to shame people into changing, calling doctors who did not wash their hands murderers, so most of the medical world brushed him aside. Wollstonecraft did the opposite: she won people over by showing what was possible. In the end, Florence Nightingale's data charts and passionate argument got hospitals to clean up."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/11/traversal_cover.jpg",
+   "deepLink": "https://www.themarginalian.org/2026/10/11/wollstonecraft-godwin-semmelweis/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sun, 11 Oct 2026 19:53:01 +0000"
+  },
+  {
+   "id": "hackernews-11h2blv",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Why people now disagree so much about what AI can do",
+   "body": "AI researcher Andrej Karpathy says the gap in how people see AI is getting wider, not smaller.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "What is the gap? People see very different things in LLMs. LLMs are large language models, the AI behind chatbots like ChatGPT. Karpathy says people do not split into two camps. They form a funnel that gets narrower at each step. His rough guesses are below.\n\nWhy are views drifting apart? He gives three reasons. First, the benefit grows with the size of the problem. A short question barely tests the system. Second, AI skill is uneven. It is strongest in digital work that is easy to check and worth money, like math and code. That is because models are trained by rewarding answers that can be checked. Third, people have different access. Some use the free version, some pay, and some work inside AI companies.\n\nWho is right? Everyone, he says. Each group is honestly describing what it sees. His non-tech friends are reasonable when they say they have little use for AI. Meanwhile, coders watch AI agents finish projects from one prompt that once took them weeks or months. A tiny group feels \"the curve going vertical\". All of this is happening at the same time.\n\nThe question nobody can answer yet: can humans keep up? Human checking is already falling behind. Mathematicians may need a long time to work through 722 manuscripts on advanced math."
+    },
+    {
+     "label": "The funnel",
+     "style": "list",
+     "items": [
+      "About 6 billion people (~75%) have barely touched LLMs",
+      "1-2 billion (~20%) use free chatbots now and then. They see a \"derpy chatbot\", a better Google search",
+      "About 20 million (0.2%) are math and code professionals on the best models. They now hand big projects to AI agents",
+      "About 5,000 insiders use systems not yet released, where thousands of agents work together for weeks"
+     ]
+    }
+   ],
+   "recall": {
+    "q": "What does Karpathy's 'funnel' describe, and what three things push people's views of AI apart?",
+    "a": "It describes how differently people see AI. Most have barely used it, many see a basic chatbot, about 20 million coders hand big projects to agents, and about 5,000 insiders see much more. Views split because of the size of the problems people bring, AI's uneven skill (strongest in checkable work like math and code), and access (free, paid or inside AI companies)."
+   },
+   "imageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg",
+   "deepLink": "https://twitter.com/karpathy/status/2109361546505966046",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-10-11T20:20:52Z"
+  },
+  {
+   "id": "psypost-7w7ah8",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Antidepressants in pregnancy: what we know, what we don't",
+   "body": "In a study of 167,447 children in Wales, the mother's depression explained most of the extra need for help at school. Antidepressants added only a small extra gap. They added no clear extra risk of autism or ADHD. Nobody can yet say whether that small gap comes from the medicine or from more severe depression.",
+   "evidence": "single observational study · n=167,447 · linked health and school records · children followed to about age 6",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The question often comes early in a pregnancy: should I keep taking my antidepressant? Some women stop because they fear the pills could harm the baby's growing brain. But stopping has a cost too. Untreated depression can hurt both mother and child.\n\nA team at the University of Glasgow used one of the largest data sets yet to study this question. They linked doctor, maternity and school records for 167,447 children born in Wales between 2009 and 2016. Then they counted which children had a special educational need by about age 6. That means a child needs extra help at school with learning, communication, behaviour or physical challenges.\n\nWhat we know. Depression itself mattered. When the mother had no depression and took no antidepressants, 20 children in 100 needed support. When she had depression but no treatment, the number was 23.6. When she had depression and took antidepressants, it was 26.5. So the medicine was linked to about 2.9 more children in 100 needing help, on top of the illness. For autism and ADHD, there was no clear (statistically significant) difference between children of treated and untreated mothers. Earlier work points the same way. A 2018 review and a 2017 study comparing brothers and sisters both found the same thing. The link between the drugs and autism mostly faded once the mother's depression and family traits were taken into account.\n\nWhat we don't know. Why that 2.9 gap exists. The researchers could not measure how severe each mother's depression was. And doctors tend to give medicine for the more serious cases. Small gaps, about one extra case per 100, also appeared for learning difficulties and for behavioural, emotional and social difficulties. Two less common drug types showed bigger gaps, about 8.8 per 100. One was tricyclics, an older kind of antidepressant. The other was SNRIs. But few children were exposed to them, so the real figure could be anywhere from about 3 to 15. Doctors often use tricyclics for harder-to-treat depression, so severity may explain this gap too.\n\nWhere experts disagree. Outside experts read the results differently. Geneticist Angelica Ronald notes that depression, autism and ADHD share some genes, so they tend to run in the same families. This study did not account for that. Psychiatric geneticist David Curtis doubts that the womb plays any part. He thinks a mother with depression may have later episodes that affect how the child grows up. Or she may be in closer contact with support services, so her child's problems get noticed sooner.\n\nHow we'd find out. We need studies that measure how severe the depression is, check the dose, and follow children for longer.\n\nThese numbers describe large groups, not one pregnancy. The lead author and an independent obstetrician (a doctor who specialises in pregnancy) say the same thing. This study cannot tell any one woman whether stopping her medicine would change her child's risk. That decision belongs to her and her doctor. And the cost of untreated depression has to be part of it."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is an observational study. It shows links, not causes. Nobody measured how severe each mother's depression was. A prescription does not prove she took the pills through the whole pregnancy. The main outcome was a broad school record of needing support, not a medical diagnosis. There was no data on alcohol or drug use, the father's mental health, or breastfeeding. The children were only about 6, so later effects are unknown."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The real choice is not pills versus nothing. It is pills versus untreated depression."
+    }
+   ],
+   "recall": {
+    "q": "Compared with untreated depression, what did antidepressants add to children's risk in this study, and why can't the study say the medicine caused it?",
+    "a": "They were linked to about 2.9 more children in 100 needing support at school, and no clear extra risk of autism or ADHD. The researchers could not measure how severe the mothers' depression was. So the gap may simply mean that mothers with worse depression were the ones given medicine."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/12/father-with-pregnant-wife.jpg",
+   "deepLink": "https://www.psypost.org/antidepressants-in-pregnancy-not-tied-to-extra-autism-or-adhd-risk-beyond-maternal-depression-study-finds/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 11 Oct 2026 14:00:29 +0000"
+  },
+  {
+   "id": "psyche-u1lo9e",
+   "source": "psyche",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Black men carry racial trauma, yet are seen as the threat",
+   "body": "A counselling professor argues that many Black men live with a long-lasting injury caused by racism. But their natural ways of coping, like guardedness, anger and pulling away, are often read as danger. So the injury itself goes unseen.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A store worker follows a Black man from aisle to aisle. Later, when he sits down with a therapist, this is not what he talks about first. First he says he sleeps badly and gets irritable. He has pulled away from people he loves, because he is tired of explaining why ordinary days leave him so tense.\n\nYamonte Cooper, a counselling professor in California, has heard versions of this story many times. The details pile up. A boss keeps doubting his skill. Coworkers call his direct tone aggressive. There was a police stop years ago, and another Black man's death replayed online. Many clinicians would hear only anxiety, anger or depression. Cooper thinks they miss the injury underneath: racial trauma.\n\nHe keeps his claim narrow. Not every experience of racism is trauma. His point is that years of threat at work, in public and from institutions can cause a chronic (long-lasting) psychological injury. Classic PTSD (post-traumatic stress disorder) is usually tied to one terrible event. This injury has no single moment. The threat never stops, and the man has little control over it.\n\nWhy focus on men? Not to rank suffering. Black women also face deep racial harm. But stereotypes about Blackness are often built around the Black man as dangerous, and the numbers fit. In a 2020 Gallup survey, 27% of Black men in the US said people acted afraid of them, compared with 11% of Black women. Black men and boys face about a 1 in 1,000 lifetime risk of being killed by police. That is about 2.5 times the risk for white men and boys. A 2019 study covered nearly the whole US population. It found that Black boys grew up to earn less than white boys in 99% of neighbourhood areas.\n\nThe natural responses to all this are staying on alert, guardedness, anger, withdrawal and exhaustion. Here is the paradox. A fearful observer reads exactly these behaviours as threat. Two Princeton researchers found that white respondents were especially likely to see Black men as violent, and least likely to see them as nurturing (warm and caring). Cooper says this fear works fast, often below awareness. It feels like self-protection, so people rarely question it.\n\nSo guardedness looks like hostility. Anger looks like danger, not a reaction to repeated harm. Mistrust looks like paranoia, even when it is an accurate memory of institutions that were not safe. In therapy, these readings can shape the diagnosis, and ways of coping get labelled as aggression or illness. The same conditions that cause the injury also hide it. A Black man may have to make his pain look calm and reasonable before anyone will see it as pain.\n\nCooper says this is not mainly about masculinity. The men he hears from want something more basic: dignity, safety, and to be treated as fully human. The pattern is not only American, either. In London, young Black men were 17 times more likely than the general population to be stopped and searched by police.\n\nHis fix starts with the first question. Do not ask what is wrong with this person. Ask: \"What conditions might have made their response necessary?\" For the man in the therapy room, the poor sleep and silence are not a problem to manage. They are what is left after years of being followed down the aisle."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "Someone who seems guarded may be keeping themselves safe, not being hostile.",
+      "Anger can sit on top of grief, shame or exhaustion.",
+      "Mistrust of an institution can be an accurate memory, not paranoia."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one clinician's argument, built from his therapy work and other people's data. It is not a new study. Cooper also admits a real worry: if everything counts as trauma, the word loses meaning. That is why he limits his claim to long, ongoing threat across many parts of life."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Sometimes a person has to make their pain look harmless before anyone will see it as pain."
+    }
+   ],
+   "recall": {
+    "q": "Why does Cooper say racial trauma in Black men is so often missed?",
+    "a": "The normal responses to constant threat are guardedness, anger, mistrust and pulling away. Because stereotypes already cast Black men as dangerous, people read these responses as hostility, danger or paranoia. So the injury gets treated as a threat to manage, not as harm to understand."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/4a5f62e7-dfa5-4c48-b9db-fcb62ffb81d1/sz-curtis-potvin-h1uzh1dj2p0-unsplash-firefly-upscaler-2x-scale.jpg?top=120&left=0&cropWidth=2304&cropHeight=1296&width=1200&quality=75&format=auto",
+   "deepLink": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
+   "attribution": "Psyche (Aeon)",
+   "publishedAt": "Sun, 11 Oct 2026 22:00:00 GMT"
+  },
+  {
+   "id": "five-books-vtwoy",
+   "source": "five-books",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Five books on Mesopotamia, where writing and cities began",
+   "body": "Writing did not begin with poets. It began as bookkeeping. A historian of the region picks five books that show the ordinary people inside the world's first cities.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Just before 3200 BCE, people in what is now Iraq threw about 4,000 clay tablets onto a rubbish heap. Those tablets show writing being born.\n\nMesopotamia is Greek for \"between the rivers\". It is the land around the Tigris and the Euphrates. Today that is Iraq and parts of Syria and Turkey. Its written history runs about 3,500 years, which is more than half of all human written history. Yet schools mostly skip it. Moudhy Al-Rashid is an Assyriologist, meaning a scholar of this region. She wrote Between Two Rivers, and she picked five recent books to fill the gap. Here is what they teach.\n\n1. Writing began as accounting, not literature. For a long time, people tracked goods with small clay tokens. Each token stood for an amount of something. Later they put the same information on one clay tablet: a number, then a drawing of the thing counted. Around 2900 BCE they began pressing small wedge shapes into the clay. This is cuneiform, and the first hints of grammar appear with it. Ancient Mesopotamia Speaks, a museum book from Yale, tells this story. It also shows tablets used to teach math 4,000 years ago. Al-Rashid doubts the inventors knew they were changing the world. And writing did not stay with experts. In many periods, ordinary people learned about 100 signs. That was enough to write their own letters without paying a scribe, a professional writer.\n\n2. The first empires were full of hungry, ordinary people. Eckart Frahm's Assyria covers almost 1,500 years of the biggest empire the world had seen until then. But its sharpest moment is about one woman. Near the empire's end, Urkittu-hamat sold herself into slavery. She was so hungry that she took copper instead of gold.\n\n3. Abandoned children were not simply left behind. In Weavers, Scribes, and Kings, Amanda Podany shows how, between about 2900 and 2300 BCE, children without homes were placed with households or workplaces. Al-Rashid warns that this was no paradise. One such child was named Putapada, which means \"found from a well\".\n\n4. The earliest writer whose name we know is a woman. She is Enheduana, and Sophus Helle has translated all of her poems. His translation is so clear that a reader who knows nothing about the region can enjoy it. Scholars still argue about whether she really wrote the poems. The oldest copies we have come from centuries after her life.\n\n5. Children drank beer, and it may have been the safer drink. Tate Paulette's In the Land of Ninkasi points to records of beer rations for workers' children. Nobody knows how strong the beer was. Beer also appears often in medical recipes. Maybe that is because it was cleaner than water, and a sick body cannot risk a second illness from dirty water. Paulette also shows that many tavern keepers were women. And one of the earliest names in all of writing, Kushim, appears in records about beer. Kushim may have been a person, or an organization."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Writing was invented to count goods. It ended up saving the names of a hungry woman and a child found in a well."
+    }
+   ],
+   "recall": {
+    "q": "How did writing begin in Mesopotamia, and did its inventors likely know how big it was?",
+    "a": "It began as bookkeeping. Clay tokens for goods gave way to tablets with a number and a drawing of the thing counted. Around 2900 BCE, wedge-shaped cuneiform appeared. Al-Rashid doubts the inventors knew they were changing the world."
+   },
+   "imageUrl": "https://fivebooks.com/best-books/books-about-mesopotamia-moudhy-al-rashid/shareimage.jpg",
+   "deepLink": "https://fivebooks.com/best-books/books-about-mesopotamia-moudhy-al-rashid/",
+   "attribution": "Five Books",
+   "publishedAt": "Fri, 09 Oct 2026 16:03:39 +0000"
+  },
+  {
+   "id": "mint-economy-nmx0h8",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "UPI shop payments over ₹2,000 may cost 0.4% from Oct 15",
+   "body": "For six years, shops paid nothing to accept UPI. From October 15, the government plans to charge them 0.4% on payments above ₹2,000. A think tank, GTRI, wants the plan dropped.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "What is the charge?\nIt is called the MDR (merchant discount rate). This is the cut a shop gives up on each digital payment. It would apply to UPI payments above ₹2,000 made to shops and businesses.\n\nWho pays?\nThe shop, not the buyer. On a ₹5,000 bill, the shop loses ₹20. The fee stops at ₹300, which it reaches at ₹75,000. Sending money to friends and family stays free.\n\nWhy does GTRI want it withdrawn?\nGTRI, led by Ajay Srivastava, says shops will either raise prices or earn less. Then they may buy less stock and hire fewer workers. The fee also makes cards more competitive with UPI. That helps US networks like Visa and Mastercard. PhonePe and Google Pay handle over 80% of UPI payments, so they could also earn from it.\n\nWhat changes for you?\nNothing directly. But your bills may rise if shops pass the cost on."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "UPI serves more than 55 crore Indians",
+      "Last year, UPI payments were worth over 91% of India's GDP"
+     ]
+    },
+    {
+     "label": "What GTRI wants instead",
+     "style": "note",
+     "text": "Nobody outside the system knows what UPI really costs to run. GTRI wants an independent audit to publish the real number. It says the groups that gain from UPI should share the cost, so UPI can stay free. Banks save money on cash, ATMs and branches. Payment apps get spending data and a chance to sell loans and insurance. The government gets a clearer view of the economy. GTRI points to Brazil, which has kept its own payment system, Pix, free."
+    }
+   ],
+   "recall": {
+    "q": "Who would pay the proposed 0.4% UPI fee, and why does GTRI say it could still hurt ordinary buyers and help foreign card companies?",
+    "a": "The shop pays, on payments above ₹2,000, up to ₹300. GTRI says shops would raise prices or earn less. The fee also makes cards more competitive with UPI, which helps Visa and Mastercard."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Gemini_Generated_Image_ghum8kghum8kghum_1784258639_1791657298128_uMSp_1791657298547_csrB_e088e675-eca5-4bb7-864c-3521a4dbc09c_zsxp.png",
+   "deepLink": "https://www.livemint.com/economy/upi-mdr-charges-govt-withdraw-proposed-payment-fee-gtri-think-tank-why-raise-prices-small-business-merchants-weak-demand-11791656189614.html",
+   "attribution": "Mint",
+   "publishedAt": "Sun, 11 Oct 2026 00:06:26 +0530"
+  },
+  {
+   "id": "psypost-qlr1ps",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "A gut-bacteria chemical may speed Alzheimer's brain damage",
+   "body": "When gut bacteria break down a common amino acid, they make a chemical called imidazole propionate. In older adults, more of it in the blood went with faster memory decline. In mice, it opened the brain's protective wall and made Alzheimer's-like damage worse. No one has shown yet that it does the same in people.",
+   "evidence": "observational human data · n≈1,200 older adults · stool DNA n=294 · genetic analysis · male mice only",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Researchers put blue dye into a mouse's blood. A healthy brain keeps things like that out. But this mouse had been drinking water mixed with a chemical made by gut bacteria. The dye leaked deep into its brain.\n\nThe chemical is imidazole propionate. Gut bacteria make it when they break down histidine, an amino acid (a building block of protein) found in many common foods. It was already linked to type 2 diabetes and heart disease. A University of Wisconsin-Madison team wanted to know if it harms the brain too. The study appeared in Nature Communications.\n\nWhat we know. The team followed nearly 1,200 older adults, most with no memory problems. People with the most of this chemical in their blood did worse on memory and thinking tests. Over the years, their memory also started to slip earlier and fell faster. They had more tau, a protein that twists into tangles inside brain cells in Alzheimer's. They also had more of a protein that leaks out of damaged brain cells. The team also checked stool samples from 294 people. More bacteria with urdA, the gene that makes the chemical, went with lower test scores. Some Streptococcus strains carry this gene.\n\nThe mice show a mechanism, meaning the step-by-step path to the damage. Some mice were bred to get Alzheimer's-like changes. In them, the chemical caused more amyloid plaques, sticky clumps of protein. In a second type of mouse, it caused strong inflammation. It also weakened the blood-brain barrier, the tight wall of cells that guards the brain. In brain cells grown in a dish, it made damaged tau build up quickly. It worked through an enzyme called GSK3-beta. When the team blocked that enzyme, the damage disappeared completely.\n\nWhat we don't know. We don't know if this path works the same way in people. Every mouse was male. The mice also drank the chemical, while people make it slowly in their own gut. And no one has shown that lowering it protects anyone's memory.\n\nThe biggest open question is cause. The chemical may drive the disease. Or it may just show up next to poor metabolic health (how well the body turns food into energy), which raises dementia risk by itself. To test this, the team looked at a gene variant on chromosome 12 that naturally raises the chemical's levels. You get your genes by chance at birth. So this works a bit like a fair test where chance decides who gets more of the chemical. People with the variant had a higher risk of Alzheimer's. That points toward cause, but it does not prove it.\n\nHow we'd find out. The next steps are studies in female animals. Another is testing whether diet changes or medicines can safely lower how much of the chemical the gut makes. The real proof would be a trial in people where lowering the chemical slows memory loss."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The human results are correlations: two things rising together, not one shown to cause the other. The team did adjust for age, sex, body weight (BMI) and the APOE gene, a known Alzheimer's risk factor. The strongest evidence for a direct link still comes from male mice that drank the chemical."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Strong in mice, only a hint in people. For now, that gap is the whole story."
+    }
+   ],
+   "recall": {
+    "q": "What did the gut chemical do to brain cells in the dish, and why can't we yet say it causes Alzheimer's in people?",
+    "a": "It made damaged tau build up through an enzyme called GSK3-beta. Blocking the enzyme stopped the damage completely. In people, the evidence is mostly correlation, plus a genetic analysis that only points toward cause. The mouse work used only males, and they drank the chemical instead of making it in their gut."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/01/gut-bacteria.jpg",
+   "deepLink": "https://www.psypost.org/a-chemical-produced-by-gut-bacteria-may-accelerate-alzheimer-s-disease/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 11 Oct 2026 20:00:56 +0000"
+  },
+  {
+   "id": "hackernews-1k2b9xu",
+   "source": "hackernews",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Essay: AI can write code, but you still have to think",
+   "body": "A programmer's essay argues that AI agents do not remove the need to think. When your instructions are vague, the AI quietly makes design choices for you, often by chance.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The test case: DHH, creator of the Ruby on Rails framework, had AI rewrite the chat app Campfire in three other programming languages, Rust, Elixir and Go. He did not read the code.\n\nThe strongest move is one line. The Rust version kept a small waiting line (a buffer) of 256 messages. At 100 posts a second, only about 14% of new-message alerts arrived. A buffer of 16,384 raised that to about 90%. But the worst delay jumped from 11 seconds to over 130. Neither result is simply better. A person has to choose.\n\nWhere it overreaches: one project is thin proof that coding is \"not solved\". The writer also wants to cut off slow users so their app reconnects and reloads. As they admit, that is their own taste, not a fact.\n\nVerdict: worth reading, most of all if you trust AI code you never open, or a single speed-test score."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Under heavy load, Rust delivered 1% of 6,000-7,000 alerts. Elixir delivered 100%, but only about 1,700 in total.",
+      "At 100 posts a second, Elixir delivered about 60% of alerts, and about 23% of posts timed out.",
+      "Elixir's worst alert delay was close to 180 seconds. It used up to 1.8GB of memory."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The rewrites made choices that had nothing to do with the language. The Rust version dropped a security token and Redis, a message tool. The Elixir version stayed close to the original. So DHH's language-versus-language test was not fair."
+    }
+   ],
+   "recall": {
+    "q": "How does one changed line in the Rust version show that AI does not remove the need to think?",
+    "a": "Raising the buffer from 256 to 16,384 lifted alert delivery from about 14% to about 90%, but the worst delay rose from 11 seconds to over 130. A person has to pick one side of that trade-off. Vague instructions leave choices like this to chance."
+   },
+   "deepLink": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+   "attribution": "via Hacker News",
+   "publishedAt": "2026-10-11T14:29:07Z"
+  },
+  {
+   "id": "aeon-k0ksjb",
+   "source": "aeon",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Barbara Ward saw poverty, fairness and nature as one problem",
+   "body": "Long before climate summits, the British economist Barbara Ward argued that ending poverty, sharing wealth fairly and protecting nature were not three causes but one. She saw this early. She also got something wrong, and later partly fixed it: she believed the West should lead everyone else.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "It was 1957. Ghana had just become the first colony south of the Sahara to win independence from European rule. Its leader, Kwame Nkrumah, invited a British economist to speak to the first students of the University College of Ghana. Her job was to give them a map of the world they were entering. Her name was Barbara Ward. She had lived in Ghana for four years, watching it change.\n\nShe told them a story of human progress in five ideas. The last and highest was internationalism: countries working together. Her point was simple. Development, cooperation between nations and world peace were not separate problems. They were one problem, and it needed an answer as big as the whole planet.\n\nThat idea ran through her life. For about thirty years she advised presidents and the United Nations, at a time when women's voices were often pushed aside. Poverty came first for her. Rich countries, she argued, grew rich partly by taking wealth from their colonies. Empire left poor countries with economies that could not grow on their own. So the rich owed help.\n\nHer model was the Marshall Plan, the American aid that rebuilt Europe after the Second World War. She wanted something similar for places like India: train local experts, send extra food, make trade rules fairer. Rich nations would pay for it by giving 1 percent of their national income, meaning everything a country earns in a year. This helped the West too, she said. But above all, it was a moral duty.\n\nThen came the Space Age. Once people could picture Earth from space, Ward took up the phrase \"Spaceship Earth\": a fragile capsule with limited supplies. Single nations, she argued, were now the wrong size for politics. Her warning: \"our physical unity has gone far ahead of our moral unity\".\n\nIn the 1970s she added nature. Poor countries feared too little economic growth. Western thinkers feared growth was destroying the planet. Ward refused to choose. Growth could go on, she said, if we limited pollution, consumption and the taking of natural resources. She called this sustainable development. For the UN's first big environment conference, in Stockholm in 1972, she gathered views from 152 experts in 58 countries into a report called Only One Earth.\n\nThe friction was real. At Stockholm, many countries would not give up any control, and most of her plans stayed on paper. Her vision also had a blind spot. She blamed the West for poverty, yet still saw it as superior. She assumed poor countries wanted to copy Western industry and needed Western guidance. For years she said only Christian values could hold a world community together. When poorer countries proposed their own plan for the world economy, she still insisted the West should lead.\n\nBut she changed. In her later writing she dropped the Christian foundation. Development, she said, should follow local wishes, not a Western model. What could unite people, she now believed, was simply knowing that everyone shares one fragile planet."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "text": "The rich owed the poor, she argued, because empire made some countries rich and left others unable to grow.\n\nHer plan copied the Marshall Plan: local experts, extra food, fairer trade, and 1 percent of rich nations' income as aid.\n\nHer early vision cast the West as the natural leader and poorer countries as followers.\n\nLater she based unity on one shared planet, not one shared religion, and let local wishes guide development."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Ward saw early that poverty, fairness and nature are one knot. It took her longer to see that everyone holding the rope has to help untie it."
+    }
+   ],
+   "recall": {
+    "q": "What three goals did Barbara Ward treat as one problem, and how did her vision change in her later years?",
+    "a": "Ending poverty, fairness between nations and protecting nature. She said they needed planet-wide cooperation. Early on she believed Christian values and Western leadership had to guide this. Later she said a shared, fragile planet was enough to unite people, and that development should follow local wishes."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/41d8761c-df4f-4ee0-a580-d6bd64594340/essay-un-ward.jpg?width=1200&quality=75&format=auto",
+   "deepLink": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
+   "attribution": "Aeon",
+   "publishedAt": "Fri, 09 Oct 2026 10:00:00 GMT"
+  },
+  {
+   "id": "acx-zrm18r",
+   "source": "acx",
+   "topic": "books",
+   "kind": "news",
+   "title": "A 1940 book where TV's builders explain their new medium",
+   "body": "In 1940, the people building American television wrote a book to explain it to a public that had barely seen a TV set. An anonymous reader reviewed it for the Astral Codex Ten book contest. The book matters because it catches a new medium being born, before anyone knew what it was for.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "We Present Television (1940) is a set of essays. Back then, a TV set was a rare luxury. Only three stations existed: NBC in New York, Don Lee in Los Angeles, and GE in Schenectady.\n\nStrongest move: it shows why early TV is forgotten. Shows went out live and were never recorded. So even the first TV serial, Vine Street (1938), is lost. Directors staged plays under hot lights, with three cameras and small budgets. A set designer named what made TV special: the feeling of watching something happen right now. He called it \"supercandor\".\n\nWhere it overreaches: about a tenth of the book is wild prediction. The introduction also claims TV was \"born full-grown\" from planned company research, not from one inventor.\n\nWho should read it: the rest is a clear guide for curious non-experts, in the style of Scientific American. Read it to see TV at a stage when even NBC's program director said no one knew what a TV program was."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "1936: Britain's BBC starts TV broadcasts, three years before NBC's 1939 debut",
+      "441 lines per picture: NBC's new standard, up from 343, which did not give viewers enough entertainment value",
+      "200,000 points of light in each picture, sent 30 times a second",
+      "Over $20 million: the book's estimate of what developing TV cost"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The BBC was a monopoly, with no rivals, so it set TV standards alone. In the US, broadcasters, set makers and the government had to agree first, and that slowed American TV down. And the 1940 question, will TV kill the movies, is still being asked 80 years later."
+    }
+   ],
+   "recall": {
+    "q": "Why has almost all early TV disappeared, and what did the book's writers see as TV's special power?",
+    "a": "Shows went out live and were never recorded, so they were gone once they aired. That same liveness was TV's magic: viewers felt they were watching something happen right now. A set designer called this \"supercandor\"."
+   },
+   "imageUrl": "https://substackcdn.com/image/fetch/$s_!iw6q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facafbb9a-17a6-4c32-b944-68dc0c840d0d_389x557.png",
+   "deepLink": "https://www.astralcodexten.com/p/your-book-review-we-present-television",
+   "attribution": "Astral Codex Ten",
+   "publishedAt": "Sat, 10 Oct 2026 01:05:13 GMT"
+  },
+  {
+   "id": "marginalian-yw655k",
+   "source": "marginalian",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Fresh grief? Elizabeth Gilbert says stop fighting it",
+   "body": "After her partner Rayya Elias died, the writer Elizabeth Gilbert reached one conclusion: you cannot manage grief, and trying only hurts more. Her advice is to let each wave move through you until it is done. She says grief is like love, because both are bigger than you.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "You are in the middle of a meal, or a meeting, and it arrives. Maybe a song set it off. Maybe nothing did. Suddenly you cannot breathe. If you lost someone recently, you know this moment. You may also feel ashamed of it, as if you should be coping better by now.\n\nThe writer Elizabeth Gilbert knows this moment too. Rayya Elias was her best friend for many years. When Rayya suddenly learned she had terminal cancer, Gilbert realized Rayya was the love of her life. After Rayya died, Gilbert talked about grief with Chris Anderson on the first episode of the TED Interviews podcast. She did not offer a plan for handling grief. She offered the opposite.\n\nHer first point: grief is bigger than you. It keeps its own timetable. It comes at night, in the middle of the day, in the middle of a meal. You cannot schedule it or argue it away. Fighting it, she says, only makes you suffer more.\n\nSo what do you do? Her answer is humility. When the wave comes, you go down on your knees, sometimes for real. You let it rock you until it is finished with you. And it does finish. If you stiffen and resist, you only hurt yourself.\n\nHer second point: grief is not only in your head. It takes over your whole body. If you feel it in your chest, your stomach, or your sleep, nothing is wrong with you. That is simply what grief is like.\n\nHer third point may help the most. Gilbert says grief works like love. When she fell in love, she had just as little control. Both come at bad times. Both run through you like something larger than you. As people say, grief is the price you pay for love.\n\nIn a short post she first shared on Instagram, Gilbert called grief a tsunami. She described her way through it as a conversation. Grief tells her she will never love anyone the way she loved Rayya. It tells her she will never hear that laugh again. It tells her Rayya is never coming back. On the floor, in tears, Gilbert gives each of these the same reply: \"I am willing.\" She does not mean happy. She does not mean fine. She means willing to let the hard thing be true.\n\nThat is her counsel for you too. You do not have to manage this. You only have to stop fighting it when it comes. Gilbert even found a kind of dignity in the pain. \"It's an honor to be in grief,\" she said. The pain is that big because the love was."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "When a wave hits at a bad time, stop asking \"why now?\" Grief keeps its own schedule, not yours.",
+      "If your body aches or your sleep breaks, count that as grief too, not as weakness.",
+      "When a hard truth arrives, like \"they are not coming back\", do not argue with it. Try Gilbert's reply: willing to let it be true."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Do not fight the wave. Kneel, let it pass, and let it be as big as the love was."
+    }
+   ],
+   "recall": {
+    "q": "According to Gilbert, what should you do when a wave of grief comes, and why does she compare grief to love?",
+    "a": "Do not resist it. Kneel in humility and let it move through you until it is done, because fighting it only adds suffering. Like love, grief comes on its own schedule, is bigger than you, and cannot be controlled. It is the price of having loved."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/10/lizgilbert_rayyaelias.png?resize=680%2C680&#038;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/10/elizabeth-gilbert-ted-podcast-love-loss/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sun, 11 Oct 2026 01:04:35 +0000"
+  },
+  {
+   "id": "marginalian-1srilix",
+   "source": "marginalian",
+   "topic": "books",
+   "kind": "essay",
+   "title": "Baldwin on love: it finds you when the mask drops",
+   "body": "James Baldwin believed love never comes the way we plan. It comes in strange shapes. And it can reach us only after we stop hiding behind our need for control.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "James Baldwin is in Istanbul, far from the Harlem streets where he grew up. He has turned his whole life around to follow a Turkish lover. He never planned this. Talking with his young friend, the filmmaker Sedat Pakay, he tries to explain what happened to him. Two of his lines, read slowly, hold a whole theory of love.\n\nThe first line says love \"comes as it comes.\" Just before it, Baldwin says love never arrives the way you think it will. Then he says it never arrives the way you were taught it will. Notice the order. First he takes away your own picture of love. Then he takes away the picture your culture gave you. What is left is almost bare: love takes whatever shape it takes. The words are short and plain. You cannot plan around them.\n\nIn the same talk, Baldwin calls love a power he had to deal with. Then he turns the sentence around: it is a power that has dealt with him. That small flip is the heart of the idea. You are not the hunter. Maria Popova, who wrote the essay, puts it this way: from love's point of view, you are the one who is lost, and love does the finding.\n\nThe second line says love takes off \"the masks that we fear we cannot live without and know we cannot live within.\" Read the two halves on their own. The first half is fear: the mask feels like protection. The second half is knowledge: some part of us knows the mask is choking us. The sentence holds both feelings at once. That is exactly how a mask feels from the inside.\n\nSo why does love find you only after you stop performing, that is, stop playing a role? Baldwin says we often choose to stay behind the mask without noticing that we are choosing. We choose being sure over being seen. We choose control. And he adds that it is only ever the feeling of control, never the real thing. Someone busy performing leaves no gap for love to come in.\n\nHe goes further. People who think they control their own fate, he says, can only keep believing it by getting very good at fooling themselves. A real decision makes you humble, because you know how much is out of your hands.\n\nSo \"finding love\" is the wrong way to say it. It assumes the searcher controls the find. And for Baldwin, love is bigger than being made happy. It is a hard state of daring and growth. His last word on it: we cannot invent our lovers and friends, just as we cannot invent our parents. Life gives them and takes them away. The hard part is saying yes."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Love cannot find you while you are still busy hiding."
+    }
+   ],
+   "recall": {
+    "q": "In Baldwin's view, why can love reach you only after you stop performing?",
+    "a": "Because we often choose, without noticing, to stay behind a mask. We pick being sure over being seen, and the feeling of control over the real thing. But love never comes the way we planned. It comes as it comes, and it can only reach someone who has let the mask drop."
+   },
+   "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/08/baldwin_boggs.jpg?fit=320%2C434&amp;ssl=1",
+   "deepLink": "https://www.themarginalian.org/2026/10/11/baldwin-love/",
+   "attribution": "The Marginalian",
+   "publishedAt": "Sun, 11 Oct 2026 20:12:15 +0000"
+  },
+  {
+   "id": "sd-mind-13ho3yl",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Same depression diagnosis, five different brain patterns",
+   "body": "Two people with the same depression diagnosis can have brains that work in opposite ways. A Helsinki study of 263 patients found five patterns of brain activity. In some people, brain areas were linked unusually strongly. In others, the links were unusually weak. Each pattern came with its own mix of symptoms.",
+   "evidence": "single study · n=263 with depression + 75 healthy controls · MEG brain recordings",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two people sit in the same clinic. Both have the same diagnosis on file: major depression. One cannot stop going over the same worries. The other is fighting old trauma, or drinking too much. The label is the same. But are their brains doing the same thing?\n\nA team at the University of Helsinki set out to check. They recorded brain activity in 263 people with major depression and 75 healthy people. They measured functional connectivity: how closely the activity of different brain areas rises and falls together. When two areas move in sync, they are probably working as one network. But more sync does not always mean a healthier brain.\n\nTo record this, they used MEG (magnetoencephalography). MEG picks up the very faint magnetic fields made by the brain's electrical signals. It tracks them millisecond by millisecond. Most earlier depression studies used slower methods. The extra speed let the team see two things: how strongly brain areas were linked, and at which frequencies (rhythms) they worked together.\n\nThe patients did not share one pattern. They fell into five groups, and some groups went in opposite directions.\n\nGroup one had fairly strong connections. Their symptoms were severe almost everywhere: depression, anxiety, rumination (replaying bad thoughts again and again) and trouble getting through daily life.\n\nGroup two had weak connections and mostly milder symptoms.\n\nGroup three had weak connections across large parts of the brain. PTSD symptoms stood out.\n\nGroup four was mixed: links too strong in some areas and too weak in others. These people had deeper depression, more substance abuse and lower well-being.\n\nGroup five had the strongest connections of all. Their main problem was substance abuse, and they had fewer trauma symptoms than the other groups.\n\nAll five groups differed from the healthy people, and not only in how strong or weak their links were. The brain areas involved and the rhythms they shared were different too.\n\nThis may explain an old puzzle: brain studies of depression have sometimes disagreed with each other. Say one study happens to include more strong-connection patients, and another more weak ones. They will see different brains, even though everyone has the same diagnosis. The result adds to growing evidence that depression may have no single biological signature.\n\nThe hope is practical. Today, finding the right treatment often means trying one drug or therapy, waiting, then trying another. One day, a brain recording might help narrow the choice. The lead researcher, Satu Palva, is careful here. She says brain measurements cannot be used to choose treatments yet. But the study shows one possible way to get there."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study from one team. The five groups came from sorting these 263 patients by their brain patterns. The report does not say whether the same groups appear in other people. Each brain pattern goes along with certain symptoms, but that does not show which one causes the other. The researchers say plainly that this is not ready for use in clinics."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The one word \"depression\" may cover several different brains: in some, the networks are too tightly linked; in others, too loosely."
+    }
+   ],
+   "recall": {
+    "q": "What did the Helsinki team find when they sorted depressed patients by brain connectivity, and why might this explain why earlier studies disagreed?",
+    "a": "They found five groups. Some had unusually strong links between brain areas, others unusually weak ones, and each pattern came with different symptoms, such as substance abuse or PTSD. Because one diagnosis covers opposite brain patterns, studies with different mixes of patients can see very different brains."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/brain-scan-glitch-disease.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Fri, 09 Oct 2026 14:34:02 EDT"
+  },
+  {
+   "id": "psypost-tsc1sp",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Boredom can make people more aggressive",
+   "body": "In lab studies, bored people hit a punching bag more often and harder. They also backed military strikes more strongly in made-up crises. In three studies, one hidden need linked boredom to aggression: the hunger for excitement.",
+   "evidence": "three studies by one author · surveys n=370 (China, Vietnam) · lab experiment n=124 · online experiment n=277 (US) · pun",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A man folds a shirt. Then a towel. Then another shirt. The video lasts 25 minutes, and nothing else happens. Afterward, the people who watched it were taken to a room with a punching bag. They hit it more often and harder than people who had watched a nice documentary about a park.\n\nThis was one of three studies by Heng Li, a researcher at Sichuan International Studies University in China. Psychologists define aggression as any behavior meant to harm another living being. Earlier work had linked boredom to everyday sadism, which means enjoying other people's pain. Li asked a wider question: does boredom also feed aggression that has nothing to do with pleasure?\n\nLi's idea works like this. Boredom feels bad because the moment seems empty and you cannot connect with it. So the mind sends a signal: go find something intense. Psychologists call this hunger for strong, exciting experiences \"sensation seeking.\" It can weaken your self-control and narrow your focus to the thrill in front of you. Li suspected this was the bridge from boredom to aggression.\n\nThe first study was a survey of 180 Chinese and 190 Vietnamese university students. Students who felt bored more often in daily life also reported more aggression. This held for all four parts measured: physical aggression, verbal aggression, anger, and hostility. Most psychology research studies people in Western countries, so these Asian samples widened the picture.\n\nBut surveys only show what people say about themselves. So the second study measured action. Li randomly split 124 adults, none of them students, between the laundry video and the park documentary. A hidden camera filmed their punches, and separate judges rated them. The bored group punched more often and harder. They also looked more comfortable doing it and said they enjoyed it more. The numbers showed the path: the dull video raised their wish for excitement, and that wish predicted the punching.\n\nThe third study moved to politics. Li recruited 277 American adults online, both liberals and conservatives. They watched either a boring video of a water wall or a documentary. Then they imagined being commander-in-chief, the leader in charge of the army. In made-up crises, they rated how strongly they would back military action against Iran. Conservatives backed strikes more overall. But boredom raised support for war on both sides. Once again, it worked through sensation seeking."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "These are lab and imagined settings. Hitting a bag is not hurting a person, and rating a made-up scenario is not a real decision. All three studies come from one author. Self-control may change the effect, but this was not tested. And boredom does not have to lead to violence. Other research shows people often deal with it through hobbies, exercise, or daydreaming about the past."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Boredom does not ask for violence. It asks for intensity, and violence is only one place to find it."
+    }
+   ],
+   "recall": {
+    "q": "In Li's studies, what linked boredom to aggression, and how did the punching-bag experiment show it?",
+    "a": "Sensation seeking: the hunger for strong, exciting experiences. People who watched the dull laundry video wanted more excitement, and that wish predicted more and harder punches than in the group that watched a documentary."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/07/bored-man.jpg",
+   "deepLink": "https://www.psypost.org/how-extreme-boredom-can-push-people-toward-aggressive-behavior/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 11 Oct 2026 16:00:45 +0000"
+  },
+  {
+   "id": "psypost-13nx5uf",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Social anxiety vs vulnerable narcissism: two kinds of shame",
+   "body": "Social anxiety and vulnerable narcissism are both tied to a feeling of not being good enough. But in a study of 400 adults, social anxiety was linked to only one thing: the private sense that something is wrong with you. Vulnerable narcissism also carried the fear of being judged by others and the fear of rejection.",
+   "evidence": "single study · n=400 · community sample, over 80% women, mostly Italian · self-report · cross-sectional",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two questions sound almost the same. How often do you feel that something is wrong with you? And how often do you feel that other people look down on you?\n\nThe first question measures internal shame. This is the sense that you yourself are flawed, and it brings harsh self-criticism. The second measures external shame. This is the belief that others see you badly. It often pushes people to avoid company or to keep repairing their image. A team led by the Italian psychologist Giulia Rosa Policardo used these two kinds of shame to separate two traits that often appear together.\n\nThe first trait is social anxiety. It means distress in situations where people might watch and judge you, like making a phone call in public. Some psychologists see it as an old survival tool. It makes you alert to losing status, so you act to protect your place in the group. Everyone has some of it. At its strongest, it becomes a disorder.\n\nThe second trait is vulnerable narcissism. Narcissism comes in two forms. The grandiose form is the loud one: entitlement and arrogance. The vulnerable form is quieter. It means fragile self-worth, strong sensitivity to being judged, and defences that protect a weak sense of self. One test statement asked whether people feel bad about themselves when others ignore them.\n\nBoth traits share rejection sensitivity. This is a habit of expecting rejection, seeing it easily, and reacting to it strongly. It is thought to grow from early criticism or being left out. That teaches a person to read unclear signals as signs of being pushed away.\n\nThe team surveyed 400 adults online. At first, everything was linked to everything. People who scored high on either trait reported more of both kinds of shame and more fear of rejection.\n\nThen the researchers used regression. This method checks the effect of each factor on its own while holding the others steady. Now the two traits split apart. Vulnerable narcissism stayed linked to almost everything: being younger, expecting rejection, and both kinds of shame. Social anxiety kept only one link: internal shame. Age, sex, rejection sensitivity and external shame all dropped out.\n\nThat is the surprise. Socially anxious people fear being watched. Yet their distress seems rooted less in what others think and more in their own harsh judgment of themselves. Vulnerable narcissism looks wider: a fragile self inside, plus constant watching of how others see you and whether they will turn away."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This was one survey taken at one point in time, so it shows links, not causes. We cannot tell whether shame leads to these traits or the other way round. Over 80% of the participants were women, mostly Italian, with an average age of 33, so the pattern may not hold for men. Everything was self-reported, which can make links look stronger. This is a special problem for narcissism, because people may not admit to it. The survey also did not ask about past trauma or mental health history, which could explain some of the results."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The fear of being judged can begin with a judgment you have already passed on yourself."
+    }
+   ],
+   "recall": {
+    "q": "When all factors were tested together, what was the only thing still linked to social anxiety, and how was vulnerable narcissism different?",
+    "a": "Only internal shame, the feeling that something is wrong with you, still predicted social anxiety. Vulnerable narcissism stayed linked to much more: internal shame, external shame (believing others look down on you), expecting rejection, and being younger."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2025/11/smug-arrogant-teen-girl-looking-in-mirror.jpg",
+   "deepLink": "https://www.psypost.org/how-internal-and-external-shame-shape-social-anxiety-and-vulnerable-narcissism/",
+   "attribution": "PsyPost",
+   "publishedAt": "Sun, 11 Oct 2026 11:00:20 +0000"
+  },
+  {
+   "id": "sd-mind-1ooji29",
+   "source": "sd-mind",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Loneliness and isolation may cost years of healthy life",
+   "body": "A study of more than 277,000 adults linked loneliness and social isolation to fewer years lived free of disease. The biggest loss was in mental health: men who were both lonely and isolated had about 5.8 fewer years free of depression and anxiety. Healthy habits made up for some of the harm from isolation, but not from loneliness.",
+   "evidence": "single study · n=277,489 · observational",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Two people eat dinner alone tonight. One has a full phone and friends nearby, but feels that nobody really knows them. The other hardly sees anyone and is fine with that. Researchers would call the first person lonely and the second socially isolated. A new study suggests the difference matters for health.\n\nSocial isolation is something you can count. It means having few social connections. Loneliness is a feeling. It means you are unhappy with your relationships, however many you have. Both are common in the United States. A 2023 report found that about half of adults feel lonely, and nearly as many are isolated.\n\nWe already knew that both are linked to dying earlier. What was missing was a number: how many healthy years might they cost? A team at Tulane University, led by Lu Qi, tried to find it. They followed 277,489 adults aged 40 to 69. At the start, none of them had any of seven major illnesses: diabetes, heart disease, lung disease, dementia, cancer, depression or anxiety. The team then estimated how many years people could expect to live without these diseases, counting from age 50. Scientists call this disease-free life expectancy.\n\nThey compared people who were both lonely and isolated with people who were neither. For physical illness, women lost 2.4 disease-free years and men lost 1.7. For mental illness the gap was bigger. Women lost about 3.7 years free of depression and anxiety. Men lost about 5.8. Qi says men seem to be hurt more easily by loneliness. Women tend to live longer and are protected from some diseases.\n\nThe most useful finding came next. The team checked whether a healthy lifestyle changed the picture: good diet, regular exercise, enough sleep and not smoking. For isolation, these habits clearly cut the number of healthy years lost. For loneliness, they made no significant difference. Eating well and sleeping well could not cancel out the feeling of being alone.\n\nSo the two problems may need different fixes. An isolated person might be helped partly by looking after their body. A lonely person may need something habits cannot give: relationships that actually feel good."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is an observational study. It shows a link, not proof that loneliness or isolation causes these illnesses. People who are getting sick may also pull away from others. The team plans clinical trials to test cause and effect, and plans to study other groups of people."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "You can be alone without being lonely, and lonely without being alone. Good habits help with the first. The second may need something sleep cannot give."
+    }
+   ],
+   "recall": {
+    "q": "How did a healthy lifestyle change the health cost of social isolation compared with loneliness, and what does that suggest?",
+    "a": "Good diet, exercise, sleep and not smoking clearly reduced the healthy years lost to social isolation. They made no significant difference for loneliness. So the two may need different fixes: loneliness seems to need relationships that feel good, not just better habits."
+   },
+   "imageUrl": "https://www.sciencedaily.com/images/1920/sad-lonely-man-looking-out-window.webp",
+   "deepLink": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
+   "attribution": "ScienceDaily",
+   "publishedAt": "Sat, 10 Oct 2026 14:57:02 EDT"
+  },
+  {
+   "id": "semafor-1j7mi9u",
+   "source": "semafor",
+   "topic": "world",
+   "kind": "news",
+   "title": "Riyadh's main airport hit three times in a week",
+   "body": "On Saturday, Riyadh's King Khalid International Airport was hit for the third time in a week. The attack was likely by the Houthis, an armed group in Yemen backed by Iran. Several people were wounded, and earlier strikes this week killed four. Flights were cancelled or sent elsewhere, and the airport stopped working.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The Houthis now call Saudi airspace a military operations zone. They are hitting oil sites and civilian flights, not soldiers.\n\nThe US-Iran war began on February 28. Since then, Gulf governments have tried to project calm. They limited news coverage and made some social media posts a crime. Now that plan is backfiring. On Saturday, Canada and the US warned their citizens before Saudi officials said anything. Riyadh companies told staff to work from home."
+    },
+    {
+     "label": "Saturday's timeline",
+     "style": "list",
+     "items": [
+      "5:34 p.m.: Canada tells its citizens to avoid the airport",
+      "8:03 p.m.: the US gives the same warning",
+      "8:34 p.m.: Saudi officials finally confirm the attack"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "This week Riyadh hosts the World Petroleum Congress. Bosses from ExxonMobil, Shell, TotalEnergies and BP are expected. Later this month comes the Future Investment Initiative, a big meeting for global investors. Organisers say both will go ahead, but some US officials are rethinking their trips. Saudi Arabia wants to be a safe home for trillions of dollars in money, data centres and new industries. Semafor suggests this weak spot may be exactly what Iran and the Houthis are aiming at."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "On Saturday, Trump said the US may join strikes on the Houthis and would decide quickly. The Wall Street Journal reported that Saudi Arabia may be short on interceptors, the missiles that shoot down incoming rockets. If the US strikes, the Gulf will likely take the hits from any Houthi or Iranian response."
+    }
+   ],
+   "recall": {
+    "q": "Why do the attacks on Riyadh's airport matter beyond the people they hurt?",
+    "a": "They hit civilian and economic targets just as Riyadh hosts big oil and investment meetings. This weakens Saudi Arabia's claim to be a safe place for global money. The government's slow response on Saturday made it worse: Canada and the US warned people hours before Saudi officials spoke."
+   },
+   "imageUrl": "https://img.semafor.com/42db6241e675a0e9057aa59eca8fe706b84f099b-1440x1080.jpg",
+   "deepLink": "https://www.semafor.com/article/10/11/2026/attacks-on-riyadh-threaten-saudi-confidence",
+   "attribution": "Semafor",
+   "publishedAt": "Sat, 10 Oct 2026 21:42:46 +0000"
+  },
+  {
+   "id": "et-economy-1x00z4g",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "RBI moves to steady the rupee, at a cost",
+   "body": "The Reserve Bank of India has new rules to slow the rupee's swings against the dollar. Experts think the rupee may get stronger soon. The catch: banks may have less spare cash to lend.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The Reserve Bank of India (RBI) took two steps. First, it is limiting foreign exchange derivative contracts. These are deals that fix a dollar rate today for a payment later. Second, it is making hedging cost more for importers. Hedging means paying to protect yourself from a bad move in the exchange rate.\n\nExperts expect the dollar-rupee rate to fall, which means a stronger rupee. They also expect forward premiums to drop. A forward premium is the extra cost of locking in a future dollar rate. But defending the rupee may drain liquidity, meaning the spare cash banks have to lend."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "A steadier rupee helps anyone who pays in dollars, such as importers. But less spare cash in banks can make loans harder to get."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Crude oil prices. India buys a lot of oil from abroad. Experts warn that oil could still push the rupee down, whatever the RBI does."
+    }
+   ],
+   "recall": {
+    "q": "What two steps did the RBI take to defend the rupee, and what is the possible cost?",
+    "a": "It limited foreign exchange derivative contracts and made hedging cost more for importers. Experts expect a steadier, stronger rupee, but the move may drain liquidity, leaving banks with less spare cash to lend."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-134873258,imgsize-73308.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/policy/rbis-rupee-defence-may-drain-banking-liquidity-ease-currency-pressure/articleshow/134873258.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Sun, 11 Oct 2026 21:31:37 +0530"
+  },
+  {
+   "id": "biz-standard-a8gvbu",
+   "source": "biz-standard",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Japan becomes India's top foreign investor, mostly through one bank deal",
+   "body": "Japan put $5.71 billion into Indian companies from April to June 2026. No other country put in more. That is more than Japan invested in India in all of last year. But most of it came from one deal, not from new factories.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "This money is called foreign direct investment, or FDI. It means a foreign company puts money into an Indian business and gets a share of it. Singapore came second, with $5.22 billion.\n\nThe biggest single deal happened in April. Japan's MUFG Bank bought 20% of Shriram Finance for Rs 39,618 crore, about $4.4 billion. No foreign investor has ever put more into India's financial services sector in one deal."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "29%: Japan's share of the $19.81 billion India received that quarter",
+      "$4.4 billion: the MUFG deal, most of Japan's $5.71 billion",
+      "10 trillion yen: what Japan set out in 2025 to invest in India over 10 years"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Japanese companies are moving supply chains out of some countries because of political tension, tariffs and rising costs. Experts say these firms no longer see India only as a cheap place to make things. They also see a big market of buyers and a base for tech work. India wants this money. It has built 12 townships just for Japanese firms, with Japanese-standard utilities and help desks."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Experts say semiconductors, railways and defence are the likely next areas for Japanese money. Minister Piyush Goyal says Rs 1 lakh crore of the 10-trillion-yen pledge has already come in. But one bank deal can make a single quarter look huge. The real test is whether the money keeps coming."
+    }
+   ],
+   "recall": {
+    "q": "Japan was India's top FDI source in April to June 2026. What drove most of that money?",
+    "a": "One big financial deal, not new factories. MUFG Bank bought 20% of Shriram Finance for about $4.4 billion. That was most of Japan's $5.71 billion for the quarter."
+   },
+   "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261011/full-126101100254.jpg",
+   "deepLink": "https://www.business-standard.com/finance/investment/japan-tops-india-s-fdi-chart-in-q1-fy27-with-5-71-billion-inflows-126101100254_1.html",
+   "attribution": "Business Standard",
+   "publishedAt": "Sun, 11 Oct 2026 13:42:47 +0530"
+  },
+  {
+   "id": "tinybuddha-8e7rx8",
+   "source": "tinybuddha",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Being 'easy to get along with' can mean erasing yourself",
+   "body": "We praise people who are easy to please: the chill friend, the low-maintenance partner. But for one writer, being easy was not kindness. It was an old fear of conflict. Slowly, it wiped out her own wants, until her husband of four years did not know her favorite color.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Four years into their marriage, Dakota J. Dawson's husband turned to her in the car. He asked the kind of question people ask on a first date: what is your favorite color? She opened her mouth, and nothing came out. She was not hiding an answer. She could not find one that was truly hers.\n\nMost of us think being easy to get along with is simply good. It keeps the peace, and it sounds generous. Dawson thought so too. A college roommate called her \"so chill.\" A boyfriend told his mother she was low-maintenance. Each time, she felt proud, as if she had passed a test.\n\nBut being easy is not always a virtue. Sometimes it is a quiet way of erasing yourself.\n\nHere is how it works. Anywhere is fine. You pick. I don't need anything. Said once, these words are polite. Said for years, they become reflexes: automatic answers that skip the real question of what you want. Dawson began to feel a small jolt of panic whenever a friend asked where to get coffee. She had stopped letting herself want things enough to name them. Her husband said it plainly. He used to think she was chill. Now he thought she was \"really good at disappearing.\"\n\nThe reflex began in childhood. Her parents' moods could change a room in seconds. So she learned young to sense the mood and adjust before anyone asked. Agreeing felt safer than wanting, because wanting gave people something to say no to. That is the mechanism. Fear of conflict leads to self-abandonment, which means leaving your own needs behind to keep others calm. It was a survival skill that lasted long after the danger was gone. No one in her adult life asked her to be easy. Her husband and friends kept asking what she wanted. The fear was old, but the cost was real. By making herself so easy, she had made herself unknown.\n\nUndoing it took tiny steps. She named an actual restaurant. She picked a different movie. She said no to hosting Thanksgiving. Her heart pounded every time, and every time the relationship held. Her favorite color, it turns out, is green, like the woods behind her childhood house.\n\nSo why does the myth survive? Because the praise feels so good. Being called easy sounds like proof that people want you around. But that praise rewards an edited version of you. And it hides what you gave up to earn it."
+    },
+    {
+     "label": "See it in your life",
+     "style": "list",
+     "items": [
+      "You say 'whatever you want' before you have checked what you want.",
+      "You feel a small spike of fear when someone asks what you prefer, even about something tiny like coffee.",
+      "People close to you keep asking what you like, and you keep giving them no real answer.",
+      "Being called low-maintenance feels like the best compliment you could get."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one person's essay, not research. The link to her childhood is her own reading of her life. It is a strong example of the pattern, but it does not show how often the pattern happens or why."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The people who stayed were never staying for the easy version. They were staying for her."
+    }
+   ],
+   "recall": {
+    "q": "Why was being 'easy' not really a virtue for the writer, and where did the habit come from?",
+    "a": "Her constant 'anywhere is fine' was not generosity. It was a reflex that erased her own wants, so even her husband did not know her. It started in childhood. Her parents' moods could change quickly, so agreeing felt safer than wanting, because wanting gave people something to say no to."
+   },
+   "imageUrl": "https://cdn.tinybuddha.com/wp-content/uploads/2026/10/Disappearing-woman.png",
+   "deepLink": "https://tinybuddha.com/blog/i-used-to-think-being-easy-to-get-along-with-was-a-compliment/",
+   "attribution": "Tiny Buddha",
+   "publishedAt": "Wed, 07 Oct 2026 15:34:08 +0000"
+  }
+ ]
+}
