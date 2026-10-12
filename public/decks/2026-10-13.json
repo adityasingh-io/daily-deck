@@ -1,0 +1,921 @@
+{
+ "date": "2026-10-13",
+ "generatedAt": "2026-10-12T20:19:34.671Z",
+ "cards": [
+  {
+   "id": "letter-2026-10-13",
+   "source": "editor",
+   "topic": "wildcard",
+   "kind": "letter",
+   "title": "The mind's hidden machinery",
+   "body": "Today's thread is the hidden machinery of the mind. You will see why people blind from early life hear musical notes more finely, how your brain replays what you learned while you rest, and why a philosopher thinks his mother was right to say \"never tempt fate.\" Don't miss the story of how two scientists in a Cambridge basement in 1925 learned how a single nerve cell sends a message.",
+   "deepLink": "",
+   "attribution": "Your editor"
+  },
+  {
+   "id": "marginal-rev-mtuv5g",
+   "source": "marginal-rev",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Economics Nobel: Robert Hall and Michael Woodford",
+   "body": "Robert Hall and Michael Woodford share this year's Nobel Prize in economics. Hall's big idea: your spending changes when you get news, not when the money finally arrives. Our source covers only Hall, so this card does not explain Woodford's work.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Older models said people spend based on what they earn today. Hall started from a different idea, called \"permanent income\": people spend based on what they expect to earn over their whole life. He added that people use everything they know to make that guess. Put together, these give a surprising result. Spending follows a \"random walk\", meaning nobody can predict its next change.\n\nAn example. Today you learn you will get a big, permanent raise next January. You start spending more now. In January, the bigger paycheck is old news, so your spending does not jump. Only surprises move it. Hall tested this on real data, and it held up well. Later studies found spending a little more predictable than his strict version allows. But his idea became the standard that other results are measured against."
+    },
+    {
+     "label": "His other ideas",
+     "style": "list",
+     "items": [
+      "Flat tax (with Alvin Rabushka): one tax rate on wages above a generous family allowance. Savings and investment are not taxed, so it works as a tax on spending. The US never adopted it. Estonia did first, in 1994. Russia followed with a 13% flat tax in 2001, then Slovakia, Georgia, Romania and others.",
+      "Health spending (with Charles Jones): as people get richer, one more car matters less, but one more year of life matters more. Their model says spending over 30% of GDP on health by 2050 could make sense.",
+      "ANCAP: tie the dollar's value to a fixed basket of fertilizer, copper, aluminum and plywood, so the cost of living stays steady."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Governments need to know how much of each extra rupee or dollar people will spend. Economists call this the \"marginal propensity to consume\". Get it wrong, and tax and spending policy go wrong. Hall changed how economists study it. They stopped just matching income to spending. Instead, they began testing what forward-looking choices predict."
+    }
+   ],
+   "recall": {
+    "q": "In Hall's theory, you learn today about a permanent raise that starts next January. When does your spending change, and why?",
+    "a": "Today, when you hear the news. In January the bigger paycheck is not new information, so spending should not jump. Only surprises change spending, so its next move cannot be predicted."
+   },
+   "deepLink": "https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford",
+   "attribution": "Marginal Revolution",
+   "publishedAt": "Mon, 12 Oct 2026 10:06:32 +0000"
+  },
+  {
+   "id": "aeon-10v7bx9",
+   "source": "aeon",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Is everything a little bit conscious? A skeptic asks",
+   "body": "Panpsychism is the idea that consciousness is a basic feature of all matter, from electrons to people. It sounds wild, but it grows from a simple wish: that the world should make sense. Its hardest problem is explaining how tiny minds could join into one big mind like yours.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "You hit a desk with your fist. Nobody minds. Hit a dog the same way and it is wrong. The reason seems clear: the dog can feel, and the desk cannot.\n\nPanpsychism says this split is a mistake. Consciousness means having an inner life: there is something it feels like to be you. Panpsychism says this is a basic property of matter itself. Electrons, tables, planets, dogs and people all have it to some degree.\n\nThe skeptic asks the obvious question. Surely a rock is not conscious?\n\nThe philosopher Sam Kimpton-Nye, writing in Aeon, answers with an old rule called the principle of sufficient reason. It says everything has a reason: the flowers on your doorstep, the huge crater left by the asteroid that killed the dinosaurs, even the exact mass of a proton. Leibniz and Spinoza believed it. So did thinkers from the Stoics to the Islamic philosopher Ibn Sīnā. If the rule is false, some facts just happen, and the world can never be fully understood.\n\nNow apply the rule to your own mind. A mill can be fully explained. Water turns a wheel, the wheel turns gears, the gears turn millstones, and the millstones grind flour. Nothing is left over. Leibniz asked us to imagine a brain as big as a mill, so we could walk around inside it. We would see moving parts. We would never see a feeling. Science describes things from the outside, but experience exists only from the inside. The philosopher David Chalmers called this the \"hard problem of consciousness.\"\n\nIf the smallest bits of matter have no experience at all, no way of arranging them seems to explain why experience appears. A gap always remains. But if experience is there from the start, the gap disappears. So the claim is not that a rock thinks about its day. It is that the basic stuff of a rock has some faint inner side.\n\nThere is a second route. Physics tells us what an electron does. Its mass, charge and spin are described only by how it behaves. Physics never says what those properties are in themselves. The Norwegian philosopher Hedda Hassel Mørch points to pain. Touch a hot radiator and you pull your hand away. That makes complete sense, because wanting to get away is part of what pain is. Negative charge, as far as we know, could have made things behave in any way at all. So perhaps what physics measures is mental underneath, and that is why matter behaves as it does.\n\nNow the skeptic presses the real weak point. Fine, suppose every particle has a tiny flicker of experience. You are still one mind, not billions of tiny ones. How do they join into a single you? That looks like a new hard problem.\n\nHere Kimpton-Nye gives ground. He admits that a lot of work remains to explain how basic consciousness combines into human consciousness. What panpsychism offers is a smaller gap. The jump is no longer from no mind to mind. It is from many small minds to one big mind.\n\nThe rule has a cost too. It seems to make everything necessary, even the fact that you are reading this now. That threatens free will. Philosophers who follow David Hume reject the rule. For them, the world is \"just one little thing and then another.\" Kimpton-Nye himself doubts that every mystery can be explained away, but he thinks the idea is well worth thinking about.\n\nSo the sharpest question is still open. Is the gap between many small minds and one big mind really easier to close than the gap between matter and mind? Or has the mystery just moved?"
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "The claim is not that rocks think. It is that the basic stuff of matter has a faint inner side.",
+      "Its main support is the wish for a reason behind everything: if matter has no experience at all, nothing explains how experience appears.",
+      "Its weak point is combination: nobody yet knows how tiny bits of experience could join into one human mind."
+     ]
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "If mind goes all the way down, the question is no longer where feeling begins, but how many small feelings become one you."
+    }
+   ],
+   "recall": {
+    "q": "Why do some philosophers think panpsychism explains consciousness better than the usual view, and what problem does it still face?",
+    "a": "If basic matter has no experience at all, no way of arranging it seems to explain why feeling appears. If experience is there from the start, that gap disappears. But panpsychism still has to explain how countless tiny bits of experience combine into one human mind, and its supporters admit a lot of work remains."
+   },
+   "imageUrl": "https://images.aeonmedia.co/images/bec1dfcc-28fe-4a77-8345-e232c4bcd475/essay-panos_00227070.jpg?width=1200&quality=75&format=auto",
+   "deepLink": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
+   "attribution": "Aeon",
+   "publishedAt": "Mon, 12 Oct 2026 10:00:00 GMT"
+  },
+  {
+   "id": "psypost-1ahthy4",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Brain replay may keep the meaning and drop the details",
+   "body": "After you learn something, the hippocampus, a key memory area of the brain, replays it while you rest. A small brain-scan study suggests this replay makes the main theme stronger and the details weaker. That may be why we sometimes 'remember' a word nobody said.",
+   "evidence": "single study · n=24 · high-resolution fMRI · correlational",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Bed. Rest. Awake. Dream. A voice reads the words aloud. A minute later you are sure you also heard \"sleep\". You did not. It was never on the list.\n\nPsychologists have used this word-list trick for a long time, because it so often creates false memories. A new small study used it to watch the brain in the quiet moments after learning. It suggests the mistake may come from something useful.\n\nWhat is memory replay?\nAfter you experience something, the hippocampus fires again in the same pattern, on its own. It is like the brain playing a recording back while you rest. This replay helps fix the new experience into memory.\n\nWhy does the brain replay new memories?\nMemory has two jobs that pull against each other. It must keep the details of one event. It must also find patterns across many events, so you can guess what comes next. In the older view, the hippocampus records fast. Then, over days and weeks, it slowly teaches the general rules to the neocortex, the outer layer of the brain. Newer computer models suggest the hippocampus may do both jobs itself. If so, it needs a way to edit a memory soon after it forms.\n\nWhat trade-off did the researchers find?\nReplay seemed to buy meaning by giving up detail. The key area was CA1, a small part of the hippocampus that sends information out to the rest of the brain. When CA1 replayed a word list more often, people were more likely to say, with confidence, that they had heard the missing theme word. They were also worse at remembering whether a male or female voice had said each word. Memory for the words that were really played did not change.\n\nDo other parts of the hippocampus do different jobs?\nIt seems so. CA3 helps rebuild a whole memory from a small cue. Replay there went only with more false memories of the theme. The dentate gyrus helps tell similar experiences apart. Replay there went only with losing the voice details. The front and middle of the hippocampus went with the theme. The back went with the lost details.\n\nSo is a false memory a flaw?\nNot exactly, the authors suggest. One possible reason is called competitive plasticity. Related words share links. Those shared links fire together often and grow stronger. A detail that belongs to only one word fires less and grows weaker. In this view, a false memory is what you get when the brain pulls a useful theme out of an experience.\n\nWas this in animals or people?\nIn people: 24 adults, scanned sharply enough to see the hippocampus's tiny parts. But the study shows a link, not a cause.\n\nThe rest period lasted only 90 seconds. Does replay keep trading detail for meaning over days and weeks? Nobody knows yet."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "People heard word lists built around a missing theme word. Computer-made male and female voices read the words. Then they did simple math for 90 seconds. This kept them busy while their brains rested. During that rest, scans measured how often the hippocampus replayed each list. Finally, still in the scanner, people said which words they recognized, including theme words that were never played. They also said which voice had read each word."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one small study. It shows that replay and memory changes go together, not that replay caused them. People may have listened in different ways, and that could affect both the replay and the later mistakes. The 90-second rest shows only the earliest stage of memory. And the scans tracked whole word lists, not single words."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A false memory may not be a broken memory. It may be the price of finding the theme."
+    }
+   ],
+   "recall": {
+    "q": "During the short rest after learning, what did more replay in CA1 do to memory for the theme, and what did it do to memory for the voice?",
+    "a": "More CA1 replay made people more likely to falsely remember the unspoken theme word, and worse at remembering which voice said each word. Memory for the real words did not change. Replay seemed to trade detail for meaning."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/11/prefrontal-cortext-amygdala-hypothalamus-cerebellum-hippocampus.jpg",
+   "deepLink": "https://www.psypost.org/mental-replay-during-rest-trades-specific-memory-details-for-general-concepts/",
+   "attribution": "PsyPost",
+   "publishedAt": "Mon, 12 Oct 2026 16:00:43 +0000"
+  },
+  {
+   "id": "conv-psych-z2ibal",
+   "source": "conv-psych",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "In Uganda, stigma keeps struggling students from help",
+   "body": "In Ugandan schools, a struggling child is often not seen as unwell. People may see a lazy child, a bad child, a cursed child, or a boy who should toughen up. A new study of 200 people says these beliefs block help. It also sets out what schools can do.",
+   "evidence": "single qualitative study · n=200 · group dialogues · 4 districts",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A teenage boy in a Ugandan school is having a hard time. The adults around him give him one rule: be strong, be \"a guy who does not cry.\" So he hides it. Later the stress may come out as anger, risky behaviour, or pulling away from friends. If he stops concentrating or snaps in class, he may be punished for disobedience, when something is really wrong. Students in a new study said this is the message they hear. They also said they fear being called lazy, badly behaved, or attention-seeking.\n\nThe study comes from the African Health and Population Research Center. It asks a quiet question: when a child is struggling, who decides it is an illness? In Uganda, culture often decides before medicine gets the chance. In 2025, the education ministry gave schools mental-health guidelines: a training manual, a teachers' handbook, and a wellbeing guide. The researchers asked what stops schools from using them.\n\nParticipants named many problems in students: depression, anxiety, stress, low self-esteem, bullying, substance use, and trauma. The causes were tangled together: exam pressure, absent parents, violence at home, harsh discipline, and poverty that pushed children out of friend groups.\n\nStigma came up at every site. Stigma means shame attached to a condition. People called mental illness a moral failing, or blamed it on witchcraft, curses, or demons. Some called it a disease of the rich. One poor participant in Kampala asked if someone like them could even afford the luxury of depression. The authors say religion can give hope and belonging. The danger comes when it is the only explanation. As one teacher warned: \"Some people will pray until somebody dies.\"\n\nStudents also did not trust adults. They feared teachers would judge them, or share their stories in public.\n\nGender shapes all of this. Boys hide stress to look strong. Girls face harassment, poverty, and shame around reproductive health, and are expected to stay silent. Even female teachers face gossip about their marriages. And counselling itself carries shame.\n\nSo what can schools do? The authors say teachers should ask not only what is wrong with a child, but what may have happened to them: bullying, poverty, a death, or fights at home. Schools need private places to talk, clear rules on privacy, and counselling that feels normal. Girls need safe ways to report harassment. Schools also need respectful discipline, trained staff, and links to health services. Beliefs should be respected, but they should not delay care. Posters alone will not change much, because these attitudes live in daily habits. The school system has to change too.\n\nFor the boy told not to cry, this means learning a different kind of strength. The authors want schools to teach that naming a feeling and asking for help are responsible acts, not weak ones."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "The researchers held group talks in four very different districts: Kampala (the capital), Jinja (part rural, part urban), Gulu (hit by conflict and displacement), and Mbarara (an education and business hub). The 200 participants included students aged 13 to 18, parents, teachers, officials, religious and community leaders, NGOs, and groups representing refugees, LGBTQ people, and people with disabilities."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is a qualitative study: it collected views and experiences, not numbers. It tells us what people believe and fear. It does not measure how common each problem is. The authors suggest fixes, but the study does not test whether they work."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Before asking what is wrong with a child, ask what may have happened to them."
+    }
+   ],
+   "recall": {
+    "q": "According to the Uganda study, how does stigma stop struggling students from getting help, and what change in teachers' thinking do the authors recommend?",
+    "a": "People often explain a student's distress as moral failure, witchcraft, laziness, or a rich person's problem, and boys are told to be strong and not cry. So students hide their pain, and signs like withdrawal or anger get punished as disobedience. The authors want teachers to ask not only what is wrong with a child, but what may have happened to them."
+   },
+   "imageUrl": "https://images.theconversation.com/files/762540/original/file-20260928-60-psjtbu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C106%2C1280%2C640&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+   "deepLink": "https://theconversation.com/lazy-weak-bewitched-how-stigma-stops-ugandas-children-from-getting-help-and-what-schools-can-do-about-it-292539",
+   "attribution": "The Conversation",
+   "publishedAt": "2026-10-12T13:19:00Z"
+  },
+  {
+   "id": "3quarks-1srjokr",
+   "source": "3quarks",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "AI produced 372 math papers. Who will understand them?",
+   "body": "OpenAI has released 372 papers of new math results, all made with AI. The computer scientist Scott Aaronson defends them. His real worry is different: that humans might stop understanding the ideas.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Aaronson admits he knows of no direct practical use for any of the results. Take one example: a new algorithm for the Fourier Transform. This is a basic method that splits a signal, like a sound, into the simple waves inside it. The new version is faster only on paper, and by a tiny amount. He does not expect anyone to use it soon.\n\nBut math rarely pays off at once, he says. New ideas pile up, and over time they pull science and technology forward. If human mathematicians studied these papers, he is sure they could build useful things from them.\n\nSo he wants human understanding to stay at the center. The other path is to let AI do the understanding and the applying too."
+    },
+    {
+     "label": "The details",
+     "style": "list",
+     "items": [
+      "The new Fourier algorithm runs in O(n log^0.9999999999999 n) time. The gain is real, but it only matters in theory.",
+      "A group called the Association for Human Mathematics condemned the release: \"Mathematicians did not ask for this work to be done.\"",
+      "Aaronson mocked this line. He pictured the great mathematician G. H. Hardy asking Ramanujan who asked him to prove his strange new formulas.",
+      "He also points out that the group speaks only for its own members, not for all mathematicians."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The question is no longer just whether AI can do new math. It is whether humans will still understand it."
+    }
+   ],
+   "recall": {
+    "q": "Aaronson admits the AI math results have no practical use yet. Why does he still think they matter, and what does he want to protect?",
+    "a": "Math pays off slowly. New ideas pile up and later push science and technology forward, so humans who studied these papers could build useful things from them. He wants to protect human understanding, so that it is not handed over to AI as well."
+   },
+   "imageUrl": "https://3quarksdaily.com/wp-content/uploads/2026/10/Scott_Aaronson_retouched-360x277.jpg",
+   "deepLink": "https://3quarksdaily.com/3quarksdaily/2026/10/scott-aaronson-on-the-mathocalypse.html",
+   "attribution": "3 Quarks Daily",
+   "publishedAt": "Mon, 12 Oct 2026 17:45:38 +0000"
+  },
+  {
+   "id": "psypost-1q1dco0",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Psilocybin: messier brain signals went with more insight",
+   "body": "In 28 adults taking psilocybin for the first time, brain signals became more irregular and harder to predict during the trip. The people whose signals changed most later reported the most insight and the biggest gains in well-being. The study shows the two went together. It cannot show that one caused the other.",
+   "evidence": "single study · n=28 · healthy first-time users · fixed order, placebo always first · exploratory",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The room is dim. Music plays, and an eye mask covers the eyes. A guide sits nearby but does not steer. Small sensors on the scalp record the brain's electrical signals. One to two hours after a 25-milligram dose of psilocybin, the active drug in magic mushrooms, those signals change shape.\n\nScientists call this a rise in brain entropy. Here the word means how varied and unpredictable brain activity is. A relaxed, awake brain often hums in steady rhythms called alpha waves. On the high dose, the alpha rhythm dropped. The signals became irregular and harder to predict from one moment to the next.\n\nWhat we know, with fair confidence. The rise in entropy was large. It peaked just when the trip felt strongest. A 1-milligram dose, too small to feel and used as a placebo, did nothing. People also felt changed. Their insight scores were about 51 points higher on a 0-to-100 scale the next day, and stayed raised a month later. Well-being rose a little: about 4.7 points more than after the placebo. People also made fewer mistakes on a task where hidden rules switched without warning. That task tests cognitive flexibility, the skill of changing how you think when the situation changes.\n\nThe most interesting result is a link. People whose entropy climbed higher tended to report more insight the next day and bigger well-being gains a month later. The numbers hint that insight explains part of this link: more disorder in the brain, then more insight, then feeling better.\n\nWhat we don't know. A link is not a cause. The study does not show that the scrambled signals produced the benefits. The idea being tested, the \"entropic brain\" hypothesis, was first proposed in 2014 by Robin Carhart-Harris. He is also the senior author of this study. So checks by outside teams matter.\n\nWhat is contested. A month later, the brain itself looked mostly the same. The main planned measure was functional MRI, a scan that tracks brain activity through blood flow. It showed only weak changes that did not pass statistical tests. One other scan found less water movement along nerve-fiber bundles that link the front of the brain to deeper regions. That kind of change has been tied to learning and meditation, but also to nerve injury and aging. A second way of analysing the same scans did not find it at all. Katrin Preller, a researcher not involved in the study, called the lasting brain changes \"very marginal\". She said this fits growing evidence that psychedelic brain changes fade within weeks. Martin Madsen, another outside researcher, sees entropy as a plausible mechanism worth testing.\n\nHow we would find out. We need larger trials where people are randomly given the drug or a placebo, and neither they nor the researchers know which. We need studies in patients, not only healthy volunteers. Madsen adds one more test: compare psilocybin with psychotherapy, mindfulness, or art therapy. That would show which effects come from the drug, and which come from any deep personal experience."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "28 healthy adults, average age 41, who had never taken a psychedelic. Everyone got the 1-milligram dose first, and the 25-milligram dose a month later. They were told only that each dose could be anything up to 25 milligrams. Brain signals were recorded with eyes closed, 1, 2, and 4.5 hours after each dose. Brain scans were taken before the study and one month after each dose. Of those who answered a later question, 94 percent called the high dose the most unusual state of consciousness of their lives."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one small, exploratory study. The dose order was always the same, so people may simply have got better at the tests over time. The authors reply that the changes after the high dose were far bigger than that, and nothing changed after the placebo. The main hypotheses were not registered in advance. The study also measured many things, and when you measure many things, some results look real by chance. Its checks for this covered groups of outcomes, not all of them together. As Preller notes, a design like this is good at finding effects but weak at guarding against false ones. Every result needs repeating in larger, better-controlled studies."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The storm in the brain came with the insight that followed. Whether the storm caused the insight is still an open question."
+    }
+   ],
+   "recall": {
+    "q": "What does 'brain entropy' mean here, and what is the study's key finding about it and the benefits people felt later?",
+    "a": "Brain entropy means how varied and unpredictable brain activity is. On high-dose psilocybin it rose sharply, and people whose entropy rose most later reported more insight and bigger well-being gains. This is a link, not proof of cause, from a small study where everyone got the doses in the same fixed order."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/psychedelic-brain.jpg",
+   "deepLink": "https://www.psypost.org/brain-entropy-during-a-psychedelic-trip-tracks-later-gains-in-insight-and-well-being/",
+   "attribution": "PsyPost",
+   "publishedAt": "Mon, 12 Oct 2026 10:00:14 +0000"
+  },
+  {
+   "id": "nautilus-15sgs60",
+   "source": "nautilus",
+   "topic": "world",
+   "kind": "news",
+   "title": "The oldest known peace treaty is about 3,300 years old",
+   "body": "Egypt and the Hittite Empire made it around 1269 BCE, after a war neither side could win.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Guess first: how old is the oldest peace treaty ever found? Older than Rome or Greece. It dates to about 1269 BCE, roughly 3,300 years ago.\n\nPharaoh Ramses II of Egypt made it with King Hattusili III of the Hittite Empire, a power based in what is now Türkiye. They had fought over land in Syria. At the Battle of Kadesh, thousands of chariots clashed. Both kings claimed victory, but it was a bloody draw. About 15 years later, they made peace.\n\nThe treaty covered friendship, borders, helping each other, and extradition (sending wanted people back to their own country). A newly found piece adds a rule for refugees: their homes must not be destroyed."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "120 years: how long archaeologists have been digging up pieces of it in the ruined Hittite capital",
+      "Articles 12 to 20: the part on the new piece, found at the Büyükkale site in Türkiye"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The first version was on silver tablets, now lost. Only clay copies survive, written in cuneiform, a script of small wedge-shaped marks. The text is still not complete. A copper copy hangs at the United Nations in New York. Even the language was a diplomatic choice. Neither side used its own tongue. They wrote in Akkadian, the shared language of diplomacy at the time. So 3,300 years ago, making peace already started with finding common ground."
+    }
+   ],
+   "recall": {
+    "q": "Who made the oldest known peace treaty, and roughly when? Name one thing it covered.",
+    "a": "Ramses II of Egypt and Hattusili III of the Hittites, around 1269 BCE, after the Battle of Kadesh ended in a draw. It covered borders, friendship, extradition and helping each other. A newly found piece protects refugees' homes."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-peace.jpg?w=564",
+   "deepLink": "https://nautil.us/this-is-the-oldest-peace-treaty-ever-discovered-1285725/",
+   "attribution": "Nautilus",
+   "publishedAt": "Mon, 12 Oct 2026 18:30:00 +0000"
+  },
+  {
+   "id": "finshots-1y062dq",
+   "source": "finshots",
+   "topic": "econ",
+   "kind": "news",
+   "title": "How China came to make most of the world's EV batteries",
+   "body": "In 2005, China had two EV battery companies. Today it makes over 75% of the world's EV batteries. That lead made Indian EVs cheaper. It also made India depend on China.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Four facts explain how China got here.\n\n1. A closed home market built the winners. In 2015, China paid subsidies (government money) only to EV makers whose batteries came from an approved list. Every name on it was Chinese. Even South Korean firms with factories in China were left out. Inside this protected market, CATL and BYD competed hard, and their batteries got cheaper and better.\n\n2. The real edge is know-how, not money. Chinese firms built their supply chains themselves and trained many skilled battery engineers. China now limits the export of this skill. Because of this, Tata's battery arm, Agratas, could not finish a technology deal with a Chinese partner.\n\n3. Chinese firms now build factories abroad. They have built at least 68 plants overseas in ten years. This avoids import taxes, and it pays more: a 29% profit margin abroad, against 23% at home. India said no to this route. In 2023, it rejected a $1 billion BYD factory plan over security fears.\n\n4. China's grip made India's EVs cheaper. By 2024, the world's factories could make about 2.5 times more batteries than buyers needed, so prices fell sharply. That year, Tata cut its Nexon EV price by up to ₹1.2 lakh."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Battery pack prices: $827 per kilowatt-hour (a unit of stored energy) in 2013, down to $108 in 2025",
+      "FY26: nearly 84% of India's lithium-ion battery imports came from China",
+      "India's battery import bill: $4.7 billion, nine times the 2018 level",
+      "India's incentive scheme aimed for 50 GWh (gigawatt-hours) of factory capacity by 2025. Only 1.4 GWh is running, almost all at Ola Electric"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "One academic estimate gives a 92% chance of a global battery shortage if China's supply were even moderately disrupted. India wants to depend less on China. But it is skipping the shortcut other countries used: letting Chinese makers in and learning from them."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "India has three slow bets: lithium blocks in Argentina, recycling old batteries and e-waste, and Reliance's sodium-ion batteries, which store less energy for their size. Agratas's own cell plant in Sanand, Gujarat, is not expected to begin commercial production before 2027."
+    }
+   ],
+   "recall": {
+    "q": "How did China build its lead in EV batteries, and why is it hard for India to catch up even with money?",
+    "a": "In 2015, China gave subsidies only to EVs using batteries from a list of Chinese suppliers. Protected by this rule, Chinese firms competed with each other until they became very good at making batteries. India lacks that factory know-how. China now limits sharing it, and India has blocked the Chinese investment that taught other countries."
+   },
+   "imageUrl": "https://cdn.finshots.app/images/2026/10/china.jpg",
+   "deepLink": "https://finshots.in/archive/how-china-is-building-its-global-ev-battery-empire/",
+   "attribution": "Finshots",
+   "publishedAt": "Mon, 12 Oct 2026 01:30:49 GMT"
+  },
+  {
+   "id": "neuro-news-tzvc2s",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Why people blind from early life hear pitch more finely",
+   "body": "People who lost their sight early in life are better than sighted people at telling two close musical notes apart. A new study says their ears are no better. The difference is in the brain: it adds less random 'noise' when it handles sound. Trained musicians show the same thing.",
+   "evidence": "single study · sample size not stated in source · early-blind vs sighted adults matched for musical training · computati",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A note plays through headphones. Then a second note plays, just a tiny bit higher. Was it higher or lower? Many people who have been blind since early life get this right more often than sighted people do. The puzzle is why.\n\nThe popular answer is simple: lose one sense, and the others get stronger. But that answer is too simple. Earlier studies of blind people and pitch gave mixed results. And if all hearing simply got stronger, every hearing test would show it. So a team led by Woon Ju Park at the Georgia Institute of Technology asked a sharper question: where in the hearing system does the advantage actually live? They published the work in The Journal of Neuroscience.\n\nThey used two tests. The first checks the ear itself. It measures how well the cochlea, the snail-shaped part of the inner ear, picks out a tone hidden inside noise. On this test, early-blind and sighted adults did equally well. The ear gave no advantage. The second test was pitch discrimination: telling two close notes apart. Scientists think this task depends on the cortex, the brain's outer layer. Here, the early-blind group did clearly better.\n\nSo the advantage is in the brain. But that still left two possible explanations. Maybe brain cells in the blind group were tuned more sharply to each pitch. Or maybe their brains were simply steadier. The team used computer models to see which idea fit the data better. Steadiness won.\n\nThe key idea is internal noise. When your brain hears the exact same sound twice, it never responds in exactly the same way. There is a small random wobble from moment to moment. The early-blind listeners had less of this wobble. With a steadier signal, a tiny change in pitch is easier to notice.\n\nThen came a twist. The researchers also tested sighted people with different amounts of musical training. More years of training also predicted less internal noise. Blindness and music practice seem to lead to the same change in the brain.\n\nThat points away from a built-in superpower and toward practice. People who depend on sound every day may train their brains, much as a musician does. But this is the authors' reading. Park says only that the gains 'may reflect' experience. The study does not show how daily life lowers the noise, or when it happens."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study, and the source does not say how many people took part. It used only two hearing tests, so it tells us nothing about other kinds of hearing. It compared groups at one point in time. It did not follow people as they trained, so the link to experience is a suggestion, not a proof."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "text": "On the tone-in-noise test, the ears of early-blind adults worked no better than sighted people's ears.\nTheir advantage showed up only in telling close pitches apart, a task handled by the brain.\nComputer models point to less random 'wobble' in the brain's response, not sharper tuning.\nIn sighted people, more years of musical training predicted the same drop in brain noise."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The gift was not sharper ears. It was a quieter brain, and practice may be how you get one."
+    }
+   ],
+   "recall": {
+    "q": "Where did the early-blind listeners' pitch advantage come from, and what other group showed the same change?",
+    "a": "Not from the ear: both groups did equally well on the ear test. It came from the brain having less internal noise, meaning a smaller random wobble when it responds to the same sound. Sighted people with more years of musical training showed the same drop in noise."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/10/Blindness-Silences-Brain-Noise-to-Unlock-Perfect-Pitch-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/blindness-pitch-perception-neuroscience-31308/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Mon, 12 Oct 2026 18:58:19 +0000"
+  },
+  {
+   "id": "transmitter-1e5c5tx",
+   "source": "transmitter",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "How scientists cracked the neural code, 1920s to 1932",
+   "body": "In 1925, in a basement in Cambridge, two scientists learned how a single nerve cell sends a message. Every spike it fires is the same size. To say \"more\", the cell does not fire bigger spikes. It fires them faster.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Cambridge, England, 1925. In a basement lab, a 27-year-old trainee named Yngve Zotterman cuts away a muscle, one small piece at a time, until almost nothing is left. What his instruments show next will answer an old question: how does a nerve carry a message?\n\nAt the start of this story, scientists could only shock a whole nerve and watch a muscle twitch. A few years later, they could read the signal of a single nerve cell.\n\nEarly 1920s. Edgar Adrian and his mentor, Keith Lucas, sent electric current into a motor nerve, a nerve that moves a muscle. The muscle contracted only when the current passed a minimum level. More current did not make it contract harder. This \"all-or-none\" rule came from the nerve itself, and it seemed to hold for every nerve. Today we call this all-or-none event an action potential, or spike: a short electrical pulse.\n\nThe same years. Scientists could see spikes only when a strong current hit a whole nerve and made many axons fire at once. (Axons are the long, wire-like arms of nerve cells.) Nobody knew yet that single axons send spikes in normal life, or that those spikes form a code. The problem was size. Inside a cell, a spike is tens of millivolts. Outside the cell, where scientists could record it, it is about a thousand times smaller.\n\nMid-1920s. A new radio part, the vacuum valve, could make weak signals stronger. Teams at Harvard University and Washington University began using it on nerve signals. For the first time, tiny nerve activity became big enough to see.\n\n1925. Adrian tried a valve amplifier on a motor nerve. At first he was disappointed: the signal looked like random noise. Then he noticed it appeared only when the muscle was stretched. He was hearing messages from muscle spindles, small sensors inside a muscle that detect stretch. These were the first spike trains ever recorded: series of spikes sent along a nerve. But many cells fired together, so no one could read a single one.\n\nWeeks later. Zotterman, who had arrived just two months before, had a gift for fine cutting. He trimmed the muscle until only one spindle remained. The signal changed at once. Every spike had the same shape. The spikes came at a steady rhythm, and they came faster when the muscle was stretched. This was the code. A neuron reports \"how much\" by how often it fires, not by how big its spikes are. At each moment, a spike either happens or it does not, a little like the ones and zeros of a computer.\n\n1926 to 1932. The results came out in two papers in 1926, and people saw right away that they changed the field. In 1932, Adrian won a Nobel Prize.\n\nZotterman later said they knew they had found \"a great secret of life.\" Yet the author, a neuroscientist, says the field now treats the neural code as if it was always known. Biologists celebrate the discovery of the genetic code. Neuroscientists, the author argues, should celebrate this one the same way."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "A spike either happens or it does not. The message is in how often."
+    }
+   ],
+   "recall": {
+    "q": "When only one muscle spindle was left, what did Adrian and Zotterman see, and what did it show about how a neuron signals a bigger quantity?",
+    "a": "Every spike had the same shape, the spikes came at a steady rhythm, and they came faster when the muscle was stretched. So a neuron signals \"more\" by firing more often, not by firing bigger spikes."
+   },
+   "imageUrl": "https://www.thetransmitter.org/wp-content/uploads/2026/10/edgar-adrian-english-electrophysiology-1200.png",
+   "deepLink": "https://www.thetransmitter.org/history-of-neuroscience/the-neural-code-at-100/",
+   "attribution": "The Transmitter",
+   "publishedAt": "Mon, 12 Oct 2026 04:00:36 +0000"
+  },
+  {
+   "id": "wotr-1b0i6eo",
+   "source": "wotr",
+   "topic": "world",
+   "kind": "news",
+   "title": "How the US and China could move from rivalry to stability",
+   "body": "A War on the Rocks essay argues that US-China rivalry has no end goal, so each side's move only sets off the next one. The author's fix is small steps that both sides can test and undo.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In a war game paid for by the US military, American players moved an aircraft carrier away from a dispute to calm things down. Chinese players read the move as getting ready to fight. The author says this kind of misreading grows when each side sees the other only as a rival. Their answer is 'constructive strategic stability', a term both leaders now accept. It means a steady, fair relationship, not a race to win. The four steps:\n\n1. Clear words from the top. Both leaders would say neither wants to weaken, break up or dominate the other. On Taiwan, the US would oppose any one-sided move toward independence or unification, and keep combat troops off the island. Xi would say there is no fixed timetable for unification. Why: mixed signals, like Pelosi's 2022 visit to Taiwan, turned into crises.\n\n2. A 90-day military safety trial. Both sides would avoid unsafe encounters, use emergency hotlines, investigate incidents, and warn each other before big exercises and missile tests. Why: the safety rules agreed in 2014 and 2015 did not stop near-collisions.\n\n3. Explain trade and tech bans before using them. Each side would give the security reason for big restrictions and talk before adding new ones. Why: after sweeping US chip limits on Oct. 7, 2022, China restricted key materials in return, and no one agreed where this should stop.\n\n4. Fewer US spy flights near China, but only if China earns it. The Pentagon would secretly study which close-up spy flights could be cut without losing much intelligence. Cuts would come only after China passes the 90-day trial, and could be reversed. Why: many of these flights add little intelligence but cause dangerous encounters."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Nearly 10 years: how long 'strategic competition' has shaped US policy on China",
+      "About 10 feet: how close a Chinese J-11 fighter flew to a US B-52 bomber at night on Oct. 24, 2023"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The author warns that rivalry with no agreed end goal leads to repeated crises, an arms race, and possibly war over Taiwan, even nuclear war. The 2026 US defense strategy says America does not seek to dominate China. But it still does not say what peace would look like."
+    }
+   ],
+   "recall": {
+    "q": "Why does the author want small, testable steps instead of one big deal, and what is the final step?",
+    "a": "Rivalry with no end goal means each move sets off the next one and misreadings grow. Small steps can be tested and undone. In the final step, the US cuts some close-up spy flights near China, but only after China passes a 90-day safety trial. The cuts can be reversed."
+   },
+   "imageUrl": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-47940-cd509647fa6c.jpg",
+   "deepLink": "https://warontherocks.com/how-china-and-america-can-move-from-competition-to-stability/",
+   "attribution": "War on the Rocks",
+   "publishedAt": "Mon, 12 Oct 2026 07:30:20 +0000"
+  },
+  {
+   "id": "nautilus-1c2aojo",
+   "source": "nautilus",
+   "topic": "books",
+   "kind": "essay",
+   "title": "A poet seeded his dreams with Borges's voice, and a story grew",
+   "body": "For nine months, poet Will Dowd fell asleep wearing a glove that played recordings of dead poets just as he began to dream. An eye disorder had taken away his reading. He hoped dreams could be a back door into books. One nap with Borges's voice became a story about library angels, a tiger, and a red stripe.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "You are falling asleep, and a glove on your hand is watching. Its sensors notice when you slip into hypnagogia. This is the half-awake state where your thoughts start turning into strange pictures. The moment you cross that line, a speaker plays an old recording. It is the crackling voice of Jorge Luis Borges, giving a lecture at Harvard in 1967.\n\nMinutes later, a gong sounds. The device starts recording, and you mumble your dream out loud before you forget it.\n\nFor nine months, this was poet Will Dowd's real life. The glove is called Dormio, and it was built at the MIT Media Lab. It is a tool for targeted dream incubation: you play a chosen prompt at the edge of sleep so that it grows into a dream. Dowd fed it recorded poetry from Harvard's audio archive.\n\nWhy do this? About twenty years ago, Dowd developed a binocular vision disorder. His two eyes have trouble working together as they move across a printed page. He lost deep reading, the kind where you forget where you are. But dreaming looked like a close cousin of reading. The body lies still, the mind flies, and only the eyes flick from left to right. If he filled his dreams with literature, could he find a back door into books?\n\nBorges was a good guide for this. He became head of Argentina's National Library just as his eyesight failed. Yet he kept lecturing around the world, using the library he carried in his memory. He once called writing \"a guided dream.\" Dowd decided to test that idea.\n\nOne snowy afternoon nap gave him a strange tale. On a plane, a man in owl-like glasses tells a curious child about \"library angels\": dead scholars who drop the right book at your feet. Then the narrator, an academic with no job, gives a nervous talk to elderly members of the International Borges Society. He pulls a carved tiger from a bag and makes up his talk on the spot. Zebras survive, he says, because their stripes blur them into one animal. But a genius is marked with a red stripe, so the gods can see him clearly. Afterward, the man in the owl glasses offers him a job as a library angel. The price is death. The man paints a red stripe on the narrator's chest and pushes him into the tiger's cage.\n\nThe story, \"A Sunset-Touch\", is in Dowd's new collection, The Taste of Rain in Buenos Aires.\n\nTurning the dream into prose was a separate job. Dreams do not come in sentences. People talk without speaking. A whole backstory arrives in one flash. Years pass inside one image. Dowd saw himself as a dream journalist. He kept the strange events exactly as they happened. Then he added just enough to link the scenes, so readers could feel they had dreamed it too."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Borges called writing a guided dream. Dowd did it the other way around: he guided the dream first, then wrote it down."
+    }
+   ],
+   "recall": {
+    "q": "How did Dowd's dream incubation work, and why did he want to dream about literature?",
+    "a": "A glove called Dormio sensed when he slipped into the half-awake state and played a recording of a poet's voice. A gong then sounded so he could record the dream. An eye disorder had made deep reading hard for him, so he hoped dreams could be a back door into books."
+   },
+   "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2097742540.jpg?w=564",
+   "deepLink": "https://nautil.us/i-seeded-my-dreams-and-this-story-emerged-1285719/",
+   "attribution": "Nautilus",
+   "publishedAt": "Mon, 12 Oct 2026 16:30:00 +0000"
+  },
+  {
+   "id": "psypost-ruemg2",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Co-wives fought physically in 12 of 19 cultures studied",
+   "body": "Researchers long believed women compete quietly, through gossip and by leaving rivals out. But records from 19 cultures with polygyny, where one man has several wives at once, show co-wives hitting, biting and pulling hair in 12 of them. Gossip showed up in only 2.",
+   "evidence": "single study · 19 cultures · second-hand ethnographic records · presence/absence coding",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The records are notes by anthropologists, researchers who lived among communities and wrote down daily life. They describe fights between co-wives, women married to the same man. Sometimes the women used a stick or a paddle.\n\nThe old view came from a 1999 idea called the \"staying alive\" hypothesis. It said getting hurt was too risky for a woman, because her babies depended on her. So women would compete mostly in indirect ways. Maryanne Fisher of Saint Mary's University in Canada tested this. She read records from 19 cultures across five world regions, from hunter-gatherers to farming communities.\n\nWhat we know. In 12 of the 19 cultures, the records describe physical fights between co-wives. Most were minor, but a few caused injury. In one, a woman was knocked unconscious. Shouting and insults face to face appeared in 10 cultures. Gossip and exclusion appeared in only 2. Even all indirect tactics counted together reached only 9 to 11 cultures. That is still fewer than physical fights.\n\nThe top cause was the husband's attention and love (14 cultures). Next came food, land and animals (7). Then came status, such as who counts as the senior wife (5).\n\nSocieties seemed to expect trouble. In 11 cultures, wives lived in separate houses or cooked at separate fires. In 7, men preferred to marry sisters, because the records said sisters fought less.\n\nWhat we don't know. The data shows only whether a behavior was ever recorded in a culture. It does not show how often it happened, how hard the fights were, or how long they lasted. Also, an observer notices a loud fight more easily than a cold silence. And Fisher's search terms looked for open conflict. So quiet tactics are probably undercounted.\n\nWhat is contested. Fisher says the staying alive idea never meant women avoid all fights. It meant women weigh physical risk more than men do. So they fight directly when the payoff is high enough. Co-wives compete for years over things that affect their children's survival. The stakes are high. But comparing these records with lab studies of young Western women proves little, because the two use different people and methods. The psychologist Farid Pazhoohi warns against reading this as proof that women are violent everywhere. He sees a flexible strategy that depends on what is at stake.\n\nHow we'd find out. Studies that follow the same households for many years could show how arguments turn into fights, and what stops them."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is one study of 19 cultures, so its numbers may not hold for others. The sample is uneven: 13 cultures were in the Americas and only one was in Africa. The data is second-hand. It shows broad patterns, but it cannot prove cause and effect or rule out hidden factors. Marking each behavior as simply present or absent can also hide local detail and differences between people."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Rivalry takes the form the stakes allow, and when the stakes are a child's future, it is not always quiet."
+    }
+   ],
+   "recall": {
+    "q": "In the records, how did physical fights between co-wives compare with gossip, and why might the records still be biased?",
+    "a": "Physical fights were recorded in 12 of 19 cultures, gossip or exclusion in only 2. Even all indirect tactics together reached only 9 to 11. But the records show only whether a behavior appeared at all. Loud fights are easier to notice and write down than quiet hostility, and the search terms looked for open conflict."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/women-fighting.jpg",
+   "deepLink": "https://www.psypost.org/when-women-share-a-husband-physical-fights-between-co-wives-are-common-across-cultures/",
+   "attribution": "PsyPost",
+   "publishedAt": "Mon, 12 Oct 2026 12:00:33 +0000"
+  },
+  {
+   "id": "iai-6cdcij",
+   "source": "iai",
+   "topic": "philosophy",
+   "kind": "essay",
+   "title": "Tempting fate: why low odds don't mean low risk",
+   "body": "\"Never tempt fate,\" philosopher Duncan Pritchard's mother used to say. He thinks she was right, but for a deeper reason than magic. The real question about any risk is not how likely disaster is. It is how easily it could happen.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "\"Never tempt fate.\" This was one of many sayings of Duncan Pritchard's mother, who died recently. Another saying explained it: \"hubris begets nemesis.\" Hubris means too much pride. Nemesis was the Greek goddess of punishment. Her meaning was simple: be too sure of your plans, and the gods will notice and punish you.\n\nPritchard says this feels right to him. But he finds a second lesson inside the saying. It matters for anyone deciding whether to take a risk.\n\nWhen you take a risk, nothing is promised. Things can go wrong. So every risk opens a door to disaster. You could even say it invites disaster. Yet it is hard to live well if you always choose the safe path. A careful life is often a life of regret. So the real question is not whether to tempt fate. It is how to do it without hubris.\n\nThe usual answer, Pritchard says, is not good enough. Most people measure risk by probability: how likely is the bad thing? Juggling dynamite is high risk. Do it 100 times and you will almost surely blow yourself up. Juggling apples is low risk. Do it all day and you will be fine. This works for many cases, which is why the idea is so popular.\n\nThen there is Alex Honnold. In 2017 he became the first person to climb El Capitan free solo. El Capitan is a 3,000-foot rock wall in Yosemite National Park. Free solo means no ropes and no safety gear at all. Honnold had huge skill and years of preparation, so a fall was unlikely. By the probability measure, the climb was low risk.\n\nNobody believes that. Here is the turn. Pritchard argues that risk is better measured by fragility: how easily a disaster could happen. Honnold's odds were good, but his position was fragile. One small slip, and he would have fallen to his death.\n\nThis is the hidden truth in the old fear. When we say nothing will go wrong, we usually mean the odds are on our side. That can be true and still miss the point. The pride is in treating low odds as safety, while forgetting how little it would take to fail.\n\nTry it on an ordinary choice. You ride a scooter to work every day without a helmet. You ride carefully, so a crash is unlikely. By the odds, you are safe. Now ask the other question: how easily could this end badly? Very easily. One pothole or one careless driver is enough. A helmet does not change your skill. It changes how fragile you are when something goes wrong.\n\nSo tempting fate is not the mistake. Forgetting how little it would take to fall is."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Odds tell you how likely a fall is. Fragility tells you how little it would take."
+    }
+   ],
+   "recall": {
+    "q": "Why does Pritchard say Honnold's climb was high risk even though a fall was unlikely, and how does he say we should measure risk instead?",
+    "a": "By probability the climb was low risk, because Honnold's skill made a fall unlikely. But one small slip would have killed him. Pritchard says we should measure risk by fragility: how easily a disaster could happen, not only how likely it is."
+   },
+   "imageUrl": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQ4MCwyNzBd/how-to-tempt-fate-without-inviting-catastrophe.webp",
+   "deepLink": "https://iai.tv/articles/how-to-tempt-fate-without-inviting-catastrophe-auid-3701",
+   "attribution": "IAI News",
+   "publishedAt": "Mon, 12 Oct 2026 10:20:45 +0000"
+  },
+  {
+   "id": "psypost-1hlfizd",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Couples are happiest where couples are common",
+   "body": "A study of more than 380,000 adults in Great Britain found that people with partners are more satisfied with life than single people. The gap is widest in places where most people have partners. The surprise is why. In those places, couples get happier. Single people stay about the same.",
+   "evidence": "single study · n=382,078 · online volunteers · self-report · correlational",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In Bolsover, a district in Great Britain, 80 percent of the people in one big survey had a partner. In one London borough, only about 55 percent did. Does it change how happy you are, depending on which of these places you live in?\n\nA team led by Tita Gonzalez Avilés at the University of Bamberg asked this question. Many studies find that people in couples are more satisfied with life than single people. This is often taken as proof that relationships are good for us. The team wanted to look at something else: the place where people live.\n\nThey started from an idea called person-culture match. It says people feel better when their life fits the normal pattern around them. So couples might feel more at home where couples are common. Singles might feel left out or pressured there.\n\nThe team used answers from the BBC Big Personality Test: 382,078 adults in 379 local districts. People said if they had a partner. They also rated their life satisfaction from one to seven. The researchers removed the effect of other personal factors, such as age, income, health and personality. They did the same for district factors, like local income, religion and politics.\n\nIn every district, people with partners were more satisfied. The gap was about half a standard deviation (a common unit for comparing the size of gaps). That is close to the gap linked to having a job, or to being in good health. But the gap grew as the local share of couples grew. It was 0.49 in districts with the fewest couples and 0.63 in districts with the most. That is nearly 29 percent bigger. Across London neighborhoods it grew even more, from 0.41 to 0.62.\n\nThe team expected singles to be less happy in places full of couples. They were not. Singles were about equally satisfied everywhere. The gap grew because couples were happier in those places. Singles there even cared slightly less about finding a partner. The researchers guess these singles may turn to other goals in life.\n\nSo what did matter for singles? It seems it was attitudes, not numbers. The team ran some extra checks they had not planned. The gap was wider in poorer districts, in more religious districts, and in districts where more people voted in 2016 to leave the European Union. In the conservative and religious places, the wider gap came mainly from singles being less satisfied. The team did not directly measure how people there view being single. So they call this explanation a guess."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "The people were online volunteers who took a personality test between 2009 and 2011. About 64 percent were women. The data are now more than 15 years old. The study shows a link, not a cause: happy couples might simply move to places with many couples. To check this, the team looked only at people who still lived where they grew up. That makes moving a less likely explanation. The effect of place was modest. The findings about politics and religion were not planned in advance. All the data come from Great Britain."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Living among many couples did not make singles less happy. Living among people who look down on being single might."
+    }
+   ],
+   "recall": {
+    "q": "Why was the happiness gap between couples and singles wider in places with many couples, and what seemed to matter more for singles?",
+    "a": "The gap grew because couples were happier in those places. Singles were about equally satisfied everywhere, whatever the local share of couples. For singles, local attitudes seemed to matter more than numbers: they were less satisfied in more conservative and religious districts. The researchers say this part is only a guess."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/06/happy-couple-laughing.jpg",
+   "deepLink": "https://www.psypost.org/researchers-identify-a-factor-linked-to-how-much-happier-couples-are-than-singles/",
+   "attribution": "PsyPost",
+   "publishedAt": "Mon, 12 Oct 2026 18:00:55 +0000"
+  },
+  {
+   "id": "neuro-news-ubo3uj",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Teen anxiety shows up in a deep brain circuit by age 12",
+   "body": "In brain scans of nearly 3,500 young people, anxiety was linked to a circuit joining three deep brain areas: the amygdala, the thalamus and the cerebellum. Anxious youth were also slightly worse at judging shapes and space. Both patterns were already visible at ages 11 and 12.",
+   "evidence": "single study · n=3,499 · median age 12 · brain scans + anxiety scores · associations only",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "A 12-year-old lies still in a brain scanner. The only instruction is to rest. Even so, brain areas keep sending signals to each other, and the scan can map which areas are active together. Researchers at Boston Children's Hospital studied these maps for 3,499 young people, most around age 12. They came from the ABCD study, the largest US study of how children's brains grow.\n\nWhy this age? In adolescence, the brain rewires itself on a huge scale. It is also when mental health problems most often begin. In the US, anxiety disorders affect more than 30% of teenagers. Yet scientists have struggled to find what changes in the brain.\n\nThe team, led by Caterina Stamoulis, found one circuit that stood out. It links three areas deep in the brain: the amygdala, the thalamus, and the cerebellum at the back of the head. In more anxious youth, these areas were more strongly connected and more central to the brain's wider network. A larger loop that includes the cerebellum and thalamus also had a higher \"control cost\". This means the brain seemed to need more effort to keep that system steady.\n\nOther networks pointed the other way. Some young people had efficient, sturdy networks linking the front, sides and top of the brain. They had about 20 to 28% lower odds of social anxiety disorder or generalized anxiety disorder. Brain shape mattered too. Thicker or larger tissue in a few areas went with higher odds of these disorders.\n\nThe surprise was that anxiety was not only about feelings. Anxious youth scored a little lower on a test of visuospatial skill. That is the ability to judge how shapes and objects sit in space. We use it to find our way, drive, build things or tie a shoe. In anxious teens, the usual link between brain activity and doing well on this test was also weaker.\n\nAnxiety was more common in girls, in older youth, and in children whose parents had more mental health problems.\n\nAll these patterns were already there at 11 and 12, right at the start of adolescence. Stamoulis hopes these circuits could one day be targets for precise treatments, such as brain stimulation or mental training, instead of trial and error. For now, that is a hope, not a result. The study shows where anxiety appears in the brain, not how to change it."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This study finds links, not causes. It cannot say whether the brain differences lead to anxiety, come from it, or share a third cause. The links are also small. The drop on the visuospatial test was slight, and the brain links were modest. The sources even disagree. The press release calls the circuit weaker and disorganized, but the paper's own summary reports stronger connections. So the details are less settled than a headline suggests. All the children were from the US."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "In a 12-year-old, anxiety may be more than a feeling. It can show in how the brain is wired, and even in how a child judges the space around them."
+    }
+   ],
+   "recall": {
+    "q": "Which brain circuit was linked to anxiety in these 12-year-olds, and what everyday skill also went with anxiety?",
+    "a": "A circuit joining three deep brain areas: the amygdala, the thalamus and the cerebellum. Anxious youth were also slightly worse at visuospatial skill, which means judging how shapes and objects sit in space. These are links from one study, not proof of cause."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/10/Brain-Wiring-Linked-to-Teen-Anxiety-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/key-brain-circuit-linked-to-teen-anxiety-identified/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Mon, 12 Oct 2026 19:47:05 +0000"
+  },
+  {
+   "id": "neuro-news-1aly6iy",
+   "source": "neuro-news",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "LSD microdoses sharpened attention in women, not men",
+   "body": "In a small trial, tiny doses of LSD helped women stay focused longer and lose attention less often. Men who took the same doses showed no clear benefit. The researchers say the real lesson is not about LSD. It is that one dose can do different things in different people.",
+   "evidence": "single pilot study · n=48 (24 women, 24 men) · randomized, double-blind, placebo-controlled · post-hoc re-analysis · pre",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Fifteen micrograms of LSD is a very small amount. It is about a quarter of the roughly 60 micrograms where a full psychedelic trip usually begins. Online, people sell this tiny dose as a way to work better: take a little, think sharper, focus longer. Careful lab tests keep giving mixed answers. Is the effect real? Is it just people expecting to feel better? Or does it depend on who takes it?\n\nResearchers at Maastricht University tested the third idea. They studied 48 healthy adults, 24 women and 24 men, with an average age of about 37. Over two weeks, each person got either four doses of LSD at 15 micrograms or a placebo, a fake pill with nothing in it. The study was double-blind. Neither the volunteers nor the staff knew who got what until testing was over.\n\nThe team tested three mental skills. Working memory is holding information in mind for a short time. Processing speed is how fast the brain handles information. Sustained attention is staying focused on a dull task without drifting. To measure attention, people watched a screen and had to react fast whenever an image appeared. The tests ran at the start, after the first dose, after the fourth dose, and again later.\n\nOne clear difference showed up in the attention task. In the placebo group, women were usually a bit slower than men. They also had more lapses, the moments when attention slips and a signal is missed. On LSD, women improved a lot. Their lapses dropped after the first dose, stayed lower after repeated doses, and were still lower at follow-up. Men on the same doses showed no clear gain.\n\nThe memory and speed tests showed no such split. This may explain why earlier studies missed the pattern. They often mixed men and women together, or combined many tests into one score. A real effect in one group could then disappear in the average.\n\nThe lead researcher, Iva Totomanova, is careful about what this means. The study does not show that small doses of LSD improve thinking in general. It also does not show that women are more sensitive to LSD. Her point is narrower: effects may depend on the person, the task, and the situation. The better question, she says, is who responds to microdosing, and when."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This is a small pilot study. The sex difference was found by looking again at data already collected. It was not the question the trial was built to test. It was presented at a conference. The team did not track things that may matter, such as hormones from the ovaries, the stage of the menstrual cycle, or use of birth-control pills. An independent expert called it worth studying on a larger scale. That is not the same as proof."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "An average can hide a real effect in one group by mixing it with no effect in another."
+    }
+   ],
+   "recall": {
+    "q": "What did the LSD microdoses do to attention in women compared with men, and why might earlier studies have missed it?",
+    "a": "Women had fewer attention lapses after one dose, after repeated doses, and at follow-up. Men showed no clear gain. Earlier studies often mixed men and women together, or combined several tests into one score, so a real effect in one group could vanish in the average."
+   },
+   "imageUrl": "https://neurosciencenews.com/files/2026/10/lsd-women-attention-neuroscience-1155x770.jpg",
+   "deepLink": "https://neurosciencenews.com/lsd-microdosing-women-attention-31307/",
+   "attribution": "Neuroscience News",
+   "publishedAt": "Mon, 12 Oct 2026 17:03:49 +0000"
+  },
+  {
+   "id": "bbc-world-b8qevd",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Russia hits Ukraine's power sites hours after Trump's truce",
+   "body": "On Sunday, Donald Trump said Russia and Ukraine had agreed to stop attacking each other's energy sites, starting at once. Within hours, Ukraine's president, Volodymyr Zelensky, said Russian strikes had hit six Ukrainian energy facilities and injured 33 people.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "An energy ceasefire is a limited truce. Each side stops attacking the other's power plants, gas stations and fuel sites, but the wider war goes on. Zelensky said this truce was news to him. He supports it if the US makes sure Russia respects it.\n\nThat night, Russian strikes caused blackouts in the city of Izyum. They also hit energy and railway sites in western Ukraine. Ukraine's grid operator, Ukrenergo, reported new power cuts in Kharkiv, Donetsk and Zaporizhzhia. It began rationing electricity so damaged equipment would not overload. In Kyiv, a drone hit a 25-storey apartment building, killing one person and injuring 11.\n\nRussia's foreign minister, Sergei Lavrov, said Ukraine does not deserve the break a ceasefire would bring."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "273 strikes on Russian-held oil and gas sites so far in 2026, up from 124 in the same period of 2025 (BBC Verify)",
+      "2.4 times as many reported Russian attacks on Ukraine's energy network this year (Acled, a group that tracks conflicts)"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Trump wants calm around Russian oil because of a new deal. Russia will sell diesel to the US and the world. In return, the US will pause some sanctions (trade penalties) on Russian energy. Fuel prices are high before the US midterm elections. Zelensky called the deal a gift to Putin."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Britain, France, Canada and the EU back the truce. But the EU's foreign policy chief, Kaja Kallas, said the EU has not yet seen Russia keep to it."
+    }
+   ],
+   "recall": {
+    "q": "What was the energy ceasefire supposed to stop, and what happened in the hours after Trump announced it?",
+    "a": "It was meant to stop Russia and Ukraine from attacking each other's power plants, gas and fuel sites. Within hours, Zelensky said Russia had hit six Ukrainian energy facilities and injured 33 people. The strikes also caused blackouts and power rationing."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Mon, 12 Oct 2026 17:32:13 GMT"
+  },
+  {
+   "id": "bbc-world-hlwz2c",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "Leaked files: Deloitte helped hide $672m of Abramovich's wealth, BBC reports",
+   "body": "Leaked files suggest that Deloitte, the world's biggest accounting firm, signed off accounts it knew were misleading. Those accounts made $672m of Roman Abramovich's yachts, jets and homes disappear. The trick was simple: papers dated three years before they were really signed.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "In 2006, a new Cyprus law said company accounts had to be made public. That was a problem for Amiscan, one of Abramovich's Cyprus companies. Its draft accounts listed $672m of luxury property: a London flat, a French estate, private jets and the $147.5m yacht Pelorus.\n\nHis Cyprus advisers, a firm called MeritServus, moved the assets on paper to a parent company in the British Virgin Islands, where accounts stay secret. Then they backdated the papers, meaning they put an earlier date on them, so the move seemed to happen in 2003. Deloitte Cyprus reviewed the papers and signed off the accounts. Only $75,000 of assets remained.\n\nThe files suggest Deloitte also advised on a second plan. Backdated papers made another company look like it was only holding almost $2bn for someone else. So it paid no Cyprus tax on the interest. A financial-law barrister called this plain tax evasion.\n\nAbramovich denies hiding wealth or evading tax. Deloitte says the papers are over 20 years old and it cannot comment."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Over $10bn sat in a third company, which MeritServus also backdated. Its public accounts showed just $145,000",
+      "£5.4bn of Abramovich's assets are still frozen in Jersey"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The UK sanctioned Abramovich in 2022 as an associate of Putin. This leak turns attention to his Western advisers too. A former Russian energy minister says every corrupt oligarch has an \"army\" of Western finance, law and PR firms. They are paid to make the oligarch look normal."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "A Cypriot MP says that if tax was evaded, Cyprus must try to get the money back. In Jersey, a criminal investigation into Abramovich has run for four years. He says it is political."
+    }
+   ],
+   "recall": {
+    "q": "How did $672m of Abramovich's property vanish from his company's accounts, and what did Deloitte do?",
+    "a": "A 2006 Cyprus law made accounts public. So advisers moved the assets on paper to a secret British Virgin Islands company and backdated the papers to 2003. Deloitte Cyprus reviewed the papers and signed off accounts showing only $75,000 left. The leaked files suggest it knew the accounts were misleading."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc3/live/b06f9880-c621-11f1-bc2e-018d645d8d21.jpg",
+   "deepLink": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Mon, 12 Oct 2026 05:00:52 GMT"
+  },
+  {
+   "id": "bbc-world-9khlqb",
+   "source": "bbc-world",
+   "topic": "world",
+   "kind": "news",
+   "title": "US agents search Rep. Ilhan Omar's home weeks before vote",
+   "body": "On Monday, federal immigration agents searched the home of US Congresswoman Ilhan Omar. The search came 22 days before the midterm elections, which decide who controls Congress.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The agents came from Homeland Security Investigations (HSI), the investigation branch of the department that handles immigration. They carried boxes out of Omar's home near Washington, DC. A judge had approved the search with a warrant. The justice department says it is a criminal investigation but has given no details.\n\nFox News first reported the search. It says the case is about immigration papers that Omar's late father filed when she was a child. Last month, the Homeland Security Secretary accused her of marriage fraud. Omar is a Democrat from the Minneapolis area and the first Somali-American elected to the US House. She denies any wrongdoing. She says the search is President Trump's latest attempt to scare her. Trump has attacked her for years and has suggested she should be deported."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "Only US citizens can serve in the House. That means questions about immigration papers can threaten a member's seat. The justice department also has an old policy of avoiding most actions that could look like an attempt to affect an election. Democrats, including Minnesota's governor, call the search political targeting that goes against the spirit of that policy. Some Republicans say nobody is above the law."
+    }
+   ],
+   "recall": {
+    "q": "What is the search of Ilhan Omar's home reportedly about, and why is its timing controversial?",
+    "a": "Fox News says it is about immigration papers her late father filed when she was a child. It happened 22 days before the midterm elections, and the justice department usually avoids actions that could look like an attempt to affect an election."
+   },
+   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc45/live/01c4d970-c64f-11f1-b47f-e3f9cf703bc3.png",
+   "deepLink": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&amp;at_campaign=rss",
+   "attribution": "BBC News",
+   "publishedAt": "Mon, 12 Oct 2026 17:09:55 GMT"
+  },
+  {
+   "id": "et-economy-1ttmtf",
+   "source": "et-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "Water shortage may cut India's wheat planting this winter",
+   "body": "Indian farmers will likely plant less wheat this winter. There are two reasons: too little water, and a minimum support price that farmers think is too low. Rajasthan, Gujarat and Madhya Pradesh may be hit hardest.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Wheat is a winter crop, and it needs water. This year many farmers may not have enough, The Economic Times reports.\n\nThe second reason is money. The minimum support price, or MSP, is the price at which the government promises to buy a crop. Farmers think this year's wheat MSP is low. So wheat looks less worth growing.\n\nIn Rajasthan, Gujarat and Madhya Pradesh, state governments are asking farmers to grow crops that need less water."
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "A natural limit (water) and a weak price have hit at the same time. Together they may change which crops farmers grow, not just how much wheat they plant."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Will farmers in these three states really switch to crops that need less water, as their governments want?"
+    }
+   ],
+   "recall": {
+    "q": "What two reasons are pushing Indian farmers to plant less wheat this winter, and what are states asking them to do?",
+    "a": "There is not enough water, and the minimum support price (the price the government promises to pay) looks low. Rajasthan, Gujarat and Madhya Pradesh are asking farmers to grow crops that need less water."
+   },
+   "imageUrl": "https://img.etimg.com/photo/msid-134901752,imgsize-138184.cms",
+   "deepLink": "https://economictimes.indiatimes.com/news/economy/agriculture/wheat-sowing-declines-amid-water-crisis-farmers-shift-to-more-profitable-crops/articleshow/134901752.cms",
+   "attribution": "The Economic Times",
+   "publishedAt": "Tue, 13 Oct 2026 00:52:24 +0530"
+  },
+  {
+   "id": "mint-economy-1j29yap",
+   "source": "mint-economy",
+   "topic": "econ",
+   "kind": "news",
+   "title": "India's trade deals could add $140 billion to GDP by 2035",
+   "body": "A Bloomberg Economics report from October 2026 says India's trade deals could make its economy about $140 billion bigger by 2035. But one reform at home could matter just as much.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The estimate counts the free trade agreements (FTAs) already in force. FTAs are deals that cut taxes on goods traded between countries. It also counts new deals with the European Union and New Zealand, which it assumes will start in 2027. The figures come from a World Trade Organization model, a computer simulation of the whole economy.\n\nThe gain is a total by 2035 compared with a world with no deals. It is not extra growth every year.\n\nUS tariffs on Indian goods jumped from 2.4% in 2024 to 11.6% in August 2026. The report says this could cut India's goods exports to the US by about one-fifth by 2035. But GDP would barely notice, because less than 2% of India's output depends on US buyers."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Deals already in force: GDP +1.2%, exports +4% by 2035",
+      "Add EU and New Zealand: GDP +1.7% (about $140 billion in 2025 dollars), exports +6.2%",
+      "Add an interim US deal: GDP +1.9%, exports +7.8%",
+      "Also finish talks with the Eurasian Economic Union, Gulf states and Israel: GDP +2.1% (about $170 billion), exports +9.2%"
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "More than 40% of India's workers are still in farming, and many do not have enough work. Suppose farms became more productive over a decade and workers moved into factories and services. Then GDP could gain about 2 more percentage points. That is roughly as much as all the trade deals combined. Cutting factory production costs by about 2% would add another 0.5 point."
+    },
+    {
+     "label": "Watch next",
+     "style": "note",
+     "text": "Whether India signs an interim deal with the US. The gains also depend on three things: putting the deals into practice well, continued reforms at home, and reliable access to energy, critical minerals and advanced technology."
+    }
+   ],
+   "recall": {
+    "q": "How much bigger could India's economy be by 2035 because of its trade deals, and what reform at home could matter about as much?",
+    "a": "About 1.7% bigger, or roughly $140 billion, with the deals already in force plus the EU and New Zealand deals. Moving farm workers into factories and services could add about 2 percentage points, roughly as much as all the deals combined."
+   },
+   "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/12/1600x900/logo/ga170b423b715ed6263184a4c5f868b5d8c0733dfe61a3bf8e_1692109346602_1791814039819_mtNQ_1f90ffe3-a680-4719-a082-368a6daa1ac2_4Kor.jpg",
+   "deepLink": "https://www.livemint.com/economy/ftas-may-add-140bn-to-india-gdp-by-2035-lift-exports-6-2-bloomberg-economics-11791807640069.html",
+   "attribution": "Mint",
+   "publishedAt": "Mon, 12 Oct 2026 19:40:03 +0530"
+  },
+  {
+   "id": "psypost-13zm1l2",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Is being fat a feminist issue? Twenty women split down the middle",
+   "body": "In a small interview study, 20 fat women in the US split evenly on whether body size is a feminist issue. Calling yourself a feminist did not predict the answer. Some women blamed unfair treatment of women. Others blamed themselves.",
+   "evidence": "single study · n=20 · in-depth interviews · US women recruited via Craigslist",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Marge firmly refused to call herself a feminist. But when she was asked whether being fat is a feminist issue, she said yes. Some other women in the same study did the opposite. They called themselves feminists, but said their body size had nothing to do with feminism.\n\nThe idea that fatness is a feminist issue is old. In the 1970s, feminists coined the slogan \"fat is a feminist issue.\" They argued that the pressure to be thin hurts women most. Researchers call this prejudice anti-fatness. It means unfair treatment of people with larger bodies, both by individuals and by systems like workplaces and hospitals. The evidence that women pay more is strong. In one study, fat women were 16 times more likely than fat men to report job discrimination because of their weight. Fat women also face harsher judgments of their parenting. They are more often denied loans, promotions, or apartments.\n\nBut do fat women themselves see it this way? Breanne Fahs and Eric Swank, two professors at Arizona State University, wanted to find out. Through Craigslist ads, they found 20 women in the US who called themselves fat or overweight. The women were aged 27 to 66, and half were women of color. Fahs interviewed each one by video for about 90 minutes. She did not define feminism for them. Each woman answered in her own terms.\n\nThirteen women said they were feminists, three said maybe, and four said no. On whether fatness is a feminist issue, the split was even: eight said yes, four said maybe, and eight said no. The label and the view often did not match.\n\nThe women who said yes gave three kinds of reasons. Some saw a double standard: people accept a fat man as funny or likable, but judge a fat woman of the same size harshly. Some said a woman's worth is still tied to how she looks. Others pointed to plain discrimination in hiring, healthcare, and the media.\n\nThe women who said no also gave three kinds of reasons. Some said weight is a personal matter of lifestyle and responsibility, not politics. Some said weight stigma hits all genders equally. And three said fat women deserve to be teased, because teasing could push them to lose weight. The authors say this may be internalized stigma: a person turns society's prejudice against herself. It may also be a form of anti-feminism.\n\nThe authors suggest that seeing fatness as a political issue, not a personal failure, may help. It could help people push back against anti-fat bias, and blame themselves less."
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "This was a small study: 20 women, found on Craigslist during the COVID-19 pandemic. It does not represent all fat women in the US. The feminism questions came after about an hour of talk about fatness, which may have shaped the answers. The study asked whether the women called themselves feminists, not what they actually believed. Some seemed to link feminism mainly with #MeToo or with extreme views. Both researchers describe themselves as fat feminists, and Fahs did every interview herself. That may have affected what the women said."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "The same body can be seen as a private failure or a public unfairness. Which one you choose shapes how much blame you carry."
+    }
+   ],
+   "recall": {
+    "q": "Did the women who called themselves feminists also see fatness as a feminist issue? What reasons did the women who said no give?",
+    "a": "Not always. The women split evenly (8 yes, 4 maybe, 8 no), and the feminist label often did not match the answer. The women who said no saw weight as personal responsibility, said weight stigma hits all genders equally, or even said fat women deserve teasing."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/fat-woman-thinking.jpg",
+   "deepLink": "https://www.psypost.org/is-fatness-a-feminist-issue/",
+   "attribution": "PsyPost",
+   "publishedAt": "Mon, 12 Oct 2026 14:00:42 +0000"
+  },
+  {
+   "id": "psypost-klopbl",
+   "source": "psypost",
+   "topic": "psych",
+   "kind": "essay",
+   "title": "Patience with small hassles linked to less anxiety",
+   "body": "In a four-year study of 274 college students, struggles with faith went along with more anxiety, and patience did not soften that link. But students who became more patient with everyday annoyances, like long lines, had less anxiety by their final year.",
+   "evidence": "single study · n=274 · self-report · one Christian university · followed over 4 years",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "The line at the campus café has not moved in five minutes. One student checks the time again and feels the heat rise. Another just waits. A new study suggests the second student's skill matters more than it looks: staying calm through small, daily annoyances.\n\nThe study is about college students and faith. Many students go through what psychologists call religious and spiritual struggles. These include anger at God, fights with people in their religious community, or deep worry about their own moral failures. College is a common time for this, because young adults start to question the beliefs they grew up with. Earlier research links these struggles to more anxiety and depression.\n\nLaura Upenieks, a sociologist at Baylor University, and her colleagues asked whether patience could help. In psychology, patience is not just waiting. It is an active skill: controlling your emotions and getting through hard times without acting on impulse. The team measured three kinds. Interpersonal patience means staying calm with difficult people. Life hardship patience means getting through big problems. Daily hassles patience means putting up with small irritations, like a long queue or heavy traffic.\n\nThe researchers guessed that patience would work like a shield. A patient student, they thought, could face deep questions about faith without being flooded by fear.\n\nThe first part held up. Students with more spiritual struggles in their first semester also had more anxiety. And when struggles grew over four years, anxiety tended to grow too.\n\nThe shield did not hold up. Patience did not soften the link between struggles and anxiety. The authors suggest why. These struggles hit the very beliefs a person uses to make sense of the world. When that ground shakes, through a crisis of identity or a fear that God has left you, staying calm alone may not reach the source.\n\nPatience still helped, but on a separate track. In the first semester, students high in interpersonal and life hardship patience had lower anxiety from the start. But over four years, changes in those two kinds did not match changes in anxiety. Only one kind did. Students who grew more patient with daily hassles had clearly less anxiety by their final year.\n\nThe researchers think small irritations add up. If minor annoyances stop turning into bigger reactions, that may free up emotional space for better mental health overall. Patience seems to set a steady base. It just does not fix a crisis of meaning."
+    },
+    {
+     "label": "The experiment",
+     "style": "note",
+     "text": "274 students at a large Christian university in the southern United States took surveys in their first semester and again in their final year. They rated how often they had religious or spiritual struggles in the past year, their anxiety symptoms in the past week, and their levels of the three kinds of patience. The team used a method called latent change score modeling. It separates where each student started from how they changed, so researchers can better see which changes move together over time."
+    },
+    {
+     "label": "Key takeaways",
+     "style": "list",
+     "items": [
+      "Struggles with faith went with higher anxiety, both at the start of college and as they grew over four years.",
+      "Patience did not soften that link. Doubts that shake core beliefs may need more than staying calm.",
+      "Growing more patient with daily hassles was the one change that matched falling anxiety by the final year."
+     ]
+    },
+    {
+     "label": "The caveat",
+     "style": "note",
+     "text": "All students came from one religious university, where faith is part of daily campus life and struggles may be easier to see. Results may differ at non-religious colleges or in the general public. Spiritual struggles were measured with a single survey question, so the study cannot tell an argument with a pastor apart from secret doubt about God. Everything was self-reported, and the authors note the statistical models are very complex for only 274 people. The study tracked links over time; it did not test whether training patience lowers anxiety. Larger, more varied studies are needed."
+    },
+    {
+     "label": "Worth carrying",
+     "style": "pull",
+     "text": "Patience will not answer your biggest questions, but it may stop the small things from piling up."
+    }
+   ],
+   "recall": {
+    "q": "Did patience protect students from the anxiety linked to spiritual struggles, and which kind of patience matched lower anxiety over four years?",
+    "a": "No. Patience did not soften the link between faith struggles and anxiety, probably because those struggles shake a person's core beliefs. But students who grew more patient with daily hassles had less anxiety by their final year, so patience seems to help mental health on a separate track."
+   },
+   "imageUrl": "https://www.psypost.org/wp-content/uploads/2026/10/woman-writing-in-journal.jpg",
+   "deepLink": "https://www.psypost.org/everyday-patience-may-reduce-anxiety-even-during-spiritual-crises/",
+   "attribution": "PsyPost",
+   "publishedAt": "Mon, 12 Oct 2026 13:00:34 +0000"
+  },
+  {
+   "id": "lobsters-miht67",
+   "source": "lobsters",
+   "topic": "tech-ai",
+   "kind": "news",
+   "title": "Browser fingerprinting: tracking that survives deleting cookies",
+   "body": "Cookies were files saved in your browser, so you could see them and delete them. Fingerprinting saves nothing. It reads your device itself, and that reading comes out the same on every visit.",
+   "sections": [
+    {
+     "label": null,
+     "style": "prose",
+     "text": "Then: third-party cookies. Ad companies saved these small files in your browser to follow you from site to site. By 2019 they had become bad PR. Safari and Firefox already blocked them, and the EU had brought in consent banners. In 2020, Google promised to remove them from Chrome. About five years later, it kept them. Its replacement, called Privacy Sandbox, worked poorly and raised antitrust concerns, meaning worries that Google had unfair power over the market.\n\nNow: fingerprinting. Every visit already tells the site your browser, language, operating system and IP address. The IP address often shows your location. Then the page's code checks your hardware, and it never asks your permission. It times an audio tone and reads your graphics chip. It draws text and checks the pixels. It reads your time zone, CPU core count and memory. Each trait on its own is common. Together they are almost unique to you."
+    },
+    {
+     "label": "The numbers",
+     "style": "list",
+     "items": [
+      "Over 60% of Americans can be identified by just three traits: ZIP code, birth date and sex.",
+      "Chrome holds about two-thirds of the browser market."
+     ]
+    },
+    {
+     "label": "Why it matters",
+     "style": "note",
+     "text": "The author says that using Chrome is like wearing an ID on your forehead. Privacy extensions can backfire: so few people use them that having one makes you easier to spot. A VPN hides the location your IP address gives away, but not your time zone. Safari and Firefox help a little. Only Brave, Tor and Mullvad Browser have strong built-in protection."
+    }
+   ],
+   "recall": {
+    "q": "Why can't you clear a browser fingerprint the way you could clear cookies?",
+    "a": "A cookie is a file saved in your browser, so you can delete it. A fingerprint saves nothing. It is built from readings of your device, like the graphics chip, time zone, CPU cores and the way it draws text. Those readings come out the same on every visit."
+   },
+   "deepLink": "https://royfish.dev/fingerprints-are-the-new-cookies",
+   "attribution": "via Lobsters",
+   "publishedAt": "2026-10-12T04:05:44.794-05:00"
+  }
+ ]
+}
